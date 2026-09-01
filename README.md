@@ -27,6 +27,25 @@ Dependencies: `requests`, `pandas`, `openpyxl`, `lxml`. Python ≥ 3.10.
 
 ## Query and download
 
+### Minimal example
+
+The shortest working program — groundwater levels in comarca Baix Empordà, one
+year of data, nothing to configure:
+
+```python
+from sdim import SDIM
+
+aca = SDIM()
+df = aca.get_data(
+    water_type="levels",
+    comarcas=["Baix Empordà"],
+    start="2008-01-01",
+    end="2009-01-01",
+)["quality"]
+
+print(df[["date", "station_code", "value", "unit"]])
+```
+
 ### By name (recommended) — no internal codes
 
 ```python
