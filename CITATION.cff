@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it as below and the
+  original dataset.
+type: software
+title: pySDIM
+authors:
+  - family-names: Abert-Fernandez
+    given-names: David
+    orcid: "https://orcid.org/0009-0007-7312-5823"
+  - family-names: Mencio
+    given-names: Anna
+    orcid: "https://orcid.org/0000-0001-6023-5862"
+  - family-names: Malauda
+    given-names: Eduard
+    orcid: "https://orcid.org/0000-0001-9005-2717"
+  - family-names: Gonzalvo Henry
+    given-names: Gisela
+  - family-names: Monclus
+    given-names: Hector
+    orcid: "https://orcid.org/0000-0002-0072-6069"
+repository-code: "https://github.com/davitens/pySDIM"
+license: MIT
+date-released: "2026-09-01"
+version: 0.4.0
+keywords:
+  - water quality
+  - hydrology
+  - Catalonia
+  - SDIM
+  - ACA
+  - groundwater
+  - open data
