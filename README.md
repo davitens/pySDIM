@@ -182,6 +182,13 @@ Conductivitat series → CSV):
 python3 examples/baix_emporda_conductivitat.py
 ```
 
+Groundwater levels work the same way, across all three level targets
+(`after_2007:0005:0011`, `before_2007:0005:0011`, `before_2007:0000:0020`):
+
+```bash
+python3 examples/emporda_groundwater_levels.py   # Baix + Alt Empordà, 1950–2020
+```
+
 ### Lookup by name
 
 ```python
