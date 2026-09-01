@@ -1,17 +1,24 @@
 # ACA SDIM Python client
 
-Programmatic access to historical water-quality and water-quantity data from the
-Agència Catalana de l'Aigua **SDIM** web application (`aplicacions.aca.gencat.cat/sdim21`).
+A lightweight Python client for downloading historical water-quality and
+water-quantity data from the **Agència Catalana de l'Aigua (ACA) SDIM** web
+application (`aplicacions.aca.gencat.cat/sdim21`).
 
-## Status
+SDIM is the ACA's public data portal for Catalonia's monitoring networks:
+groundwater levels and quality, river flows, physico-chemistry, reservoir
+volumes, priority substances, and more. This client handles the session setup,
+form submission, and export parsing that the website normally does behind the
+scenes, returning clean pandas DataFrames ready for analysis.
 
-- **Automatic session** — no browser cookies needed. Visiting the SDIM entry page
-  creates the `JSESSIONID` itself.
-- **Working downloader** — reproduces the whole form flow with plain `requests`
-  (see `start`/`examples/get_data.py`).
-- **Discovery layer** — metadata IDs (networks, subnetworks, parameters, rivers,
-  basins, comarques, municipis, aquifers, masses, reservoirs, stations) are
-  collected into `metadata/*.csv`.
+**What it does:**
+- Authenticates automatically (no browser cookies or manual login).
+- Navigates the multi-step form flow (network → spatial filter → parameters →
+  date range → export) using the same HTTP endpoints the web UI calls.
+- Parses the exported XLSX into a pandas DataFrame with date, station, value,
+  quality flags, and metadata columns.
+- Resolves human-readable names (e.g. `"Baix Empordà"`, `"nitrate"`) to
+  internal SDIM codes via a local metadata catalog, so you never need to
+  figure out network IDs, subnetwork codes, or variable taxonomy yourself.
 
 ## Install
 
@@ -54,14 +61,21 @@ from sdim import SDIM
 aca = SDIM()
 
 parsed = aca.get_data(
-    water_type="river",              # river, groundwater, levels, flow, volumes, ...
-    rivers=["Ter"],                  # or basins, comarcas, municipis, aquifers, ...
-    parameters=["nitrate", "phosphate"],
-    start="2007-09-01",
+    water_type="river",              # see targets.csv → "category" column
+    rivers=["Ter"],                  # see rivers.csv → "name" column
+    parameters=["nitrate", "phosphate"],  # see variables.csv → "v_name" column
+    start="2007-09-01",              # ISO date, must fall within the target's period
     end="2009-12-31",
+    comarcas=["Baix Empordà"],       # see comarcas.csv; or use basins, municipis, aquifers, ...
 )
 df = parsed["quality"]
 ```
+
+Valid values for each argument come from the metadata CSVs shipped with the
+package (see [Metadata CSVs](#metadata-csvs) below). For example, valid
+`water_type` values are the target categories in `targets.csv` (e.g. `"river"`,
+`"groundwater"`, `"levels"`, `"flow"`, `"volumes"`), and valid river/comarca
+names are in `rivers.csv` / `comarcas.csv`.
 
 The client resolves everything from the metadata catalog: the target
 (`after_2007:0001:0022`), the river code (`riuAmbit=200`), the parameter
@@ -156,59 +170,9 @@ cat.target_station_variables("after_2007:0005:0011")  # station → variable ser
 Verified live end-to-end for all of the above plus pre-2007 targets
 (`scripts/verify_targets.py`).
 
-### Complete historical record (all periods)
-
-SDIM splits its archive at 2007: `before_2007` and `after_2007` each have their
-own networks and stations, so a span that crosses the boundary (e.g. 1950–2020)
-needs one query per period. A parameter such as Conductivitat may also exist in
-several network targets; iterate them all to get the complete record:
-
-```python
-from sdim import SDIM
-from sdim.catalog import Catalog
-from sdim.exceptions import SDIMError
-
-cat = Catalog("metadata")
-vari = cat.table("variables")
-RANGES = [("before_2007", "1950-01-01", "2006-12-31"),
-          ("after_2007", "2007-01-01", "2020-12-31")]
-
-aca = SDIM()
-try:
-    frames = []
-    for period, start, end in RANGES:
-        subtree = vari[(vari.period == period)
-                       & vari.v_name.str.contains("Conductivitat", case=False)]
-        for net, sub in sorted(set(zip(subtree.network, subtree.subnetwork))):
-            target = f"{period}:{net}:{sub}"
-            try:
-                df = aca.get_data(target=target, comarcas=["Baix Empordà"],
-                                  parameters=["conductivitat"],
-                                  start=start, end=end)["quality"]
-            except SDIMError:
-                continue          # no such station/parameter in the comarca
-            df.insert(0, "target", target)
-            frames.append(df)
-    merged = pd.concat(frames, ignore_index=True)
-finally:
-    aca.close()
-```
-
-Run the full worked example (`1950–2020`, comarca Baix Empordà, all
-Conductivitat series → CSV):
-
-```bash
-python3 examples/baix_emporda_conductivitat.py
-```
-
-Groundwater levels work the same way, across all three level targets
-(`after_2007:0005:0011`, `before_2007:0005:0011`, `before_2007:0000:0020`):
-
-```bash
-python3 examples/emporda_groundwater_levels.py   # Baix + Alt Empordà, 1950–2020
-```
-
 ### Lookup by name
+
+Use the catalog to explore what names and codes are available:
 
 ```python
 from sdim import Catalog
@@ -231,24 +195,6 @@ Rebuild the tables after a change in the UI or to refresh:
 ```bash
 python3 scripts/build_metadata.py --refresh
 ```
-
-## SDIM request flow (reverse-engineered)
-
-```
-GET  /sdim21/                         # creates JSESSIONID
-POST /sdim21/seleccioXarxes.do        # enter (accio=seleccioXarxa)
-POST /sdim21/filtre.do                # pick period (acció=puntsDeControl)
-POST /sdim21/consultaInforme.do?format=excel   # report body
-GET  /sdim21/exportar.do?format=XLS            # download (actually XLSX)
-```
-
-`consultaInforme.do` status codes: `200` reachable report, `201` no records,
-`202` truncated. The payload requires `informeEjecutar=0`; extra UI fields
-(`capas`, `cercadorVariables`, ...) are not required.
-
-Discovery AJAX endpoints: `serveiTipusVariables.do` (parameter tree),
-`serveiDetallSeleccio.do` (stations/variables), and the spatial providers
-`servei{Conques,Masses,Aquifer,Municipis,Comarques,Rius,Embassaments}.do`.
 
 ## Tests
 
