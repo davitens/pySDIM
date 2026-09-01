@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aca-sdim"
+version = "0.4.0"
+description = "Python client for ACA SDIM water-quality/quantity data"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.28",
+    "pandas>=2.0",
+    "openpyxl>=3.1",
+    "lxml>=4.9",
+]
+
+[project.scripts]
+sdim = "sdim.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["sdim*"]

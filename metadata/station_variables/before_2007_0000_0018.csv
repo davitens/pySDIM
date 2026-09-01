@@ -1,0 +1,1400 @@
+period,network,subnetwork,station,station_name,x,y,variable_id,variable_name
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,3001302,Silicats
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,3001303,Clorofil·la a
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,3001304,Nitrats
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,3001305,Nitrits
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,3001306,Amoni
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,3001307,Fosfats
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,3005041,Salinitat (mostra)
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,3005045,Temperatura aigua (mostra)
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,3005062,Transparència (disc de Secchi)
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,4485121,Nitrats (aigua de mar)
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,4485953,Nitrits (aigua de mar)
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,4486785,Amoni (aigua de mar)
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,4487617,Fosfats (aigua de mar)
+before_2007,0000,0018,F006137,Cap Norfeu - MIT000300,524924,4679307,4488449,Silicats (aigua de mar)
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,3001314,Silicats
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,3001315,Clorofil·la a
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,3001316,Nitrats
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,3001317,Nitrits
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,3001318,Amoni
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,3001319,Fosfats
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,3005179,Salinitat (mostra)
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,3005183,Temperatura aigua (mostra)
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,3005200,Transparència (disc de Secchi)
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,4485123,Nitrats (aigua de mar)
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,4485955,Nitrits (aigua de mar)
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,4486787,Amoni (aigua de mar)
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,4487619,Fosfats (aigua de mar)
+before_2007,0000,0018,F006139,Sant Pere Pescador - Fluvià - MIT000500,510923,4666317,4488451,Silicats (aigua de mar)
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,3001320,Silicats
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,3001321,Clorofil·la a
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,3001322,Nitrats
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,3001323,Nitrits
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,3001324,Amoni
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,3001325,Fosfats
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,3005248,Salinitat (mostra)
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,3005252,Temperatura aigua (mostra)
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,3005269,Transparència (disc de Secchi)
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,4485124,Nitrats (aigua de mar)
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,4485956,Nitrits (aigua de mar)
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,4486788,Amoni (aigua de mar)
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,4487620,Fosfats (aigua de mar)
+before_2007,0000,0018,F006140,Montgrí  - MIT000600,519213,4656311,4488452,Silicats (aigua de mar)
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,3001332,Silicats
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,3001333,Clorofil·la a
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,3001334,Nitrats
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,3001335,Nitrits
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,3001336,Amoni
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,3001337,Fosfats
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,3005386,Salinitat (mostra)
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,3005390,Temperatura aigua (mostra)
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,3005407,Transparència (disc de Secchi)
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,4485126,Nitrats (aigua de mar)
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,4485958,Nitrits (aigua de mar)
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,4486790,Amoni (aigua de mar)
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,4487622,Fosfats (aigua de mar)
+before_2007,0000,0018,F006142,Begur - Blanes - MIT000800,514664,4633014,4488454,Silicats (aigua de mar)
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,3001344,Silicats
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,3001345,Clorofil·la a
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,3001346,Nitrats
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,3001347,Nitrits
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,3001348,Amoni
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,3001349,Fosfats
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,3005524,Salinitat (mostra)
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,3005528,Temperatura aigua (mostra)
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,3005545,Transparència (disc de Secchi)
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,4485128,Nitrats (aigua de mar)
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,4485960,Nitrits (aigua de mar)
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,4486792,Amoni (aigua de mar)
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,4487624,Fosfats (aigua de mar)
+before_2007,0000,0018,F006144,Begur - Blanes - MIT001000,495746,4617394,4488456,Silicats (aigua de mar)
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,3001350,Silicats
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,3001351,Clorofil·la a
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,3001352,Nitrats
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,3001353,Nitrits
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,3001354,Amoni
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,3001355,Fosfats
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,3005593,Salinitat (mostra)
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,3005597,Temperatura aigua (mostra)
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,3005614,Transparència (disc de Secchi)
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,4485129,Nitrats (aigua de mar)
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,4485961,Nitrits (aigua de mar)
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,4486793,Amoni (aigua de mar)
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,4487625,Fosfats (aigua de mar)
+before_2007,0000,0018,F006145,Begur - Blanes - MIT001100,484642,4612290,4488457,Silicats (aigua de mar)
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,3001362,Silicats
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,3001363,Clorofil·la a
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,3001364,Nitrats
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,3001365,Nitrits
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,3001366,Amoni
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,3001367,Fosfats
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,3005731,Salinitat (mostra)
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,3005735,Temperatura aigua (mostra)
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,3005752,Transparència (disc de Secchi)
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,4485131,Nitrats (aigua de mar)
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,4485963,Nitrits (aigua de mar)
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,4486795,Amoni (aigua de mar)
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,4487627,Fosfats (aigua de mar)
+before_2007,0000,0018,F006147,Pineda de Mar - Mataró - MIT001300,464469,4601628,4488459,Silicats (aigua de mar)
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,3001374,Silicats
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,3001375,Clorofil·la a
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,3001376,Nitrats
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,3001377,Nitrits
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,3001378,Amoni
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,3001379,Fosfats
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,3005869,Salinitat (mostra)
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,3005873,Temperatura aigua (mostra)
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,3005890,Transparència (disc de Secchi)
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,4485133,Nitrats (aigua de mar)
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,4485965,Nitrits (aigua de mar)
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,4486797,Amoni (aigua de mar)
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,4487629,Fosfats (aigua de mar)
+before_2007,0000,0018,F006149,Mataró - Montgat - MIT001500,444232,4590654,4488461,Silicats (aigua de mar)
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,3001386,Silicats
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,3001387,Clorofil·la a
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,3001388,Nitrats
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,3001389,Nitrits
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,3001390,Amoni
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,3001391,Fosfats
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,3006007,Salinitat (mostra)
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,3006011,Temperatura aigua (mostra)
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,3006028,Transparència (disc de Secchi)
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,4485135,Nitrats (aigua de mar)
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,4485967,Nitrits (aigua de mar)
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,4486799,Amoni (aigua de mar)
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,4487631,Fosfats (aigua de mar)
+before_2007,0000,0018,F006151,Barceloneta - Zona II Port Barcelona - MIT001700,432984,4578413,4488463,Silicats (aigua de mar)
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,3001392,Silicats
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,3001393,Clorofil·la a
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,3001394,Nitrats
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,3001395,Nitrits
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,3001396,Amoni
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,3001397,Fosfats
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,3006076,Salinitat (mostra)
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,3006080,Temperatura aigua (mostra)
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,3006097,Transparència (disc de Secchi)
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,4485136,Nitrats (aigua de mar)
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,4485968,Nitrits (aigua de mar)
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,4486800,Amoni (aigua de mar)
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,4487632,Fosfats (aigua de mar)
+before_2007,0000,0018,F006152,Llobregat - MIT001800,426954,4570336,4488464,Silicats (aigua de mar)
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,3001410,Silicats
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,3001411,Clorofil·la a
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,3001412,Nitrats
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,3001413,Nitrits
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,3001414,Amoni
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,3001415,Fosfats
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,3006283,Salinitat (mostra)
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,3006287,Temperatura aigua (mostra)
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,3006304,Transparència (disc de Secchi)
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,4485139,Nitrats (aigua de mar)
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,4485971,Nitrits (aigua de mar)
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,4486803,Amoni (aigua de mar)
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,4487635,Fosfats (aigua de mar)
+before_2007,0000,0018,F006155,Sitges - MIT002100,406316,4564890,4488467,Silicats (aigua de mar)
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,3001428,Silicats
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,3001429,Clorofil·la a
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,3001430,Nitrats
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,3001431,Nitrits
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,3001432,Amoni
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,3001433,Fosfats
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,3006490,Salinitat (mostra)
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,3006494,Temperatura aigua (mostra)
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,3006511,Transparència (disc de Secchi)
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,4485142,Nitrats (aigua de mar)
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,4485974,Nitrits (aigua de mar)
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,4486806,Amoni (aigua de mar)
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,4487638,Fosfats (aigua de mar)
+before_2007,0000,0018,F006158,Cubelles - Altafulla  - MIT002400,371235,4556417,4488470,Silicats (aigua de mar)
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,3001440,Silicats
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,3001441,Clorofil·la a
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,3001442,Nitrats
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,3001443,Nitrits
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,3001444,Amoni
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,3001445,Fosfats
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,3006628,Salinitat (mostra)
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,3006632,Temperatura aigua (mostra)
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,3006649,Transparència (disc de Secchi)
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,4485144,Nitrats (aigua de mar)
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,4485976,Nitrits (aigua de mar)
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,4486808,Amoni (aigua de mar)
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,4487640,Fosfats (aigua de mar)
+before_2007,0000,0018,F006160,Tarragona - Vila-seca - MIT002600,348664,4547593,4488472,Silicats (aigua de mar)
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,3001446,Silicats
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,3001447,Clorofil·la a
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,3001448,Nitrats
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,3001449,Nitrits
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,3001450,Amoni
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,3001451,Fosfats
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,3006697,Salinitat (mostra)
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,3006701,Temperatura aigua (mostra)
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,3006718,Transparència (disc de Secchi)
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,4485145,Nitrats (aigua de mar)
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,4485977,Nitrits (aigua de mar)
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,4486809,Amoni (aigua de mar)
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,4487641,Fosfats (aigua de mar)
+before_2007,0000,0018,F006161,Cambrils - Mont-roig del Camp - MIT002700,337419,4545983,4488473,Silicats (aigua de mar)
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,3001458,Silicats
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,3001459,Clorofil·la a
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,3001460,Nitrats
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,3001461,Nitrits
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,3001462,Amoni
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,3001463,Fosfats
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,3006835,Salinitat (mostra)
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,3006839,Temperatura aigua (mostra)
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,3006856,Transparència (disc de Secchi)
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,4485147,Nitrats (aigua de mar)
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,4485979,Nitrits (aigua de mar)
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,4486811,Amoni (aigua de mar)
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,4487643,Fosfats (aigua de mar)
+before_2007,0000,0018,F006163,L'Ametlla de Mar - MIT002900,317363,4528495,4488475,Silicats (aigua de mar)
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,3001476,Silicats
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,3001477,Clorofil·la a
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,3001478,Nitrats
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,3001479,Nitrits
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,3001480,Amoni
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,3001481,Fosfats
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,3007042,Salinitat (mostra)
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,3007046,Temperatura aigua (mostra)
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,3007063,Transparència (disc de Secchi)
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,4485150,Nitrats (aigua de mar)
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,4485982,Nitrits (aigua de mar)
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,4486814,Amoni (aigua de mar)
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,4487646,Fosfats (aigua de mar)
+before_2007,0000,0018,F006166,Delta Sud - MIT003200,308088,4495834,4488478,Silicats (aigua de mar)
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,3001494,Silicats
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,3001495,Clorofil·la a
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,3001496,Nitrats
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,3001497,Nitrits
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,3001498,Amoni
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,3001499,Fosfats
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,3007249,Salinitat (mostra)
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,3007253,Temperatura aigua (mostra)
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,3007270,Transparència (disc de Secchi)
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,4485153,Nitrats (aigua de mar)
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,4485985,Nitrits (aigua de mar)
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,4486817,Amoni (aigua de mar)
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,4487649,Fosfats (aigua de mar)
+before_2007,0000,0018,F006169,Alcanar - MIT003500,290978,4489753,4488481,Silicats (aigua de mar)
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,3001500,Silicats
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,3001501,Clorofil·la a
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,3001502,Nitrats
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,3001503,Nitrits
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,3001504,Amoni
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,3001505,Fosfats
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,3007318,Salinitat (mostra)
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,3007322,Temperatura aigua (mostra)
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,4485154,Nitrats (aigua de mar)
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,4485986,Nitrits (aigua de mar)
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,4486818,Amoni (aigua de mar)
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,4487650,Fosfats (aigua de mar)
+before_2007,0000,0018,F006170,Portbou - Llançà - 01 (17 138 A01),513248,4697236,4488482,Silicats (aigua de mar)
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,3001506,Silicats
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,3001507,Clorofil·la a
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,3001508,Nitrats
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,3001509,Nitrits
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,3001510,Amoni
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,3001511,Fosfats
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,3007387,Salinitat (mostra)
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,3007391,Temperatura aigua (mostra)
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,4485155,Nitrats (aigua de mar)
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,4485987,Nitrits (aigua de mar)
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,4486819,Amoni (aigua de mar)
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,4487651,Fosfats (aigua de mar)
+before_2007,0000,0018,F006171,Portbou - Llançà - 02 (17 092 B01),513200,4691025,4488483,Silicats (aigua de mar)
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,3001512,Silicats
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,3001513,Clorofil·la a
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,3001514,Nitrats
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,3001515,Nitrits
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,3001516,Amoni
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,3001517,Fosfats
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,3007456,Salinitat (mostra)
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,3007460,Temperatura aigua (mostra)
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,4485156,Nitrats (aigua de mar)
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,4485988,Nitrits (aigua de mar)
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,4486820,Amoni (aigua de mar)
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,4487652,Fosfats (aigua de mar)
+before_2007,0000,0018,F006172,Badia de Cadaqués - 03 (17 032 A01),522948,4681850,4488484,Silicats (aigua de mar)
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,3001518,Silicats
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,3001519,Clorofil·la a
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,3001520,Nitrats
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,3001521,Nitrits
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,3001522,Amoni
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,3001523,Fosfats
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,3007525,Salinitat (mostra)
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,3007529,Temperatura aigua (mostra)
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,4485157,Nitrats (aigua de mar)
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,4485989,Nitrits (aigua de mar)
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,4486821,Amoni (aigua de mar)
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,4487653,Fosfats (aigua de mar)
+before_2007,0000,0018,F006173,Roses - Castelló d'Empúries - 04 (17 152 D01),514083,4679152,4488485,Silicats (aigua de mar)
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,3001524,Silicats
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,3001525,Clorofil·la a
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,3001526,Nitrats
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,3001527,Nitrits
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,3001528,Amoni
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,3001529,Fosfats
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,3007594,Salinitat (mostra)
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,3007598,Temperatura aigua (mostra)
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,4485158,Nitrats (aigua de mar)
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,4485990,Nitrits (aigua de mar)
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,4486822,Amoni (aigua de mar)
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,4487654,Fosfats (aigua de mar)
+before_2007,0000,0018,F006174,Roses - Castelló d'Empúries - 05 (17 047 C01),510445,4676153,4488486,Silicats (aigua de mar)
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,3001530,Silicats
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,3001531,Clorofil·la a
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,3001532,Nitrats
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,3001533,Nitrits
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,3001534,Amoni
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,3001535,Fosfats
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,3007663,Salinitat (mostra)
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,3007667,Temperatura aigua (mostra)
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,4485159,Nitrats (aigua de mar)
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,4485991,Nitrits (aigua de mar)
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,4486823,Amoni (aigua de mar)
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,4487655,Fosfats (aigua de mar)
+before_2007,0000,0018,F006175,Cap de Creus - R01 (17 032 R01),524465,4681348,4488487,Silicats (aigua de mar)
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,3001554,Silicats
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,3001555,Clorofil·la a
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,3001556,Nitrats
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,3001557,Nitrits
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,3001558,Amoni
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,3001559,Fosfats
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,3007939,Salinitat (mostra)
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,3007943,Temperatura aigua (mostra)
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,4485163,Nitrats (aigua de mar)
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,4485995,Nitrits (aigua de mar)
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,4486827,Amoni (aigua de mar)
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,4487659,Fosfats (aigua de mar)
+before_2007,0000,0018,F006179,Sant Pere Pescador - Fluvià - 07 (17 178 A01),509169,4670749,4488491,Silicats (aigua de mar)
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,3001584,Silicats
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,3001585,Clorofil·la a
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,3001586,Nitrats
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,3001587,Nitrits
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,3001588,Amoni
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,3001589,Fosfats
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,3008284,Salinitat (mostra)
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,3008288,Temperatura aigua (mostra)
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,4485168,Nitrats (aigua de mar)
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,4486000,Nitrits (aigua de mar)
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,4486832,Amoni (aigua de mar)
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,4487664,Fosfats (aigua de mar)
+before_2007,0000,0018,F006184,Montgrí  - R02 (17 199 R01),517258,4655595,4488496,Silicats (aigua de mar)
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,3001602,Silicats
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,3001603,Clorofil·la a
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,3001604,Nitrats
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,3001605,Nitrits
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,3001606,Amoni
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,3001607,Fosfats
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,3008491,Salinitat (mostra)
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,3008495,Temperatura aigua (mostra)
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,4485171,Nitrats (aigua de mar)
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,4486003,Nitrits (aigua de mar)
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,4486835,Amoni (aigua de mar)
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,4487667,Fosfats (aigua de mar)
+before_2007,0000,0018,F006187,Torroella de Montgrí - el Ter - 11 (17 199 C01),516134,4651809,4488499,Silicats (aigua de mar)
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,3001608,Silicats
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,3001609,Clorofil·la a
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,3001610,Nitrats
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,3001611,Nitrits
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,3001612,Amoni
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,3001613,Fosfats
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,3008560,Salinitat (mostra)
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,3008564,Temperatura aigua (mostra)
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,4485172,Nitrats (aigua de mar)
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,4486004,Nitrits (aigua de mar)
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,4486836,Amoni (aigua de mar)
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,4487668,Fosfats (aigua de mar)
+before_2007,0000,0018,F006188,Begur - Blanes - 12 (17 117 B01),516146,4637978,4488500,Silicats (aigua de mar)
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,3001614,Silicats
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,3001615,Clorofil·la a
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,3001616,Nitrats
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,3001617,Nitrits
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,3001618,Amoni
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,3001619,Fosfats
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,3008629,Salinitat (mostra)
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,3008633,Temperatura aigua (mostra)
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,4485173,Nitrats (aigua de mar)
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,4486005,Nitrits (aigua de mar)
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,4486837,Amoni (aigua de mar)
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,4487669,Fosfats (aigua de mar)
+before_2007,0000,0018,F006189,Begur - Blanes - 13 (17 118 C01),511870,4633923,4488501,Silicats (aigua de mar)
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,3001626,Silicats
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,3001627,Clorofil·la a
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,3001628,Nitrats
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,3001629,Nitrits
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,3001630,Amoni
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,3001631,Fosfats
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,3008767,Salinitat (mostra)
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,3008771,Temperatura aigua (mostra)
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,4485175,Nitrats (aigua de mar)
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,4486007,Nitrits (aigua de mar)
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,4486839,Amoni (aigua de mar)
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,4487671,Fosfats (aigua de mar)
+before_2007,0000,0018,F006191,Begur - Blanes - 15 (17 048 A02),505529,4628514,4488503,Silicats (aigua de mar)
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,3001638,Silicats
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,3001639,Clorofil·la a
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,3001640,Nitrats
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,3001641,Nitrits
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,3001642,Amoni
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,3001643,Fosfats
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,3008905,Salinitat (mostra)
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,3008909,Temperatura aigua (mostra)
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,4485177,Nitrats (aigua de mar)
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,4486009,Nitrits (aigua de mar)
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,4486841,Amoni (aigua de mar)
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,4487673,Fosfats (aigua de mar)
+before_2007,0000,0018,F006193,Begur - Blanes - 16 (17 160 B01),502626,4625345,4488505,Silicats (aigua de mar)
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,3001644,Silicats
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,3001645,Clorofil·la a
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,3001646,Nitrats
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,3001647,Nitrits
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,3001648,Amoni
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,3001649,Fosfats
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,3008974,Salinitat (mostra)
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,3008978,Temperatura aigua (mostra)
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,4485178,Nitrats (aigua de mar)
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,4486010,Nitrits (aigua de mar)
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,4486842,Amoni (aigua de mar)
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,4487674,Fosfats (aigua de mar)
+before_2007,0000,0018,F006194,Begur - Blanes - 17 (17 095 B02),487431,4616216,4488506,Silicats (aigua de mar)
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,3001650,Silicats
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,3001651,Clorofil·la a
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,3001652,Nitrats
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,3001653,Nitrits
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,3001654,Amoni
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,3001655,Fosfats
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,3009043,Salinitat (mostra)
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,3009047,Temperatura aigua (mostra)
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,4485179,Nitrats (aigua de mar)
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,4486011,Nitrits (aigua de mar)
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,4486843,Amoni (aigua de mar)
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,4487675,Fosfats (aigua de mar)
+before_2007,0000,0018,F006195,Begur - Blanes - 18 (17 023 B01),482793,4613542,4488507,Silicats (aigua de mar)
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,3001656,Silicats
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,3001657,Clorofil·la a
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,3001658,Nitrats
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,3001659,Nitrits
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,3001660,Amoni
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,3001661,Fosfats
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,3009112,Salinitat (mostra)
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,3009116,Temperatura aigua (mostra)
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,4485180,Nitrats (aigua de mar)
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,4486012,Nitrits (aigua de mar)
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,4486844,Amoni (aigua de mar)
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,4487676,Fosfats (aigua de mar)
+before_2007,0000,0018,F006196,Blanes - Pineda de Mar - 19 (17 023 C03),482550,4613245,4488508,Silicats (aigua de mar)
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,3001662,Silicats
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,3001663,Clorofil·la a
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,3001664,Nitrats
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,3001665,Nitrits
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,3001666,Amoni
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,3001667,Fosfats
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,3009181,Salinitat (mostra)
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,3009185,Temperatura aigua (mostra)
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,4485181,Nitrats (aigua de mar)
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,4486013,Nitrits (aigua de mar)
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,4486845,Amoni (aigua de mar)
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,4487677,Fosfats (aigua de mar)
+before_2007,0000,0018,F006197,Blanes - Pineda de Mar - 20 (17 023 C02),482031,4612164,4488509,Silicats (aigua de mar)
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,3001674,Silicats
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,3001675,Clorofil·la a
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,3001676,Nitrats
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,3001677,Nitrits
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,3001678,Amoni
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,3001679,Fosfats
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,3009319,Salinitat (mostra)
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,3009323,Temperatura aigua (mostra)
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,4485183,Nitrats (aigua de mar)
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,4486015,Nitrits (aigua de mar)
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,4486847,Amoni (aigua de mar)
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,4487679,Fosfats (aigua de mar)
+before_2007,0000,0018,F006199,Blanes - Pineda de Mar - 21 (08 110 A01),481358,4610894,4488511,Silicats (aigua de mar)
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,3001680,Silicats
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,3001681,Clorofil·la a
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,3001682,Nitrats
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,3001683,Nitrits
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,3001684,Amoni
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,3001685,Fosfats
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,3009388,Salinitat (mostra)
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,3009392,Temperatura aigua (mostra)
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,4485184,Nitrats (aigua de mar)
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,4486016,Nitrits (aigua de mar)
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,4486848,Amoni (aigua de mar)
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,4487680,Fosfats (aigua de mar)
+before_2007,0000,0018,F006200,Els Alfacs - 61 (43 136 C01),296358,4498651,4488512,Silicats (aigua de mar)
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,3001686,Silicats
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,3001687,Clorofil·la a
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,3001688,Nitrats
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,3001689,Nitrits
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,3001690,Amoni
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,3001691,Fosfats
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,3009457,Salinitat (mostra)
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,3009461,Temperatura aigua (mostra)
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,4485185,Nitrats (aigua de mar)
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,4486017,Nitrits (aigua de mar)
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,4486849,Amoni (aigua de mar)
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,4487681,Fosfats (aigua de mar)
+before_2007,0000,0018,F006201,Blanes - Pineda de Mar - 22 (08 163 C01),474323,4607756,4488513,Silicats (aigua de mar)
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,3001698,Silicats
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,3001699,Clorofil·la a
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,3001700,Nitrats
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,3001701,Nitrits
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,3001702,Amoni
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,3001703,Fosfats
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,3009595,Salinitat (mostra)
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,3009599,Temperatura aigua (mostra)
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,4485187,Nitrats (aigua de mar)
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,4486019,Nitrits (aigua de mar)
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,4486851,Amoni (aigua de mar)
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,4487683,Fosfats (aigua de mar)
+before_2007,0000,0018,F006203,Pineda de Mar - Mataró - 23 (08 035 A01),472003,4606805,4488515,Silicats (aigua de mar)
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,3001704,Silicats
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,3001705,Clorofil·la a
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,3001706,Nitrats
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,3001707,Nitrits
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,3001708,Amoni
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,3001709,Fosfats
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,3009664,Salinitat (mostra)
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,3009668,Temperatura aigua (mostra)
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,4485188,Nitrats (aigua de mar)
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,4486020,Nitrits (aigua de mar)
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,4486852,Amoni (aigua de mar)
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,4487684,Fosfats (aigua de mar)
+before_2007,0000,0018,F006204,Pineda de Mar - Mataró - 24 (08 006 A01),463923,4603284,4488516,Silicats (aigua de mar)
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,3001710,Silicats
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,3001711,Clorofil·la a
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,3001712,Nitrats
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,3001713,Nitrits
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,3001714,Amoni
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,3001715,Fosfats
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,3009733,Salinitat (mostra)
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,3009737,Temperatura aigua (mostra)
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,4485189,Nitrats (aigua de mar)
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,4486021,Nitrits (aigua de mar)
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,4486853,Amoni (aigua de mar)
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,4487685,Fosfats (aigua de mar)
+before_2007,0000,0018,F006205,Pineda de Mar - Mataró - 25 (08 121 C01),454627,4598705,4488517,Silicats (aigua de mar)
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,3001716,Silicats
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,3001717,Clorofil·la a
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,3001718,Nitrats
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,3001719,Nitrits
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,3001720,Amoni
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,3001721,Fosfats
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,3009802,Salinitat (mostra)
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,3009806,Temperatura aigua (mostra)
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,4485848,Nitrats (aigua de mar)
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,4486680,Nitrits (aigua de mar)
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,4487512,Amoni (aigua de mar)
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,4488344,Fosfats (aigua de mar)
+before_2007,0000,0018,F006206,Mataró - Montgat - R26 (08 121 R04),451942,4596560,4489176,Silicats (aigua de mar)
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,3001722,Silicats
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,3001723,Clorofil·la a
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,3001724,Nitrats
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,3001725,Nitrits
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,3001726,Amoni
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,3001727,Fosfats
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,3009871,Salinitat (mostra)
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,3009875,Temperatura aigua (mostra)
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,4485190,Nitrats (aigua de mar)
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,4486022,Nitrits (aigua de mar)
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,4486854,Amoni (aigua de mar)
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,4487686,Fosfats (aigua de mar)
+before_2007,0000,0018,F006207,Mataró - Montgat - 27 (08 029 A01),450341,4595263,4488518,Silicats (aigua de mar)
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,3001734,Silicats
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,3001735,Clorofil·la a
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,3001736,Nitrats
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,3001737,Nitrits
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,3001738,Amoni
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,3001739,Fosfats
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,3010009,Salinitat (mostra)
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,3010013,Temperatura aigua (mostra)
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,4485192,Nitrats (aigua de mar)
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,4486024,Nitrits (aigua de mar)
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,4486856,Amoni (aigua de mar)
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,4487688,Fosfats (aigua de mar)
+before_2007,0000,0018,F006209,Mataró - Montgat - 29 (08 118 A02),443117,4591922,4488520,Silicats (aigua de mar)
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,3001740,Silicats
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,3001741,Clorofil·la a
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,3001742,Nitrats
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,3001743,Nitrits
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,3001744,Amoni
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,3001745,Fosfats
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,3010078,Salinitat (mostra)
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,3010082,Temperatura aigua (mostra)
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,4485193,Nitrats (aigua de mar)
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,4486025,Nitrits (aigua de mar)
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,4486857,Amoni (aigua de mar)
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,4487689,Fosfats (aigua de mar)
+before_2007,0000,0018,F006210,Montgat - Badalona - 30 (08 015 C01),437456,4588602,4488521,Silicats (aigua de mar)
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,3001746,Silicats
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,3001747,Clorofil·la a
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,3001748,Nitrats
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,3001749,Nitrits
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,3001750,Amoni
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,3001751,Fosfats
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,3010147,Salinitat (mostra)
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,3010151,Temperatura aigua (mostra)
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,4485194,Nitrats (aigua de mar)
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,4486026,Nitrits (aigua de mar)
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,4486858,Amoni (aigua de mar)
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,4487690,Fosfats (aigua de mar)
+before_2007,0000,0018,F006211,Sant Adrià de Besòs - Barceloneta - 31 (08 194 A01),436017,4585872,4488522,Silicats (aigua de mar)
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,3001764,Silicats
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,3001765,Clorofil·la a
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,3001766,Nitrats
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,3001767,Nitrits
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,3001768,Amoni
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,3001769,Fosfats
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,3010354,Salinitat (mostra)
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,3010358,Temperatura aigua (mostra)
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,4485197,Nitrats (aigua de mar)
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,4486029,Nitrits (aigua de mar)
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,4486861,Amoni (aigua de mar)
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,4487693,Fosfats (aigua de mar)
+before_2007,0000,0018,F006214,Sant Adrià de Besòs - Barceloneta - 33 (08 194 B01),435826,4585300,4488525,Silicats (aigua de mar)
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,3001770,Silicats
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,3001771,Clorofil·la a
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,3001772,Nitrats
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,3001773,Nitrits
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,3001774,Amoni
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,3001775,Fosfats
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,3010423,Salinitat (mostra)
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,3010427,Temperatura aigua (mostra)
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,4485198,Nitrats (aigua de mar)
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,4486030,Nitrits (aigua de mar)
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,4486862,Amoni (aigua de mar)
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,4487694,Fosfats (aigua de mar)
+before_2007,0000,0018,F006215,Sant Adrià de Besòs - Barceloneta - 34 (08 019 B01),434205,4583326,4488526,Silicats (aigua de mar)
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,3001776,Silicats
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,3001777,Clorofil·la a
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,3001778,Nitrats
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,3001779,Nitrits
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,3001780,Amoni
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,3001781,Fosfats
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,3010492,Salinitat (mostra)
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,3010496,Temperatura aigua (mostra)
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,4485199,Nitrats (aigua de mar)
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,4486031,Nitrits (aigua de mar)
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,4486863,Amoni (aigua de mar)
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,4487695,Fosfats (aigua de mar)
+before_2007,0000,0018,F006216,Barceloneta - Zona II Port Barcelona - 35 (08 019 E01),432806,4581675,4488527,Silicats (aigua de mar)
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,3001794,Silicats
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,3001795,Clorofil·la a
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,3001796,Nitrats
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,3001797,Nitrits
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,3001798,Amoni
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,3001799,Fosfats
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,3010699,Salinitat (mostra)
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,3010703,Temperatura aigua (mostra)
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,4485202,Nitrats (aigua de mar)
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,4486034,Nitrits (aigua de mar)
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,4486866,Amoni (aigua de mar)
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,4487698,Fosfats (aigua de mar)
+before_2007,0000,0018,F006219,El Prat de Llobregat - Castelldefels - 37 (08 169 B01),424537,4570631,4488530,Silicats (aigua de mar)
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,3001800,Silicats
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,3001801,Clorofil·la a
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,3001802,Nitrats
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,3001803,Nitrits
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,3001804,Amoni
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,3001805,Fosfats
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,3010768,Salinitat (mostra)
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,3010772,Temperatura aigua (mostra)
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,4485203,Nitrats (aigua de mar)
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,4486035,Nitrits (aigua de mar)
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,4486867,Amoni (aigua de mar)
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,4487699,Fosfats (aigua de mar)
+before_2007,0000,0018,F006220,El Prat de Llobregat - Castelldefels - 38 (08 301 A01),421792,4569708,4488531,Silicats (aigua de mar)
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,3001806,Silicats
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,3001807,Clorofil·la a
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,3001808,Nitrats
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,3001809,Nitrits
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,3001810,Amoni
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,3001811,Fosfats
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,3010837,Salinitat (mostra)
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,3010841,Temperatura aigua (mostra)
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,4485204,Nitrats (aigua de mar)
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,4486036,Nitrits (aigua de mar)
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,4486868,Amoni (aigua de mar)
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,4487700,Fosfats (aigua de mar)
+before_2007,0000,0018,F006221,El Prat de Llobregat - Castelldefels - 39 (08 089 A01),419828,4569146,4488532,Silicats (aigua de mar)
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,3001812,Silicats
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,3001813,Clorofil·la a
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,3001814,Nitrats
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,3001815,Nitrits
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,3001816,Amoni
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,3001817,Fosfats
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,3010906,Salinitat (mostra)
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,3010910,Temperatura aigua (mostra)
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,4485205,Nitrats (aigua de mar)
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,4486037,Nitrits (aigua de mar)
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,4486869,Amoni (aigua de mar)
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,4487701,Fosfats (aigua de mar)
+before_2007,0000,0018,F006222,El Prat de Llobregat - Castelldefels - 40 (08 056 A03),413261,4568569,4488533,Silicats (aigua de mar)
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,3001818,Silicats
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,3001819,Clorofil·la a
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,3001820,Nitrats
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,3001821,Nitrits
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,3001822,Amoni
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,3001823,Fosfats
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,3010975,Salinitat (mostra)
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,3010979,Temperatura aigua (mostra)
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,4485206,Nitrats (aigua de mar)
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,4486038,Nitrits (aigua de mar)
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,4486870,Amoni (aigua de mar)
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,4487702,Fosfats (aigua de mar)
+before_2007,0000,0018,F006223,Sitges - 41 (08 270 E01),400092,4565439,4488534,Silicats (aigua de mar)
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,3001824,Silicats
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,3001825,Clorofil·la a
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,3001826,Nitrats
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,3001827,Nitrits
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,3001828,Amoni
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,3001829,Fosfats
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,3011044,Salinitat (mostra)
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,3011048,Temperatura aigua (mostra)
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,4485207,Nitrats (aigua de mar)
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,4486039,Nitrits (aigua de mar)
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,4486871,Amoni (aigua de mar)
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,4487703,Fosfats (aigua de mar)
+before_2007,0000,0018,F006224,Vilanova i la Geltrú - 42 (08 307 B01),393105,4563068,4488535,Silicats (aigua de mar)
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,3001830,Silicats
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,3001831,Clorofil·la a
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,3001832,Nitrats
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,3001833,Nitrits
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,3001834,Amoni
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,3001835,Fosfats
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,3011113,Salinitat (mostra)
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,3011117,Temperatura aigua (mostra)
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,4485208,Nitrats (aigua de mar)
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,4486040,Nitrits (aigua de mar)
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,4486872,Amoni (aigua de mar)
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,4487704,Fosfats (aigua de mar)
+before_2007,0000,0018,F006225,Cubelles - Altafulla  - 43 (08 074 B01),387614,4561368,4488536,Silicats (aigua de mar)
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,3001836,Silicats
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,3001837,Clorofil·la a
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,3001838,Nitrats
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,3001839,Nitrits
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,3001840,Amoni
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,3001841,Fosfats
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,3011182,Salinitat (mostra)
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,3011186,Temperatura aigua (mostra)
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,4485209,Nitrats (aigua de mar)
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,4486041,Nitrits (aigua de mar)
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,4486873,Amoni (aigua de mar)
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,4487705,Fosfats (aigua de mar)
+before_2007,0000,0018,F006226,Cubelles - Altafulla  - 44 (43 037 C01),381659,4560591,4488537,Silicats (aigua de mar)
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,3001842,Silicats
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,3001843,Clorofil·la a
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,3001844,Nitrats
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,3001845,Nitrits
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,3001846,Amoni
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,3001847,Fosfats
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,3011251,Salinitat (mostra)
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,3011255,Temperatura aigua (mostra)
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,4485210,Nitrats (aigua de mar)
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,4486042,Nitrits (aigua de mar)
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,4486874,Amoni (aigua de mar)
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,4487706,Fosfats (aigua de mar)
+before_2007,0000,0018,F006227,Cubelles - Altafulla  - 66 (08 074 C01),387389,4561382,4488538,Silicats (aigua de mar)
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,3001848,Silicats
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,3001849,Clorofil·la a
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,3001850,Nitrats
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,3001851,Nitrits
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,3001852,Amoni
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,3001853,Fosfats
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,3011320,Salinitat (mostra)
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,3011324,Temperatura aigua (mostra)
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,4485547,Nitrats (aigua de mar)
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,4486379,Nitrits (aigua de mar)
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,4487211,Amoni (aigua de mar)
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,4488043,Fosfats (aigua de mar)
+before_2007,0000,0018,F006228,Cubelles - Altafulla  - 45 (43 163 B02),375766,4559630,4488875,Silicats (aigua de mar)
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,3001854,Silicats
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,3001855,Clorofil·la a
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,3001856,Nitrats
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,3001857,Nitrits
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,3001858,Amoni
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,3001859,Fosfats
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,3011389,Salinitat (mostra)
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,3011393,Temperatura aigua (mostra)
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,4485548,Nitrats (aigua de mar)
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,4486380,Nitrits (aigua de mar)
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,4487212,Amoni (aigua de mar)
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,4488044,Fosfats (aigua de mar)
+before_2007,0000,0018,F006229,Cubelles - Altafulla  - 46 (43 153 C01),366850,4555876,4488876,Silicats (aigua de mar)
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,3001860,Silicats
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,3001861,Clorofil·la a
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,3001862,Nitrats
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,3001863,Nitrits
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,3001864,Amoni
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,3001865,Fosfats
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,3011458,Salinitat (mostra)
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,3011462,Temperatura aigua (mostra)
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,4485549,Nitrats (aigua de mar)
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,4486381,Nitrits (aigua de mar)
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,4487213,Amoni (aigua de mar)
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,4488045,Fosfats (aigua de mar)
+before_2007,0000,0018,F006230,Tarragona Nord - 47 (43 148 A01),362823,4554567,4488877,Silicats (aigua de mar)
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,3001866,Silicats
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,3001867,Clorofil·la a
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,3001868,Nitrats
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,3001869,Nitrits
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,3001870,Amoni
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,3001871,Fosfats
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,3011527,Salinitat (mostra)
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,3011531,Temperatura aigua (mostra)
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,4485550,Nitrats (aigua de mar)
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,4486382,Nitrits (aigua de mar)
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,4487214,Amoni (aigua de mar)
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,4488046,Fosfats (aigua de mar)
+before_2007,0000,0018,F006231,Tarragona Nord - 48 (43 148 C02),357628,4554422,4488878,Silicats (aigua de mar)
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,3001872,Silicats
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,3001873,Clorofil·la a
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,3001874,Nitrats
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,3001875,Nitrits
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,3001876,Amoni
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,3001877,Fosfats
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,3011596,Salinitat (mostra)
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,3011600,Temperatura aigua (mostra)
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,4485551,Nitrats (aigua de mar)
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,4486383,Nitrits (aigua de mar)
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,4487215,Amoni (aigua de mar)
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,4488047,Fosfats (aigua de mar)
+before_2007,0000,0018,F006232,Tarragona - Vila-seca - 49 (43 148 F01),354099,4552889,4488879,Silicats (aigua de mar)
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,3001890,Silicats
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,3001891,Clorofil·la a
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,3001892,Nitrats
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,3001893,Nitrits
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,3001894,Amoni
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,3001895,Fosfats
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,3011803,Salinitat (mostra)
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,3011807,Temperatura aigua (mostra)
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,4485554,Nitrats (aigua de mar)
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,4486386,Nitrits (aigua de mar)
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,4487218,Amoni (aigua de mar)
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,4488050,Fosfats (aigua de mar)
+before_2007,0000,0018,F006235,Tarragona - Vila-seca - 51 (43 171 B01),347558,4549176,4488882,Silicats (aigua de mar)
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,3001896,Silicats
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,3001897,Clorofil·la a
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,3001898,Nitrats
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,3001899,Nitrits
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,3001900,Amoni
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,3001901,Fosfats
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,3011872,Salinitat (mostra)
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,3011876,Temperatura aigua (mostra)
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,4485555,Nitrats (aigua de mar)
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,4486387,Nitrits (aigua de mar)
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,4487219,Amoni (aigua de mar)
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,4488051,Fosfats (aigua de mar)
+before_2007,0000,0018,F006236,Salou - Cambrils - 52 (43 905 E01),343832,4548495,4488883,Silicats (aigua de mar)
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,3001902,Silicats
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,3001903,Clorofil·la a
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,3001904,Nitrats
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,3001905,Nitrits
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,3001906,Amoni
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,3001907,Fosfats
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,3011941,Salinitat (mostra)
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,3011945,Temperatura aigua (mostra)
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,4485556,Nitrats (aigua de mar)
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,4486388,Nitrits (aigua de mar)
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,4487220,Amoni (aigua de mar)
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,4488052,Fosfats (aigua de mar)
+before_2007,0000,0018,F006237,Cambrils - Mont-roig del Camp - 53 (43 038 C01),337760,4547861,4488884,Silicats (aigua de mar)
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,3001908,Silicats
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,3001909,Clorofil·la a
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,3001910,Nitrats
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,3001911,Nitrits
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,3001912,Amoni
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,3001913,Fosfats
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,3012010,Salinitat (mostra)
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,3012014,Temperatura aigua (mostra)
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,4485557,Nitrats (aigua de mar)
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,4486389,Nitrits (aigua de mar)
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,4487221,Amoni (aigua de mar)
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,4488053,Fosfats (aigua de mar)
+before_2007,0000,0018,F006238,Vandellós i l'Hospitalet de l'Infant - 54 (43 162 B01),324684,4539466,4488885,Silicats (aigua de mar)
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,3001914,Silicats
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,3001915,Clorofil·la a
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,3001916,Nitrats
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,3001917,Nitrits
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,3001918,Amoni
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,3001919,Fosfats
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,3012079,Salinitat (mostra)
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,3012083,Temperatura aigua (mostra)
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,4485558,Nitrats (aigua de mar)
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,4486390,Nitrits (aigua de mar)
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,4487222,Amoni (aigua de mar)
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,4488054,Fosfats (aigua de mar)
+before_2007,0000,0018,F006239,L'Ametlla de Mar - 55 (43 013 E01),315130,4528265,4488886,Silicats (aigua de mar)
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,3001920,Silicats
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,3001921,Clorofil·la a
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,3001922,Nitrats
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,3001923,Nitrits
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,3001924,Amoni
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,3001925,Fosfats
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,3012148,Salinitat (mostra)
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,3012152,Temperatura aigua (mostra)
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,4485559,Nitrats (aigua de mar)
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,4486391,Nitrits (aigua de mar)
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,4487223,Amoni (aigua de mar)
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,4488055,Fosfats (aigua de mar)
+before_2007,0000,0018,F006240,El Fangar - 56 (43 906 C01),306042,4518875,4488887,Silicats (aigua de mar)
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,3001926,Silicats
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,3001927,Clorofil·la a
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,3001928,Nitrats
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,3001929,Nitrits
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,3001930,Amoni
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,3001931,Fosfats
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,3012217,Salinitat (mostra)
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,3012221,Temperatura aigua (mostra)
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,4485560,Nitrats (aigua de mar)
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,4486392,Nitrits (aigua de mar)
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,4487224,Amoni (aigua de mar)
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,4488056,Fosfats (aigua de mar)
+before_2007,0000,0018,F006241,Delta Nord - 57 (43 901 C01),317003,4511269,4488888,Silicats (aigua de mar)
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,3001938,Silicats
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,3001939,Clorofil·la a
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,3001940,Nitrats
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,3001941,Nitrits
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,3001942,Amoni
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,3001943,Fosfats
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,3012355,Salinitat (mostra)
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,3012359,Temperatura aigua (mostra)
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,4485562,Nitrats (aigua de mar)
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,4486394,Nitrits (aigua de mar)
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,4487226,Amoni (aigua de mar)
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,4488058,Fosfats (aigua de mar)
+before_2007,0000,0018,F006243,Delta Sud - 58 (43 014 A01),312733,4502595,4488890,Silicats (aigua de mar)
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,3001944,Silicats
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,3001945,Clorofil·la a
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,3001946,Nitrats
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,3001947,Nitrits
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,3001948,Amoni
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,3001949,Fosfats
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,3012424,Salinitat (mostra)
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,3012428,Temperatura aigua (mostra)
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,4485563,Nitrats (aigua de mar)
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,4486395,Nitrits (aigua de mar)
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,4487227,Amoni (aigua de mar)
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,4488059,Fosfats (aigua de mar)
+before_2007,0000,0018,F006244,Delta Sud - 59 (43 136 G01),307370,4497351,4488891,Silicats (aigua de mar)
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,3001950,Silicats
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,3001951,Clorofil·la a
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,3001952,Nitrats
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,3001953,Nitrits
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,3001954,Amoni
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,3001955,Fosfats
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,3012493,Salinitat (mostra)
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,3012497,Temperatura aigua (mostra)
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,4485564,Nitrats (aigua de mar)
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,4486396,Nitrits (aigua de mar)
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,4487228,Amoni (aigua de mar)
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,4488060,Fosfats (aigua de mar)
+before_2007,0000,0018,F006245,Els Alfacs - 60 (43 136 H01),307227,4497466,4488892,Silicats (aigua de mar)
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,3001956,Silicats
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,3001957,Clorofil·la a
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,3001958,Nitrats
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,3001959,Nitrits
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,3001960,Amoni
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,3001961,Fosfats
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,3012562,Salinitat (mostra)
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,3012566,Temperatura aigua (mostra)
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,4485565,Nitrats (aigua de mar)
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,4486397,Nitrits (aigua de mar)
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,4487229,Amoni (aigua de mar)
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,4488061,Fosfats (aigua de mar)
+before_2007,0000,0018,F006246,Begur - Blanes - R03 (17 117 R01),516838,4637856,4488893,Silicats (aigua de mar)
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,3001962,Silicats
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,3001963,Clorofil·la a
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,3001964,Nitrats
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,3001965,Nitrits
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,3001966,Amoni
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,3001967,Fosfats
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,3012631,Salinitat (mostra)
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,3012635,Temperatura aigua (mostra)
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,4485566,Nitrats (aigua de mar)
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,4486398,Nitrits (aigua de mar)
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,4487230,Amoni (aigua de mar)
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,4488062,Fosfats (aigua de mar)
+before_2007,0000,0018,F006247,Begur - Blanes - R04 (17 202 R01),494928,4618887,4488894,Silicats (aigua de mar)
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,3001974,Silicats
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,3001975,Clorofil·la a
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,3001976,Nitrats
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,3001977,Nitrits
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,3001978,Amoni
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,3001979,Fosfats
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,3012769,Salinitat (mostra)
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,3012773,Temperatura aigua (mostra)
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,4485568,Nitrats (aigua de mar)
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,4486400,Nitrits (aigua de mar)
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,4487232,Amoni (aigua de mar)
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,4488064,Fosfats (aigua de mar)
+before_2007,0000,0018,F006249,Cap de Salou - R06 (43 905 R01),345767,4546574,4488896,Silicats (aigua de mar)
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,3001980,Silicats
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,3001981,Clorofil·la a
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,3001982,Nitrats
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,3001983,Nitrits
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,3001984,Amoni
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,3001985,Fosfats
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,3012838,Salinitat (mostra)
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,3012842,Temperatura aigua (mostra)
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,4485569,Nitrats (aigua de mar)
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,4486401,Nitrits (aigua de mar)
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,4487233,Amoni (aigua de mar)
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,4488065,Fosfats (aigua de mar)
+before_2007,0000,0018,F006250,L'Ametlla de Mar - R07 (43 013 R01),311371,4524125,4488897,Silicats (aigua de mar)
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,3001992,Silicats
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,3001993,Clorofil·la a
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,3001994,Nitrats
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,3001995,Nitrits
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,3001996,Amoni
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,3001997,Fosfats
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,3014218,Salinitat (mostra)
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,3014222,Temperatura aigua (mostra)
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,4485588,Nitrats (aigua de mar)
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,4486420,Nitrits (aigua de mar)
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,4487252,Amoni (aigua de mar)
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,4488084,Fosfats (aigua de mar)
+before_2007,0000,0018,F006270,Begur - Blanes - R28 (17 095 R01),486978,4615950,4488916,Silicats (aigua de mar)
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,3002004,Silicats
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,3002005,Clorofil·la a
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,3002006,Nitrats
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,3002007,Nitrits
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,3002008,Amoni
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,3002009,Fosfats
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,3014356,Salinitat (mostra)
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,3014360,Temperatura aigua (mostra)
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,4485590,Nitrats (aigua de mar)
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,4486422,Nitrits (aigua de mar)
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,4487254,Amoni (aigua de mar)
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,4488086,Fosfats (aigua de mar)
+before_2007,0000,0018,F006272,Cap de Creus - R09 (17 032 R02),525747,4685093,4488918,Silicats (aigua de mar)
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,3002010,Silicats
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,3002011,Clorofil·la a
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,3002012,Nitrats
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,3002013,Nitrits
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,3002014,Amoni
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,3002015,Fosfats
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,3014425,Salinitat (mostra)
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,3014429,Temperatura aigua (mostra)
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,4485591,Nitrats (aigua de mar)
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,4486423,Nitrits (aigua de mar)
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,4487255,Amoni (aigua de mar)
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,4488087,Fosfats (aigua de mar)
+before_2007,0000,0018,F006273,Cap Norfeu - R10 (17 152 R02),518715,4677496,4488919,Silicats (aigua de mar)
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,3002016,Silicats
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,3002017,Clorofil·la a
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,3002018,Nitrats
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,3002019,Nitrits
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,3002020,Amoni
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,3002021,Fosfats
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,3014494,Salinitat (mostra)
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,3014498,Temperatura aigua (mostra)
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,4485592,Nitrats (aigua de mar)
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,4486424,Nitrits (aigua de mar)
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,4487256,Amoni (aigua de mar)
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,4488088,Fosfats (aigua de mar)
+before_2007,0000,0018,F006274,Canyelles - R11 (17 152 R01),516294,4676977,4488920,Silicats (aigua de mar)
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,3002022,Silicats
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,3002023,Clorofil·la a
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,3002024,Nitrats
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,3002025,Nitrits
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,3002026,Amoni
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,3002027,Fosfats
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,3014563,Salinitat (mostra)
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,3014567,Temperatura aigua (mostra)
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,3014568,pH
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,3014569,Oxigen dissolt
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,3014570,% Saturació d'oxigen
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,4485593,Nitrats (aigua de mar)
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,4486425,Nitrits (aigua de mar)
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,4487257,Amoni (aigua de mar)
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,4488089,Fosfats (aigua de mar)
+before_2007,0000,0018,F006275,Montgrí  - R12 (17 062 R01),513800,4662368,4488921,Silicats (aigua de mar)
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,3002028,Silicats
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,3002029,Clorofil·la a
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,3002030,Nitrats
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,3002031,Nitrits
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,3002032,Amoni
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,3002033,Fosfats
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,3014632,Salinitat (mostra)
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,3014636,Temperatura aigua (mostra)
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,4485594,Nitrats (aigua de mar)
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,4486426,Nitrits (aigua de mar)
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,4487258,Amoni (aigua de mar)
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,4488090,Fosfats (aigua de mar)
+before_2007,0000,0018,F006276,Pals - Sa Riera - 69 (17 124 B01),516558,4649405,4488922,Silicats (aigua de mar)
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,3002034,Silicats
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,3002035,Clorofil·la a
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,3002036,Nitrats
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,3002037,Nitrits
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,3002038,Amoni
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,3002039,Fosfats
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,3014701,Salinitat (mostra)
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,3014705,Temperatura aigua (mostra)
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,4485595,Nitrats (aigua de mar)
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,4486427,Nitrits (aigua de mar)
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,4487259,Amoni (aigua de mar)
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,4488091,Fosfats (aigua de mar)
+before_2007,0000,0018,F006277,Pals - Sa Riera - R13 (17 013 R01),517462,4647052,4488923,Silicats (aigua de mar)
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,3002070,Silicats
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,3002071,Clorofil·la a
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,3002072,Nitrats
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,3002073,Nitrits
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,3002074,Amoni
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,3002075,Fosfats
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,3015115,Salinitat (mostra)
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,3015119,Temperatura aigua (mostra)
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,4485601,Nitrats (aigua de mar)
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,4486433,Nitrits (aigua de mar)
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,4487265,Amoni (aigua de mar)
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,4488097,Fosfats (aigua de mar)
+before_2007,0000,0018,F006283,Tarragona Nord - R18 (43 148 R01),360983,4553968,4488929,Silicats (aigua de mar)
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,3002082,Silicats
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,3002083,Clorofil·la a
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,3002084,Nitrats
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,3002085,Nitrits
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,3002086,Amoni
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,3002087,Fosfats
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,3015253,Salinitat (mostra)
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,3015257,Temperatura aigua (mostra)
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,4485603,Nitrats (aigua de mar)
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,4486435,Nitrits (aigua de mar)
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,4487267,Amoni (aigua de mar)
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,4488099,Fosfats (aigua de mar)
+before_2007,0000,0018,F006285,Vandellós i l'Hospitalet de l'Infant - 71 (43 092 G01),327421,4542120,4488931,Silicats (aigua de mar)
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,3002088,Silicats
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,3002089,Clorofil·la a
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,3002090,Nitrats
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,3002091,Nitrits
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,3002092,Amoni
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,3002093,Fosfats
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,3015322,Salinitat (mostra)
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,3015326,Temperatura aigua (mostra)
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,4485604,Nitrats (aigua de mar)
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,4486436,Nitrits (aigua de mar)
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,4487268,Amoni (aigua de mar)
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,4488100,Fosfats (aigua de mar)
+before_2007,0000,0018,F006286,L'Ametlla de Mar - R20 (43 013 R02),316616,4529922,4488932,Silicats (aigua de mar)
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,3002100,Silicats
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,3002101,Clorofil·la a
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,3002102,Nitrats
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,3002103,Nitrits
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,3002104,Amoni
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,3002105,Fosfats
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,3015460,Salinitat (mostra)
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,3015464,Temperatura aigua (mostra)
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,4485605,Nitrats (aigua de mar)
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,4486437,Nitrits (aigua de mar)
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,4487269,Amoni (aigua de mar)
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,4488101,Fosfats (aigua de mar)
+before_2007,0000,0018,F006288,L'Ametlla de Mar - R22 (43 104 R01),309725,4522739,4488933,Silicats (aigua de mar)
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,3002106,Silicats
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,3002107,Clorofil·la a
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,3002108,Nitrats
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,3002109,Nitrits
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,3002110,Amoni
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,3002111,Fosfats
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,3015529,Salinitat (mostra)
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,3015533,Temperatura aigua (mostra)
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,4485606,Nitrats (aigua de mar)
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,4486438,Nitrits (aigua de mar)
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,4487270,Amoni (aigua de mar)
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,4488102,Fosfats (aigua de mar)
+before_2007,0000,0018,F006289,Alcanar - 72 (43 004 C01),290377,4491207,4488934,Silicats (aigua de mar)
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,3002112,Silicats
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,3002113,Clorofil·la a
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,3002114,Nitrats
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,3002115,Nitrits
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,3002116,Amoni
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,3002117,Fosfats
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,3015598,Salinitat (mostra)
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,3015602,Temperatura aigua (mostra)
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,4485607,Nitrats (aigua de mar)
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,4486439,Nitrits (aigua de mar)
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,4487271,Amoni (aigua de mar)
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,4488103,Fosfats (aigua de mar)
+before_2007,0000,0018,F006290,Torroella de Montgrí - el Ter - 68 (17 199 B03),516241,4654366,4488935,Silicats (aigua de mar)
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,3002118,Silicats
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,3002119,Clorofil·la a
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,3002120,Nitrats
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,3002121,Nitrits
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,3002122,Amoni
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,3002123,Fosfats
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,3015667,Salinitat (mostra)
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,3015671,Temperatura aigua (mostra)
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,4485608,Nitrats (aigua de mar)
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,4486440,Nitrits (aigua de mar)
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,4487272,Amoni (aigua de mar)
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,4488104,Fosfats (aigua de mar)
+before_2007,0000,0018,F006291,Vilanova i la Geltrú - R23 (08 307 R01),391752,4562695,4488936,Silicats (aigua de mar)
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,3002190,Silicats
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,3002191,Clorofil·la a
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,3002192,Nitrats
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,3002193,Nitrits
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,3002194,Amoni
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,3002195,Fosfats
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,3016633,Salinitat (mostra)
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,3016637,Temperatura aigua (mostra)
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,4485609,Nitrats (aigua de mar)
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,4486441,Nitrits (aigua de mar)
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,4487273,Amoni (aigua de mar)
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,4488105,Fosfats (aigua de mar)
+before_2007,0000,0018,F006305,Begur - Blanes - 73 (17 181 C01),498393,4623076,4488937,Silicats (aigua de mar)
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,3002196,Silicats
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,3002197,Clorofil·la a
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,3002198,Nitrats
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,3002199,Nitrits
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,3002200,Amoni
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,3002201,Fosfats
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,3016702,Salinitat (mostra)
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,3016706,Temperatura aigua (mostra)
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,4485610,Nitrats (aigua de mar)
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,4486442,Nitrits (aigua de mar)
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,4487274,Amoni (aigua de mar)
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,4488106,Fosfats (aigua de mar)
+before_2007,0000,0018,F006306,Badia de El Port de la Selva - 75 (17 140 A01),516659,4687110,4488938,Silicats (aigua de mar)
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,3002202,Silicats
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,3002203,Clorofil·la a
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,3002204,Nitrats
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,3002205,Nitrits
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,3002206,Amoni
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,3002207,Fosfats
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,3016771,Salinitat (mostra)
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,3016775,Temperatura aigua (mostra)
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,4485611,Nitrats (aigua de mar)
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,4486443,Nitrits (aigua de mar)
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,4487275,Amoni (aigua de mar)
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,4488107,Fosfats (aigua de mar)
+before_2007,0000,0018,F006307,Portbou - Llançà - R24 (17 054 R01),513142,4692978,4488939,Silicats (aigua de mar)
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,3002208,Silicats
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,3002209,Clorofil·la a
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,3002210,Nitrats
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,3002211,Nitrits
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,3002212,Amoni
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,3002213,Fosfats
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,3016840,Salinitat (mostra)
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,3016844,Temperatura aigua (mostra)
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,4485612,Nitrats (aigua de mar)
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,4486444,Nitrits (aigua de mar)
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,4487276,Amoni (aigua de mar)
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,4488108,Fosfats (aigua de mar)
+before_2007,0000,0018,F006308,L'Escala - 76 (17 062 C01),511020,4663836,4488940,Silicats (aigua de mar)
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,3002214,Silicats
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,3002215,Clorofil·la a
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,3002216,Nitrats
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,3002217,Nitrits
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,3002218,Amoni
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,3002219,Fosfats
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,3016909,Salinitat (mostra)
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,3016913,Temperatura aigua (mostra)
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,4485613,Nitrats (aigua de mar)
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,4486445,Nitrits (aigua de mar)
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,4487277,Amoni (aigua de mar)
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,4488109,Fosfats (aigua de mar)
+before_2007,0000,0018,F006309,Pineda de Mar - Mataró - R25 (08 197 R01),457579,4600173,4488941,Silicats (aigua de mar)
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,3002220,Silicats
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,3002221,Clorofil·la a
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,3002222,Nitrats
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,3002223,Nitrits
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,3002224,Amoni
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,3002225,Fosfats
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,3016978,Salinitat (mostra)
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,3016982,Temperatura aigua (mostra)
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,4485614,Nitrats (aigua de mar)
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,4486446,Nitrits (aigua de mar)
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,4487278,Amoni (aigua de mar)
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,4488110,Fosfats (aigua de mar)
+before_2007,0000,0018,F006310,Sitges - 77 (08 270 B01),408221,4567550,4488942,Silicats (aigua de mar)
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,3002226,Silicats
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,3002227,Clorofil·la a
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,3002228,Nitrats
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,3002229,Nitrits
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,3002230,Amoni
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,3002231,Fosfats
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,3017047,Salinitat (mostra)
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,3017051,Temperatura aigua (mostra)
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,4485615,Nitrats (aigua de mar)
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,4486447,Nitrits (aigua de mar)
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,4487279,Amoni (aigua de mar)
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,4488111,Fosfats (aigua de mar)
+before_2007,0000,0018,F006311,El Fangar - 78 (43 901 F01),312917,4515859,4488943,Silicats (aigua de mar)
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,3002232,Silicats
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,3002233,Clorofil·la a
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,3002234,Nitrats
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,3002235,Nitrits
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,3002236,Amoni
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,3002237,Fosfats
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,3017116,Salinitat (mostra)
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,3017120,Temperatura aigua (mostra)
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,4485616,Nitrats (aigua de mar)
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,4486448,Nitrits (aigua de mar)
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,4487280,Amoni (aigua de mar)
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,4488112,Fosfats (aigua de mar)
+before_2007,0000,0018,F006312,Delta Nord - 79 (43 901 A02),314174,4514650,4488944,Silicats (aigua de mar)
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,3002238,Silicats
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,3002239,Clorofil·la a
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,3002240,Nitrats
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,3002241,Nitrits
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,3002242,Amoni
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,3002243,Fosfats
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,3017185,Salinitat (mostra)
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,3017189,Temperatura aigua (mostra)
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,4485617,Nitrats (aigua de mar)
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,4486449,Nitrits (aigua de mar)
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,4487281,Amoni (aigua de mar)
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,4488113,Fosfats (aigua de mar)
+before_2007,0000,0018,F006313,Els Alfacs - 80 (43 136 F01),302028,4499958,4488945,Silicats (aigua de mar)
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,3002244,Silicats
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,3002245,Clorofil·la a
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,3002246,Nitrats
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,3002247,Nitrits
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,3002248,Amoni
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,3002249,Fosfats
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,3017254,Salinitat (mostra)
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,3017258,Temperatura aigua (mostra)
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,4485618,Nitrats (aigua de mar)
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,4486450,Nitrits (aigua de mar)
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,4487282,Amoni (aigua de mar)
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,4488114,Fosfats (aigua de mar)
+before_2007,0000,0018,F006314,Begur - Blanes - 81 (17 013 C01),519043,4645409,4488946,Silicats (aigua de mar)
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,3002250,Silicats
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,3002251,Clorofil·la a
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,3002252,Nitrats
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,3002253,Nitrits
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,3002254,Amoni
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,3002255,Fosfats
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,3017323,Salinitat (mostra)
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,3017327,Temperatura aigua (mostra)
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,4485619,Nitrats (aigua de mar)
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,4486451,Nitrits (aigua de mar)
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,4487283,Amoni (aigua de mar)
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,4488115,Fosfats (aigua de mar)
+before_2007,0000,0018,F006315,Llobregat - 82 (08 169 F01),426701,4571948,4488947,Silicats (aigua de mar)
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,3040254,Temperatura aigua (mostra)
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,3040258,Salinitat (mostra)
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,3118830,Amoni
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,3118831,Clorofil·la a
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,3118833,Fosfats
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,3118834,Nitrats
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,3118835,Nitrits
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,3118836,Silicats
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,4485278,Nitrats (aigua de mar)
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,4486110,Nitrits (aigua de mar)
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,4486942,Amoni (aigua de mar)
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,4487774,Fosfats (aigua de mar)
+before_2007,0000,0018,F006850,Sant Pere Pescador - Fluvià - 83 (17 047 E02),509144,4672266,4488606,Silicats (aigua de mar)
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,3040313,Temperatura aigua (mostra)
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,3040317,Salinitat (mostra)
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,3118851,Amoni
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,3118852,Clorofil·la a
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,3118854,Fosfats
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,3118855,Nitrats
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,3118856,Nitrits
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,3118857,Silicats
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,4485620,Nitrats (aigua de mar)
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,4486452,Nitrits (aigua de mar)
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,4487284,Amoni (aigua de mar)
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,4488116,Fosfats (aigua de mar)
+before_2007,0000,0018,F006851,L'Escala - 84 (17 062 G01),510683,4663879,4488948,Silicats (aigua de mar)
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,3040364,Temperatura aigua (mostra)
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,3040368,Salinitat (mostra)
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,3118837,Amoni
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,3118838,Clorofil·la a
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,3118840,Fosfats
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,3118841,Nitrats
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,3118842,Nitrits
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,3118843,Silicats
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,4485211,Nitrats (aigua de mar)
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,4486043,Nitrits (aigua de mar)
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,4486875,Amoni (aigua de mar)
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,4487707,Fosfats (aigua de mar)
+before_2007,0000,0018,F006852,Pals - Sa Riera - R27 (17 013 R02),517423,4646940,4488539,Silicats (aigua de mar)
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,3040408,Temperatura aigua (mostra)
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,3040412,Salinitat (mostra)
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,3118844,Amoni
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,3118845,Clorofil·la a
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,3118847,Fosfats
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,3118848,Nitrats
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,3118849,Nitrits
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,3118850,Silicats
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,4485212,Nitrats (aigua de mar)
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,4486044,Nitrits (aigua de mar)
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,4486876,Amoni (aigua de mar)
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,4487708,Fosfats (aigua de mar)
+before_2007,0000,0018,F006853,Pineda de Mar - Mataró - R29 (08 121 R02),456336,4599762,4488540,Silicats (aigua de mar)
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,3108921,Temperatura aigua (mostra)
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,3108926,Transparència (disc de Secchi)
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,3108930,Salinitat (mostra)
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,3118741,Amoni
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,3118742,Clorofil·la a
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,3118743,Fosfats
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,3118744,Nitrats
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,3118745,Nitrits
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,3118746,Silicats
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,4485829,Nitrats (aigua de mar)
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,4486661,Nitrits (aigua de mar)
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,4487493,Amoni (aigua de mar)
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,4488325,Fosfats (aigua de mar)
+before_2007,0000,0018,F010224,Cap de Creus - MITC101000030,526031,4686022,4489157,Silicats (aigua de mar)

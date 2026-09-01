@@ -1,0 +1,1225 @@
+period,network,subnetwork,station,station_name,x,y,variable_id,variable_name
+after_2007,0006,0016,F007349,Riu de Llastres i barranc de Santa Marina - 010001000,321471,4546195,3059337,TOC
+after_2007,0006,0016,F007349,Riu de Llastres i barranc de Santa Marina - 010001000,321471,4546195,3059338,Nitrits
+after_2007,0006,0016,F007349,Riu de Llastres i barranc de Santa Marina - 010001000,321471,4546195,3059339,Nitrats
+after_2007,0006,0016,F007349,Riu de Llastres i barranc de Santa Marina - 010001000,321471,4546195,3059341,Fosfats
+after_2007,0006,0016,F007349,Riu de Llastres i barranc de Santa Marina - 010001000,321471,4546195,3059350,Oxigen dissolt (camp)
+after_2007,0006,0016,F007349,Riu de Llastres i barranc de Santa Marina - 010001000,321471,4546195,3059352,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007349,Riu de Llastres i barranc de Santa Marina - 010001000,321471,4546195,3059353,Amoni
+after_2007,0006,0016,F007353,Riera de Boella i rasa del Mas de Sostres - 045001000,348483,4551785,3117578,Amoni
+after_2007,0006,0016,F007353,Riera de Boella i rasa del Mas de Sostres - 045001000,348483,4551785,3117579,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007353,Riera de Boella i rasa del Mas de Sostres - 045001000,348483,4551785,3117581,Oxigen dissolt (camp)
+after_2007,0006,0016,F007353,Riera de Boella i rasa del Mas de Sostres - 045001000,348483,4551785,3117590,Fosfats
+after_2007,0006,0016,F007353,Riera de Boella i rasa del Mas de Sostres - 045001000,348483,4551785,3117592,Nitrats
+after_2007,0006,0016,F007353,Riera de Boella i rasa del Mas de Sostres - 045001000,348483,4551785,3117593,Nitrits
+after_2007,0006,0016,F007353,Riera de Boella i rasa del Mas de Sostres - 045001000,348483,4551785,3117594,TOC
+after_2007,0006,0016,F007354,Capçalera del Francolí fins a la confluència amb el riu Sec - 050001000,336212,4584370,3049674,TOC
+after_2007,0006,0016,F007354,Capçalera del Francolí fins a la confluència amb el riu Sec - 050001000,336212,4584370,3049675,Nitrits
+after_2007,0006,0016,F007354,Capçalera del Francolí fins a la confluència amb el riu Sec - 050001000,336212,4584370,3049676,Nitrats
+after_2007,0006,0016,F007354,Capçalera del Francolí fins a la confluència amb el riu Sec - 050001000,336212,4584370,3049692,Fosfats
+after_2007,0006,0016,F007354,Capçalera del Francolí fins a la confluència amb el riu Sec - 050001000,336212,4584370,3049702,Oxigen dissolt (camp)
+after_2007,0006,0016,F007354,Capçalera del Francolí fins a la confluència amb el riu Sec - 050001000,336212,4584370,3049704,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007354,Capçalera del Francolí fins a la confluència amb el riu Sec - 050001000,336212,4584370,3049705,Amoníac no ionitzat
+after_2007,0006,0016,F007354,Capçalera del Francolí fins a la confluència amb el riu Sec - 050001000,336212,4584370,3049706,Amoni
+after_2007,0006,0016,F007356,El Francolí entre el riu Sec i el riu d'Anguera - 050003000,342725,4584018,3049713,TOC
+after_2007,0006,0016,F007356,El Francolí entre el riu Sec i el riu d'Anguera - 050003000,342725,4584018,3049714,Nitrits
+after_2007,0006,0016,F007356,El Francolí entre el riu Sec i el riu d'Anguera - 050003000,342725,4584018,3049715,Nitrats
+after_2007,0006,0016,F007356,El Francolí entre el riu Sec i el riu d'Anguera - 050003000,342725,4584018,3049717,Fosfats
+after_2007,0006,0016,F007356,El Francolí entre el riu Sec i el riu d'Anguera - 050003000,342725,4584018,3049726,Oxigen dissolt (camp)
+after_2007,0006,0016,F007356,El Francolí entre el riu Sec i el riu d'Anguera - 050003000,342725,4584018,3049728,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007356,El Francolí entre el riu Sec i el riu d'Anguera - 050003000,342725,4584018,3049729,Amoni
+after_2007,0006,0016,F007357,Conca del riu d'Anguera - 050004000,347483,4582290,3049736,TOC
+after_2007,0006,0016,F007357,Conca del riu d'Anguera - 050004000,347483,4582290,3049737,Nitrits
+after_2007,0006,0016,F007357,Conca del riu d'Anguera - 050004000,347483,4582290,3049738,Nitrats
+after_2007,0006,0016,F007357,Conca del riu d'Anguera - 050004000,347483,4582290,3049755,Fosfats
+after_2007,0006,0016,F007357,Conca del riu d'Anguera - 050004000,347483,4582290,3049767,Oxigen dissolt (camp)
+after_2007,0006,0016,F007357,Conca del riu d'Anguera - 050004000,347483,4582290,3049769,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007357,Conca del riu d'Anguera - 050004000,347483,4582290,3049770,Amoni
+after_2007,0006,0016,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,3049777,TOC
+after_2007,0006,0016,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,3049778,Nitrits
+after_2007,0006,0016,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,3049779,Nitrats
+after_2007,0006,0016,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,3049795,Fosfats
+after_2007,0006,0016,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,3049805,Oxigen dissolt (camp)
+after_2007,0006,0016,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,3049807,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,3049808,Amoníac no ionitzat
+after_2007,0006,0016,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,3049809,Amoni
+after_2007,0006,0016,F007360,El Francolí entre el Brugent i el torrent del Puig - 050007000,351085,4569649,3049855,TOC
+after_2007,0006,0016,F007360,El Francolí entre el Brugent i el torrent del Puig - 050007000,351085,4569649,3049856,Nitrits
+after_2007,0006,0016,F007360,El Francolí entre el Brugent i el torrent del Puig - 050007000,351085,4569649,3049857,Nitrats
+after_2007,0006,0016,F007360,El Francolí entre el Brugent i el torrent del Puig - 050007000,351085,4569649,3049859,Fosfats
+after_2007,0006,0016,F007360,El Francolí entre el Brugent i el torrent del Puig - 050007000,351085,4569649,3049868,Oxigen dissolt (camp)
+after_2007,0006,0016,F007360,El Francolí entre el Brugent i el torrent del Puig - 050007000,351085,4569649,3049870,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007360,El Francolí entre el Brugent i el torrent del Puig - 050007000,351085,4569649,3049871,Amoni
+after_2007,0006,0016,F007361,Torrent del Puig - 050008000,351138,4569581,3049878,TOC
+after_2007,0006,0016,F007361,Torrent del Puig - 050008000,351138,4569581,3049879,Nitrits
+after_2007,0006,0016,F007361,Torrent del Puig - 050008000,351138,4569581,3049880,Nitrats
+after_2007,0006,0016,F007361,Torrent del Puig - 050008000,351138,4569581,3049882,Fosfats
+after_2007,0006,0016,F007361,Torrent del Puig - 050008000,351138,4569581,3049891,Oxigen dissolt (camp)
+after_2007,0006,0016,F007361,Torrent del Puig - 050008000,351138,4569581,3049893,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007361,Torrent del Puig - 050008000,351138,4569581,3049894,Amoni
+after_2007,0006,0016,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,3049901,TOC
+after_2007,0006,0016,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,3049902,Nitrits
+after_2007,0006,0016,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,3049903,Nitrats
+after_2007,0006,0016,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,3049919,Fosfats
+after_2007,0006,0016,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,3049929,Oxigen dissolt (camp)
+after_2007,0006,0016,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,3049931,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,3049932,Amoníac no ionitzat
+after_2007,0006,0016,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,3049933,Amoni
+after_2007,0006,0016,F007363,Torrent de Vallmoll - 050010000,352778,4566207,3049940,TOC
+after_2007,0006,0016,F007363,Torrent de Vallmoll - 050010000,352778,4566207,3049941,Nitrits
+after_2007,0006,0016,F007363,Torrent de Vallmoll - 050010000,352778,4566207,3049942,Nitrats
+after_2007,0006,0016,F007363,Torrent de Vallmoll - 050010000,352778,4566207,3049944,Fosfats
+after_2007,0006,0016,F007363,Torrent de Vallmoll - 050010000,352778,4566207,3049953,Oxigen dissolt (camp)
+after_2007,0006,0016,F007363,Torrent de Vallmoll - 050010000,352778,4566207,3049955,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007363,Torrent de Vallmoll - 050010000,352778,4566207,3049956,Amoni
+after_2007,0006,0016,F007365,Riu Glorieta des de l'EDAR d'Alcover fins al Francolí - 050012000,350132,4564838,3065647,Amoni
+after_2007,0006,0016,F007365,Riu Glorieta des de l'EDAR d'Alcover fins al Francolí - 050012000,350132,4564838,3065657,Fosfats
+after_2007,0006,0016,F007365,Riu Glorieta des de l'EDAR d'Alcover fins al Francolí - 050012000,350132,4564838,3065659,Nitrats
+after_2007,0006,0016,F007365,Riu Glorieta des de l'EDAR d'Alcover fins al Francolí - 050012000,350132,4564838,3065660,Nitrits
+after_2007,0006,0016,F007365,Riu Glorieta des de l'EDAR d'Alcover fins al Francolí - 050012000,350132,4564838,3065661,TOC
+after_2007,0006,0016,F007365,Riu Glorieta des de l'EDAR d'Alcover fins al Francolí - 050012000,350132,4564838,3116699,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007365,Riu Glorieta des de l'EDAR d'Alcover fins al Francolí - 050012000,350132,4564838,3116700,Oxigen dissolt (camp)
+after_2007,0006,0016,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,3049963,TOC
+after_2007,0006,0016,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,3049964,Nitrits
+after_2007,0006,0016,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,3049965,Nitrats
+after_2007,0006,0016,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,3049981,Fosfats
+after_2007,0006,0016,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,3049991,Oxigen dissolt (camp)
+after_2007,0006,0016,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,3049993,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,3049994,Amoníac no ionitzat
+after_2007,0006,0016,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,3049995,Amoni
+after_2007,0006,0016,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,3050002,TOC
+after_2007,0006,0016,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,3050003,Nitrits
+after_2007,0006,0016,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,3050004,Nitrats
+after_2007,0006,0016,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,3050021,Fosfats
+after_2007,0006,0016,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,3050031,Oxigen dissolt (camp)
+after_2007,0006,0016,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,3050033,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,3050034,Amoníac no ionitzat
+after_2007,0006,0016,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,3050035,Amoni
+after_2007,0006,0016,F007370,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002000,362265,4569517,3050042,TOC
+after_2007,0006,0016,F007370,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002000,362265,4569517,3050043,Nitrits
+after_2007,0006,0016,F007370,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002000,362265,4569517,3050044,Nitrats
+after_2007,0006,0016,F007370,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002000,362265,4569517,3050061,Fosfats
+after_2007,0006,0016,F007370,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002000,362265,4569517,3050071,Oxigen dissolt (camp)
+after_2007,0006,0016,F007370,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002000,362265,4569517,3050073,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007370,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002000,362265,4569517,3050075,Amoni
+after_2007,0006,0016,F007377,Conca de la riera de la Bisbal - 070001000,380411,4571470,3062212,TOC
+after_2007,0006,0016,F007377,Conca de la riera de la Bisbal - 070001000,380411,4571470,3062213,Nitrits
+after_2007,0006,0016,F007377,Conca de la riera de la Bisbal - 070001000,380411,4571470,3062214,Nitrats
+after_2007,0006,0016,F007377,Conca de la riera de la Bisbal - 070001000,380411,4571470,3062216,Fosfats
+after_2007,0006,0016,F007377,Conca de la riera de la Bisbal - 070001000,380411,4571470,3062225,Oxigen dissolt (camp)
+after_2007,0006,0016,F007377,Conca de la riera de la Bisbal - 070001000,380411,4571470,3062227,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007377,Conca de la riera de la Bisbal - 070001000,380411,4571470,3062228,Amoni
+after_2007,0006,0016,F007379,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà - 080002000,388035,4577998,3048216,TOC
+after_2007,0006,0016,F007379,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà - 080002000,388035,4577998,3048217,Nitrits
+after_2007,0006,0016,F007379,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà - 080002000,388035,4577998,3048218,Nitrats
+after_2007,0006,0016,F007379,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà - 080002000,388035,4577998,3048220,Fosfats
+after_2007,0006,0016,F007379,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà - 080002000,388035,4577998,3048229,Oxigen dissolt (camp)
+after_2007,0006,0016,F007379,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà - 080002000,388035,4577998,3048231,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007379,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà - 080002000,388035,4577998,3048232,Amoni
+after_2007,0006,0016,F007381,Capçalera de la riera de Llitrà fins a l'EDAR de Vilafranca - 080004000,389422,4578327,3059158,TOC
+after_2007,0006,0016,F007381,Capçalera de la riera de Llitrà fins a l'EDAR de Vilafranca - 080004000,389422,4578327,3059159,Nitrits
+after_2007,0006,0016,F007381,Capçalera de la riera de Llitrà fins a l'EDAR de Vilafranca - 080004000,389422,4578327,3059160,Nitrats
+after_2007,0006,0016,F007381,Capçalera de la riera de Llitrà fins a l'EDAR de Vilafranca - 080004000,389422,4578327,3059177,Fosfats
+after_2007,0006,0016,F007381,Capçalera de la riera de Llitrà fins a l'EDAR de Vilafranca - 080004000,389422,4578327,3059187,Oxigen dissolt (camp)
+after_2007,0006,0016,F007381,Capçalera de la riera de Llitrà fins a l'EDAR de Vilafranca - 080004000,389422,4578327,3059189,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007381,Capçalera de la riera de Llitrà fins a l'EDAR de Vilafranca - 080004000,389422,4578327,3059191,Amoni
+after_2007,0006,0016,F007382,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca - 080005000",385967,4570563,3048239,TOC
+after_2007,0006,0016,F007382,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca - 080005000",385967,4570563,3048240,Nitrits
+after_2007,0006,0016,F007382,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca - 080005000",385967,4570563,3048241,Nitrats
+after_2007,0006,0016,F007382,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca - 080005000",385967,4570563,3048243,Fosfats
+after_2007,0006,0016,F007382,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca - 080005000",385967,4570563,3048252,Oxigen dissolt (camp)
+after_2007,0006,0016,F007382,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca - 080005000",385967,4570563,3048254,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007382,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca - 080005000",385967,4570563,3048255,Amoni
+after_2007,0006,0016,F007383,Riera de Marmellar - 080006000,384949,4569847,3098743,TOC
+after_2007,0006,0016,F007383,Riera de Marmellar - 080006000,384949,4569847,3098744,Nitrits
+after_2007,0006,0016,F007383,Riera de Marmellar - 080006000,384949,4569847,3098745,Nitrats
+after_2007,0006,0016,F007383,Riera de Marmellar - 080006000,384949,4569847,3098747,Fosfats
+after_2007,0006,0016,F007383,Riera de Marmellar - 080006000,384949,4569847,3098756,Oxigen dissolt (camp)
+after_2007,0006,0016,F007383,Riera de Marmellar - 080006000,384949,4569847,3098758,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007383,Riera de Marmellar - 080006000,384949,4569847,3098759,Amoni
+after_2007,0006,0016,F007388,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001000,415484,4678967,3066838,TOC
+after_2007,0006,0016,F007388,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001000,415484,4678967,3066839,Nitrits
+after_2007,0006,0016,F007388,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001000,415484,4678967,3066840,Nitrats
+after_2007,0006,0016,F007388,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001000,415484,4678967,3066842,Fosfats
+after_2007,0006,0016,F007388,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001000,415484,4678967,3066851,Oxigen dissolt (camp)
+after_2007,0006,0016,F007388,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001000,415484,4678967,3066853,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007388,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001000,415484,4678967,3066854,Amoni
+after_2007,0006,0016,F007389,El Llobregat entre l'Arija i el Bastareny - 100002000,408727,4676390,3050095,Oxigen dissolt (camp)
+after_2007,0006,0016,F007389,El Llobregat entre l'Arija i el Bastareny - 100002000,408727,4676390,3050097,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007389,El Llobregat entre l'Arija i el Bastareny - 100002000,408727,4676390,3050099,Amoni
+after_2007,0006,0016,F007389,El Llobregat entre l'Arija i el Bastareny - 100002000,408727,4676390,3050105,TOC
+after_2007,0006,0016,F007389,El Llobregat entre l'Arija i el Bastareny - 100002000,408727,4676390,3050106,Nitrits
+after_2007,0006,0016,F007389,El Llobregat entre l'Arija i el Bastareny - 100002000,408727,4676390,3050107,Nitrats
+after_2007,0006,0016,F007389,El Llobregat entre l'Arija i el Bastareny - 100002000,408727,4676390,3050109,Fosfats
+after_2007,0006,0016,F007390,Riu Bastareny i riu de Gréixer - 100004000,405280,4680163,3066861,TOC
+after_2007,0006,0016,F007390,Riu Bastareny i riu de Gréixer - 100004000,405280,4680163,3066862,Nitrits
+after_2007,0006,0016,F007390,Riu Bastareny i riu de Gréixer - 100004000,405280,4680163,3066863,Nitrats
+after_2007,0006,0016,F007390,Riu Bastareny i riu de Gréixer - 100004000,405280,4680163,3066865,Fosfats
+after_2007,0006,0016,F007390,Riu Bastareny i riu de Gréixer - 100004000,405280,4680163,3066874,Oxigen dissolt (camp)
+after_2007,0006,0016,F007390,Riu Bastareny i riu de Gréixer - 100004000,405280,4680163,3066876,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007390,Riu Bastareny i riu de Gréixer - 100004000,405280,4680163,3066877,Amoni
+after_2007,0006,0016,F007391,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells - 100005000,406731,4674365,3050135,Oxigen dissolt (camp)
+after_2007,0006,0016,F007391,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells - 100005000,406731,4674365,3050137,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007391,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells - 100005000,406731,4674365,3050139,Amoni
+after_2007,0006,0016,F007391,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells - 100005000,406731,4674365,3050145,TOC
+after_2007,0006,0016,F007391,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells - 100005000,406731,4674365,3050146,Nitrits
+after_2007,0006,0016,F007391,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells - 100005000,406731,4674365,3050147,Nitrats
+after_2007,0006,0016,F007391,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells - 100005000,406731,4674365,3050150,Fosfats
+after_2007,0006,0016,F007392,Riu de Saldes - 100006000,406469,4674394,3066886,TOC
+after_2007,0006,0016,F007392,Riu de Saldes - 100006000,406469,4674394,3066887,Nitrits
+after_2007,0006,0016,F007392,Riu de Saldes - 100006000,406469,4674394,3066888,Nitrats
+after_2007,0006,0016,F007392,Riu de Saldes - 100006000,406469,4674394,3066890,Fosfats
+after_2007,0006,0016,F007392,Riu de Saldes - 100006000,406469,4674394,3066899,Oxigen dissolt (camp)
+after_2007,0006,0016,F007392,Riu de Saldes - 100006000,406469,4674394,3066901,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007392,Riu de Saldes - 100006000,406469,4674394,3066902,Amoni
+after_2007,0006,0016,F007393,Riu de Peguera - 100008000,405487,4666801,3066909,TOC
+after_2007,0006,0016,F007393,Riu de Peguera - 100008000,405487,4666801,3066910,Nitrits
+after_2007,0006,0016,F007393,Riu de Peguera - 100008000,405487,4666801,3066911,Nitrats
+after_2007,0006,0016,F007393,Riu de Peguera - 100008000,405487,4666801,3066913,Fosfats
+after_2007,0006,0016,F007393,Riu de Peguera - 100008000,405487,4666801,3066922,Oxigen dissolt (camp)
+after_2007,0006,0016,F007393,Riu de Peguera - 100008000,405487,4666801,3066924,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007393,Riu de Peguera - 100008000,405487,4666801,3066925,Amoni
+after_2007,0006,0016,F007394,Riu Merdançol i riera de Vilada - 100009000,412515,4664689,3066932,TOC
+after_2007,0006,0016,F007394,Riu Merdançol i riera de Vilada - 100009000,412515,4664689,3066933,Nitrits
+after_2007,0006,0016,F007394,Riu Merdançol i riera de Vilada - 100009000,412515,4664689,3066934,Nitrats
+after_2007,0006,0016,F007394,Riu Merdançol i riera de Vilada - 100009000,412515,4664689,3066936,Fosfats
+after_2007,0006,0016,F007394,Riu Merdançol i riera de Vilada - 100009000,412515,4664689,3066945,Oxigen dissolt (camp)
+after_2007,0006,0016,F007394,Riu Merdançol i riera de Vilada - 100009000,412515,4664689,3066947,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007394,Riu Merdançol i riera de Vilada - 100009000,412515,4664689,3066948,Amoni
+after_2007,0006,0016,F007397,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny - 100013000,407500,4641747,3050220,TOC
+after_2007,0006,0016,F007397,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny - 100013000,407500,4641747,3050221,Nitrits
+after_2007,0006,0016,F007397,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny - 100013000,407500,4641747,3050222,Nitrats
+after_2007,0006,0016,F007397,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny - 100013000,407500,4641747,3050240,Fosfats
+after_2007,0006,0016,F007397,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny - 100013000,407500,4641747,3050256,Oxigen dissolt (camp)
+after_2007,0006,0016,F007397,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny - 100013000,407500,4641747,3050258,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007397,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny - 100013000,407500,4641747,3050260,Amoni
+after_2007,0006,0016,F007399,Riera de Graugés - 100016000,404022,4657011,3067001,TOC
+after_2007,0006,0016,F007399,Riera de Graugés - 100016000,404022,4657011,3067002,Nitrits
+after_2007,0006,0016,F007399,Riera de Graugés - 100016000,404022,4657011,3067003,Nitrats
+after_2007,0006,0016,F007399,Riera de Graugés - 100016000,404022,4657011,3067005,Fosfats
+after_2007,0006,0016,F007399,Riera de Graugés - 100016000,404022,4657011,3067014,Oxigen dissolt (camp)
+after_2007,0006,0016,F007399,Riera de Graugés - 100016000,404022,4657011,3067016,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007399,Riera de Graugés - 100016000,404022,4657011,3067017,Amoni
+after_2007,0006,0016,F007402,Riera de Clarà - 100019000,405521,4652425,3067047,TOC
+after_2007,0006,0016,F007402,Riera de Clarà - 100019000,405521,4652425,3067048,Nitrits
+after_2007,0006,0016,F007402,Riera de Clarà - 100019000,405521,4652425,3067049,Nitrats
+after_2007,0006,0016,F007402,Riera de Clarà - 100019000,405521,4652425,3067051,Fosfats
+after_2007,0006,0016,F007402,Riera de Clarà - 100019000,405521,4652425,3067060,Oxigen dissolt (camp)
+after_2007,0006,0016,F007402,Riera de Clarà - 100019000,405521,4652425,3067062,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007402,Riera de Clarà - 100019000,405521,4652425,3067063,Amoni
+after_2007,0006,0016,F007409,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa - 100027000,408693,4630090,3050364,Oxigen dissolt (camp)
+after_2007,0006,0016,F007409,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa - 100027000,408693,4630090,3050366,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007409,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa - 100027000,408693,4630090,3050368,Amoni
+after_2007,0006,0016,F007409,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa - 100027000,408693,4630090,3050374,TOC
+after_2007,0006,0016,F007409,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa - 100027000,408693,4630090,3050375,Nitrits
+after_2007,0006,0016,F007409,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa - 100027000,408693,4630090,3050376,Nitrats
+after_2007,0006,0016,F007409,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa - 100027000,408693,4630090,3050379,Fosfats
+after_2007,0006,0016,F007410,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers - 100028000",415787,4634995,3057977,TOC
+after_2007,0006,0016,F007410,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers - 100028000",415787,4634995,3057978,Nitrits
+after_2007,0006,0016,F007410,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers - 100028000",415787,4634995,3057979,Nitrats
+after_2007,0006,0016,F007410,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers - 100028000",415787,4634995,3057996,Fosfats
+after_2007,0006,0016,F007410,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers - 100028000",415787,4634995,3058008,Oxigen dissolt (camp)
+after_2007,0006,0016,F007410,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers - 100028000",415787,4634995,3058010,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007410,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers - 100028000",415787,4634995,3058011,Amoni
+after_2007,0006,0016,F007412,Torrent d'Olost - 100032000,424703,4647030,3067093,TOC
+after_2007,0006,0016,F007412,Torrent d'Olost - 100032000,424703,4647030,3067094,Nitrits
+after_2007,0006,0016,F007412,Torrent d'Olost - 100032000,424703,4647030,3067095,Nitrats
+after_2007,0006,0016,F007412,Torrent d'Olost - 100032000,424703,4647030,3067097,Fosfats
+after_2007,0006,0016,F007412,Torrent d'Olost - 100032000,424703,4647030,3067106,Oxigen dissolt (camp)
+after_2007,0006,0016,F007412,Torrent d'Olost - 100032000,424703,4647030,3067108,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007412,Torrent d'Olost - 100032000,424703,4647030,3067109,Amoni
+after_2007,0006,0016,F007413,Riera de Basí - 100033000,420006,4645164,3067116,TOC
+after_2007,0006,0016,F007413,Riera de Basí - 100033000,420006,4645164,3067117,Nitrits
+after_2007,0006,0016,F007413,Riera de Basí - 100033000,420006,4645164,3067118,Nitrats
+after_2007,0006,0016,F007413,Riera de Basí - 100033000,420006,4645164,3067120,Fosfats
+after_2007,0006,0016,F007413,Riera de Basí - 100033000,420006,4645164,3067129,Oxigen dissolt (camp)
+after_2007,0006,0016,F007413,Riera de Basí - 100033000,420006,4645164,3067131,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007413,Riera de Basí - 100033000,420006,4645164,3067132,Amoni
+after_2007,0006,0016,F007414,Riera de Relat - 100034000,415363,4636789,3048262,TOC
+after_2007,0006,0016,F007414,Riera de Relat - 100034000,415363,4636789,3048263,Nitrits
+after_2007,0006,0016,F007414,Riera de Relat - 100034000,415363,4636789,3048264,Nitrats
+after_2007,0006,0016,F007414,Riera de Relat - 100034000,415363,4636789,3048266,Fosfats
+after_2007,0006,0016,F007414,Riera de Relat - 100034000,415363,4636789,3048275,Oxigen dissolt (camp)
+after_2007,0006,0016,F007414,Riera de Relat - 100034000,415363,4636789,3048277,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007414,Riera de Relat - 100034000,415363,4636789,3048278,Amoni
+after_2007,0006,0016,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,3050397,TOC
+after_2007,0006,0016,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,3050398,Nitrits
+after_2007,0006,0016,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,3050399,Nitrats
+after_2007,0006,0016,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,3050415,Fosfats
+after_2007,0006,0016,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,3050425,Oxigen dissolt (camp)
+after_2007,0006,0016,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,3050427,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,3050428,Amoníac no ionitzat
+after_2007,0006,0016,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,3050429,Amoni
+after_2007,0006,0016,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,3050436,TOC
+after_2007,0006,0016,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,3050437,Nitrits
+after_2007,0006,0016,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,3050438,Nitrats
+after_2007,0006,0016,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,3050456,Fosfats
+after_2007,0006,0016,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,3050471,Oxigen dissolt (camp)
+after_2007,0006,0016,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,3050473,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,3050474,Amoníac no ionitzat
+after_2007,0006,0016,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,3050475,Amoni
+after_2007,0006,0016,F007419,Riera de la Golarda i riera de Castellnou - 100041000,418294,4624812,3058064,TOC
+after_2007,0006,0016,F007419,Riera de la Golarda i riera de Castellnou - 100041000,418294,4624812,3058065,Nitrits
+after_2007,0006,0016,F007419,Riera de la Golarda i riera de Castellnou - 100041000,418294,4624812,3058066,Nitrats
+after_2007,0006,0016,F007419,Riera de la Golarda i riera de Castellnou - 100041000,418294,4624812,3058068,Fosfats
+after_2007,0006,0016,F007419,Riera de la Golarda i riera de Castellnou - 100041000,418294,4624812,3058077,Oxigen dissolt (camp)
+after_2007,0006,0016,F007419,Riera de la Golarda i riera de Castellnou - 100041000,418294,4624812,3058079,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007419,Riera de la Golarda i riera de Castellnou - 100041000,418294,4624812,3058080,Amoni
+after_2007,0006,0016,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,3048285,TOC
+after_2007,0006,0016,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,3048286,Nitrits
+after_2007,0006,0016,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,3048287,Nitrats
+after_2007,0006,0016,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,3048305,Fosfats
+after_2007,0006,0016,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,3048318,Oxigen dissolt (camp)
+after_2007,0006,0016,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,3048320,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,3048321,Amoníac no ionitzat
+after_2007,0006,0016,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,3048322,Amoni
+after_2007,0006,0016,F007421,Riu d'Or - 100044000,406735,4620559,3048329,TOC
+after_2007,0006,0016,F007421,Riu d'Or - 100044000,406735,4620559,3048330,Nitrits
+after_2007,0006,0016,F007421,Riu d'Or - 100044000,406735,4620559,3048331,Nitrats
+after_2007,0006,0016,F007421,Riu d'Or - 100044000,406735,4620559,3048348,Fosfats
+after_2007,0006,0016,F007421,Riu d'Or - 100044000,406735,4620559,3048358,Oxigen dissolt (camp)
+after_2007,0006,0016,F007421,Riu d'Or - 100044000,406735,4620559,3048360,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007421,Riu d'Or - 100044000,406735,4620559,3048361,Amoníac no ionitzat
+after_2007,0006,0016,F007421,Riu d'Or - 100044000,406735,4620559,3048362,Amoni
+after_2007,0006,0016,F007428,Riu Negre - 100053000,386754,4642918,3056765,TOC
+after_2007,0006,0016,F007428,Riu Negre - 100053000,386754,4642918,3056766,Nitrits
+after_2007,0006,0016,F007428,Riu Negre - 100053000,386754,4642918,3056767,Nitrats
+after_2007,0006,0016,F007428,Riu Negre - 100053000,386754,4642918,3056769,Fosfats
+after_2007,0006,0016,F007428,Riu Negre - 100053000,386754,4642918,3056778,Oxigen dissolt (camp)
+after_2007,0006,0016,F007428,Riu Negre - 100053000,386754,4642918,3056780,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007428,Riu Negre - 100053000,386754,4642918,3056781,Amoni
+after_2007,0006,0016,F007430,Riera de Navel i rasa de l'Hospital - 100056000,394438,4643383,3056811,TOC
+after_2007,0006,0016,F007430,Riera de Navel i rasa de l'Hospital - 100056000,394438,4643383,3056812,Nitrits
+after_2007,0006,0016,F007430,Riera de Navel i rasa de l'Hospital - 100056000,394438,4643383,3056813,Nitrats
+after_2007,0006,0016,F007430,Riera de Navel i rasa de l'Hospital - 100056000,394438,4643383,3056831,Fosfats
+after_2007,0006,0016,F007430,Riera de Navel i rasa de l'Hospital - 100056000,394438,4643383,3056843,Oxigen dissolt (camp)
+after_2007,0006,0016,F007430,Riera de Navel i rasa de l'Hospital - 100056000,394438,4643383,3056845,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007430,Riera de Navel i rasa de l'Hospital - 100056000,394438,4643383,3056846,Amoni
+after_2007,0006,0016,F007436,Riu Cardener des de Súria fins a l'EDAR de Manresa - 100064000,397128,4629080,3048369,TOC
+after_2007,0006,0016,F007436,Riu Cardener des de Súria fins a l'EDAR de Manresa - 100064000,397128,4629080,3048370,Nitrits
+after_2007,0006,0016,F007436,Riu Cardener des de Súria fins a l'EDAR de Manresa - 100064000,397128,4629080,3048371,Nitrats
+after_2007,0006,0016,F007436,Riu Cardener des de Súria fins a l'EDAR de Manresa - 100064000,397128,4629080,3048373,Fosfats
+after_2007,0006,0016,F007436,Riu Cardener des de Súria fins a l'EDAR de Manresa - 100064000,397128,4629080,3048382,Oxigen dissolt (camp)
+after_2007,0006,0016,F007436,Riu Cardener des de Súria fins a l'EDAR de Manresa - 100064000,397128,4629080,3048384,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007436,Riu Cardener des de Súria fins a l'EDAR de Manresa - 100064000,397128,4629080,3048385,Amoni
+after_2007,0006,0016,F007440,Riera de Rajadell - 100068000,402033,4617836,3059221,TOC
+after_2007,0006,0016,F007440,Riera de Rajadell - 100068000,402033,4617836,3059222,Nitrits
+after_2007,0006,0016,F007440,Riera de Rajadell - 100068000,402033,4617836,3059223,Nitrats
+after_2007,0006,0016,F007440,Riera de Rajadell - 100068000,402033,4617836,3059225,Fosfats
+after_2007,0006,0016,F007440,Riera de Rajadell - 100068000,402033,4617836,3059234,Oxigen dissolt (camp)
+after_2007,0006,0016,F007440,Riera de Rajadell - 100068000,402033,4617836,3059236,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007440,Riera de Rajadell - 100068000,402033,4617836,3059237,Amoni
+after_2007,0006,0016,F007441,Riera de Cornet - 100069000,402353,4615855,3056991,TOC
+after_2007,0006,0016,F007441,Riera de Cornet - 100069000,402353,4615855,3056992,Nitrits
+after_2007,0006,0016,F007441,Riera de Cornet - 100069000,402353,4615855,3056993,Nitrats
+after_2007,0006,0016,F007441,Riera de Cornet - 100069000,402353,4615855,3056995,Fosfats
+after_2007,0006,0016,F007441,Riera de Cornet - 100069000,402353,4615855,3057004,Oxigen dissolt (camp)
+after_2007,0006,0016,F007441,Riera de Cornet - 100069000,402353,4615855,3057006,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007441,Riera de Cornet - 100069000,402353,4615855,3057007,Amoni
+after_2007,0006,0016,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,3050570,TOC
+after_2007,0006,0016,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,3050571,Nitrits
+after_2007,0006,0016,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,3050572,Nitrats
+after_2007,0006,0016,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,3050589,Fosfats
+after_2007,0006,0016,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,3050600,Amoníac no ionitzat
+after_2007,0006,0016,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,3050601,Amoni
+after_2007,0006,0016,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,3059406,Oxigen dissolt (camp)
+after_2007,0006,0016,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,3059407,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,3050608,TOC
+after_2007,0006,0016,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,3050609,Nitrits
+after_2007,0006,0016,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,3050610,Nitrats
+after_2007,0006,0016,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,3050627,Fosfats
+after_2007,0006,0016,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,3050638,Amoníac no ionitzat
+after_2007,0006,0016,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,3050639,Amoni
+after_2007,0006,0016,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,3059408,Oxigen dissolt (camp)
+after_2007,0006,0016,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,3059409,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,3050700,TOC
+after_2007,0006,0016,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,3050701,Nitrits
+after_2007,0006,0016,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,3050702,Nitrats
+after_2007,0006,0016,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,3050720,Fosfats
+after_2007,0006,0016,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,3050736,Amoníac no ionitzat
+after_2007,0006,0016,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,3050737,Amoni
+after_2007,0006,0016,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,3059410,Oxigen dissolt (camp)
+after_2007,0006,0016,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,3059411,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007448,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia - 100076000,409806,4595003,3050745,TOC
+after_2007,0006,0016,F007448,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia - 100076000,409806,4595003,3050746,Nitrits
+after_2007,0006,0016,F007448,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia - 100076000,409806,4595003,3050747,Nitrats
+after_2007,0006,0016,F007448,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia - 100076000,409806,4595003,3050749,Fosfats
+after_2007,0006,0016,F007448,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia - 100076000,409806,4595003,3050758,Amoni
+after_2007,0006,0016,F007448,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia - 100076000,409806,4595003,3057054,Oxigen dissolt (camp)
+after_2007,0006,0016,F007448,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia - 100076000,409806,4595003,3057055,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007450,Conca alta de l'Anoia fins a Igualada - 100078000,378888,4606037,3057062,TOC
+after_2007,0006,0016,F007450,Conca alta de l'Anoia fins a Igualada - 100078000,378888,4606037,3057063,Nitrits
+after_2007,0006,0016,F007450,Conca alta de l'Anoia fins a Igualada - 100078000,378888,4606037,3057064,Nitrats
+after_2007,0006,0016,F007450,Conca alta de l'Anoia fins a Igualada - 100078000,378888,4606037,3057082,Fosfats
+after_2007,0006,0016,F007450,Conca alta de l'Anoia fins a Igualada - 100078000,378888,4606037,3057094,Oxigen dissolt (camp)
+after_2007,0006,0016,F007450,Conca alta de l'Anoia fins a Igualada - 100078000,378888,4606037,3057096,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007450,Conca alta de l'Anoia fins a Igualada - 100078000,378888,4606037,3057097,Amoni
+after_2007,0006,0016,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,3058110,TOC
+after_2007,0006,0016,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,3058111,Nitrits
+after_2007,0006,0016,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,3058112,Nitrats
+after_2007,0006,0016,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,3058128,Fosfats
+after_2007,0006,0016,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,3058138,Oxigen dissolt (camp)
+after_2007,0006,0016,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,3058140,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,3058141,Amoníac no ionitzat
+after_2007,0006,0016,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,3058142,Amoni
+after_2007,0006,0016,F007454,Riu Anoia entre la riera de Carme i el riu de Bitlles - 100082000,396983,4590408,3048461,TOC
+after_2007,0006,0016,F007454,Riu Anoia entre la riera de Carme i el riu de Bitlles - 100082000,396983,4590408,3048462,Nitrits
+after_2007,0006,0016,F007454,Riu Anoia entre la riera de Carme i el riu de Bitlles - 100082000,396983,4590408,3048463,Nitrats
+after_2007,0006,0016,F007454,Riu Anoia entre la riera de Carme i el riu de Bitlles - 100082000,396983,4590408,3048465,Fosfats
+after_2007,0006,0016,F007454,Riu Anoia entre la riera de Carme i el riu de Bitlles - 100082000,396983,4590408,3048474,Oxigen dissolt (camp)
+after_2007,0006,0016,F007454,Riu Anoia entre la riera de Carme i el riu de Bitlles - 100082000,396983,4590408,3048476,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007454,Riu Anoia entre la riera de Carme i el riu de Bitlles - 100082000,396983,4590408,3048477,Amoni
+after_2007,0006,0016,F007455,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - 100083000,394439,4588853,3057104,TOC
+after_2007,0006,0016,F007455,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - 100083000,394439,4588853,3057105,Nitrits
+after_2007,0006,0016,F007455,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - 100083000,394439,4588853,3057106,Nitrats
+after_2007,0006,0016,F007455,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - 100083000,394439,4588853,3057108,Fosfats
+after_2007,0006,0016,F007455,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - 100083000,394439,4588853,3057117,Oxigen dissolt (camp)
+after_2007,0006,0016,F007455,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - 100083000,394439,4588853,3057119,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007455,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - 100083000,394439,4588853,3057120,Amoni
+after_2007,0006,0016,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,3050789,TOC
+after_2007,0006,0016,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,3050790,Nitrits
+after_2007,0006,0016,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,3050791,Nitrats
+after_2007,0006,0016,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,3050808,Fosfats
+after_2007,0006,0016,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,3050818,Oxigen dissolt (camp)
+after_2007,0006,0016,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,3050820,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,3050821,Amoníac no ionitzat
+after_2007,0006,0016,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,3050822,Amoni
+after_2007,0006,0016,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,3048484,TOC
+after_2007,0006,0016,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,3048485,Nitrits
+after_2007,0006,0016,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,3048486,Nitrats
+after_2007,0006,0016,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,3048503,Fosfats
+after_2007,0006,0016,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,3048513,Oxigen dissolt (camp)
+after_2007,0006,0016,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,3048515,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,3048516,Amoníac no ionitzat
+after_2007,0006,0016,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,3048517,Amoni
+after_2007,0006,0016,F007458,Riera de l'Avernó i torrent dels Brivons - 100086000,400668,4586507,3058149,TOC
+after_2007,0006,0016,F007458,Riera de l'Avernó i torrent dels Brivons - 100086000,400668,4586507,3058150,Nitrits
+after_2007,0006,0016,F007458,Riera de l'Avernó i torrent dels Brivons - 100086000,400668,4586507,3058151,Nitrats
+after_2007,0006,0016,F007458,Riera de l'Avernó i torrent dels Brivons - 100086000,400668,4586507,3058167,Fosfats
+after_2007,0006,0016,F007458,Riera de l'Avernó i torrent dels Brivons - 100086000,400668,4586507,3058177,Oxigen dissolt (camp)
+after_2007,0006,0016,F007458,Riera de l'Avernó i torrent dels Brivons - 100086000,400668,4586507,3058179,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007458,Riera de l'Avernó i torrent dels Brivons - 100086000,400668,4586507,3058180,Amoníac no ionitzat
+after_2007,0006,0016,F007458,Riera de l'Avernó i torrent dels Brivons - 100086000,400668,4586507,3058181,Amoni
+after_2007,0006,0016,F007459,Torrent de la Fontsanta - 100087000,402708,4591542,3048524,TOC
+after_2007,0006,0016,F007459,Torrent de la Fontsanta - 100087000,402708,4591542,3048525,Nitrits
+after_2007,0006,0016,F007459,Torrent de la Fontsanta - 100087000,402708,4591542,3048526,Nitrats
+after_2007,0006,0016,F007459,Torrent de la Fontsanta - 100087000,402708,4591542,3048528,Fosfats
+after_2007,0006,0016,F007459,Torrent de la Fontsanta - 100087000,402708,4591542,3048539,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007459,Torrent de la Fontsanta - 100087000,402708,4591542,3048540,Amoni
+after_2007,0006,0016,F007459,Torrent de la Fontsanta - 100087000,402708,4591542,3986091,Oxigen dissolt (camp)
+after_2007,0006,0016,F007460,El Llobregat entre l'Anoia i la riera de Rubí - 100088000,413604,4591758,3050829,TOC
+after_2007,0006,0016,F007460,El Llobregat entre l'Anoia i la riera de Rubí - 100088000,413604,4591758,3050830,Nitrits
+after_2007,0006,0016,F007460,El Llobregat entre l'Anoia i la riera de Rubí - 100088000,413604,4591758,3050831,Nitrats
+after_2007,0006,0016,F007460,El Llobregat entre l'Anoia i la riera de Rubí - 100088000,413604,4591758,3050842,Oxigen dissolt (camp)
+after_2007,0006,0016,F007460,El Llobregat entre l'Anoia i la riera de Rubí - 100088000,413604,4591758,3050844,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007460,El Llobregat entre l'Anoia i la riera de Rubí - 100088000,413604,4591758,3050845,Amoni
+after_2007,0006,0016,F007460,El Llobregat entre l'Anoia i la riera de Rubí - 100088000,413604,4591758,3965450,Fosfats
+after_2007,0006,0016,F007461,Riera de Rubí i riera de les Arenes - 100089000,416091,4589051,3050852,TOC
+after_2007,0006,0016,F007461,Riera de Rubí i riera de les Arenes - 100089000,416091,4589051,3050853,Nitrits
+after_2007,0006,0016,F007461,Riera de Rubí i riera de les Arenes - 100089000,416091,4589051,3050854,Nitrats
+after_2007,0006,0016,F007461,Riera de Rubí i riera de les Arenes - 100089000,416091,4589051,3050856,Fosfats
+after_2007,0006,0016,F007461,Riera de Rubí i riera de les Arenes - 100089000,416091,4589051,3050865,Oxigen dissolt (camp)
+after_2007,0006,0016,F007461,Riera de Rubí i riera de les Arenes - 100089000,416091,4589051,3050867,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007461,Riera de Rubí i riera de les Arenes - 100089000,416091,4589051,3050868,Amoni
+after_2007,0006,0016,F007462,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí - 100090000,420246,4578238,3050920,TOC
+after_2007,0006,0016,F007462,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí - 100090000,420246,4578238,3050921,Nitrits
+after_2007,0006,0016,F007462,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí - 100090000,420246,4578238,3050922,Nitrats
+after_2007,0006,0016,F007462,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí - 100090000,420246,4578238,3050940,Fosfats
+after_2007,0006,0016,F007462,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí - 100090000,420246,4578238,3050952,Oxigen dissolt (camp)
+after_2007,0006,0016,F007462,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí - 100090000,420246,4578238,3050954,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007462,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí - 100090000,420246,4578238,3050955,Amoni
+after_2007,0006,0016,F007467,El Llobregat des de Sant Joan Despí fins al mar - 100095000,425686,4575451,3050995,TOC
+after_2007,0006,0016,F007467,El Llobregat des de Sant Joan Despí fins al mar - 100095000,425686,4575451,3050996,Nitrits
+after_2007,0006,0016,F007467,El Llobregat des de Sant Joan Despí fins al mar - 100095000,425686,4575451,3050997,Nitrats
+after_2007,0006,0016,F007467,El Llobregat des de Sant Joan Despí fins al mar - 100095000,425686,4575451,3051008,Oxigen dissolt (camp)
+after_2007,0006,0016,F007467,El Llobregat des de Sant Joan Despí fins al mar - 100095000,425686,4575451,3051010,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007467,El Llobregat des de Sant Joan Despí fins al mar - 100095000,425686,4575451,3051011,Amoni
+after_2007,0006,0016,F007467,El Llobregat des de Sant Joan Despí fins al mar - 100095000,425686,4575451,3965452,Fosfats
+after_2007,0006,0016,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,3051018,TOC
+after_2007,0006,0016,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,3051019,Nitrits
+after_2007,0006,0016,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,3051020,Nitrats
+after_2007,0006,0016,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,3051037,Fosfats
+after_2007,0006,0016,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,3051047,Oxigen dissolt (camp)
+after_2007,0006,0016,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,3051049,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,3051050,Amoníac no ionitzat
+after_2007,0006,0016,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,3051051,Amoni
+after_2007,0006,0016,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,3048587,TOC
+after_2007,0006,0016,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,3048588,Nitrits
+after_2007,0006,0016,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,3048589,Nitrats
+after_2007,0006,0016,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,3048616,Oxigen dissolt (camp)
+after_2007,0006,0016,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,3048618,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,3048619,Amoníac no ionitzat
+after_2007,0006,0016,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,3048620,Amoni
+after_2007,0006,0016,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,3986094,Fosfats
+after_2007,0006,0016,F007471,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa - 110005000",441159,4612020,3065668,Amoni
+after_2007,0006,0016,F007471,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa - 110005000",441159,4612020,3065669,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007471,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa - 110005000",441159,4612020,3065671,Oxigen dissolt (camp)
+after_2007,0006,0016,F007471,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa - 110005000",441159,4612020,3065680,Fosfats
+after_2007,0006,0016,F007471,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa - 110005000",441159,4612020,3065682,Nitrats
+after_2007,0006,0016,F007471,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa - 110005000",441159,4612020,3065683,Nitrits
+after_2007,0006,0016,F007471,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa - 110005000",441159,4612020,3065684,TOC
+after_2007,0006,0016,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,3051058,TOC
+after_2007,0006,0016,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,3051059,Nitrits
+after_2007,0006,0016,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,3051060,Nitrats
+after_2007,0006,0016,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,3051077,Fosfats
+after_2007,0006,0016,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,3051087,Oxigen dissolt (camp)
+after_2007,0006,0016,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,3051089,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,3051090,Amoníac no ionitzat
+after_2007,0006,0016,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,3051091,Amoni
+after_2007,0006,0016,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,3051098,TOC
+after_2007,0006,0016,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,3051099,Nitrits
+after_2007,0006,0016,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,3051100,Nitrats
+after_2007,0006,0016,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,3051117,Fosfats
+after_2007,0006,0016,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,3051127,Oxigen dissolt (camp)
+after_2007,0006,0016,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,3051129,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,3051130,Amoníac no ionitzat
+after_2007,0006,0016,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,3051131,Amoni
+after_2007,0006,0016,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,3051138,TOC
+after_2007,0006,0016,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,3051139,Nitrits
+after_2007,0006,0016,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,3051140,Nitrats
+after_2007,0006,0016,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,3051157,Fosfats
+after_2007,0006,0016,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,3051167,Oxigen dissolt (camp)
+after_2007,0006,0016,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,3051169,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,3051170,Amoníac no ionitzat
+after_2007,0006,0016,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,3051171,Amoni
+after_2007,0006,0016,F007475,Riera de Cànoves des de la presa de Valforners fins al Mogent - 110010000,446378,4611753,3048627,TOC
+after_2007,0006,0016,F007475,Riera de Cànoves des de la presa de Valforners fins al Mogent - 110010000,446378,4611753,3048628,Nitrits
+after_2007,0006,0016,F007475,Riera de Cànoves des de la presa de Valforners fins al Mogent - 110010000,446378,4611753,3048629,Nitrats
+after_2007,0006,0016,F007475,Riera de Cànoves des de la presa de Valforners fins al Mogent - 110010000,446378,4611753,3048631,Fosfats
+after_2007,0006,0016,F007475,Riera de Cànoves des de la presa de Valforners fins al Mogent - 110010000,446378,4611753,3048640,Oxigen dissolt (camp)
+after_2007,0006,0016,F007475,Riera de Cànoves des de la presa de Valforners fins al Mogent - 110010000,446378,4611753,3048642,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007475,Riera de Cànoves des de la presa de Valforners fins al Mogent - 110010000,446378,4611753,3048643,Amoni
+after_2007,0006,0016,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,3051178,TOC
+after_2007,0006,0016,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,3051179,Nitrits
+after_2007,0006,0016,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,3051180,Nitrats
+after_2007,0006,0016,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,3051197,Fosfats
+after_2007,0006,0016,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,3051207,Oxigen dissolt (camp)
+after_2007,0006,0016,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,3051209,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,3051210,Amoníac no ionitzat
+after_2007,0006,0016,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,3051211,Amoni
+after_2007,0006,0016,F007477,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)  - 110012000,432624,4617144,3065691,Amoni
+after_2007,0006,0016,F007477,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)  - 110012000,432624,4617144,3065692,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007477,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)  - 110012000,432624,4617144,3065694,Oxigen dissolt (camp)
+after_2007,0006,0016,F007477,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)  - 110012000,432624,4617144,3065724,Nitrats
+after_2007,0006,0016,F007477,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)  - 110012000,432624,4617144,3065725,Nitrits
+after_2007,0006,0016,F007477,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)  - 110012000,432624,4617144,3065726,TOC
+after_2007,0006,0016,F007477,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)  - 110012000,432624,4617144,3986098,Fosfats
+after_2007,0006,0016,F007478,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana - 110014000,436069,4611473,3048650,TOC
+after_2007,0006,0016,F007478,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana - 110014000,436069,4611473,3048651,Nitrits
+after_2007,0006,0016,F007478,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana - 110014000,436069,4611473,3048652,Nitrats
+after_2007,0006,0016,F007478,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana - 110014000,436069,4611473,3048654,Fosfats
+after_2007,0006,0016,F007478,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana - 110014000,436069,4611473,3048663,Oxigen dissolt (camp)
+after_2007,0006,0016,F007478,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana - 110014000,436069,4611473,3048665,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007478,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana - 110014000,436069,4611473,3048666,Amoni
+after_2007,0006,0016,F007479,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat - 110016000,437114,4604148,3057173,TOC
+after_2007,0006,0016,F007479,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat - 110016000,437114,4604148,3057174,Nitrits
+after_2007,0006,0016,F007479,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat - 110016000,437114,4604148,3057175,Nitrats
+after_2007,0006,0016,F007479,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat - 110016000,437114,4604148,3057177,Fosfats
+after_2007,0006,0016,F007479,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat - 110016000,437114,4604148,3057186,Oxigen dissolt (camp)
+after_2007,0006,0016,F007479,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat - 110016000,437114,4604148,3057188,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007479,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat - 110016000,437114,4604148,3057189,Amoni
+after_2007,0006,0016,F007480,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca - 110017000",435853,4599484,3048673,TOC
+after_2007,0006,0016,F007480,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca - 110017000",435853,4599484,3048674,Nitrits
+after_2007,0006,0016,F007480,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca - 110017000",435853,4599484,3048675,Nitrats
+after_2007,0006,0016,F007480,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca - 110017000",435853,4599484,3048677,Fosfats
+after_2007,0006,0016,F007480,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca - 110017000",435853,4599484,3048686,Oxigen dissolt (camp)
+after_2007,0006,0016,F007480,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca - 110017000",435853,4599484,3048688,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007480,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca - 110017000",435853,4599484,3048689,Amoni
+after_2007,0006,0016,F007481,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll  - 110018000,432651,4593766,3051218,TOC
+after_2007,0006,0016,F007481,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll  - 110018000,432651,4593766,3051219,Nitrits
+after_2007,0006,0016,F007481,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll  - 110018000,432651,4593766,3051220,Nitrats
+after_2007,0006,0016,F007481,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll  - 110018000,432651,4593766,3051222,Fosfats
+after_2007,0006,0016,F007481,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll  - 110018000,432651,4593766,3051231,Oxigen dissolt (camp)
+after_2007,0006,0016,F007481,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll  - 110018000,432651,4593766,3051233,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007481,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll  - 110018000,432651,4593766,3051234,Amoni
+after_2007,0006,0016,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,3051295,TOC
+after_2007,0006,0016,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,3051296,Nitrits
+after_2007,0006,0016,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,3051297,Nitrats
+after_2007,0006,0016,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,3051315,Fosfats
+after_2007,0006,0016,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,3051331,Oxigen dissolt (camp)
+after_2007,0006,0016,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,3051333,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,3051334,Amoníac no ionitzat
+after_2007,0006,0016,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,3051335,Amoni
+after_2007,0006,0016,F007483,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs - 110020000,431189,4602873,3051342,TOC
+after_2007,0006,0016,F007483,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs - 110020000,431189,4602873,3051343,Nitrits
+after_2007,0006,0016,F007483,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs - 110020000,431189,4602873,3051344,Nitrats
+after_2007,0006,0016,F007483,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs - 110020000,431189,4602873,3051346,Fosfats
+after_2007,0006,0016,F007483,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs - 110020000,431189,4602873,3051355,Oxigen dissolt (camp)
+after_2007,0006,0016,F007483,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs - 110020000,431189,4602873,3051357,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007483,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs - 110020000,431189,4602873,3051358,Amoni
+after_2007,0006,0016,F007484,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020500,426754,4609085,3065733,Amoni
+after_2007,0006,0016,F007484,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020500,426754,4609085,3065734,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007484,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020500,426754,4609085,3065736,Oxigen dissolt (camp)
+after_2007,0006,0016,F007484,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020500,426754,4609085,3065766,Nitrats
+after_2007,0006,0016,F007484,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020500,426754,4609085,3065767,Nitrits
+after_2007,0006,0016,F007484,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020500,426754,4609085,3065768,TOC
+after_2007,0006,0016,F007484,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020500,426754,4609085,3986103,Fosfats
+after_2007,0006,0016,F007485,Riera de Sentmenat des de Sentmenat a la riera de Caldes - 110020700,429597,4604240,3057196,TOC
+after_2007,0006,0016,F007485,Riera de Sentmenat des de Sentmenat a la riera de Caldes - 110020700,429597,4604240,3057197,Nitrits
+after_2007,0006,0016,F007485,Riera de Sentmenat des de Sentmenat a la riera de Caldes - 110020700,429597,4604240,3057198,Nitrats
+after_2007,0006,0016,F007485,Riera de Sentmenat des de Sentmenat a la riera de Caldes - 110020700,429597,4604240,3057200,Fosfats
+after_2007,0006,0016,F007485,Riera de Sentmenat des de Sentmenat a la riera de Caldes - 110020700,429597,4604240,3057209,Oxigen dissolt (camp)
+after_2007,0006,0016,F007485,Riera de Sentmenat des de Sentmenat a la riera de Caldes - 110020700,429597,4604240,3057211,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007485,Riera de Sentmenat des de Sentmenat a la riera de Caldes - 110020700,429597,4604240,3057212,Amoni
+after_2007,0006,0016,F007486,Riera Seca - 110021000,429375,4598548,3051365,TOC
+after_2007,0006,0016,F007486,Riera Seca - 110021000,429375,4598548,3051366,Nitrits
+after_2007,0006,0016,F007486,Riera Seca - 110021000,429375,4598548,3051367,Nitrats
+after_2007,0006,0016,F007486,Riera Seca - 110021000,429375,4598548,3051369,Fosfats
+after_2007,0006,0016,F007486,Riera Seca - 110021000,429375,4598548,3051378,Oxigen dissolt (camp)
+after_2007,0006,0016,F007486,Riera Seca - 110021000,429375,4598548,3051380,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007486,Riera Seca - 110021000,429375,4598548,3051381,Amoni
+after_2007,0006,0016,F007487,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt - 110022000,421418,4610624,3065775,Amoni
+after_2007,0006,0016,F007487,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt - 110022000,421418,4610624,3065776,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007487,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt - 110022000,421418,4610624,3065778,Oxigen dissolt (camp)
+after_2007,0006,0016,F007487,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt - 110022000,421418,4610624,3065808,Nitrats
+after_2007,0006,0016,F007487,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt - 110022000,421418,4610624,3065809,Nitrits
+after_2007,0006,0016,F007487,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt - 110022000,421418,4610624,3065810,TOC
+after_2007,0006,0016,F007487,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt - 110022000,421418,4610624,3986109,Fosfats
+after_2007,0006,0016,F007488,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès - 110023000,422644,4607781,3057219,TOC
+after_2007,0006,0016,F007488,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès - 110023000,422644,4607781,3057220,Nitrits
+after_2007,0006,0016,F007488,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès - 110023000,422644,4607781,3057221,Nitrats
+after_2007,0006,0016,F007488,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès - 110023000,422644,4607781,3057223,Fosfats
+after_2007,0006,0016,F007488,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès - 110023000,422644,4607781,3057232,Oxigen dissolt (camp)
+after_2007,0006,0016,F007488,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès - 110023000,422644,4607781,3057234,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007488,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès - 110023000,422644,4607781,3057235,Amoni
+after_2007,0006,0016,F007489,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell - 110024000,425278,4602157,3051388,TOC
+after_2007,0006,0016,F007489,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell - 110024000,425278,4602157,3051389,Nitrits
+after_2007,0006,0016,F007489,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell - 110024000,425278,4602157,3051390,Nitrats
+after_2007,0006,0016,F007489,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell - 110024000,425278,4602157,3051392,Fosfats
+after_2007,0006,0016,F007489,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell - 110024000,425278,4602157,3051401,Oxigen dissolt (camp)
+after_2007,0006,0016,F007489,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell - 110024000,425278,4602157,3051403,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007489,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell - 110024000,425278,4602157,3051404,Amoni
+after_2007,0006,0016,F007490,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs - 110025000,432000,4593213,3051411,TOC
+after_2007,0006,0016,F007490,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs - 110025000,432000,4593213,3051412,Nitrits
+after_2007,0006,0016,F007490,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs - 110025000,432000,4593213,3051413,Nitrats
+after_2007,0006,0016,F007490,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs - 110025000,432000,4593213,3051415,Fosfats
+after_2007,0006,0016,F007490,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs - 110025000,432000,4593213,3051424,Oxigen dissolt (camp)
+after_2007,0006,0016,F007490,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs - 110025000,432000,4593213,3051426,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007490,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs - 110025000,432000,4593213,3051427,Amoni
+after_2007,0006,0016,F007491,Riu Sec (Besòs) - 110026000,429192,4593550,3051434,TOC
+after_2007,0006,0016,F007491,Riu Sec (Besòs) - 110026000,429192,4593550,3051435,Nitrits
+after_2007,0006,0016,F007491,Riu Sec (Besòs) - 110026000,429192,4593550,3051436,Nitrats
+after_2007,0006,0016,F007491,Riu Sec (Besòs) - 110026000,429192,4593550,3051438,Fosfats
+after_2007,0006,0016,F007491,Riu Sec (Besòs) - 110026000,429192,4593550,3051447,Oxigen dissolt (camp)
+after_2007,0006,0016,F007491,Riu Sec (Besòs) - 110026000,429192,4593550,3051449,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007491,Riu Sec (Besòs) - 110026000,429192,4593550,3051450,Amoni
+after_2007,0006,0016,F007492,Riera de Sant Cugat - 110028000,427156,4592468,3057242,TOC
+after_2007,0006,0016,F007492,Riera de Sant Cugat - 110028000,427156,4592468,3057243,Nitrits
+after_2007,0006,0016,F007492,Riera de Sant Cugat - 110028000,427156,4592468,3057244,Nitrats
+after_2007,0006,0016,F007492,Riera de Sant Cugat - 110028000,427156,4592468,3057246,Fosfats
+after_2007,0006,0016,F007492,Riera de Sant Cugat - 110028000,427156,4592468,3057255,Oxigen dissolt (camp)
+after_2007,0006,0016,F007492,Riera de Sant Cugat - 110028000,427156,4592468,3057257,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007492,Riera de Sant Cugat - 110028000,427156,4592468,3057258,Amoni
+after_2007,0006,0016,F007493,El Besòs des de la confluència del Ripoll fins al mar - 110030000,433240,4589118,3051457,TOC
+after_2007,0006,0016,F007493,El Besòs des de la confluència del Ripoll fins al mar - 110030000,433240,4589118,3051458,Nitrits
+after_2007,0006,0016,F007493,El Besòs des de la confluència del Ripoll fins al mar - 110030000,433240,4589118,3051459,Nitrats
+after_2007,0006,0016,F007493,El Besòs des de la confluència del Ripoll fins al mar - 110030000,433240,4589118,3051461,Fosfats
+after_2007,0006,0016,F007493,El Besòs des de la confluència del Ripoll fins al mar - 110030000,433240,4589118,3051470,Oxigen dissolt (camp)
+after_2007,0006,0016,F007493,El Besòs des de la confluència del Ripoll fins al mar - 110030000,433240,4589118,3051472,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007493,El Besòs des de la confluència del Ripoll fins al mar - 110030000,433240,4589118,3051473,Amoni
+after_2007,0006,0016,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,3051722,TOC
+after_2007,0006,0016,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,3051723,Nitrits
+after_2007,0006,0016,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,3051724,Nitrats
+after_2007,0006,0016,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,3051762,Oxigen dissolt (camp)
+after_2007,0006,0016,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,3051764,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,3051765,Amoníac no ionitzat
+after_2007,0006,0016,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,3051766,Amoni
+after_2007,0006,0016,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,3986112,Fosfats
+after_2007,0006,0016,F007500,Riera de Vallgorguina - 140004000,456791,4612483,3048933,TOC
+after_2007,0006,0016,F007500,Riera de Vallgorguina - 140004000,456791,4612483,3048934,Nitrits
+after_2007,0006,0016,F007500,Riera de Vallgorguina - 140004000,456791,4612483,3048935,Nitrats
+after_2007,0006,0016,F007500,Riera de Vallgorguina - 140004000,456791,4612483,3048953,Fosfats
+after_2007,0006,0016,F007500,Riera de Vallgorguina - 140004000,456791,4612483,3048973,Oxigen dissolt (camp)
+after_2007,0006,0016,F007500,Riera de Vallgorguina - 140004000,456791,4612483,3048975,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007500,Riera de Vallgorguina - 140004000,456791,4612483,3048976,Amoníac no ionitzat
+after_2007,0006,0016,F007500,Riera de Vallgorguina - 140004000,456791,4612483,3048977,Amoni
+after_2007,0006,0016,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,3051773,TOC
+after_2007,0006,0016,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,3051774,Nitrits
+after_2007,0006,0016,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,3051775,Nitrats
+after_2007,0006,0016,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,3051792,Fosfats
+after_2007,0006,0016,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,3051802,Oxigen dissolt (camp)
+after_2007,0006,0016,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,3051804,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,3051805,Amoníac no ionitzat
+after_2007,0006,0016,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,3051806,Amoni
+after_2007,0006,0016,F007505,Riera de Breda - 140011000,463368,4620915,3051917,TOC
+after_2007,0006,0016,F007505,Riera de Breda - 140011000,463368,4620915,3051918,Nitrits
+after_2007,0006,0016,F007505,Riera de Breda - 140011000,463368,4620915,3051919,Nitrats
+after_2007,0006,0016,F007505,Riera de Breda - 140011000,463368,4620915,3051936,Fosfats
+after_2007,0006,0016,F007505,Riera de Breda - 140011000,463368,4620915,3051946,Oxigen dissolt (camp)
+after_2007,0006,0016,F007505,Riera de Breda - 140011000,463368,4620915,3051948,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007505,Riera de Breda - 140011000,463368,4620915,3051949,Amoníac no ionitzat
+after_2007,0006,0016,F007505,Riera de Breda - 140011000,463368,4620915,3051950,Amoni
+after_2007,0006,0016,F007507,Tram baix de la riera d'Arbúcies - 140014000,467165,4622820,3070485,Amoni
+after_2007,0006,0016,F007507,Tram baix de la riera d'Arbúcies - 140014000,467165,4622820,3070486,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007507,Tram baix de la riera d'Arbúcies - 140014000,467165,4622820,3070488,Oxigen dissolt (camp)
+after_2007,0006,0016,F007507,Tram baix de la riera d'Arbúcies - 140014000,467165,4622820,3070497,Fosfats
+after_2007,0006,0016,F007507,Tram baix de la riera d'Arbúcies - 140014000,467165,4622820,3070499,Nitrats
+after_2007,0006,0016,F007507,Tram baix de la riera d'Arbúcies - 140014000,467165,4622820,3070500,Nitrits
+after_2007,0006,0016,F007507,Tram baix de la riera d'Arbúcies - 140014000,467165,4622820,3070501,TOC
+after_2007,0006,0016,F007508,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma - 140015000,472830,4621157,3049077,TOC
+after_2007,0006,0016,F007508,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma - 140015000,472830,4621157,3049078,Nitrits
+after_2007,0006,0016,F007508,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma - 140015000,472830,4621157,3049079,Nitrats
+after_2007,0006,0016,F007508,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma - 140015000,472830,4621157,3049097,Fosfats
+after_2007,0006,0016,F007508,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma - 140015000,472830,4621157,3049117,Oxigen dissolt (camp)
+after_2007,0006,0016,F007508,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma - 140015000,472830,4621157,3049119,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007508,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma - 140015000,472830,4621157,3049121,Amoni
+after_2007,0006,0016,F007510,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000 - 140017000,473899,4631816,3065882,Amoni
+after_2007,0006,0016,F007510,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000 - 140017000,473899,4631816,3065883,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007510,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000 - 140017000,473899,4631816,3065885,Oxigen dissolt (camp)
+after_2007,0006,0016,F007510,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000 - 140017000,473899,4631816,3065894,Fosfats
+after_2007,0006,0016,F007510,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000 - 140017000,473899,4631816,3065896,Nitrats
+after_2007,0006,0016,F007510,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000 - 140017000,473899,4631816,3065897,Nitrits
+after_2007,0006,0016,F007510,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000 - 140017000,473899,4631816,3065898,TOC
+after_2007,0006,0016,F007512,Sèquia de Sils - 140019000,474189,4626704,3052071,TOC
+after_2007,0006,0016,F007512,Sèquia de Sils - 140019000,474189,4626704,3052072,Nitrits
+after_2007,0006,0016,F007512,Sèquia de Sils - 140019000,474189,4626704,3052073,Nitrats
+after_2007,0006,0016,F007512,Sèquia de Sils - 140019000,474189,4626704,3052075,Fosfats
+after_2007,0006,0016,F007512,Sèquia de Sils - 140019000,474189,4626704,3052084,Oxigen dissolt (camp)
+after_2007,0006,0016,F007512,Sèquia de Sils - 140019000,474189,4626704,3052086,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007512,Sèquia de Sils - 140019000,474189,4626704,3052087,Amoni
+after_2007,0006,0016,F007512,Sèquia de Sils - 140019000,474189,4626704,3052207,Amoníac no ionitzat
+after_2007,0006,0016,F007513,El Reclar i riera de Pins - 140020000,478735,4627523,3113266,Amoni
+after_2007,0006,0016,F007513,El Reclar i riera de Pins - 140020000,478735,4627523,3113267,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007513,El Reclar i riera de Pins - 140020000,478735,4627523,3113269,Oxigen dissolt (camp)
+after_2007,0006,0016,F007513,El Reclar i riera de Pins - 140020000,478735,4627523,3113278,Fosfats
+after_2007,0006,0016,F007513,El Reclar i riera de Pins - 140020000,478735,4627523,3113280,Nitrats
+after_2007,0006,0016,F007513,El Reclar i riera de Pins - 140020000,478735,4627523,3113281,Nitrits
+after_2007,0006,0016,F007513,El Reclar i riera de Pins - 140020000,478735,4627523,3113282,TOC
+after_2007,0006,0016,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,3052214,TOC
+after_2007,0006,0016,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,3052215,Nitrits
+after_2007,0006,0016,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,3052216,Nitrats
+after_2007,0006,0016,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,3052233,Fosfats
+after_2007,0006,0016,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,3052243,Oxigen dissolt (camp)
+after_2007,0006,0016,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,3052245,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,3052246,Amoníac no ionitzat
+after_2007,0006,0016,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,3052247,Amoni
+after_2007,0006,0016,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,3052358,TOC
+after_2007,0006,0016,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,3052359,Nitrits
+after_2007,0006,0016,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,3052360,Nitrats
+after_2007,0006,0016,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,3052377,Fosfats
+after_2007,0006,0016,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,3052387,Oxigen dissolt (camp)
+after_2007,0006,0016,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,3052389,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,3052390,Amoníac no ionitzat
+after_2007,0006,0016,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,3052391,Amoni
+after_2007,0006,0016,F007521,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar  - 160002000,503573,4628943,3052525,TOC
+after_2007,0006,0016,F007521,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar  - 160002000,503573,4628943,3052526,Nitrits
+after_2007,0006,0016,F007521,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar  - 160002000,503573,4628943,3052527,Nitrats
+after_2007,0006,0016,F007521,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar  - 160002000,503573,4628943,3052529,Fosfats
+after_2007,0006,0016,F007521,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar  - 160002000,503573,4628943,3052538,Oxigen dissolt (camp)
+after_2007,0006,0016,F007521,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar  - 160002000,503573,4628943,3052540,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007521,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar  - 160002000,503573,4628943,3052541,Amoni
+after_2007,0006,0016,F007524,Riera d'Aubi - 180001000,512771,4637902,3052548,TOC
+after_2007,0006,0016,F007524,Riera d'Aubi - 180001000,512771,4637902,3052549,Nitrits
+after_2007,0006,0016,F007524,Riera d'Aubi - 180001000,512771,4637902,3052550,Nitrats
+after_2007,0006,0016,F007524,Riera d'Aubi - 180001000,512771,4637902,3052552,Fosfats
+after_2007,0006,0016,F007524,Riera d'Aubi - 180001000,512771,4637902,3052561,Oxigen dissolt (camp)
+after_2007,0006,0016,F007524,Riera d'Aubi - 180001000,512771,4637902,3052563,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007524,Riera d'Aubi - 180001000,512771,4637902,3052564,Amoni
+after_2007,0006,0016,F007526,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal) - 190002000,503425,4647607,3052571,TOC
+after_2007,0006,0016,F007526,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal) - 190002000,503425,4647607,3052572,Nitrits
+after_2007,0006,0016,F007526,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal) - 190002000,503425,4647607,3052573,Nitrats
+after_2007,0006,0016,F007526,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal) - 190002000,503425,4647607,3052575,Fosfats
+after_2007,0006,0016,F007526,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal) - 190002000,503425,4647607,3052584,Oxigen dissolt (camp)
+after_2007,0006,0016,F007526,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal) - 190002000,503425,4647607,3052586,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007526,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal) - 190002000,503425,4647607,3052587,Amoni
+after_2007,0006,0016,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,3052594,TOC
+after_2007,0006,0016,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,3052595,Nitrits
+after_2007,0006,0016,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,3052596,Nitrats
+after_2007,0006,0016,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,3052623,Oxigen dissolt (camp)
+after_2007,0006,0016,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,3052625,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,3052626,Amoníac no ionitzat
+after_2007,0006,0016,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,3052627,Amoni
+after_2007,0006,0016,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,3986120,Fosfats
+after_2007,0006,0016,F007540,El Ges des de la confluència del Fornès fins al Ter - 200014000,439545,4655609,3070439,Amoni
+after_2007,0006,0016,F007540,El Ges des de la confluència del Fornès fins al Ter - 200014000,439545,4655609,3070440,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007540,El Ges des de la confluència del Fornès fins al Ter - 200014000,439545,4655609,3070442,Oxigen dissolt (camp)
+after_2007,0006,0016,F007540,El Ges des de la confluència del Fornès fins al Ter - 200014000,439545,4655609,3070453,Nitrats
+after_2007,0006,0016,F007540,El Ges des de la confluència del Fornès fins al Ter - 200014000,439545,4655609,3070454,Nitrits
+after_2007,0006,0016,F007540,El Ges des de la confluència del Fornès fins al Ter - 200014000,439545,4655609,3070455,TOC
+after_2007,0006,0016,F007540,El Ges des de la confluència del Fornès fins al Ter - 200014000,439545,4655609,3965769,Fosfats
+after_2007,0006,0016,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,3052734,TOC
+after_2007,0006,0016,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,3052735,Nitrits
+after_2007,0006,0016,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,3052736,Nitrats
+after_2007,0006,0016,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,3052754,Fosfats
+after_2007,0006,0016,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,3052770,Oxigen dissolt (camp)
+after_2007,0006,0016,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,3052772,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,3052773,Amoníac no ionitzat
+after_2007,0006,0016,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,3052774,Amoni
+after_2007,0006,0016,F007542,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN) - 200017000,432891,4650667,3070612,Amoni
+after_2007,0006,0016,F007542,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN) - 200017000,432891,4650667,3070613,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007542,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN) - 200017000,432891,4650667,3070615,Oxigen dissolt (camp)
+after_2007,0006,0016,F007542,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN) - 200017000,432891,4650667,3070626,Nitrats
+after_2007,0006,0016,F007542,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN) - 200017000,432891,4650667,3070627,Nitrits
+after_2007,0006,0016,F007542,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN) - 200017000,432891,4650667,3070628,TOC
+after_2007,0006,0016,F007542,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN) - 200017000,432891,4650667,3965770,Fosfats
+after_2007,0006,0016,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,3049387,TOC
+after_2007,0006,0016,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,3049388,Nitrits
+after_2007,0006,0016,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,3049389,Nitrats
+after_2007,0006,0016,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,3049406,Fosfats
+after_2007,0006,0016,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,3049416,Oxigen dissolt (camp)
+after_2007,0006,0016,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,3049418,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,3049419,Amoníac no ionitzat
+after_2007,0006,0016,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,3049420,Amoni
+after_2007,0006,0016,F007544,Capçalera del Gurri fins a la confluència amb la riera de Tona - 200019000,438514,4635618,3070635,Amoni
+after_2007,0006,0016,F007544,Capçalera del Gurri fins a la confluència amb la riera de Tona - 200019000,438514,4635618,3070636,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007544,Capçalera del Gurri fins a la confluència amb la riera de Tona - 200019000,438514,4635618,3070638,Oxigen dissolt (camp)
+after_2007,0006,0016,F007544,Capçalera del Gurri fins a la confluència amb la riera de Tona - 200019000,438514,4635618,3070647,Fosfats
+after_2007,0006,0016,F007544,Capçalera del Gurri fins a la confluència amb la riera de Tona - 200019000,438514,4635618,3070649,Nitrats
+after_2007,0006,0016,F007544,Capçalera del Gurri fins a la confluència amb la riera de Tona - 200019000,438514,4635618,3070650,Nitrits
+after_2007,0006,0016,F007544,Capçalera del Gurri fins a la confluència amb la riera de Tona - 200019000,438514,4635618,3070651,TOC
+after_2007,0006,0016,F007545,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol - 200019500",439959,4642899,3049427,TOC
+after_2007,0006,0016,F007545,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol - 200019500",439959,4642899,3049428,Nitrits
+after_2007,0006,0016,F007545,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol - 200019500",439959,4642899,3049429,Nitrats
+after_2007,0006,0016,F007545,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol - 200019500",439959,4642899,3049431,Fosfats
+after_2007,0006,0016,F007545,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol - 200019500",439959,4642899,3049440,Oxigen dissolt (camp)
+after_2007,0006,0016,F007545,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol - 200019500",439959,4642899,3049442,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007545,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol - 200019500",439959,4642899,3049443,Amoni
+after_2007,0006,0016,F007546,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles) - 200020000,441143,4648214,3049450,TOC
+after_2007,0006,0016,F007546,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles) - 200020000,441143,4648214,3049451,Nitrits
+after_2007,0006,0016,F007546,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles) - 200020000,441143,4648214,3049452,Nitrats
+after_2007,0006,0016,F007546,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles) - 200020000,441143,4648214,3049454,Fosfats
+after_2007,0006,0016,F007546,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles) - 200020000,441143,4648214,3049463,Oxigen dissolt (camp)
+after_2007,0006,0016,F007546,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles) - 200020000,441143,4648214,3049465,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007546,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles) - 200020000,441143,4648214,3049466,Amoni
+after_2007,0006,0016,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,3052781,TOC
+after_2007,0006,0016,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,3052782,Nitrits
+after_2007,0006,0016,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,3052783,Nitrats
+after_2007,0006,0016,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,3052810,Oxigen dissolt (camp)
+after_2007,0006,0016,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,3052812,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,3052813,Amoníac no ionitzat
+after_2007,0006,0016,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,3052814,Amoni
+after_2007,0006,0016,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,3965771,Fosfats
+after_2007,0006,0016,F007548,Riera de les Gorgues - 200023000,447968,4652914,3049473,TOC
+after_2007,0006,0016,F007548,Riera de les Gorgues - 200023000,447968,4652914,3049474,Nitrits
+after_2007,0006,0016,F007548,Riera de les Gorgues - 200023000,447968,4652914,3049475,Nitrats
+after_2007,0006,0016,F007548,Riera de les Gorgues - 200023000,447968,4652914,3049486,Oxigen dissolt (camp)
+after_2007,0006,0016,F007548,Riera de les Gorgues - 200023000,447968,4652914,3049488,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007548,Riera de les Gorgues - 200023000,447968,4652914,3049489,Amoni
+after_2007,0006,0016,F007548,Riera de les Gorgues - 200023000,447968,4652914,3965772,Fosfats
+after_2007,0006,0016,F007549,Riera Major - 200024000,450572,4642446,3074112,Amoni
+after_2007,0006,0016,F007549,Riera Major - 200024000,450572,4642446,3074113,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007549,Riera Major - 200024000,450572,4642446,3074115,Oxigen dissolt (camp)
+after_2007,0006,0016,F007549,Riera Major - 200024000,450572,4642446,3074127,Fosfats
+after_2007,0006,0016,F007549,Riera Major - 200024000,450572,4642446,3074145,Nitrats
+after_2007,0006,0016,F007549,Riera Major - 200024000,450572,4642446,3074146,Nitrits
+after_2007,0006,0016,F007549,Riera Major - 200024000,450572,4642446,3074147,TOC
+after_2007,0006,0016,F007550,Riera de Rupit - 200025000,456363,4651776,3070658,Amoni
+after_2007,0006,0016,F007550,Riera de Rupit - 200025000,456363,4651776,3070659,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007550,Riera de Rupit - 200025000,456363,4651776,3070661,Oxigen dissolt (camp)
+after_2007,0006,0016,F007550,Riera de Rupit - 200025000,456363,4651776,3070670,Fosfats
+after_2007,0006,0016,F007550,Riera de Rupit - 200025000,456363,4651776,3070672,Nitrats
+after_2007,0006,0016,F007550,Riera de Rupit - 200025000,456363,4651776,3070673,Nitrits
+after_2007,0006,0016,F007550,Riera de Rupit - 200025000,456363,4651776,3070674,TOC
+after_2007,0006,0016,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,3052915,TOC
+after_2007,0006,0016,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,3052916,Nitrits
+after_2007,0006,0016,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,3052917,Nitrats
+after_2007,0006,0016,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,3052935,Fosfats
+after_2007,0006,0016,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,3052951,Oxigen dissolt (camp)
+after_2007,0006,0016,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,3052953,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,3052954,Amoníac no ionitzat
+after_2007,0006,0016,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,3052955,Amoni
+after_2007,0006,0016,F007557,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra - 200033000,482897,4636730,3063780,TOC
+after_2007,0006,0016,F007557,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra - 200033000,482897,4636730,3063781,Nitrits
+after_2007,0006,0016,F007557,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra - 200033000,482897,4636730,3063782,Nitrats
+after_2007,0006,0016,F007557,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra - 200033000,482897,4636730,3063784,Fosfats
+after_2007,0006,0016,F007557,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra - 200033000,482897,4636730,3063793,Oxigen dissolt (camp)
+after_2007,0006,0016,F007557,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra - 200033000,482897,4636730,3063795,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007557,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra - 200033000,482897,4636730,3063796,Amoni
+after_2007,0006,0016,F007558,"Rieres de Gotarra, Verneda i Benaula - 200034000",484973,4639156,3052962,TOC
+after_2007,0006,0016,F007558,"Rieres de Gotarra, Verneda i Benaula - 200034000",484973,4639156,3052963,Nitrits
+after_2007,0006,0016,F007558,"Rieres de Gotarra, Verneda i Benaula - 200034000",484973,4639156,3052964,Nitrats
+after_2007,0006,0016,F007558,"Rieres de Gotarra, Verneda i Benaula - 200034000",484973,4639156,3052966,Fosfats
+after_2007,0006,0016,F007558,"Rieres de Gotarra, Verneda i Benaula - 200034000",484973,4639156,3052975,Oxigen dissolt (camp)
+after_2007,0006,0016,F007558,"Rieres de Gotarra, Verneda i Benaula - 200034000",484973,4639156,3052977,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007558,"Rieres de Gotarra, Verneda i Benaula - 200034000",484973,4639156,3052978,Amoni
+after_2007,0006,0016,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,3053003,TOC
+after_2007,0006,0016,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,3053004,Nitrits
+after_2007,0006,0016,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,3053005,Nitrats
+after_2007,0006,0016,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,3053022,Fosfats
+after_2007,0006,0016,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,3053032,Oxigen dissolt (camp)
+after_2007,0006,0016,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,3053034,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,3053035,Amoníac no ionitzat
+after_2007,0006,0016,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,3053036,Amoni
+after_2007,0006,0016,F007560,Riu Onyar a Girona - 200037000,485781,4646867,3053043,TOC
+after_2007,0006,0016,F007560,Riu Onyar a Girona - 200037000,485781,4646867,3053044,Nitrits
+after_2007,0006,0016,F007560,Riu Onyar a Girona - 200037000,485781,4646867,3053045,Nitrats
+after_2007,0006,0016,F007560,Riu Onyar a Girona - 200037000,485781,4646867,3053047,Fosfats
+after_2007,0006,0016,F007560,Riu Onyar a Girona - 200037000,485781,4646867,3053056,Oxigen dissolt (camp)
+after_2007,0006,0016,F007560,Riu Onyar a Girona - 200037000,485781,4646867,3053058,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007560,Riu Onyar a Girona - 200037000,485781,4646867,3053059,Amoni
+after_2007,0006,0016,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,3053066,TOC
+after_2007,0006,0016,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,3053067,Nitrits
+after_2007,0006,0016,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,3053068,Nitrats
+after_2007,0006,0016,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,3053085,Fosfats
+after_2007,0006,0016,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,3053095,Oxigen dissolt (camp)
+after_2007,0006,0016,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,3053097,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,3053098,Amoníac no ionitzat
+after_2007,0006,0016,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,3053099,Amoni
+after_2007,0006,0016,F007562,Capçalera del Terri fins a la confluència del Revardit - 200039000,485431,4659558,3053106,TOC
+after_2007,0006,0016,F007562,Capçalera del Terri fins a la confluència del Revardit - 200039000,485431,4659558,3053107,Nitrits
+after_2007,0006,0016,F007562,Capçalera del Terri fins a la confluència del Revardit - 200039000,485431,4659558,3053108,Nitrats
+after_2007,0006,0016,F007562,Capçalera del Terri fins a la confluència del Revardit - 200039000,485431,4659558,3053110,Fosfats
+after_2007,0006,0016,F007562,Capçalera del Terri fins a la confluència del Revardit - 200039000,485431,4659558,3053119,Oxigen dissolt (camp)
+after_2007,0006,0016,F007562,Capçalera del Terri fins a la confluència del Revardit - 200039000,485431,4659558,3053121,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007562,Capçalera del Terri fins a la confluència del Revardit - 200039000,485431,4659558,3053122,Amoni
+after_2007,0006,0016,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,3053129,TOC
+after_2007,0006,0016,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,3053130,Nitrits
+after_2007,0006,0016,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,3053131,Nitrats
+after_2007,0006,0016,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,3053148,Fosfats
+after_2007,0006,0016,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,3053158,Oxigen dissolt (camp)
+after_2007,0006,0016,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,3053160,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,3053161,Amoníac no ionitzat
+after_2007,0006,0016,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,3053162,Amoni
+after_2007,0006,0016,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,3053169,TOC
+after_2007,0006,0016,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,3053170,Nitrits
+after_2007,0006,0016,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,3053171,Nitrats
+after_2007,0006,0016,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,3053188,Fosfats
+after_2007,0006,0016,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,3053198,Oxigen dissolt (camp)
+after_2007,0006,0016,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,3053200,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,3053201,Amoníac no ionitzat
+after_2007,0006,0016,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,3053202,Amoni
+after_2007,0006,0016,F007567,Riera de Sant Martí - 200043500,494419,4652350,3063953,TOC
+after_2007,0006,0016,F007567,Riera de Sant Martí - 200043500,494419,4652350,3063954,Nitrits
+after_2007,0006,0016,F007567,Riera de Sant Martí - 200043500,494419,4652350,3063955,Nitrats
+after_2007,0006,0016,F007567,Riera de Sant Martí - 200043500,494419,4652350,3063966,Oxigen dissolt (camp)
+after_2007,0006,0016,F007567,Riera de Sant Martí - 200043500,494419,4652350,3063968,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007567,Riera de Sant Martí - 200043500,494419,4652350,3063969,Amoni
+after_2007,0006,0016,F007567,Riera de Sant Martí - 200043500,494419,4652350,3986737,Fosfats
+after_2007,0006,0016,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,3053232,TOC
+after_2007,0006,0016,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,3053233,Nitrits
+after_2007,0006,0016,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,3053234,Nitrats
+after_2007,0006,0016,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,3053251,Fosfats
+after_2007,0006,0016,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,3053261,Oxigen dissolt (camp)
+after_2007,0006,0016,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,3053263,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,3053264,Amoníac no ionitzat
+after_2007,0006,0016,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,3053265,Amoni
+after_2007,0006,0016,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,3053311,TOC
+after_2007,0006,0016,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,3053312,Nitrits
+after_2007,0006,0016,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,3053313,Nitrats
+after_2007,0006,0016,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,3053329,Fosfats
+after_2007,0006,0016,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,3053339,Oxigen dissolt (camp)
+after_2007,0006,0016,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,3053341,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,3053342,Amoníac no ionitzat
+after_2007,0006,0016,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,3053343,Amoni
+after_2007,0006,0016,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,3053350,TOC
+after_2007,0006,0016,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,3053351,Nitrits
+after_2007,0006,0016,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,3053352,Nitrats
+after_2007,0006,0016,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,3053368,Fosfats
+after_2007,0006,0016,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,3053378,Oxigen dissolt (camp)
+after_2007,0006,0016,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,3053380,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,3053381,Amoníac no ionitzat
+after_2007,0006,0016,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,3053382,Amoni
+after_2007,0006,0016,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,3053389,TOC
+after_2007,0006,0016,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,3053390,Nitrits
+after_2007,0006,0016,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,3053391,Nitrats
+after_2007,0006,0016,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,3053407,Fosfats
+after_2007,0006,0016,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,3053417,Oxigen dissolt (camp)
+after_2007,0006,0016,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,3053419,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,3053420,Amoníac no ionitzat
+after_2007,0006,0016,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,3053421,Amoni
+after_2007,0006,0016,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,3053428,TOC
+after_2007,0006,0016,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,3053429,Nitrits
+after_2007,0006,0016,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,3053430,Nitrats
+after_2007,0006,0016,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,3053446,Fosfats
+after_2007,0006,0016,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,3053456,Oxigen dissolt (camp)
+after_2007,0006,0016,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,3053458,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,3053459,Amoníac no ionitzat
+after_2007,0006,0016,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,3053460,Amoni
+after_2007,0006,0016,F007575,Conca del Llierca - 210007000,467796,4675382,3074154,Amoni
+after_2007,0006,0016,F007575,Conca del Llierca - 210007000,467796,4675382,3074155,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007575,Conca del Llierca - 210007000,467796,4675382,3074157,Oxigen dissolt (camp)
+after_2007,0006,0016,F007575,Conca del Llierca - 210007000,467796,4675382,3074169,Fosfats
+after_2007,0006,0016,F007575,Conca del Llierca - 210007000,467796,4675382,3074187,Nitrats
+after_2007,0006,0016,F007575,Conca del Llierca - 210007000,467796,4675382,3074188,Nitrits
+after_2007,0006,0016,F007575,Conca del Llierca - 210007000,467796,4675382,3074189,TOC
+after_2007,0006,0016,F007580,Rec Sirvent - 210013000,507009,4672940,3057363,TOC
+after_2007,0006,0016,F007580,Rec Sirvent - 210013000,507009,4672940,3057364,Nitrits
+after_2007,0006,0016,F007580,Rec Sirvent - 210013000,507009,4672940,3057365,Nitrats
+after_2007,0006,0016,F007580,Rec Sirvent - 210013000,507009,4672940,3057367,Fosfats
+after_2007,0006,0016,F007580,Rec Sirvent - 210013000,507009,4672940,3057376,Oxigen dissolt (camp)
+after_2007,0006,0016,F007580,Rec Sirvent - 210013000,507009,4672940,3057378,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007580,Rec Sirvent - 210013000,507009,4672940,3057379,Amoni
+after_2007,0006,0016,F007581,Capçalera de la Muga fins a l'embassament de Boadella - 220001000,475638,4684196,3049496,TOC
+after_2007,0006,0016,F007581,Capçalera de la Muga fins a l'embassament de Boadella - 220001000,475638,4684196,3049497,Nitrits
+after_2007,0006,0016,F007581,Capçalera de la Muga fins a l'embassament de Boadella - 220001000,475638,4684196,3049498,Nitrats
+after_2007,0006,0016,F007581,Capçalera de la Muga fins a l'embassament de Boadella - 220001000,475638,4684196,3049500,Fosfats
+after_2007,0006,0016,F007581,Capçalera de la Muga fins a l'embassament de Boadella - 220001000,475638,4684196,3049509,Oxigen dissolt (camp)
+after_2007,0006,0016,F007581,Capçalera de la Muga fins a l'embassament de Boadella - 220001000,475638,4684196,3049511,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007581,Capçalera de la Muga fins a l'embassament de Boadella - 220001000,475638,4684196,3049512,Amoni
+after_2007,0006,0016,F007582,Riu Arnera aigües amunt de Boadella - 220002000,479276,4691504,3067466,TOC
+after_2007,0006,0016,F007582,Riu Arnera aigües amunt de Boadella - 220002000,479276,4691504,3067467,Nitrits
+after_2007,0006,0016,F007582,Riu Arnera aigües amunt de Boadella - 220002000,479276,4691504,3067468,Nitrats
+after_2007,0006,0016,F007582,Riu Arnera aigües amunt de Boadella - 220002000,479276,4691504,3067486,Fosfats
+after_2007,0006,0016,F007582,Riu Arnera aigües amunt de Boadella - 220002000,479276,4691504,3067498,Oxigen dissolt (camp)
+after_2007,0006,0016,F007582,Riu Arnera aigües amunt de Boadella - 220002000,479276,4691504,3067500,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007582,Riu Arnera aigües amunt de Boadella - 220002000,479276,4691504,3067501,Amoni
+after_2007,0006,0016,F007584,Capçalera del Llobregat de la Muga fins al Ricardell - 220004000,491052,4691447,3063976,TOC
+after_2007,0006,0016,F007584,Capçalera del Llobregat de la Muga fins al Ricardell - 220004000,491052,4691447,3063977,Nitrits
+after_2007,0006,0016,F007584,Capçalera del Llobregat de la Muga fins al Ricardell - 220004000,491052,4691447,3063978,Nitrats
+after_2007,0006,0016,F007584,Capçalera del Llobregat de la Muga fins al Ricardell - 220004000,491052,4691447,3063980,Fosfats
+after_2007,0006,0016,F007584,Capçalera del Llobregat de la Muga fins al Ricardell - 220004000,491052,4691447,3063989,Oxigen dissolt (camp)
+after_2007,0006,0016,F007584,Capçalera del Llobregat de la Muga fins al Ricardell - 220004000,491052,4691447,3063991,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007584,Capçalera del Llobregat de la Muga fins al Ricardell - 220004000,491052,4691447,3063992,Amoni
+after_2007,0006,0016,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,3053583,Oxigen dissolt (camp)
+after_2007,0006,0016,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,3053585,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,3053586,Amoníac no ionitzat
+after_2007,0006,0016,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,3053587,Amoni
+after_2007,0006,0016,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,3053593,TOC
+after_2007,0006,0016,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,3053594,Nitrits
+after_2007,0006,0016,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,3053595,Nitrats
+after_2007,0006,0016,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,3053597,Fosfats
+after_2007,0006,0016,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,3053610,TOC
+after_2007,0006,0016,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,3053611,Nitrits
+after_2007,0006,0016,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,3053612,Nitrats
+after_2007,0006,0016,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,3053629,Fosfats
+after_2007,0006,0016,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,3053639,Oxigen dissolt (camp)
+after_2007,0006,0016,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,3053641,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,3053642,Amoníac no ionitzat
+after_2007,0006,0016,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,3053643,Amoni
+after_2007,0006,0016,F007589,Riu Manol i riera d'Àlguema - 220010000,497414,4676183,3049519,TOC
+after_2007,0006,0016,F007589,Riu Manol i riera d'Àlguema - 220010000,497414,4676183,3049520,Nitrits
+after_2007,0006,0016,F007589,Riu Manol i riera d'Àlguema - 220010000,497414,4676183,3049521,Nitrats
+after_2007,0006,0016,F007589,Riu Manol i riera d'Àlguema - 220010000,497414,4676183,3049523,Fosfats
+after_2007,0006,0016,F007589,Riu Manol i riera d'Àlguema - 220010000,497414,4676183,3049532,Oxigen dissolt (camp)
+after_2007,0006,0016,F007589,Riu Manol i riera d'Àlguema - 220010000,497414,4676183,3049534,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007589,Riu Manol i riera d'Àlguema - 220010000,497414,4676183,3049535,Amoni
+after_2007,0006,0016,F007590,Riera de Figueres - 220011000,503525,4680421,3049542,TOC
+after_2007,0006,0016,F007590,Riera de Figueres - 220011000,503525,4680421,3049543,Nitrits
+after_2007,0006,0016,F007590,Riera de Figueres - 220011000,503525,4680421,3049544,Nitrats
+after_2007,0006,0016,F007590,Riera de Figueres - 220011000,503525,4680421,3049561,Fosfats
+after_2007,0006,0016,F007590,Riera de Figueres - 220011000,503525,4680421,3049571,Oxigen dissolt (camp)
+after_2007,0006,0016,F007590,Riera de Figueres - 220011000,503525,4680421,3049573,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007590,Riera de Figueres - 220011000,503525,4680421,3049575,Amoni
+after_2007,0006,0016,F007592,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar - 224002000,509656,4680977,3067508,TOC
+after_2007,0006,0016,F007592,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar - 224002000,509656,4680977,3067509,Nitrits
+after_2007,0006,0016,F007592,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar - 224002000,509656,4680977,3067510,Nitrats
+after_2007,0006,0016,F007592,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar - 224002000,509656,4680977,3067512,Fosfats
+after_2007,0006,0016,F007592,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar - 224002000,509656,4680977,3067521,Oxigen dissolt (camp)
+after_2007,0006,0016,F007592,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar - 224002000,509656,4680977,3067523,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F007592,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar - 224002000,509656,4680977,3067524,Amoni
+after_2007,0006,0016,F009979,Riudecanyes - 020002000,328228,4555644,3117658,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009979,Riudecanyes - 020002000,328228,4555644,3117660,Oxigen dissolt (camp)
+after_2007,0006,0016,F009979,Riudecanyes - 020002000,328228,4555644,3117688,Nitrats
+after_2007,0006,0016,F009979,Riudecanyes - 020002000,328228,4555644,3117689,TOC
+after_2007,0006,0016,F009979,Riudecanyes - 020002000,328228,4555644,3117737,Amoni
+after_2007,0006,0016,F009979,Riudecanyes - 020002000,328228,4555644,3281793,Fosfats
+after_2007,0006,0016,F009979,Riudecanyes - 020002000,328228,4555644,3965543,Fòsfor total
+after_2007,0006,0016,F009979,Riudecanyes - 020002000,328228,4555644,3965544,Nitrogen total
+after_2007,0006,0016,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118036,Amoni
+after_2007,0006,0016,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118037,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118038,Oxigen dissolt (camp)
+after_2007,0006,0016,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118062,Nitrats
+after_2007,0006,0016,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118064,TOC
+after_2007,0006,0016,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060651,Fòsfor total
+after_2007,0006,0016,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060652,Nitrogen total
+after_2007,0006,0016,F009980,Estanys de Banyoles - 045040100,480010,4663228,4166786,Fosfats
+after_2007,0006,0016,F009981,Gaià - 060006000,360211,4562635,3117842,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009981,Gaià - 060006000,360211,4562635,3117844,Oxigen dissolt (camp)
+after_2007,0006,0016,F009981,Gaià - 060006000,360211,4562635,3965547,Amoni
+after_2007,0006,0016,F009981,Gaià - 060006000,360211,4562635,3965550,Fòsfor total
+after_2007,0006,0016,F009981,Gaià - 060006000,360211,4562635,3965551,Nitrats
+after_2007,0006,0016,F009981,Gaià - 060006000,360211,4562635,3965552,Nitrogen total
+after_2007,0006,0016,F009981,Gaià - 060006000,360211,4562635,4162592,Fosfats
+after_2007,0006,0016,F009981,Gaià - 060006000,360211,4562635,4162595,TOC
+after_2007,0006,0016,F009982,Foix - 080007000,386120,4568288,3117788,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009982,Foix - 080007000,386120,4568288,3117790,Oxigen dissolt (camp)
+after_2007,0006,0016,F009982,Foix - 080007000,386120,4568288,3965555,Amoni
+after_2007,0006,0016,F009982,Foix - 080007000,386120,4568288,3965558,Fòsfor total
+after_2007,0006,0016,F009982,Foix - 080007000,386120,4568288,3965559,Nitrats
+after_2007,0006,0016,F009982,Foix - 080007000,386120,4568288,3965560,Nitrogen total
+after_2007,0006,0016,F009982,Foix - 080007000,386120,4568288,4162601,Fosfats
+after_2007,0006,0016,F009982,Foix - 080007000,386120,4568288,4162604,TOC
+after_2007,0006,0016,F009983,La Baells - 100007000,405749,4668940,3117781,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009983,La Baells - 100007000,405749,4668940,3117783,Oxigen dissolt (camp)
+after_2007,0006,0016,F009983,La Baells - 100007000,405749,4668940,3118170,Amoni
+after_2007,0006,0016,F009983,La Baells - 100007000,405749,4668940,3118194,Nitrats
+after_2007,0006,0016,F009983,La Baells - 100007000,405749,4668940,3118196,TOC
+after_2007,0006,0016,F009983,La Baells - 100007000,405749,4668940,3965564,Fòsfor total
+after_2007,0006,0016,F009983,La Baells - 100007000,405749,4668940,3965565,Nitrogen total
+after_2007,0006,0016,F009983,La Baells - 100007000,405749,4668940,4162610,Fosfats
+after_2007,0006,0016,F009984,La Llosa del Cavall - 100048000,384511,4663903,3117895,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009984,La Llosa del Cavall - 100048000,384511,4663903,3117897,Oxigen dissolt (camp)
+after_2007,0006,0016,F009984,La Llosa del Cavall - 100048000,384511,4663903,3118302,Amoni
+after_2007,0006,0016,F009984,La Llosa del Cavall - 100048000,384511,4663903,3118326,Nitrats
+after_2007,0006,0016,F009984,La Llosa del Cavall - 100048000,384511,4663903,3118328,TOC
+after_2007,0006,0016,F009984,La Llosa del Cavall - 100048000,384511,4663903,3965569,Fòsfor total
+after_2007,0006,0016,F009984,La Llosa del Cavall - 100048000,384511,4663903,3965570,Nitrogen total
+after_2007,0006,0016,F009984,La Llosa del Cavall - 100048000,384511,4663903,4162631,Fosfats
+after_2007,0006,0016,F009985,Sant Ponç - 100051000,384228,4646804,3117902,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009985,Sant Ponç - 100051000,384228,4646804,3117904,Oxigen dissolt (camp)
+after_2007,0006,0016,F009985,Sant Ponç - 100051000,384228,4646804,3118335,Amoni
+after_2007,0006,0016,F009985,Sant Ponç - 100051000,384228,4646804,3118359,Nitrats
+after_2007,0006,0016,F009985,Sant Ponç - 100051000,384228,4646804,3118361,TOC
+after_2007,0006,0016,F009985,Sant Ponç - 100051000,384228,4646804,3965574,Fòsfor total
+after_2007,0006,0016,F009985,Sant Ponç - 100051000,384228,4646804,3965575,Nitrogen total
+after_2007,0006,0016,F009985,Sant Ponç - 100051000,384228,4646804,4162640,Fosfats
+after_2007,0006,0016,F009987,Vallforners - 110009000,445215,4619195,3118022,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009987,Vallforners - 110009000,445215,4619195,3118024,Oxigen dissolt (camp)
+after_2007,0006,0016,F009987,Vallforners - 110009000,445215,4619195,3118137,Amoni
+after_2007,0006,0016,F009987,Vallforners - 110009000,445215,4619195,3118161,Nitrats
+after_2007,0006,0016,F009987,Vallforners - 110009000,445215,4619195,3118163,TOC
+after_2007,0006,0016,F009987,Vallforners - 110009000,445215,4619195,3965582,Fòsfor total
+after_2007,0006,0016,F009987,Vallforners - 110009000,445215,4619195,3965583,Nitrogen total
+after_2007,0006,0016,F009987,Vallforners - 110009000,445215,4619195,4162648,Fosfats
+after_2007,0006,0016,F009988,Santa Fe - 140007500,455897,4624248,3117767,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009988,Santa Fe - 140007500,455897,4624248,3117769,Oxigen dissolt (camp)
+after_2007,0006,0016,F009988,Santa Fe - 140007500,455897,4624248,3965586,Amoni
+after_2007,0006,0016,F009988,Santa Fe - 140007500,455897,4624248,3965589,Fòsfor total
+after_2007,0006,0016,F009988,Santa Fe - 140007500,455897,4624248,3965590,Nitrats
+after_2007,0006,0016,F009988,Santa Fe - 140007500,455897,4624248,3965591,Nitrogen total
+after_2007,0006,0016,F009988,Santa Fe - 140007500,455897,4624248,4162657,Fosfats
+after_2007,0006,0016,F009988,Santa Fe - 140007500,455897,4624248,4162660,TOC
+after_2007,0006,0016,F009990,Sau - 200022000,449023,4647096,3117774,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009990,Sau - 200022000,449023,4647096,3117776,Oxigen dissolt (camp)
+after_2007,0006,0016,F009990,Sau - 200022000,449023,4647096,3965594,Amoni
+after_2007,0006,0016,F009990,Sau - 200022000,449023,4647096,3965597,Fòsfor total
+after_2007,0006,0016,F009990,Sau - 200022000,449023,4647096,3965598,Nitrats
+after_2007,0006,0016,F009990,Sau - 200022000,449023,4647096,3965599,Nitrogen total
+after_2007,0006,0016,F009990,Sau - 200022000,449023,4647096,4162666,Fosfats
+after_2007,0006,0016,F009990,Sau - 200022000,449023,4647096,4162670,TOC
+after_2007,0006,0016,F009991,Susqueda - 200022300,458257,4646863,3117909,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009991,Susqueda - 200022300,458257,4646863,3117911,Oxigen dissolt (camp)
+after_2007,0006,0016,F009991,Susqueda - 200022300,458257,4646863,3965602,Amoni
+after_2007,0006,0016,F009991,Susqueda - 200022300,458257,4646863,3965605,Fòsfor total
+after_2007,0006,0016,F009991,Susqueda - 200022300,458257,4646863,3965606,Nitrats
+after_2007,0006,0016,F009991,Susqueda - 200022300,458257,4646863,3965607,Nitrogen total
+after_2007,0006,0016,F009991,Susqueda - 200022300,458257,4646863,4162676,Fosfats
+after_2007,0006,0016,F009991,Susqueda - 200022300,458257,4646863,4162680,TOC
+after_2007,0006,0016,F009992,El Pasteral - 200022700,464925,4648265,3117916,Amoni
+after_2007,0006,0016,F009992,El Pasteral - 200022700,464925,4648265,3117917,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009992,El Pasteral - 200022700,464925,4648265,3117919,Oxigen dissolt (camp)
+after_2007,0006,0016,F009992,El Pasteral - 200022700,464925,4648265,3117952,Nitrats
+after_2007,0006,0016,F009992,El Pasteral - 200022700,464925,4648265,3117954,TOC
+after_2007,0006,0016,F009992,El Pasteral - 200022700,464925,4648265,3118437,Fosfats
+after_2007,0006,0016,F009992,El Pasteral - 200022700,464925,4648265,3965611,Fòsfor total
+after_2007,0006,0016,F009992,El Pasteral - 200022700,464925,4648265,4162687,Nitrogen total
+after_2007,0006,0016,F009993,Boadella - 220001500,486335,4687831,3115859,Amoni
+after_2007,0006,0016,F009993,Boadella - 220001500,486335,4687831,3115860,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009993,Boadella - 220001500,486335,4687831,3115862,Oxigen dissolt (camp)
+after_2007,0006,0016,F009993,Boadella - 220001500,486335,4687831,3115896,Nitrats
+after_2007,0006,0016,F009993,Boadella - 220001500,486335,4687831,3115898,TOC
+after_2007,0006,0016,F009993,Boadella - 220001500,486335,4687831,3117696,Fosfats
+after_2007,0006,0016,F009993,Boadella - 220001500,486335,4687831,3965615,Fòsfor total
+after_2007,0006,0016,F009993,Boadella - 220001500,486335,4687831,3965616,Nitrogen total
+after_2007,0006,0016,F009994,Oliana - E020000,360374,4665782,3117795,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009994,Oliana - E020000,360374,4665782,3117797,Oxigen dissolt (camp)
+after_2007,0006,0016,F009994,Oliana - E020000,360374,4665782,3965619,Amoni
+after_2007,0006,0016,F009994,Oliana - E020000,360374,4665782,3965622,Fòsfor total
+after_2007,0006,0016,F009994,Oliana - E020000,360374,4665782,3965623,Nitrats
+after_2007,0006,0016,F009994,Oliana - E020000,360374,4665782,3965624,Nitrogen total
+after_2007,0006,0016,F009995,Rialb - E024000,355401,4649807,3117802,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F009995,Rialb - E024000,355401,4649807,3117804,Oxigen dissolt (camp)
+after_2007,0006,0016,F009995,Rialb - E024000,355401,4649807,3965627,Amoni
+after_2007,0006,0016,F009995,Rialb - E024000,355401,4649807,3965630,Fòsfor total
+after_2007,0006,0016,F009995,Rialb - E024000,355401,4649807,3965631,Nitrats
+after_2007,0006,0016,F009995,Rialb - E024000,355401,4649807,3965632,Nitrogen total
+after_2007,0006,0016,F010000,Sant Llorenç de Montgai - E062000,320829,4636732,3117760,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F010000,Sant Llorenç de Montgai - E062000,320829,4636732,3117762,Oxigen dissolt (camp)
+after_2007,0006,0016,F010000,Sant Llorenç de Montgai - E062000,320829,4636732,3118104,Amoni
+after_2007,0006,0016,F010000,Sant Llorenç de Montgai - E062000,320829,4636732,3118128,Nitrats
+after_2007,0006,0016,F010000,Sant Llorenç de Montgai - E062000,320829,4636732,3965670,Fòsfor total
+after_2007,0006,0016,F010000,Sant Llorenç de Montgai - E062000,320829,4636732,3965671,Nitrogen total
+after_2007,0006,0016,F010005,Santa Anna - E088000,301370,4642411,3117281,Amoni
+after_2007,0006,0016,F010005,Santa Anna - E088000,301370,4642411,3117282,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F010005,Santa Anna - E088000,301370,4642411,3117284,Oxigen dissolt (camp)
+after_2007,0006,0016,F010005,Santa Anna - E088000,301370,4642411,3117320,Nitrats
+after_2007,0006,0016,F010005,Santa Anna - E088000,301370,4642411,3965717,Fòsfor total
+after_2007,0006,0016,F010005,Santa Anna - E088000,301370,4642411,3965718,Nitrogen total
+after_2007,0006,0016,F010006,Riba-roja - E104000,284619,4569045,3117816,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F010006,Riba-roja - E104000,284619,4569045,3117818,Oxigen dissolt (camp)
+after_2007,0006,0016,F010006,Riba-roja - E104000,284619,4569045,3118203,Amoni
+after_2007,0006,0016,F010006,Riba-roja - E104000,284619,4569045,3118227,Nitrats
+after_2007,0006,0016,F010006,Riba-roja - E104000,284619,4569045,3965722,Fòsfor total
+after_2007,0006,0016,F010006,Riba-roja - E104000,284619,4569045,3965723,Nitrogen total
+after_2007,0006,0016,F010007,Flix - E107000,294234,4567580,3117823,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F010007,Flix - E107000,294234,4567580,3117825,Oxigen dissolt (camp)
+after_2007,0006,0016,F010007,Flix - E107000,294234,4567580,3118236,Amoni
+after_2007,0006,0016,F010007,Flix - E107000,294234,4567580,3118260,Nitrats
+after_2007,0006,0016,F010007,Flix - E107000,294234,4567580,3965727,Fòsfor total
+after_2007,0006,0016,F010007,Flix - E107000,294234,4567580,3965728,Nitrogen total
+after_2007,0006,0016,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3967998,Oxigen dissolt (camp)
+after_2007,0006,0016,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3967999,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968000,Fòsfor total
+after_2007,0006,0016,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968001,Nitrogen total
+after_2007,0006,0016,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968002,Fosfats
+after_2007,0006,0016,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968003,Nitrats
+after_2007,0006,0016,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968004,Nitrits
+after_2007,0006,0016,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968005,Amoni
+after_2007,0006,0016,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4158721,TOC
+after_2007,0006,0016,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968117,Oxigen dissolt (camp)
+after_2007,0006,0016,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968118,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968119,Fòsfor total
+after_2007,0006,0016,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968120,Nitrogen total
+after_2007,0006,0016,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968121,Fosfats
+after_2007,0006,0016,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968122,Nitrats
+after_2007,0006,0016,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968123,Nitrits
+after_2007,0006,0016,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968124,Amoni
+after_2007,0006,0016,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4158588,TOC
+after_2007,0006,0016,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968134,Oxigen dissolt (camp)
+after_2007,0006,0016,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968135,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968136,Fòsfor total
+after_2007,0006,0016,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968137,Nitrogen total
+after_2007,0006,0016,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968138,Fosfats
+after_2007,0006,0016,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968139,Nitrats
+after_2007,0006,0016,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968140,Nitrits
+after_2007,0006,0016,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968141,Amoni
+after_2007,0006,0016,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4158569,TOC
+after_2007,0006,0016,F016235,Estany de Sils - H105001000,478631,4627820,4158289,Amoni
+after_2007,0006,0016,F016235,Estany de Sils - H105001000,478631,4627820,4158294,Fosfats
+after_2007,0006,0016,F016235,Estany de Sils - H105001000,478631,4627820,4158295,Fòsfor total
+after_2007,0006,0016,F016235,Estany de Sils - H105001000,478631,4627820,4158296,Nitrats
+after_2007,0006,0016,F016235,Estany de Sils - H105001000,478631,4627820,4158297,Nitrits
+after_2007,0006,0016,F016235,Estany de Sils - H105001000,478631,4627820,4158298,Nitrogen total
+after_2007,0006,0016,F016235,Estany de Sils - H105001000,478631,4627820,4158299,Oxigen dissolt (camp)
+after_2007,0006,0016,F016235,Estany de Sils - H105001000,478631,4627820,4158301,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F016235,Estany de Sils - H105001000,478631,4627820,4158303,TOC
+after_2007,0006,0016,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968253,Oxigen dissolt (camp)
+after_2007,0006,0016,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968254,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968255,Fòsfor total
+after_2007,0006,0016,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968256,Nitrogen total
+after_2007,0006,0016,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968257,Fosfats
+after_2007,0006,0016,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968258,Nitrats
+after_2007,0006,0016,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968259,Nitrits
+after_2007,0006,0016,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968260,Amoni
+after_2007,0006,0016,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,4158417,TOC
+after_2007,0006,0016,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158517,Amoni
+after_2007,0006,0016,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158522,Fosfats
+after_2007,0006,0016,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158523,Fòsfor total
+after_2007,0006,0016,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158524,Nitrats
+after_2007,0006,0016,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158525,Nitrits
+after_2007,0006,0016,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158526,Nitrogen total
+after_2007,0006,0016,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158527,Oxigen dissolt (camp)
+after_2007,0006,0016,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158529,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158531,TOC
+after_2007,0006,0016,F016258,Platja Castell - H161801000,512894,4634747,3968338,Oxigen dissolt (camp)
+after_2007,0006,0016,F016258,Platja Castell - H161801000,512894,4634747,3968339,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F016258,Platja Castell - H161801000,512894,4634747,3968340,Fòsfor total
+after_2007,0006,0016,F016258,Platja Castell - H161801000,512894,4634747,3968341,Nitrogen total
+after_2007,0006,0016,F016258,Platja Castell - H161801000,512894,4634747,3968342,Fosfats
+after_2007,0006,0016,F016258,Platja Castell - H161801000,512894,4634747,3968343,Nitrats
+after_2007,0006,0016,F016258,Platja Castell - H161801000,512894,4634747,3968344,Nitrits
+after_2007,0006,0016,F016258,Platja Castell - H161801000,512894,4634747,3968345,Amoni
+after_2007,0006,0016,F016258,Platja Castell - H161801000,512894,4634747,4158550,TOC
+after_2007,0006,0016,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157890,Amoni
+after_2007,0006,0016,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157895,Fosfats
+after_2007,0006,0016,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157896,Fòsfor total
+after_2007,0006,0016,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157897,Nitrats
+after_2007,0006,0016,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157898,Nitrits
+after_2007,0006,0016,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157899,Nitrogen total
+after_2007,0006,0016,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157900,Oxigen dissolt (camp)
+after_2007,0006,0016,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157902,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157904,TOC
+after_2007,0006,0016,F019009,El Fluvià des del riu Ser fins al mar - 210006500,496567,4667751,3969216,Nitrits
+after_2007,0006,0016,F019009,El Fluvià des del riu Ser fins al mar - 210006500,496567,4667751,3969217,Nitrats
+after_2007,0006,0016,F019009,El Fluvià des del riu Ser fins al mar - 210006500,496567,4667751,3969222,TOC
+after_2007,0006,0016,F019009,El Fluvià des del riu Ser fins al mar - 210006500,496567,4667751,3969224,Amoni
+after_2007,0006,0016,F019009,El Fluvià des del riu Ser fins al mar - 210006500,496567,4667751,3969230,Fosfats
+after_2007,0006,0016,F019009,El Fluvià des del riu Ser fins al mar - 210006500,496567,4667751,3969232,Oxigen dissolt (camp)
+after_2007,0006,0016,F019009,El Fluvià des del riu Ser fins al mar - 210006500,496567,4667751,3969234,% Saturació d'oxigen (camp)
+after_2007,0006,0016,F038288,"Riu Daró des de Gualta fins al mar (Daró Vell), inclosos  la riera Grossa i el Torrent de la Revetlla - 190004000",513741,4650204,4411590,Nitrits
+after_2007,0006,0016,F038288,"Riu Daró des de Gualta fins al mar (Daró Vell), inclosos  la riera Grossa i el Torrent de la Revetlla - 190004000",513741,4650204,4411591,Nitrats
+after_2007,0006,0016,F038288,"Riu Daró des de Gualta fins al mar (Daró Vell), inclosos  la riera Grossa i el Torrent de la Revetlla - 190004000",513741,4650204,4411596,Amoni
+after_2007,0006,0016,F038288,"Riu Daró des de Gualta fins al mar (Daró Vell), inclosos  la riera Grossa i el Torrent de la Revetlla - 190004000",513741,4650204,4411602,Fosfats
+after_2007,0006,0016,F038288,"Riu Daró des de Gualta fins al mar (Daró Vell), inclosos  la riera Grossa i el Torrent de la Revetlla - 190004000",513741,4650204,4411603,TOC
+after_2007,0006,0016,F038288,"Riu Daró des de Gualta fins al mar (Daró Vell), inclosos  la riera Grossa i el Torrent de la Revetlla - 190004000",513741,4650204,4457354,Oxigen dissolt
+after_2007,0006,0016,F038288,"Riu Daró des de Gualta fins al mar (Daró Vell), inclosos  la riera Grossa i el Torrent de la Revetlla - 190004000",513741,4650204,4457355,% Saturació d'oxigen

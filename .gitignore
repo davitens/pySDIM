@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+.Python
+
+# keep local session artifacts out of tracking
+cookies.json
+data/
+
+# regenerable raw response cache (network required to rebuild)
+metadata/raw/
+
+# generated example outputs
+examples/*.csv

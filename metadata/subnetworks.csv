@@ -1,0 +1,35 @@
+period,network,code,name
+after_2007,0003,0006,Substàncies prioritàries i preferents
+after_2007,0003,0025,Elements fisicoquímics
+after_2007,0003,0024,Elements hidromorfològics
+after_2007,0003,0005,Elements biològics
+after_2007,0004,0008,Elements fisicoquímics - condicions generals
+after_2007,0004,0009,Substàncies prioritàries i preferents
+after_2007,0004,0007,Elements biològics
+after_2007,0005,0010,Elements fisicoquímics
+after_2007,0005,0011,Nivells piezomètrics
+after_2007,0002,0004,Substàncies prioritàries i preferents
+after_2007,0002,0023,Elements fisicoquímics
+after_2007,0002,0003,Elements biològics
+after_2007,0002,0302,Volums
+after_2007,0001,0301,Cabals
+after_2007,0001,0021,Elements hidromorfològics
+after_2007,0001,0001,Elements biològics
+after_2007,0001,0022,Elements fisicoquímics
+after_2007,0001,0303,Nivells
+after_2007,0001,0002,Substàncies prioritàries i preferents
+after_2007,0006,0016,Zones sensibles eutrofització abocaments urbans
+after_2007,0006,0012,Zones destinades a abastament urbà
+after_2007,0006,0014,Zones vulnerables (nitrat origen agrari)
+after_2007,0006,0013,Reserves naturals fluvials
+before_2007,0005,0011,Nivells piezomètrics
+before_2007,0000,0019,Elements fisicoquímics subterrànies
+before_2007,0000,0017,Elements fisicoquímics rius i embassaments
+before_2007,0000,0018,Elements fisicoquímics costaneres i badies
+before_2007,0000,0020,Nivells piezomètrics aigües subterrànies
+before_2007,0004,0009,Substàncies prioritàries i preferents
+before_2007,0004,0007,Elements biològics
+before_2007,0002,0302,Volums
+before_2007,0001,0301,Cabals
+before_2007,0001,0303,Nivells
+before_2007,0006,0014,Zones vulnerables (nitrat origen agrari)

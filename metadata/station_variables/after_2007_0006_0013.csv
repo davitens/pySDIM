@@ -1,0 +1,1008 @@
+period,network,subnetwork,station,station_name,x,y,variable_id,variable_name
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138960,pH
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138961,Clorurs
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138962,Sulfats
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138963,Calci
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138964,Nitrits
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138965,Nitrats
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138966,Bicarbonats
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138967,Carbonats
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138968,Magnesi
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138970,Sodi
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138971,Amoni
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138972,Error relatiu balanç iònic
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138973,Potassi
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138974,Suma d'anions
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138975,Suma de cations
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138976,Conductivitat a 20ºC
+after_2007,0006,0013,200024011,Riera Major - 200024011,449364,4631900,4138977,Fosfats
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049810,Suma de cations
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049811,Suma d'anions
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049812,Sulfats
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049813,Sodi
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049814,Potassi
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049815,pH
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049816,TOC
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049817,Nitrits
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049818,Nitrats
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049833,Magnesi
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049834,Fosfats
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049835,Error relatiu balanç iònic
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049836,Duresa total
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049837,Conductivitat a 20ºC
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049838,Clorurs
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049840,Calci
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049841,Bicarbonats
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049843,Temperatura de l'aigua (camp)
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049844,Oxigen dissolt (camp)
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049846,% Saturació d'oxigen (camp)
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3049848,Amoni
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3273429,BDE-47
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3273430,BDE-99
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3273431,BDE-100
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3986731,pH (camp)
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3986732,Conductivitat (camp)
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3989405,BDE-28
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3989406,BDE-153
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,3989407,BDE-154
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4043903,Estronci
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096027,Alumini
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096028,Antimoni
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096029,Arsènic
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096030,Bari
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096032,Bor
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096033,Cadmi
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096035,Coure
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096036,Crom
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096037,Ferro
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096038,Manganès
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096040,Molibdè
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096041,Níquel
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096042,Plom
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096043,Seleni
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4096045,Zinc
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4258974,índex IBMWP
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4343377,índex IPS
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4355984,índex IHF
+after_2007,0006,0013,F007359,Riu Brugent - 050006000,343305,4574382,4647549,Fluorurs
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056667,Suma de cations
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056668,Suma d'anions
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056669,Sulfats
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056670,Sodi
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056671,Potassi
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056672,pH
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056673,TOC
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056674,Nitrits
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056675,Nitrats
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056676,Magnesi
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056677,Fosfats
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056678,Error relatiu balanç iònic
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056679,Duresa total
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056680,Conductivitat a 20ºC
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056681,Clorurs
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056682,Calci
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056683,Bicarbonats
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056684,pH (camp)
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056685,Temperatura de l'aigua (camp)
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056686,Oxigen dissolt (camp)
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056687,Conductivitat (camp)
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056688,% Saturació d'oxigen (camp)
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3056689,Amoni
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3348157,índex IPS
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361742,Toluè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361743,Hexaclorobutadiè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361744,Diclorometà
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361745,"trans-1,2-Dicloroetilè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361746,"cis-1,2-Dicloroetilè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361747,Tetraclorur de Carboni
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361748,Tricloroetilè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361749,Bromodiclorometà
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361751,Triclorometà
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361752,"1,1,2-Tricloroetà"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361753,Tetracloroetilè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361754,Dibromoclorometà
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361755,Bromoform
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361756,"1,2-Dicloroetà"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361757,"1,4-Diclorobenzè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361758,"1,2-Diclorobenzè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361759,Suma de triclorobenzens
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361760,"1,2,4-Triclorobenzè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361761,"1,2,3-Triclorobenzè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361762,Benzè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361763,Etilbenzè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361764,"m,p-Xilè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361765,o-Xilè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361766,Pentaclorofenol
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361767,Hexaclorobenzè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361768,BTEX total
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361769,Clorobenzè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361770,a-Hexaclorociclohexà
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361771,Lindà(g-Hexaclorociclohexà)
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361772,"1,1-Dicloroetilè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361773,"1,1-Dicloroetà"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361774,"1,1,1-Tricloroetà"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361777,"1,1,2,2-Tetracloroetà"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361778,"1,3,5-Triclorobenzè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361779,Heptaclor
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361780,Aldrín
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361781,Isodrín
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361782,Epòxid d'heptaclor B
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361783,Endosulfan I
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361784,Dieldrín
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361785,Endrín
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361786,"4,4'-DDE"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361787,Endosulfan II
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361788,"4,4'-DDD"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361789,Sulfat d'endosulfan
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361790,"4,4'-DDT"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361792,"1,3-Diclorobenzè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361795,Naftalè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361796,Diazinon
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361797,Paration de metil
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361798,Fenitrotion
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361799,Malation
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361800,Clorpirifòs
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361801,Paration
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361802,Clorfenvinfòs (suma d'isòmers)
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361803,Etion
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361804,Azinfòs d'etil
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361805,Simazina
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361806,Atrazina
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361807,Propazina
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361808,Terbutrina
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361809,Antracè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361810,Fluorantè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361811,Benzo(b)fluorantè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361812,Benzo(k)fluorantè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361813,Benzo(a)pirè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361814,"Indeno(1,2,3-cd)pirè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361815,Benzo(ghi)perilè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361816,Suma d'al-diel-iso-endrín
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361820,Trifluralina
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361821,Molinat
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361823,Terbutilazina
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361824,Alaclor
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361825,Pentaclorobenzè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361828,"2,4'-DDT"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361829,"2,4'-DDE"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361830,"2,4'-DDD"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361831,Metolaclor
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361832,Epòxid d'heptaclor A
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361833,Suma de diclorobenzens
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361834,BDE-47
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361835,BDE-99
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361836,BDE-100
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361837,Cetona d'endrín
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361838,BDE-28
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361839,BDE-153
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361840,BDE-154
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361841,Suma de PAH1
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3361842,Suma de PAH2
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,3969104,Cianurs
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096236,Alumini
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096237,Antimoni
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096238,Arsènic
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096239,Bari
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096240,Beril·li
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096241,Bor
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096242,Cadmi
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096243,Cobalt
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096244,Coure
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096245,Crom
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096246,Ferro
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096247,Manganès
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096248,Mercuri
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096249,Molibdè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096250,Níquel
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096251,Plom
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096252,Seleni
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096253,Vanadi
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4096254,Zinc
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4159056,Estronci
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4159057,Quinoxifèn
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4159058,Aclonifèn
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4159059,Bifenox
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4159061,Cibutrina
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4161116,Suma de xilens
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4258963,índex IBMWP
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4355995,índex IHF
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4407023,Desetilatrazina
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4645746,Fluorurs
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4645747,"1,2-benzantracè"
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4645748,Crisè
+after_2007,0006,0013,F007371,Torrent de Rupit - 060003000,360158,4584928,4645749,"Dibenzo(a,h)antracè"
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062229,Suma de cations
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062230,Suma d'anions
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062231,Sulfats
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062232,Sodi
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062233,Potassi
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062234,pH
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062235,TOC
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062236,Nitrits
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062237,Nitrats
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062238,Magnesi
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062240,Error relatiu balanç iònic
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062241,Duresa total
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062242,Conductivitat a 20ºC
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062243,Clorurs
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062244,Calci
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062245,Bicarbonats
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062246,pH (camp)
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062247,Temperatura de l'aigua (camp)
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062248,Oxigen dissolt (camp)
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062249,Conductivitat (camp)
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062250,% Saturació d'oxigen (camp)
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3062251,Amoni
+after_2007,0006,0013,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3986090,Fosfats
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106581,Amoni
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106582,% Saturació d'oxigen (camp)
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106583,Conductivitat (camp)
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106584,Oxigen dissolt (camp)
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106585,Temperatura de l'aigua (camp)
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106586,pH (camp)
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106587,Bicarbonats
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106588,Calci
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106589,Clorurs
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106590,Conductivitat a 20ºC
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106591,Duresa total
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106592,Magnesi
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106593,Nitrats
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106594,Nitrits
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106595,TOC
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106596,pH
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106597,Potassi
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106598,Sodi
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106599,Sulfats
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106600,Suma d'anions
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3106601,Suma de cations
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348742,Toluè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348743,Hexaclorobutadiè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348744,Diclorometà
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348745,"trans-1,2-Dicloroetilè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348746,"cis-1,2-Dicloroetilè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348747,Tetraclorur de Carboni
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348748,Tricloroetilè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348749,Bromodiclorometà
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348751,Triclorometà
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348752,"1,1,2-Tricloroetà"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348753,Tetracloroetilè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348754,Dibromoclorometà
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348755,Bromoform
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348756,"1,2-Dicloroetà"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348757,"1,4-Diclorobenzè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348758,"1,2-Diclorobenzè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348759,Suma de triclorobenzens
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348760,"1,2,4-Triclorobenzè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348761,"1,2,3-Triclorobenzè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348762,Benzè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348763,Etilbenzè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348764,"m,p-Xilè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348765,o-Xilè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348766,Pentaclorofenol
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348767,Hexaclorobenzè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348768,BTEX total
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348769,Clorobenzè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348770,a-Hexaclorociclohexà
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348771,Lindà(g-Hexaclorociclohexà)
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348772,"1,1-Dicloroetilè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348773,"1,1-Dicloroetà"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348774,"1,1,1-Tricloroetà"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348777,"1,1,2,2-Tetracloroetà"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348778,"1,3,5-Triclorobenzè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348779,Heptaclor
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348780,Aldrín
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348781,Isodrín
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348782,Epòxid d'heptaclor B
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348783,Endosulfan I
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348784,Dieldrín
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348785,Endrín
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348786,"4,4'-DDE"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348787,Endosulfan II
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348788,"4,4'-DDD"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348789,Sulfat d'endosulfan
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348790,"4,4'-DDT"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348792,"1,3-Diclorobenzè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348795,Naftalè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348796,Diazinon
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348797,Paration de metil
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348798,Fenitrotion
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348799,Malation
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348800,Clorpirifòs
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348801,Paration
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348802,Clorfenvinfòs (suma d'isòmers)
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348803,Etion
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348804,Azinfòs d'etil
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348805,Simazina
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348806,Atrazina
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348807,Propazina
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348808,Terbutrina
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348809,Antracè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348810,Fluorantè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348811,Benzo(b)fluorantè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348812,Benzo(k)fluorantè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348813,Benzo(a)pirè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348814,"Indeno(1,2,3-cd)pirè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348815,Benzo(ghi)perilè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348816,Suma d'al-diel-iso-endrín
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348820,Trifluralina
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348821,Molinat
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348823,Terbutilazina
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348824,Alaclor
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348825,Pentaclorobenzè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348828,"2,4'-DDT"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348829,"2,4'-DDE"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348830,"2,4'-DDD"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348831,Metolaclor
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348832,Epòxid d'heptaclor A
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348833,Suma de diclorobenzens
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348834,BDE-47
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348835,BDE-99
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348836,BDE-100
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348837,Cetona d'endrín
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348838,BDE-28
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348839,BDE-153
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348840,BDE-154
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348841,Suma de PAH1
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3348842,Suma de PAH2
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3986113,Cianurs
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,3986114,Fosfats
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098435,Alumini
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098436,Antimoni
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098437,Arsènic
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098438,Bari
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098440,Bor
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098441,Cadmi
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098443,Coure
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098444,Crom
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098445,Ferro
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098446,Manganès
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098447,Mercuri
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098448,Molibdè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098449,Níquel
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098450,Plom
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098451,Seleni
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4098453,Zinc
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4159135,Suma de xilens
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4159136,Estronci
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4159137,Quinoxifèn
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4159138,Aclonifèn
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4159139,Bifenox
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4159141,Cibutrina
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4258842,índex IBMWP
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4343418,índex IPS
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4356120,índex IHF
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4427201,Desetilatrazina
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4580329,Fluorurs
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4637360,"1,2-Benzantracè"
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4637361,Crisè
+after_2007,0006,0013,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4637362,"Dibenzo(a,h)antracè"
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272717,pH
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272718,Clorurs
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272719,Sulfats
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272720,Calci
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272721,Nitrits
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272722,Nitrats
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272723,Bicarbonats
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272724,Duresa total
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272725,Magnesi
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272726,TOC
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272727,Sodi
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272728,Amoni
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272729,Error relatiu balanç iònic
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272730,Potassi
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272731,Suma d'anions
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272732,Suma de cations
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272733,Conductivitat a 20ºC
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,3272734,Fosfats
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,4258740,índex IBMWP
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,4343466,índex IPS
+after_2007,0006,0013,F012653,Conca de l'Orlina - 220008011,495936,4697723,4356223,índex IHF
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272809,pH
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272810,Clorurs
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272811,Sulfats
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272812,Calci
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272813,Nitrits
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272814,Nitrats
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272815,Bicarbonats
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272816,Duresa total
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272817,Magnesi
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272818,TOC
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272819,Sodi
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272820,Amoni
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272821,Error relatiu balanç iònic
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272822,Potassi
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272823,Suma d'anions
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272824,Suma de cations
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272825,Conductivitat a 20ºC
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,3272826,Fosfats
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,4258738,índex IBMWP
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,4343468,índex IPS
+after_2007,0006,0013,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,4356225,índex IHF
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277377,pH
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277378,Clorurs
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277379,Sulfats
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277380,Calci
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277381,Nitrits
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277382,Nitrats
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277383,Bicarbonats
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277384,Duresa total
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277385,Magnesi
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277386,TOC
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277387,Sodi
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277388,Amoni
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277389,Error relatiu balanç iònic
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277390,Potassi
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277391,Suma d'anions
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277392,Suma de cations
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277393,Conductivitat a 20ºC
+after_2007,0006,0013,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,3277394,Fosfats
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272855,pH
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272856,Clorurs
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272857,Sulfats
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272858,Calci
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272859,Nitrits
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272860,Nitrats
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272861,Bicarbonats
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272862,Duresa total
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272863,Magnesi
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272864,TOC
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272865,Sodi
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272866,Amoni
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272867,Error relatiu balanç iònic
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272868,Potassi
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272869,Suma d'anions
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272870,Suma de cations
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272871,Conductivitat a 20ºC
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,3272872,Fosfats
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,4258736,índex IBMWP
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,4343470,índex IPS
+after_2007,0006,0013,F012657,Riera Major - 200024010,449370,4631506,4356227,índex IHF
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272740,pH
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272741,Clorurs
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272742,Sulfats
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272743,Calci
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272744,Nitrits
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272745,Nitrats
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272746,Bicarbonats
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272747,Duresa total
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272748,Magnesi
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272749,TOC
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272750,Sodi
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272751,Amoni
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272752,Error relatiu balanç iònic
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272753,Potassi
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272754,Suma d'anions
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272755,Suma de cations
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272756,Conductivitat a 20ºC
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272757,Fosfats
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272758,pH (camp)
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272759,Oxigen dissolt (camp)
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272760,Conductivitat (camp)
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272761,% Saturació d'oxigen (camp)
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,3272762,Temperatura de l'aigua (camp)
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,4258734,índex IBMWP
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,4343472,índex IPS
+after_2007,0006,0013,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,4356229,índex IHF
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,1000004392,b-hexaclorociclohexà
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345834,pH
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345835,Clorurs
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345836,Sulfats
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345837,Fluorurs
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345851,Calci
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345854,Nitrits
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345855,Nitrats
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345856,Bicarbonats
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345857,Duresa total
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345858,Magnesi
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345859,TOC
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345860,Sodi
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345861,Amoni
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345862,Error relatiu balanç iònic
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345864,Potassi
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345865,Suma d'anions
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345866,Suma de cations
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345867,Conductivitat a 20ºC
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345872,pH (camp)
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345873,Oxigen dissolt (camp)
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345874,Conductivitat (camp)
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345875,% Saturació d'oxigen (camp)
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,3345876,Temperatura de l'aigua (camp)
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4047787,Estronci
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108383,Alumini
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108384,Antimoni
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108385,Arsènic
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108386,Bari
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108388,Bor
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108389,Cadmi
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108391,Coure
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108392,Crom
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108393,Ferro
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108394,Manganès
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108395,Molibdè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108396,Níquel
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108397,Plom
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108398,Seleni
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4108400,Zinc
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4342821,índex IBMWP
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4343473,índex IPS
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4356230,índex IHF
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4418969,Fosfats
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4589714,Mercuri
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4589980,Pentaclorofenol
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590007,Cibutrina
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590008,Bifenox
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590009,Aclonifèn
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590010,Quinoxifèn
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590011,Cetona d'endrín
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590017,Suma de diclorobenzens
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590018,Epòxid d'heptaclor A
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590019,Metolaclor
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590020,"2,4'-DDD"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590021,"2,4'-DDE"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590022,"2,4'-DDT"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590024,Pentaclorobenzè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590025,Alaclor
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590026,Terbutilazina
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590027,Molinat
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590028,Trifluralina
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590029,Suma d'al-diel-iso-endrín
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590030,Desetilatrazina
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590031,Benzo(ghi)perilè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590032,"Dibenzo(a,h)antracè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590033,"Indeno(1,2,3-cd)pirè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590034,Benzo(a)pirè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590035,Benzo(k)fluorantè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590036,Benzo(b)fluorantè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590037,Crisè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590038,"1,2-benzantracè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590039,Fluorantè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590040,Antracè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590041,Terbutrina
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590042,Propazina
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590043,Atrazina
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590044,Simazina
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590045,Azinfòs d'Etil
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590046,Etion
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590047,Clorfenvinfòs (suma d'isòmers)
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590048,Paration
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590049,Clorpirifòs
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590050,Malation
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590051,Fenitrotion
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590052,Paration de Metil
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590053,Diazinon
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590055,Naftalè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590056,"1,3-diclorobenzè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590057,"4,4'-DDT"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590058,Sulfat d'endosulfan
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590059,"4,4'-DDD"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590060,Endosulfan II
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590061,"4,4'-DDE"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590062,Endrín
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590063,Dieldrín
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590064,Endosulfan I
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590065,Epòxid d'heptaclor B
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590066,Isodrín
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590067,Aldrín
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590068,Heptaclor
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590069,"1,3,5-triclorobenzè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590070,"1,1,2,2-tetracloroetà"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590071,"1,1,1-tricloroetà"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590072,"1,1-dicloroetà"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590073,"1,1-dicloroetilè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590074,Lindà(g-hexaclorociclohexà)
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590075,a-hexaclorociclohexà
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590076,Clorobenzè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590077,BTEX Total
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590078,Hexaclorobenzè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590079,o-Xilè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590080,"m,p-Xilè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590081,Etilbenzè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590082,Benzè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590083,"1,2,3-triclorobenzè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590084,"1,2,4-triclorobenzè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590085,Suma de triclorobenzens
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590086,"1,2-diclorobenzè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590087,"1,4-diclorobenzè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590088,"1,2-dicloroetà"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590089,Bromoform
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590090,Dibromoclorometà
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590091,Tetracloroetilè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590092,"1,1,2-tricloroetà"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590093,Triclorometà
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590094,Bromodiclorometà
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590095,Tricloroetilè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590096,Tetraclorur de Carboni
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590097,"cis-1,2-dicloroetilè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590098,"trans-1,2-dicloroetilè"
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590099,Diclorometà
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590100,Hexaclorobutadiè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590101,Toluè
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590102,Suma de Xilens
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4590103,Cianurs
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4595012,Suma de PAH1
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4595013,Suma de PAH2
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4605570,BDE-47
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4605571,BDE-99
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4605572,BDE-100
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4605573,BDE-153
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4605574,BDE-154
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4605649,BDE-28
+after_2007,0006,0013,F014708,Riera d'Osor - 200029020,456992,4638679,4661945,Suma de DDT
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346254,pH
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346255,Clorurs
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346256,Sulfats
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346257,Calci
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346258,Nitrits
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346259,Nitrats
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346260,Bicarbonats
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346261,Duresa total
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346262,Magnesi
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346263,TOC
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346264,Sodi
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346265,Amoni
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346266,Error relatiu balanç iònic
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346267,Potassi
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346268,Suma d'anions
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346269,Suma de cations
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346270,Conductivitat a 20ºC
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,3346271,Fosfats
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,4258733,índex IBMWP
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,4343474,índex IPS
+after_2007,0006,0013,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,4356231,índex IHF
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346092,pH
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346093,Clorurs
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346094,Sulfats
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346095,Calci
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346096,Nitrits
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346097,Nitrats
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346098,Bicarbonats
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346099,Duresa total
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346100,Magnesi
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346101,TOC
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346102,Sodi
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346103,Amoni
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346104,Error relatiu balanç iònic
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346105,Potassi
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346106,Suma d'anions
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346107,Suma de cations
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346108,Conductivitat a 20ºC
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,3346109,Fosfats
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,4258732,índex IBMWP
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,4343475,índex IPS
+after_2007,0006,0013,F015001,Riera d'Oló - 100036010,425264,4638740,4356232,índex IHF
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346272,pH
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346273,Clorurs
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346274,Sulfats
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346275,Calci
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346276,Nitrits
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346277,Nitrats
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346278,Bicarbonats
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346279,Duresa total
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346280,Magnesi
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346281,TOC
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346282,Sodi
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346283,Amoni
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346284,Error relatiu balanç iònic
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346285,Potassi
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346286,Suma d'anions
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346287,Suma de cations
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346288,Conductivitat a 20ºC
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,3346289,Fosfats
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,4258731,índex IBMWP
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,4343476,índex IPS
+after_2007,0006,0013,F015019,Riera de Malrubí - 100038010,420186,4629704,4356233,índex IHF
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346290,pH
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346291,Clorurs
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346292,Sulfats
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346293,Calci
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346294,Nitrits
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346295,Nitrats
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346296,Bicarbonats
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346297,Duresa total
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346298,Magnesi
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346299,TOC
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346300,Sodi
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346301,Amoni
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346302,Error relatiu balanç iònic
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346303,Potassi
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346304,Suma d'anions
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346305,Suma de cations
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346306,Conductivitat a 20ºC
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,3346307,Fosfats
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,4258730,índex IBMWP
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,4343477,índex IPS
+after_2007,0006,0013,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,4356234,índex IHF
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323545,pH
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323546,Clorurs
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323547,Sulfats
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323548,Calci
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323549,Nitrits
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323550,Nitrats
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323551,Bicarbonats
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323552,Duresa total
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323553,Magnesi
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323554,TOC
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323555,Sodi
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323556,Amoni
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323557,Error relatiu balanç iònic
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323558,Potassi
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323559,Suma d'anions
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323560,Suma de cations
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323561,Conductivitat a 20ºC
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,3323562,Fosfats
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,4258729,índex IBMWP
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,4343478,índex IPS
+after_2007,0006,0013,F015021,Riera d'Avencó - 110003010,442179,4628636,4356235,índex IHF
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157154,pH
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157155,Clorurs
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157156,Sulfats
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157157,Calci
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157158,Nitrits
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157159,Nitrats
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157160,Bicarbonats
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157161,Carbonats
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157162,Magnesi
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157163,Sodi
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157164,Amoni
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157165,Error relatiu balanç iònic
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157166,Potassi
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157167,Suma d'anions
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157168,Suma de cations
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157169,Conductivitat a 20ºC
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157170,Fosfats
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4157171,TOC
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4258728,índex IBMWP
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4343479,índex IPS
+after_2007,0006,0013,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4356236,índex IHF
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157218,pH
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157219,Clorurs
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157220,Sulfats
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157221,Calci
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157222,Nitrits
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157223,Nitrats
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157224,Bicarbonats
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157225,Carbonats
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157226,Magnesi
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157227,Sodi
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157228,Amoni
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157229,Error relatiu balanç iònic
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157230,Potassi
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157231,Suma d'anions
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157232,Suma de cations
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157233,Conductivitat a 20ºC
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157234,Fosfats
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4157235,TOC
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4258727,índex IBMWP
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4343480,índex IPS
+after_2007,0006,0013,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4356237,índex IHF
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346128,pH
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346129,Clorurs
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346130,Sulfats
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346131,Calci
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346132,Nitrits
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346133,Nitrats
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346134,Bicarbonats
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346135,Duresa total
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346136,Magnesi
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346137,TOC
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346138,Sodi
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346139,Amoni
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346140,Error relatiu balanç iònic
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346141,Potassi
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346142,Suma d'anions
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346143,Suma de cations
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346144,Conductivitat a 20ºC
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,3346145,Fosfats
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,4258725,índex IBMWP
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,4343482,índex IPS
+after_2007,0006,0013,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,4356239,índex IHF
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346164,pH
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346165,Clorurs
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346166,Sulfats
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346167,Calci
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346168,Nitrits
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346169,Nitrats
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346170,Bicarbonats
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346171,Duresa total
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346172,Magnesi
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346173,TOC
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346174,Sodi
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346175,Amoni
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346176,Error relatiu balanç iònic
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346177,Potassi
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346178,Suma d'anions
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346179,Suma de cations
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346180,Conductivitat a 20ºC
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,3346181,Fosfats
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,4258723,índex IBMWP
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,4343484,índex IPS
+after_2007,0006,0013,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,4356241,índex IHF
+after_2007,0006,0013,F015029,"Capçalera del Freser fins a Campdevànol, inclosos el Rigard i el Segadell - 200003010",418048,4685756,4342815,índex IBMWP
+after_2007,0006,0013,F015029,"Capçalera del Freser fins a Campdevànol, inclosos el Rigard i el Segadell - 200003010",418048,4685756,4343485,índex IPS
+after_2007,0006,0013,F015029,"Capçalera del Freser fins a Campdevànol, inclosos el Rigard i el Segadell - 200003010",418048,4685756,4356242,índex IHF
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346182,pH
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346183,Clorurs
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346184,Sulfats
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346185,Calci
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346186,Nitrits
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346187,Nitrats
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346188,Bicarbonats
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346189,Duresa total
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346190,Magnesi
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346191,TOC
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346192,Sodi
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346193,Amoni
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346194,Error relatiu balanç iònic
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346195,Potassi
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346196,Suma d'anions
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346197,Suma de cations
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346198,Conductivitat a 20ºC
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,3346199,Fosfats
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,4258722,índex IBMWP
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,4343486,índex IPS
+after_2007,0006,0013,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,4356243,índex IHF
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346200,pH
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346201,Clorurs
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346202,Sulfats
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346203,Calci
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346204,Nitrits
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346205,Nitrats
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346206,Bicarbonats
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346207,Duresa total
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346208,Magnesi
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346209,TOC
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346210,Sodi
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346211,Amoni
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346212,Error relatiu balanç iònic
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346213,Potassi
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346214,Suma d'anions
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346215,Suma de cations
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346216,Conductivitat a 20ºC
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,3346217,Fosfats
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,4258721,índex IBMWP
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,4343487,índex IPS
+after_2007,0006,0013,F015032,Conca del Llierca - 210007010,462032,4682815,4356244,índex IHF
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346218,pH
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346219,Clorurs
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346220,Sulfats
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346221,Calci
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346222,Nitrits
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346223,Nitrats
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346224,Bicarbonats
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346225,Duresa total
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346226,Magnesi
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346227,TOC
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346228,Sodi
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346229,Amoni
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346230,Error relatiu balanç iònic
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346231,Potassi
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346232,Suma d'anions
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346233,Suma de cations
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346234,Conductivitat a 20ºC
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,3346235,Fosfats
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,4258720,índex IBMWP
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,4343488,índex IPS
+after_2007,0006,0013,F015033,Riera de Borró - 210008010,471810,4677111,4356245,índex IHF
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346236,pH
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346237,Clorurs
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346238,Sulfats
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346239,Calci
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346240,Nitrits
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346241,Nitrats
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346242,Bicarbonats
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346243,Duresa total
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346244,Magnesi
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346245,TOC
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346246,Sodi
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346247,Amoni
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346248,Error relatiu balanç iònic
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346249,Potassi
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346250,Suma d'anions
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346251,Suma de cations
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346252,Conductivitat a 20ºC
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,3346253,Fosfats
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,4258719,índex IBMWP
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,4343489,índex IPS
+after_2007,0006,0013,F015034,Riera de Junyell - 210009010,475240,4669980,4356246,índex IHF
+after_2007,0006,0013,F022239,Riera Major - 200024011,449364,4631900,4138969,TOC
+after_2007,0006,0013,F025147,Riera de la Foradada - 200011030,438731,4662224,4342819,índex IBMWP
+after_2007,0006,0013,F025147,Riera de la Foradada - 200011030,438731,4662224,4343493,índex IPS
+after_2007,0006,0013,F025147,Riera de la Foradada - 200011030,438731,4662224,4356250,índex IHF
+after_2007,0006,0013,F025148,Capçalera del Foix fins a Sant Martí Sarroca - 080001030,379323,4587218,4258715,índex IBMWP
+after_2007,0006,0013,F025148,Capçalera del Foix fins a Sant Martí Sarroca - 080001030,379323,4587218,4343494,índex IPS
+after_2007,0006,0013,F025148,Capçalera del Foix fins a Sant Martí Sarroca - 080001030,379323,4587218,4356251,índex IHF
+after_2007,0006,0013,F025149,Riera de Vallfogona - 200008030,436652,4667979,4342817,índex IBMWP
+after_2007,0006,0013,F025149,Riera de Vallfogona - 200008030,436652,4667979,4343495,índex IPS
+after_2007,0006,0013,F025149,Riera de Vallfogona - 200008030,436652,4667979,4356252,índex IHF
+after_2007,0006,0013,F025150,Riera d'Osor - 200029030,461690,4644066,4342823,índex IBMWP
+after_2007,0006,0013,F025150,Riera d'Osor - 200029030,461690,4644066,4343496,índex IPS
+after_2007,0006,0013,F025150,Riera d'Osor - 200029030,461690,4644066,4356253,índex IHF
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4342799,índex IBMWP
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4343497,índex IPS
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4356255,índex IHF
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412612,pH
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412613,Clorurs
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412614,Sulfats
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412615,Calci
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412616,Nitrits
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412617,Nitrats
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412618,Bicarbonats
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412619,Duresa total
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412620,Magnesi
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412621,Sodi
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412622,Amoni
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412623,Error relatiu balanç Iònic
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412624,Potassi
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412625,Suma d'anions
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412626,Suma de cations
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412627,Conductivitat a 20ºC
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412628,Fosfats
+after_2007,0006,0013,F029673,Riera de la Portella - 100014030,409565,4659316,4412629,TOC
+after_2007,0006,0013,F029674,Capçalera de la riera de Merlès fins a la confluència del torrent de Regatell - 100021030,422202,4669805,4342801,índex IBMWP
+after_2007,0006,0013,F029674,Capçalera de la riera de Merlès fins a la confluència del torrent de Regatell - 100021030,422202,4669805,4343498,índex IPS
+after_2007,0006,0013,F029674,Capçalera de la riera de Merlès fins a la confluència del torrent de Regatell - 100021030,422202,4669805,4356256,índex IHF
+after_2007,0006,0013,F029675,Conca de l'Aigua d'Ora - 100054030,391575,4661673,4342805,índex IBMWP
+after_2007,0006,0013,F029675,Conca de l'Aigua d'Ora - 100054030,391575,4661673,4343499,índex IPS
+after_2007,0006,0013,F029675,Conca de l'Aigua d'Ora - 100054030,391575,4661673,4356257,índex IHF
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4342825,índex IBMWP
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4343500,índex IPS
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4356258,índex IHF
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4418995,Error relatiu balanç iònic
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419002,Suma d'anions
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419003,Suma de cations
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419010,Duresa total
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419015,Clorurs
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419020,Bicarbonats
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419025,Amoni
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419030,Nitrits
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419035,Nitrats
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419040,Fosfats
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419045,Sulfats
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419058,Calci
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419059,Magnesi
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419060,Sodi
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419061,Potassi
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419062,TOC
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419075,Conductivitat a 20ºC
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4419080,pH
+after_2007,0006,0013,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4583273,Silicats
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4342827,índex IBMWP
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4343501,índex IPS
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4356259,índex IHF
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4418996,Error relatiu balanç iònic
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419004,Suma d'anions
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419005,Suma de cations
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419011,Duresa total
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419016,Clorurs
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419021,Bicarbonats
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419026,Amoni
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419031,Nitrits
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419036,Nitrats
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419041,Fosfats
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419046,Sulfats
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419063,Calci
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419064,Magnesi
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419065,Sodi
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419066,Potassi
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419067,TOC
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419076,Conductivitat a 20ºC
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4419081,pH
+after_2007,0006,0013,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4583274,Silicats
+after_2007,0006,0013,F029693,Conca del Llierca - 210007030,455730,4679623,4342829,índex IBMWP
+after_2007,0006,0013,F029693,Conca del Llierca - 210007030,455730,4679623,4343502,índex IPS
+after_2007,0006,0013,F029693,Conca del Llierca - 210007030,455730,4679623,4356260,índex IHF
+after_2007,0006,0013,F029713,Capçalera de la Muga fins a l'embassament de Boadella - 220001030,475372,4686295,4342831,índex IBMWP
+after_2007,0006,0013,F029713,Capçalera de la Muga fins a l'embassament de Boadella - 220001030,475372,4686295,4343503,índex IPS
+after_2007,0006,0013,F029713,Capçalera de la Muga fins a l'embassament de Boadella - 220001030,475372,4686295,4356261,índex IHF
+after_2007,0006,0013,F029714,Riu Arnera aigües amunt de Boadella - 220002030,478606,4691654,4342833,índex IBMWP
+after_2007,0006,0013,F029714,Riu Arnera aigües amunt de Boadella - 220002030,478606,4691654,4343504,índex IPS
+after_2007,0006,0013,F029714,Riu Arnera aigües amunt de Boadella - 220002030,478606,4691654,4356262,índex IHF
+after_2007,0006,0013,F029715,Riu de Peguera - 100008030,403439,4667119,4342797,índex IBMWP
+after_2007,0006,0013,F029715,Riu de Peguera - 100008030,403439,4667119,4343505,índex IPS
+after_2007,0006,0013,F029715,Riu de Peguera - 100008030,403439,4667119,4356263,índex IHF
+after_2007,0006,0013,F029753,Riera de Santa Creu (o Mata-rodona) - 100046030,409032,4615301,4342803,índex IBMWP
+after_2007,0006,0013,F029753,Riera de Santa Creu (o Mata-rodona) - 100046030,409032,4615301,4343506,índex IPS
+after_2007,0006,0013,F029753,Riera de Santa Creu (o Mata-rodona) - 100046030,409032,4615301,4356264,índex IHF
+after_2007,0006,0013,F049096,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002030,365975,4587377,4636237,índex IBMWP
+after_2007,0006,0013,F049096,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002030,365975,4587377,4636238,índex IHF
+after_2007,0006,0013,F049096,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002030,365975,4587377,4636240,índex IPS

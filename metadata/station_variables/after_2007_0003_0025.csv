@@ -1,0 +1,1446 @@
+period,network,subnetwork,station,station_name,x,y,variable_id,variable_name
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3117849,Conductivitat (camp)
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3117850,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3117851,pH (camp)
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118036,Amoni
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118037,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118038,Oxigen dissolt (camp)
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118039,Bicarbonats
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118040,Calci
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118041,Clorurs
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118042,Conductivitat a 20ºC
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118043,Duresa total
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118044,Error relatiu balanç iònic
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118045,Fluorurs
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118046,Magnesi
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118062,Nitrats
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118063,Nitrits
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118064,TOC
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118065,pH
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118066,Potassi
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118067,Sodi
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118068,Sulfats
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118069,Suma d'anions
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,3118070,Suma de cations
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060645,Disc de Secchi
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060651,Fòsfor total
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060652,Nitrogen total
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060653,Alcalinitat (TAC)
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060659,Terbolesa
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060660,Calci
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,4166786,Fosfats
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,4589965,Fosfats
+after_2007,0003,0025,F009980,Estanys de Banyoles - 045040100,480010,4663228,4589970,Cianurs
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967553,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967554,Conductivitat (camp)
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967555,pH (camp)
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967556,Oxigen dissolt (camp)
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967557,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967558,Fòsfor total
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967559,Nitrogen total
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967560,Fosfats
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967561,Nitrats
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967562,Nitrits
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967563,Amoni
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,4415951,Bicarbonats
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,4415953,Clorurs
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,4415955,Disc de Secchi
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,4415956,Duresa total
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,4415964,Sulfats
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,4415966,Terbolesa
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,4415967,TOC
+after_2007,0003,0025,F016182,Pantà de l'Arrós - H230002000,290392,4613323,4420883,Potencial redox
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,3967570,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,3967571,Conductivitat (camp)
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,3967572,pH (camp)
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,3967573,Oxigen dissolt (camp)
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,3967574,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,3967575,Fòsfor total
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,3967576,Nitrogen total
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,3967577,Fosfats
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,3967578,Nitrats
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,3967579,Nitrits
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,3967580,Amoni
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,4416047,Bicarbonats
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,4416049,Clorurs
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,4416051,Disc de Secchi
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,4416052,Duresa total
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,4416060,Sulfats
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,4416062,Terbolesa
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,4416063,TOC
+after_2007,0003,0025,F016183,Utxesa - H230003001,293081,4598472,4420880,Potencial redox
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,3967587,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,3967588,Conductivitat (camp)
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,3967589,pH (camp)
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,3967590,Oxigen dissolt (camp)
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,3967591,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,3967592,Fòsfor total
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,3967593,Nitrogen total
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,3967594,Fosfats
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,3967595,Nitrats
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,3967596,Nitrits
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,3967597,Amoni
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,4416029,Bicarbonats
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,4416031,Clorurs
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,4416033,Disc de Secchi
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,4416034,Duresa total
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,4416042,Sulfats
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,4416044,Terbolesa
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,4416045,TOC
+after_2007,0003,0025,F016184,Utxesa - H230003000,293266,4595237,4420881,Potencial redox
+after_2007,0003,0025,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967604,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967605,Conductivitat (camp)
+after_2007,0003,0025,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967606,pH (camp)
+after_2007,0003,0025,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967607,Oxigen dissolt (camp)
+after_2007,0003,0025,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967608,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967609,Fòsfor total
+after_2007,0003,0025,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967610,Nitrogen total
+after_2007,0003,0025,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967611,Fosfats
+after_2007,0003,0025,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967612,Nitrats
+after_2007,0003,0025,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967613,Nitrits
+after_2007,0003,0025,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967614,Amoni
+after_2007,0003,0025,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967621,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967622,Conductivitat (camp)
+after_2007,0003,0025,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967623,pH (camp)
+after_2007,0003,0025,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967624,Oxigen dissolt (camp)
+after_2007,0003,0025,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967625,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967626,Fòsfor total
+after_2007,0003,0025,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967627,Nitrogen total
+after_2007,0003,0025,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967628,Fosfats
+after_2007,0003,0025,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967629,Nitrats
+after_2007,0003,0025,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967630,Nitrits
+after_2007,0003,0025,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967631,Amoni
+after_2007,0003,0025,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967638,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967639,Conductivitat (camp)
+after_2007,0003,0025,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967640,pH (camp)
+after_2007,0003,0025,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967641,Oxigen dissolt (camp)
+after_2007,0003,0025,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967642,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967643,Fòsfor total
+after_2007,0003,0025,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967644,Nitrogen total
+after_2007,0003,0025,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967645,Fosfats
+after_2007,0003,0025,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967646,Nitrats
+after_2007,0003,0025,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967647,Nitrits
+after_2007,0003,0025,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967648,Amoni
+after_2007,0003,0025,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967655,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967656,Conductivitat (camp)
+after_2007,0003,0025,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967657,pH (camp)
+after_2007,0003,0025,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967658,Oxigen dissolt (camp)
+after_2007,0003,0025,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967659,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967660,Fòsfor total
+after_2007,0003,0025,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967661,Nitrogen total
+after_2007,0003,0025,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967662,Fosfats
+after_2007,0003,0025,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967663,Nitrats
+after_2007,0003,0025,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967664,Nitrits
+after_2007,0003,0025,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967665,Amoni
+after_2007,0003,0025,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967672,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967673,Conductivitat (camp)
+after_2007,0003,0025,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967674,pH (camp)
+after_2007,0003,0025,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967675,Oxigen dissolt (camp)
+after_2007,0003,0025,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967676,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967677,Fòsfor total
+after_2007,0003,0025,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967678,Nitrogen total
+after_2007,0003,0025,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967679,Fosfats
+after_2007,0003,0025,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967680,Nitrats
+after_2007,0003,0025,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967681,Nitrits
+after_2007,0003,0025,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967682,Amoni
+after_2007,0003,0025,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967689,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967690,Conductivitat (camp)
+after_2007,0003,0025,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967691,pH (camp)
+after_2007,0003,0025,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967692,Oxigen dissolt (camp)
+after_2007,0003,0025,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967693,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967694,Fòsfor total
+after_2007,0003,0025,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967695,Nitrogen total
+after_2007,0003,0025,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967696,Fosfats
+after_2007,0003,0025,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967697,Nitrats
+after_2007,0003,0025,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967698,Nitrits
+after_2007,0003,0025,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967699,Amoni
+after_2007,0003,0025,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967706,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967707,Conductivitat (camp)
+after_2007,0003,0025,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967708,pH (camp)
+after_2007,0003,0025,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967709,Oxigen dissolt (camp)
+after_2007,0003,0025,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967710,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967711,Fòsfor total
+after_2007,0003,0025,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967712,Nitrogen total
+after_2007,0003,0025,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967713,Fosfats
+after_2007,0003,0025,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967714,Nitrats
+after_2007,0003,0025,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967715,Nitrits
+after_2007,0003,0025,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967716,Amoni
+after_2007,0003,0025,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967723,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967724,Conductivitat (camp)
+after_2007,0003,0025,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967725,pH (camp)
+after_2007,0003,0025,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967726,Oxigen dissolt (camp)
+after_2007,0003,0025,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967727,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967728,Fòsfor total
+after_2007,0003,0025,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967729,Nitrogen total
+after_2007,0003,0025,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967730,Fosfats
+after_2007,0003,0025,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967731,Nitrats
+after_2007,0003,0025,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967732,Nitrits
+after_2007,0003,0025,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967733,Amoni
+after_2007,0003,0025,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967740,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967741,Conductivitat (camp)
+after_2007,0003,0025,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967742,pH (camp)
+after_2007,0003,0025,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967743,Oxigen dissolt (camp)
+after_2007,0003,0025,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967744,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967745,Fòsfor total
+after_2007,0003,0025,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967746,Nitrogen total
+after_2007,0003,0025,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967747,Fosfats
+after_2007,0003,0025,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967748,Nitrats
+after_2007,0003,0025,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967749,Nitrits
+after_2007,0003,0025,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967750,Amoni
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416130,% Saturació d'oxigen
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416131,Amoni
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416132,Bicarbonats
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416135,Clorurs
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416136,Conductivitat (camp)
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416138,Disc de Secchi
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416139,Duresa total
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416140,Fosfats
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416141,Fòsfor Total
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416151,Nitrats
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416152,Nitrits
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416153,Nitrogen Total
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416154,Oxigen dissolt
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416155,pH
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416156,Sulfats
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416157,Sulfhídric
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416158,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416159,Terbolesa
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416160,TOC
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4420823,Potencial redox
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4562377,Cianurs
+after_2007,0003,0025,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4562378,Fluorurs
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967757,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967758,Conductivitat (camp)
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967759,pH (camp)
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967760,Oxigen dissolt (camp)
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967761,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967762,Fòsfor total
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967763,Nitrogen total
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967764,Fosfats
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967765,Nitrats
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967766,Nitrits
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967767,Amoni
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,4158835,TOC
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,4259627,Disc de Secchi
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,4358930,Sulfhídric
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,4415501,Bicarbonats
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,4415503,Clorurs
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,4415505,Duresa total
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,4415513,Sulfats
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,4415514,Terbolesa
+after_2007,0003,0025,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,4420820,Potencial redox
+after_2007,0003,0025,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967774,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967775,Conductivitat (camp)
+after_2007,0003,0025,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967776,pH (camp)
+after_2007,0003,0025,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967777,Oxigen dissolt (camp)
+after_2007,0003,0025,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967778,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967779,Fòsfor total
+after_2007,0003,0025,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967780,Nitrogen total
+after_2007,0003,0025,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967781,Fosfats
+after_2007,0003,0025,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967782,Nitrats
+after_2007,0003,0025,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967783,Nitrits
+after_2007,0003,0025,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967784,Amoni
+after_2007,0003,0025,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967791,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967792,Conductivitat (camp)
+after_2007,0003,0025,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967793,pH (camp)
+after_2007,0003,0025,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967794,Oxigen dissolt (camp)
+after_2007,0003,0025,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967795,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967796,Fòsfor total
+after_2007,0003,0025,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967797,Nitrogen total
+after_2007,0003,0025,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967798,Fosfats
+after_2007,0003,0025,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967799,Nitrats
+after_2007,0003,0025,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967800,Nitrits
+after_2007,0003,0025,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967801,Amoni
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967808,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967809,Conductivitat (camp)
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967810,pH (camp)
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967811,Oxigen dissolt (camp)
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967812,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967813,Fòsfor total
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967814,Nitrogen total
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967815,Fosfats
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967816,Nitrats
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967817,Nitrits
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967818,Amoni
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,4158816,TOC
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,4259626,Disc de Secchi
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,4415471,Bicarbonats
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,4415473,Clorurs
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,4415475,Duresa total
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,4415483,Sulfats
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,4415484,Terbolesa
+after_2007,0003,0025,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,4420819,Potencial redox
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967825,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967826,Conductivitat (camp)
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967827,pH (camp)
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967828,Oxigen dissolt (camp)
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967829,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967830,Fòsfor total
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967831,Nitrogen total
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967832,Fosfats
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967833,Nitrats
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967834,Nitrits
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967835,Amoni
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,4158797,TOC
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,4259625,Disc de Secchi
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,4415486,Bicarbonats
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,4415488,Clorurs
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,4415490,Duresa total
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,4415498,Sulfats
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,4415499,Terbolesa
+after_2007,0003,0025,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,4420818,Potencial redox
+after_2007,0003,0025,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967842,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967843,Conductivitat (camp)
+after_2007,0003,0025,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967844,pH (camp)
+after_2007,0003,0025,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967845,Oxigen dissolt (camp)
+after_2007,0003,0025,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967846,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967847,Fòsfor total
+after_2007,0003,0025,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967848,Nitrogen total
+after_2007,0003,0025,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967849,Fosfats
+after_2007,0003,0025,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967850,Nitrats
+after_2007,0003,0025,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967851,Nitrits
+after_2007,0003,0025,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967852,Amoni
+after_2007,0003,0025,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967859,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967860,Conductivitat (camp)
+after_2007,0003,0025,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967861,pH (camp)
+after_2007,0003,0025,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967862,Oxigen dissolt (camp)
+after_2007,0003,0025,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967863,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967864,Fòsfor total
+after_2007,0003,0025,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967865,Nitrogen total
+after_2007,0003,0025,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967866,Fosfats
+after_2007,0003,0025,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967867,Nitrats
+after_2007,0003,0025,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967868,Nitrits
+after_2007,0003,0025,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967869,Amoni
+after_2007,0003,0025,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967876,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967877,Conductivitat (camp)
+after_2007,0003,0025,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967878,pH (camp)
+after_2007,0003,0025,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967879,Oxigen dissolt (camp)
+after_2007,0003,0025,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967880,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967881,Fòsfor total
+after_2007,0003,0025,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967882,Nitrogen total
+after_2007,0003,0025,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967883,Fosfats
+after_2007,0003,0025,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967884,Nitrats
+after_2007,0003,0025,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967885,Nitrits
+after_2007,0003,0025,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967886,Amoni
+after_2007,0003,0025,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967893,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967894,Conductivitat (camp)
+after_2007,0003,0025,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967895,pH (camp)
+after_2007,0003,0025,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967896,Oxigen dissolt (camp)
+after_2007,0003,0025,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967897,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967898,Fòsfor total
+after_2007,0003,0025,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967899,Nitrogen total
+after_2007,0003,0025,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967900,Fosfats
+after_2007,0003,0025,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967901,Nitrats
+after_2007,0003,0025,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967902,Nitrits
+after_2007,0003,0025,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967903,Amoni
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967910,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967911,Conductivitat (camp)
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967912,pH (camp)
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967913,Oxigen dissolt (camp)
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967914,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967915,Fòsfor total
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967916,Nitrogen total
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967917,Fosfats
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967918,Nitrats
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967919,Nitrits
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967920,Amoni
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,4158778,TOC
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,4259624,Disc de Secchi
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,4358926,Sulfhídric
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,4415441,Bicarbonats
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,4415443,Clorurs
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,4415445,Duresa total
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,4415453,Sulfats
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,4415454,Terbolesa
+after_2007,0003,0025,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,4420817,Potencial redox
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416098,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416099,Amoni
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416100,Bicarbonats
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416103,Clorurs
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416104,Conductivitat (camp)
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416106,Disc de Secchi
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416107,Duresa total
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416108,Fosfats
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416109,Fòsfor Total
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416119,Nitrats
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416120,Nitrits
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416121,Nitrogen Total
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416122,Oxigen dissolt (camp)
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416123,pH
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416124,Sulfats
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416126,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416127,Terbolesa
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416128,TOC
+after_2007,0003,0025,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4420822,Potencial redox
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,3967927,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,3967928,Conductivitat (camp)
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,3967929,pH (camp)
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,3967930,Oxigen dissolt (camp)
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,3967931,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,3967932,Fòsfor total
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,3967933,Nitrogen total
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,3967934,Fosfats
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,3967935,Nitrats
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,3967936,Nitrits
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,3967937,Amoni
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,4158759,TOC
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,4359007,Disc de Secchi
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,4359008,Sulfhídric
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,4416014,Bicarbonats
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,4416016,Clorurs
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,4416018,Duresa total
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,4416026,Sulfats
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,4416027,Terbolesa
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,4420816,Potencial redox
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,4482695,Cianurs
+after_2007,0003,0025,F016213,Sèquia Major - H190001000,346879,4549250,4482696,Fluorurs
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,3967944,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,3967945,Conductivitat (camp)
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,3967946,pH (camp)
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,3967947,Oxigen dissolt (camp)
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,3967948,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,3967949,Fòsfor total
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,3967950,Nitrogen total
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,3967951,Fosfats
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,3967952,Nitrats
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,3967953,Nitrits
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,3967954,Amoni
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,4415363,Bicarbonats
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,4415365,Clorurs
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,4415367,Disc de Secchi
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,4415368,Duresa total
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,4415376,Sulfats
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,4415378,Terbolesa
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,4415379,TOC
+after_2007,0003,0025,F016214,Basses de Sió - H230004000,350306,4621862,4420882,Potencial redox
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967961,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967962,Conductivitat (camp)
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967963,pH (camp)
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967964,Oxigen dissolt (camp)
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967965,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967966,Fòsfor total
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967967,Nitrogen total
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967968,Fosfats
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967969,Nitrats
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967970,Nitrits
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967971,Amoni
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,4157923,TOC
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,4259601,Disc de Secchi
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,4358925,Sulfhídric
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,4415261,Bicarbonats
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,4415263,Clorurs
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,4415265,Duresa total
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,4415271,Sulfats
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,4415272,Terbolesa
+after_2007,0003,0025,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,4420772,Potencial redox
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967978,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967979,Conductivitat (camp)
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967980,pH (camp)
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967981,Oxigen dissolt (camp)
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967982,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967983,Fòsfor total
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967984,Nitrogen total
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967985,Fosfats
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967986,Nitrats
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967987,Nitrits
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967988,Amoni
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,4158740,TOC
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,4259623,Disc de Secchi
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,4415969,Bicarbonats
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,4415971,Clorurs
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,4415973,Duresa total
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,4415981,Sulfats
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,4415982,Terbolesa
+after_2007,0003,0025,F016216,Platja de Torredembarra - H183301000,368784,4557163,4420815,Potencial redox
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3967995,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3967996,Conductivitat (camp)
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3967997,pH (camp)
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3967998,Oxigen dissolt (camp)
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3967999,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968000,Fòsfor total
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968001,Nitrogen total
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968002,Fosfats
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968003,Nitrats
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968004,Nitrits
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968005,Amoni
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4158721,TOC
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4259622,Disc de Secchi
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4415666,Bicarbonats
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4415668,Clorurs
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4415670,Duresa total
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4415678,Sulfats
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4415679,Terbolesa
+after_2007,0003,0025,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4420814,Potencial redox
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968012,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968013,Conductivitat (camp)
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968014,pH (camp)
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968015,Oxigen dissolt (camp)
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968016,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968017,Fòsfor total
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968018,Nitrogen total
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968019,Fosfats
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968020,Nitrats
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968021,Nitrits
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968022,Amoni
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4158683,TOC
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4259620,Disc de Secchi
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4358916,Sulfhídric
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4415381,Bicarbonats
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4415383,Clorurs
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4415385,Duresa total
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4415393,Sulfats
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4415394,Terbolesa
+after_2007,0003,0025,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4420812,Potencial redox
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968029,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968030,Conductivitat (camp)
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968031,pH (camp)
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968032,Oxigen dissolt (camp)
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968033,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968034,Fòsfor total
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968035,Nitrogen total
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968036,Fosfats
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968037,Nitrats
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968038,Nitrits
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968039,Amoni
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4158702,TOC
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4259621,Disc de Secchi
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4415984,Bicarbonats
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4415986,Clorurs
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4415988,Duresa total
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4415996,Sulfats
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4415997,Terbolesa
+after_2007,0003,0025,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4420813,Potencial redox
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968046,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968047,Conductivitat (camp)
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968048,pH (camp)
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968049,Oxigen dissolt (camp)
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968050,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968051,Fòsfor total
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968052,Nitrogen total
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968053,Fosfats
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968054,Nitrats
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968055,Nitrits
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968056,Amoni
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4158664,TOC
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4259619,Disc de Secchi
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4358953,Sulfhídric
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4415726,Bicarbonats
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4415728,Clorurs
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4415730,Duresa total
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4415738,Sulfats
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4415739,Terbolesa
+after_2007,0003,0025,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4420811,Potencial redox
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968063,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968064,Conductivitat (camp)
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968065,pH (camp)
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968066,Oxigen dissolt (camp)
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968067,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968068,Fòsfor total
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968069,Nitrogen total
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968070,Fosfats
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968071,Nitrats
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968072,Nitrits
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968073,Amoni
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,4158645,TOC
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,4259618,Disc de Secchi
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,4415696,Bicarbonats
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,4415698,Clorurs
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,4415700,Duresa total
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,4415708,Sulfats
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,4415709,Terbolesa
+after_2007,0003,0025,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,4420810,Potencial redox
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968080,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968081,Conductivitat (camp)
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968082,pH (camp)
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968083,Oxigen dissolt (camp)
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968084,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968085,Fòsfor total
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968086,Nitrogen total
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968087,Fosfats
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968088,Nitrats
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968089,Nitrits
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968090,Amoni
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4158626,TOC
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4259617,Disc de Secchi
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4415681,Bicarbonats
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4415683,Clorurs
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4415685,Duresa total
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4415693,Sulfats
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4415694,Terbolesa
+after_2007,0003,0025,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4420809,Potencial redox
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968097,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968098,Conductivitat (camp)
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968099,pH (camp)
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968100,Oxigen dissolt (camp)
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968101,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968102,Fòsfor total
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968103,Nitrogen total
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968104,Fosfats
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968105,Nitrats
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968106,Nitrits
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968107,Amoni
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,4158607,TOC
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,4259616,Disc de Secchi
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,4415651,Bicarbonats
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,4415653,Clorurs
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,4415655,Duresa total
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,4415663,Sulfats
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,4415664,Terbolesa
+after_2007,0003,0025,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,4420808,Potencial redox
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968114,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968115,Conductivitat (camp)
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968116,pH (camp)
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968117,Oxigen dissolt (camp)
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968118,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968119,Fòsfor total
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968120,Nitrogen total
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968121,Fosfats
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968122,Nitrats
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968123,Nitrits
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968124,Amoni
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4158588,TOC
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4259615,Disc de Secchi
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4415576,Bicarbonats
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4415578,Clorurs
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4415580,Duresa total
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4415588,Sulfats
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4415589,Terbolesa
+after_2007,0003,0025,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4420807,Potencial redox
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968131,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968132,Conductivitat (camp)
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968133,pH (camp)
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968134,Oxigen dissolt (camp)
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968135,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968136,Fòsfor total
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968137,Nitrogen total
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968138,Fosfats
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968139,Nitrats
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968140,Nitrits
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968141,Amoni
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4158569,TOC
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4259614,Disc de Secchi
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4358937,Sulfhídric
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4415561,Bicarbonats
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4415563,Clorurs
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4415565,Duresa total
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4415573,Sulfats
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4415574,Terbolesa
+after_2007,0003,0025,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4420806,Potencial redox
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968148,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968149,Conductivitat (camp)
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968150,pH (camp)
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968151,Oxigen dissolt (camp)
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968152,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968153,Fòsfor total
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968154,Nitrogen total
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968155,Fosfats
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968156,Nitrats
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968157,Nitrits
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968158,Amoni
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,4158265,TOC
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,4358912,Disc de Secchi
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,4415348,Bicarbonats
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,4415350,Clorurs
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,4415352,Duresa total
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,4415360,Sulfats
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,4415361,Terbolesa
+after_2007,0003,0025,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,4420790,Potencial redox
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968165,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968166,Conductivitat (camp)
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968167,pH (camp)
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968168,Oxigen dissolt (camp)
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968169,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968170,Fòsfor total
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968171,Nitrogen total
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968172,Fosfats
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968173,Nitrats
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968174,Nitrits
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968175,Amoni
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,4158284,TOC
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,4358910,Disc de Secchi
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,4358911,Sulfhídric
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,4415333,Bicarbonats
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,4415335,Clorurs
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,4415337,Duresa total
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,4415345,Sulfats
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,4415346,Terbolesa
+after_2007,0003,0025,F016227,Basses de Can Jordà - H104006000,459280,4665966,4420791,Potencial redox
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158213,Amoni
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158217,Conductivitat (camp)
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158218,Fosfats
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158219,Fòsfor total
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158220,Nitrats
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158221,Nitrits
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158222,Nitrogen total
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158223,Oxigen dissolt (camp)
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158224,pH (camp)
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158225,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158226,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158227,TOC
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4358969,Disc de Secchi
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4358971,Sulfhídric
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4415801,Bicarbonats
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4415803,Clorurs
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4415805,Duresa total
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4415813,Sulfats
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4415814,Terbolesa
+after_2007,0003,0025,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4420788,Potencial redox
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158232,Amoni
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158236,Conductivitat (camp)
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158237,Fosfats
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158238,Fòsfor total
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158239,Nitrats
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158240,Nitrits
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158241,Nitrogen total
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158242,Oxigen dissolt (camp)
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158243,pH (camp)
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158244,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158245,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158246,TOC
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4358966,Disc de Secchi
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4358968,Sulfhídric
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4415786,Bicarbonats
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4415788,Clorurs
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4415790,Duresa total
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4415798,Sulfats
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4415799,Terbolesa
+after_2007,0003,0025,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4420789,Potencial redox
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158308,Amoni
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158312,Conductivitat (camp)
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158313,Fosfats
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158314,Fòsfor total
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158315,Nitrats
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158316,Nitrits
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158317,Nitrogen total
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158318,Oxigen dissolt (camp)
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158319,pH (camp)
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158320,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158321,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4158322,TOC
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4358934,Disc de Secchi
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4358936,Sulfhídric
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4415546,Bicarbonats
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4415548,Clorurs
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4415550,Duresa total
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4415558,Sulfats
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4415559,Terbolesa
+after_2007,0003,0025,F016230,Estany de Bancells - H105002000,474867,4621612,4420793,Potencial redox
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968182,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968183,Conductivitat (camp)
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968184,pH (camp)
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968185,Oxigen dissolt (camp)
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968186,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968187,Fòsfor total
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968188,Nitrogen total
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968189,Fosfats
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968190,Nitrats
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968191,Nitrits
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968192,Amoni
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,4158398,TOC
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,4358940,Disc de Secchi
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,4415606,Bicarbonats
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,4415608,Clorurs
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,4415610,Duresa total
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,4415618,Sulfats
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,4420797,Potencial redox
+after_2007,0003,0025,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,4436930,Terbolesa
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968199,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968200,Conductivitat (camp)
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968201,pH (camp)
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968202,Oxigen dissolt (camp)
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968203,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968204,Fòsfor total
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968205,Nitrogen total
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968206,Fosfats
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968207,Nitrats
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968208,Nitrits
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968209,Amoni
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,4158341,TOC
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,4358945,Disc de Secchi
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,4358946,Sulfhídric
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,4415636,Bicarbonats
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,4415638,Clorurs
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,4415640,Duresa total
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,4415648,Sulfats
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,4415649,Terbolesa
+after_2007,0003,0025,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,4420794,Potencial redox
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968216,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968217,Conductivitat (camp)
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968218,pH (camp)
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968219,Oxigen dissolt (camp)
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968220,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968221,Fòsfor total
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968222,Nitrogen total
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968223,Fosfats
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968224,Nitrats
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968225,Nitrits
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968226,Amoni
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,4158360,TOC
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,4358917,Disc de Secchi
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,4358918,Sulfhídric
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,4415396,Bicarbonats
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,4415398,Clorurs
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,4415400,Duresa total
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,4415408,Sulfats
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,4415409,Terbolesa
+after_2007,0003,0025,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,4420795,Potencial redox
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968233,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968234,Conductivitat (camp)
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968235,pH (camp)
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968236,Oxigen dissolt (camp)
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968237,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968238,Fòsfor total
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968239,Nitrogen total
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968240,Fosfats
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968241,Nitrats
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968242,Nitrits
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968243,Amoni
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,4158379,TOC
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,4259609,Disc de Secchi
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,4358939,Sulfhídric
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,4415591,Bicarbonats
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,4415593,Clorurs
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,4415595,Duresa total
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,4415603,Sulfats
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,4415604,Terbolesa
+after_2007,0003,0025,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,4420796,Potencial redox
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158289,Amoni
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158293,Conductivitat (camp)
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158294,Fosfats
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158295,Fòsfor total
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158296,Nitrats
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158297,Nitrits
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158298,Nitrogen total
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158299,Oxigen dissolt (camp)
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158300,pH (camp)
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158301,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158302,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4158303,TOC
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4259608,Disc de Secchi
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4415771,Bicarbonats
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4415773,Clorurs
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4415775,Duresa total
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4415783,Sulfats
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4415784,Terbolesa
+after_2007,0003,0025,F016235,Estany de Sils - H105001000,478631,4627820,4420792,Potencial redox
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158194,Amoni
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158198,Conductivitat (camp)
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158199,Fosfats
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158200,Fòsfor total
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158201,Nitrats
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158202,Nitrits
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158203,Nitrogen total
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158204,Oxigen dissolt (camp)
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158205,pH (camp)
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158206,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158207,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158208,TOC
+after_2007,0003,0025,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4358922,Disc de Secchi
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968250,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968251,Conductivitat (camp)
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968252,pH (camp)
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968253,Oxigen dissolt (camp)
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968254,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968255,Fòsfor total
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968256,Nitrogen total
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968257,Fosfats
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968258,Nitrats
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968259,Nitrits
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968260,Amoni
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,4158417,TOC
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,4259610,Disc de Secchi
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,4415456,Bicarbonats
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,4415458,Clorurs
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,4415460,Duresa total
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,4415468,Sulfats
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,4415469,Terbolesa
+after_2007,0003,0025,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,4420798,Potencial redox
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158042,Amoni
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158046,Conductivitat (camp)
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158047,Fosfats
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158048,Fòsfor total
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158049,Nitrats
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158050,Nitrits
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158051,Nitrogen total
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158052,Oxigen dissolt (camp)
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158053,pH (camp)
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158054,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158055,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158056,TOC
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4358972,Disc de Secchi
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4358974,Sulfhídric
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4415816,Bicarbonats
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4415818,Clorurs
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4415820,Duresa total
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4415828,Sulfats
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4415829,Terbolesa
+after_2007,0003,0025,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4420779,Potencial redox
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157947,Amoni
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157951,Conductivitat (camp)
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157952,Fosfats
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157953,Fòsfor total
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157954,Nitrats
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157955,Nitrits
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157956,Nitrogen total
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157957,Oxigen dissolt (camp)
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157958,pH (camp)
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157959,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157960,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157961,TOC
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4358981,Disc de Secchi
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4358983,Sulfhídric
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4415289,Bicarbonats
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4415291,Clorurs
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4415293,Duresa total
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4415299,Sulfats
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4415300,Terbolesa
+after_2007,0003,0025,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4420774,Potencial redox
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157928,Amoni
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157932,Conductivitat (camp)
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157933,Fosfats
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157934,Fòsfor total
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157935,Nitrats
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157936,Nitrits
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157937,Nitrogen total
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157938,Oxigen dissolt (camp)
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157939,pH (camp)
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157940,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157941,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157942,TOC
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4358978,Disc de Secchi
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4415275,Bicarbonats
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4415277,Clorurs
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4415279,Duresa total
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4415285,Sulfats
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4415286,Terbolesa
+after_2007,0003,0025,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4420773,Potencial redox
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157966,Amoni
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157970,Conductivitat (camp)
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157971,Fosfats
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157972,Fòsfor total
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157973,Nitrats
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157974,Nitrits
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157975,Nitrogen total
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157976,Oxigen dissolt (camp)
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157977,pH (camp)
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157978,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157979,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157980,TOC
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4358919,Disc de Secchi
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4415411,Bicarbonats
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4415413,Clorurs
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4415415,Duresa total
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4415423,Sulfats
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4415424,Terbolesa
+after_2007,0003,0025,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4420775,Potencial redox
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158004,Amoni
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158008,Conductivitat (camp)
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158009,Fosfats
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158010,Fòsfor total
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158011,Nitrats
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158012,Nitrits
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158013,Nitrogen total
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158014,Oxigen dissolt (camp)
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158015,pH (camp)
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158016,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158017,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158018,TOC
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4358942,Disc de Secchi
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4358944,Sulfhídric
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4415621,Bicarbonats
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4415623,Clorurs
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4415625,Duresa total
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4415633,Sulfats
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4415634,Terbolesa
+after_2007,0003,0025,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4420777,Potencial redox
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158023,Amoni
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158027,Conductivitat (camp)
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158028,Fosfats
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158029,Fòsfor total
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158030,Nitrats
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158031,Nitrits
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158032,Nitrogen total
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158033,Oxigen dissolt (camp)
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158034,pH (camp)
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158035,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158036,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158037,TOC
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4358954,Disc de Secchi
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4358956,Sulfhídric
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4415741,Bicarbonats
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4415743,Clorurs
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4415745,Duresa total
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4415753,Sulfats
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4415754,Terbolesa
+after_2007,0003,0025,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4420778,Potencial redox
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157985,Amoni
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157989,Conductivitat (camp)
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157990,Fosfats
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157991,Fòsfor total
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157992,Nitrats
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157993,Nitrits
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157994,Nitrogen total
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157995,Oxigen dissolt (camp)
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157996,pH (camp)
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157997,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157998,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4157999,TOC
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4358984,Disc de Secchi
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4358986,Sulfhídric
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4415846,Bicarbonats
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4415848,Clorurs
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4415850,Duresa total
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4415858,Sulfats
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4415859,Terbolesa
+after_2007,0003,0025,F016244,Estanys de Gutina - H103003000,498332,4693849,4420776,Potencial redox
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158175,Amoni
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158179,Conductivitat (camp)
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158180,Fosfats
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158181,Fòsfor total
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158182,Nitrats
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158183,Nitrits
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158184,Nitrogen total
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158185,Oxigen dissolt (camp)
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158186,pH (camp)
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158187,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158188,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158189,TOC
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4358999,Disc de Secchi
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4415936,Bicarbonats
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4415938,Clorurs
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4415940,Duresa total
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4415948,Sulfats
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4415949,Terbolesa
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4420786,Potencial redox
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4482915,Cianurs
+after_2007,0003,0025,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4482916,Fluorurs
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158156,Amoni
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158160,Conductivitat (camp)
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158161,Fosfats
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158162,Fòsfor total
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158163,Nitrats
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158164,Nitrits
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158165,Nitrogen total
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158166,Oxigen dissolt (camp)
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158167,pH (camp)
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158168,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158169,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158170,TOC
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4259607,Disc de Secchi
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4415711,Bicarbonats
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4415713,Clorurs
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4415715,Duresa total
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4415723,Sulfats
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4415724,Terbolesa
+after_2007,0003,0025,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4420785,Potencial redox
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158517,Amoni
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158521,Conductivitat (camp)
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158522,Fosfats
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158523,Fòsfor total
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158524,Nitrats
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158525,Nitrits
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158526,Nitrogen total
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158527,Oxigen dissolt (camp)
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158528,pH (camp)
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158529,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158530,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158531,TOC
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4359004,Disc de Secchi
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4359006,Sulfhídric
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4415999,Bicarbonats
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4416001,Clorurs
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4416003,Duresa total
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4416011,Sulfats
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4416012,Terbolesa
+after_2007,0003,0025,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4420804,Potencial redox
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158137,Amoni
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158141,Conductivitat (camp)
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158142,Fosfats
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158143,Fòsfor total
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158144,Nitrats
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158145,Nitrits
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158146,Nitrogen total
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158147,Oxigen dissolt (camp)
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158148,pH (camp)
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158149,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158150,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158151,TOC
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4259606,Disc de Secchi
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4415876,Bicarbonats
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4415878,Clorurs
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4415880,Duresa total
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4415888,Sulfats
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4415889,Terbolesa
+after_2007,0003,0025,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4420784,Potencial redox
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158118,Amoni
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158122,Conductivitat (camp)
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158123,Fosfats
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158124,Fòsfor total
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158125,Nitrats
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158126,Nitrits
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158127,Nitrogen total
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158128,Oxigen dissolt (camp)
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158129,pH (camp)
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158130,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158131,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158132,TOC
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4259605,Disc de Secchi
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4415861,Bicarbonats
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4415863,Clorurs
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4415865,Duresa total
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4415873,Sulfats
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4415874,Terbolesa
+after_2007,0003,0025,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4420783,Potencial redox
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158099,Amoni
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158103,Conductivitat (camp)
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158104,Fosfats
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158105,Fòsfor total
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158106,Nitrats
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158107,Nitrits
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158108,Nitrogen total
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158109,Oxigen dissolt (camp)
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158110,pH (camp)
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158111,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158112,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158113,TOC
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4259604,Disc de Secchi
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4415891,Bicarbonats
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4415893,Clorurs
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4415895,Duresa total
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4415903,Sulfats
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4415904,Terbolesa
+after_2007,0003,0025,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4420782,Potencial redox
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157776,Amoni
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157780,Conductivitat (camp)
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157781,Fosfats
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157782,Fòsfor total
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157783,Nitrats
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157784,Nitrits
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157785,Nitrogen total
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157786,Oxigen dissolt (camp)
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157787,pH (camp)
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157788,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157789,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157790,TOC
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4259595,Disc de Secchi
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4415163,Bicarbonats
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4415165,Clorurs
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4415167,Duresa total
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4415173,Sulfats
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4415174,Terbolesa
+after_2007,0003,0025,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4420765,Potencial redox
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968267,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968268,Conductivitat (camp)
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968269,pH (camp)
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968270,Oxigen dissolt (camp)
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968271,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968272,Fòsfor total
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968273,Nitrogen total
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968274,Fosfats
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968275,Nitrats
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968276,Nitrits
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968277,Amoni
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,4158094,TOC
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,4259603,Disc de Secchi
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,4415906,Bicarbonats
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,4415908,Clorurs
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,4415910,Duresa total
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,4415918,Sulfats
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,4415919,Terbolesa
+after_2007,0003,0025,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,4420781,Potencial redox
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968284,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968285,Conductivitat (camp)
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968286,pH (camp)
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968287,Oxigen dissolt (camp)
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968288,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968289,Fòsfor total
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968290,Nitrogen total
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968291,Fosfats
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968292,Nitrats
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968293,Nitrits
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968294,Amoni
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,4158075,TOC
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,4259602,Disc de Secchi
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,4415756,Bicarbonats
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,4415758,Clorurs
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,4415760,Duresa total
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,4415768,Sulfats
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,4415769,Terbolesa
+after_2007,0003,0025,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,4420780,Potencial redox
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968301,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968302,Conductivitat (camp)
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968303,pH (camp)
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968304,Oxigen dissolt (camp)
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968305,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968306,Fòsfor total
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968307,Nitrogen total
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968308,Fosfats
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968309,Nitrats
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968310,Nitrits
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968311,Amoni
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4157847,TOC
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4259597,Disc de Secchi
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4358957,Sulfhídric
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4415205,Bicarbonats
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4415207,Clorurs
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4415209,Duresa total
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4415215,Sulfats
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4415216,Terbolesa
+after_2007,0003,0025,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4420768,Potencial redox
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157814,Amoni
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157818,Conductivitat (camp)
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157819,Fosfats
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157820,Fòsfor total
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157821,Nitrats
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157822,Nitrits
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157823,Nitrogen total
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157824,Oxigen dissolt (camp)
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157825,pH (camp)
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157826,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157827,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157828,TOC
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4358987,Disc de Secchi
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4415191,Bicarbonats
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4415193,Clorurs
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4415195,Duresa total
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4415201,Sulfats
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4415202,Terbolesa
+after_2007,0003,0025,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4420767,Potencial redox
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157795,Amoni
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157799,Conductivitat (camp)
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157800,Fosfats
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157801,Fòsfor total
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157802,Nitrats
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157803,Nitrits
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157804,Nitrogen total
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157805,Oxigen dissolt (camp)
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157806,pH (camp)
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157807,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157808,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157809,TOC
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4259596,Disc de Secchi
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4358960,Sulfhídric
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4415177,Bicarbonats
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4415179,Clorurs
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4415181,Duresa total
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4415187,Sulfats
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4415188,Terbolesa
+after_2007,0003,0025,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4420766,Potencial redox
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968318,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968319,Conductivitat (camp)
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968320,pH (camp)
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968321,Oxigen dissolt (camp)
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968322,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968323,Fòsfor total
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968324,Nitrogen total
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968325,Fosfats
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968326,Nitrats
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968327,Nitrits
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968328,Amoni
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,4157866,TOC
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,4259598,Disc de Secchi
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,4415219,Bicarbonats
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,4415221,Clorurs
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,4415223,Duresa total
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,4415229,Sulfats
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,4415230,Terbolesa
+after_2007,0003,0025,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,4420769,Potencial redox
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,3968335,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,3968336,Conductivitat (camp)
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,3968337,pH (camp)
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,3968338,Oxigen dissolt (camp)
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,3968339,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,3968340,Fòsfor total
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,3968341,Nitrogen total
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,3968342,Fosfats
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,3968343,Nitrats
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,3968344,Nitrits
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,3968345,Amoni
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,4158550,TOC
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,4358997,Disc de Secchi
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,4358998,Sulfhídric
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,4415921,Bicarbonats
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,4415923,Clorurs
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,4415925,Duresa total
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,4415933,Sulfats
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,4415934,Terbolesa
+after_2007,0003,0025,F016258,Platja Castell - H161801000,512894,4634747,4420805,Potencial redox
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,3968352,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,3968353,Conductivitat (camp)
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,3968354,pH (camp)
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,3968355,Oxigen dissolt (camp)
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,3968356,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,3968357,Fòsfor total
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,3968358,Nitrogen total
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,3968359,Fosfats
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,3968360,Nitrats
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,3968361,Nitrits
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,3968362,Amoni
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,4157885,TOC
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,4259599,Disc de Secchi
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,4415233,Bicarbonats
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,4415235,Clorurs
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,4415237,Duresa total
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,4415243,Sulfats
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,4415244,Terbolesa
+after_2007,0003,0025,F016259,Estanyets de Pals - H100601000,513424,4649229,4420770,Potencial redox
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968369,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968370,Conductivitat (camp)
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968371,pH (camp)
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968372,Oxigen dissolt (camp)
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968373,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968374,Fòsfor total
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968375,Nitrogen total
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968376,Fosfats
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968377,Nitrats
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968378,Nitrits
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968379,Amoni
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,4158474,TOC
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,4259613,Disc de Secchi
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,4358907,Sulfhídric
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,4415303,Bicarbonats
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,4415305,Clorurs
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,4415307,Duresa total
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,4415315,Sulfats
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,4415316,Terbolesa
+after_2007,0003,0025,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,4420801,Potencial redox
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157890,Amoni
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157894,Conductivitat (camp)
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157895,Fosfats
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157896,Fòsfor total
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157897,Nitrats
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157898,Nitrits
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157899,Nitrogen total
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157900,Oxigen dissolt (camp)
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157901,pH (camp)
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157902,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157903,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157904,TOC
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4259600,Disc de Secchi
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4415247,Bicarbonats
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4415249,Clorurs
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4415251,Duresa total
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4415257,Sulfats
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4415258,Terbolesa
+after_2007,0003,0025,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4420771,Potencial redox
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968386,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968387,Conductivitat (camp)
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968388,pH (camp)
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968389,Oxigen dissolt (camp)
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968390,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968391,Fòsfor total
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968392,Nitrogen total
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968393,Fosfats
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968394,Nitrats
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968395,Nitrits
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968396,Amoni
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4158512,TOC
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4358908,Disc de Secchi
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4358909,Sulfhídric
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4415318,Bicarbonats
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4415320,Clorurs
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4415322,Duresa total
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4415330,Sulfats
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4415331,Terbolesa
+after_2007,0003,0025,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4420803,Potencial redox
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968403,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968404,Conductivitat (camp)
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968405,pH (camp)
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968406,Oxigen dissolt (camp)
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968407,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968408,Fòsfor total
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968409,Nitrogen total
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968410,Fosfats
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968411,Nitrats
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968412,Nitrits
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968413,Amoni
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,4158436,TOC
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,4259611,Disc de Secchi
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,4415531,Bicarbonats
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,4415533,Clorurs
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,4415535,Duresa total
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,4415543,Sulfats
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,4415544,Terbolesa
+after_2007,0003,0025,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,4420799,Potencial redox
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158441,Amoni
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158445,Conductivitat (camp)
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158446,Fosfats
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158447,Fòsfor total
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158448,Nitrats
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158449,Nitrits
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158450,Nitrogen total
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158451,Oxigen dissolt (camp)
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158452,pH (camp)
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158453,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158454,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158455,TOC
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4259612,Disc de Secchi
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4415516,Bicarbonats
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4415518,Clorurs
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4415520,Duresa total
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4415528,Sulfats
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4415529,Terbolesa
+after_2007,0003,0025,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4420800,Potencial redox
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158479,Amoni
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158483,Conductivitat (camp)
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158484,Fosfats
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158485,Fòsfor total
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158486,Nitrats
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158487,Nitrits
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158488,Nitrogen total
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158489,Oxigen dissolt (camp)
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158490,pH (camp)
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158491,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158492,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158493,TOC
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4358975,Disc de Secchi
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4358977,Sulfhídric
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4415831,Bicarbonats
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4415833,Clorurs
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4415835,Duresa total
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4415843,Sulfats
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4415844,Terbolesa
+after_2007,0003,0025,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4420802,Potencial redox
+after_2007,0003,0025,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968420,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968421,Conductivitat (camp)
+after_2007,0003,0025,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968422,pH (camp)
+after_2007,0003,0025,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968423,Oxigen dissolt (camp)
+after_2007,0003,0025,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968424,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968425,Fòsfor total
+after_2007,0003,0025,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968426,Nitrogen total
+after_2007,0003,0025,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968427,Fosfats
+after_2007,0003,0025,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968428,Nitrats
+after_2007,0003,0025,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968429,Nitrits
+after_2007,0003,0025,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968430,Amoni
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4060661,Disc de Secchi
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4060667,Fòsfor total
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4060668,Nitrogen total
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4060669,Alcalinitat (TAC)
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4060671,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4060672,Oxigen dissolt (camp)
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4060673,Conductivitat (camp)
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4060674,pH (camp)
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4410161,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4410162,TOC
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4410163,Nitrats
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4410164,Fosfats
+after_2007,0003,0025,F021074,Estany de Basturs - 136160000,336495,4667760,4410165,Amoni
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4060677,Disc de Secchi
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4060683,Fòsfor total
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4060684,Nitrogen total
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4060685,Alcalinitat (TAC)
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4060687,Temperatura de l'aigua (camp)
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4060688,Oxigen dissolt (camp)
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4060689,Conductivitat (camp)
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4060690,pH (camp)
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4060692,Calci
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4410169,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4410170,TOC
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4410171,Nitrats
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4410172,Fosfats
+after_2007,0003,0025,F021075,Estany de Montcortès - 139160000,334919,4688704,4410173,Amoni
+after_2007,0003,0025,F046151,N/D - H240016000,320219,4510017,4509044,pH (camp)
+after_2007,0003,0025,F046151,N/D - H240016000,320219,4510017,4509045,Oxigen dissolt (camp)
+after_2007,0003,0025,F046151,N/D - H240016000,320219,4510017,4509046,Conductivitat (camp)
+after_2007,0003,0025,F046151,N/D - H240016000,320219,4510017,4509047,% Saturació d'oxigen (camp)
+after_2007,0003,0025,F046151,N/D - H240016000,320219,4510017,4509048,Temperatura de l'aigua (camp)

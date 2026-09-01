@@ -1,0 +1,695 @@
+period,code,name
+after_2007,1068,Port de Barcelona
+after_2007,1069,Port de Tarragona
+after_2007,23,El Fangar
+after_2007,24,Els Alfacs
+after_2007,470,Sitges
+after_2007,471,Vilanova i la Geltrú
+after_2007,472,Cubelles - Altafulla
+after_2007,473,Tarragona Nord
+after_2007,474,Tarragona - Vila-seca
+after_2007,475,Salou - Cambrils
+after_2007,476,Cambrils - Mont-roig del Camp
+after_2007,477,Vandellós i l'Hospitalet de l'Infant
+after_2007,478,L'Ametlla de Mar
+after_2007,479,Cap de Salou
+after_2007,480,Roses - Castelló d'Empúries
+after_2007,481,Sant Pere Pescador - Fluvià
+after_2007,482,Sant Adrià de Besòs - Barceloneta
+after_2007,483,Llobregat
+after_2007,484,Delta Nord
+after_2007,485,Delta Sud
+after_2007,486,Alcanar
+after_2007,487,Torroella de Montgrí - el Ter
+after_2007,488,Pals - Sa Riera
+after_2007,489,Blanes - Pineda de Mar
+after_2007,665,Portbou - Llançà
+after_2007,666,Badia de El Port de la Selva
+after_2007,667,Cap de Creus
+after_2007,668,Badia de Cadaqués
+after_2007,669,Cap Norfeu
+after_2007,670,L'Escala
+after_2007,671,Montgrí
+after_2007,672,Begur - Blanes
+after_2007,673,Pineda de Mar - Mataró
+after_2007,674,Mataró - Montgat
+after_2007,675,Montgat - Badalona
+after_2007,676,Barceloneta - Zona II Port Barcelona
+after_2007,677,El Prat de Llobregat - Castelldefels
+after_2007,71,Canyelles
+after_2007,170,Sallente
+after_2007,171,Cavallers
+after_2007,172,Escales
+after_2007,173,Gaià
+after_2007,174,Santa Fe
+after_2007,175,Riudecanyes
+after_2007,176,Foix
+after_2007,177,Vallforners
+after_2007,178,Margalef
+after_2007,179,Siurana
+after_2007,180,Guiamets
+after_2007,181,La Baells
+after_2007,182,La Llosa del Cavall
+after_2007,183,Sant Ponç
+after_2007,184,Boadella
+after_2007,185,Oliana
+after_2007,186,Talarn
+after_2007,187,Terradets
+after_2007,188,Camarasa
+after_2007,189,Sant Llorenç de Montgai
+after_2007,190,Canelles
+after_2007,191,Santa Anna
+after_2007,192,Riba-roja
+after_2007,193,Flix
+after_2007,194,Susqueda
+after_2007,195,El Pasteral
+after_2007,44,Baserca
+after_2007,45,Sant Martí de Tous
+after_2007,46,Rialb
+after_2007,47,Sau
+after_2007,662,Estanys de Banyoles
+after_2007,663,Estany de Basturs
+after_2007,664,Estany de Montcortès
+after_2007,41,N/D - Subterrània
+after_2007,42,N/D - Superficial
+after_2007,43,N/D
+after_2007,1,Barranc de Salomó
+after_2007,10,Riera de Pineda
+after_2007,1089,El Fluvià des del riu Ser fins al mar
+after_2007,1090,"Riu Daró des de Gualta fins al mar (Daró Vell), inclosos  la riera Grossa i el Torrent de la Revetlla"
+after_2007,11,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar
+after_2007,12,Riera de Tossa des de l'EDAR de Tossa de Mar fins al mar
+after_2007,13,Capçalera del Ridaura fins a l'EDAR de Castell-Platja d'Aro
+after_2007,14,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar
+after_2007,15,Capçalera de la riera de Calonge fins al límit del PEIN
+after_2007,16,Riera de Calonge des del límit del PEIN fins al mar
+after_2007,17,Riera d'Aubi
+after_2007,18,Rec Sirvent
+after_2007,19,Riera de Garriguella (Pedret) fins als aiguamolls de l'Empordà
+after_2007,199,Barranc de l'Estany
+after_2007,2,Conca de la riera de la Bisbal
+after_2007,20,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar
+after_2007,200,Barranc del Torrent del Pi
+after_2007,201,Riu de Llastres i barranc de Santa Marina
+after_2007,202,Riudecanyes des de la presa de Riudecanyes fins al mar
+after_2007,203,Riera d'Alforja i riera de Riudecols
+after_2007,204,Riera de Riudoms
+after_2007,205,Riera de Boella i rasa del Mas de Sostres
+after_2007,206,Riera de la Selva
+after_2007,207,Barranc dels Garidells
+after_2007,208,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies
+after_2007,209,Tram baix de la riera d'Arbúcies
+after_2007,21,Riera de Romanyac
+after_2007,210,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma
+after_2007,211,Capçalera de la riera de Santa Coloma fins a Santa Coloma de Faners
+after_2007,212,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000
+after_2007,213,Riera de l'Esparra
+after_2007,214,Sèquia de Sils
+after_2007,215,El Reclar i riera de Pins
+after_2007,216,Riera de Santa Coloma des de l'inici del tram inclòs a la Xarxa Natura 2000 fins a la Tordera
+after_2007,217,Riera de Maçanes
+after_2007,218,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya
+after_2007,219,La Tordera des de la confluència de la riera de Vallmanya fins al mar
+after_2007,22,Riera de Valleta
+after_2007,220,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs)
+after_2007,221,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal)
+after_2007,222,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià"
+after_2007,223,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol"
+after_2007,224,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles)
+after_2007,225,Torrent de Gàrrep
+after_2007,226,Riu Güell
+after_2007,227,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra
+after_2007,228,"Rieres de Gotarra, Verneda i Benaula"
+after_2007,229,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà"
+after_2007,230,Riu Onyar a Girona
+after_2007,231,Riu Revardit
+after_2007,232,Riera de la Farga
+after_2007,233,Riera de Sant Martí
+after_2007,234,Riera de Cinyana
+after_2007,235,Riera de Junyell
+after_2007,236,Riera de Sant Jaume
+after_2007,237,La Muga entre l'embassament de Boadella i el Llobregat de la Muga
+after_2007,238,Riu Ricardell
+after_2007,239,Llobregat de la Muga des del Ricardell fins a la Muga
+after_2007,240,La Muga des de la confluència del Llobregat de la Muga fins al mar
+after_2007,241,Riu Manol i riera d'Àlguema
+after_2007,242,Riera de Figueres
+after_2007,244,Riu Llobregós
+after_2007,245,Riera de Llanera
+after_2007,246,Riera de Sanaüja
+after_2007,247,"Conca alta del Sió fins a la confluència amb el barranc de la Pisquera, barranc de la Pisquera inclòs"
+after_2007,248,Riu Sió des de la confluència amb el barranc de la Pisquera fins al Segre
+after_2007,249,Riu de Farfanya
+after_2007,25,Riu Brugent
+after_2007,250,Capçalera del riu d'Ondara fins a la confluència amb el Cercavins i conca del Cercavins
+after_2007,251,"Riu Corb, barranc del Gossalet i riu d'Ondara des de la confluència amb el Cercavins fins al Corb"
+after_2007,252,Sèquia de la Gombalda
+after_2007,253,Riu Clamor de les Canals
+after_2007,254,Torrent de la Femosa
+after_2007,255,Rierol de Melons
+after_2007,256,Capçalera del riu de Set fins al límit entre els termes municipals d'Albagés i el Cogul
+after_2007,257,Riu Set des del límit dels termes municipals d'Albagés i el Cogul fins al Segre
+after_2007,258,Riu de la Clamor Amarga
+after_2007,259,Riu d'Algars des de la confluència del riu d'Estrets fins al Matarranya i Matarranya des de la confluència de l'Algars fins a la cua de l'embassament de Riba-roja
+after_2007,26,El Francolí entre el Brugent i el torrent del Puig
+after_2007,260,Riu de la Cana
+after_2007,261,Capçalera del Montsant fins a la cua de l'embassament de Margalef
+after_2007,262,"Riu de Montsant des de la presa de Margalef fins a la confluència amb el riuet d'Escaladei, inclòs el riuet d'Escaladei"
+after_2007,263,"Riu de Siurana des de la presa de Siurana fins a l'Ebre, riu de Cortiella i tram baix del riu de Montsant des de la confluència amb el riuet d'Escaladei"
+after_2007,264,Capçalera del Siurana fins a la cua de l'embassament de Siurana
+after_2007,265,Capçalera de la riera de Capçanes fins a la cua de l'embassament de Guiamets
+after_2007,266,Riera de Capçanes des de la presa de Guiamets fins a la confluència amb el Siurana
+after_2007,267,Riu Sec (Ebre)
+after_2007,269,Riu Canaletes
+after_2007,27,El Francolí entre el torrent del Puig i la riera de la Selva
+after_2007,270,Barranc de l'Arram
+after_2007,271,Barranc de la Conca
+after_2007,272,Barranc de la Servera
+after_2007,273,Barranc de Sant Antoni
+after_2007,274,Conca del barranc de la Galera
+after_2007,275,Riu de la Sénia des de la presa d'Ulldecona fins al mar
+after_2007,276,Barranc de la Fou fins a la cua de l'embassament d'Ulldecona
+after_2007,277,Conca de l'Orlina
+after_2007,28,Capçalera de la Glorieta fins a l'EDAR d'Alcover
+after_2007,29,El Francolí des de la confluència de la riera de la Selva fins al mar
+after_2007,295,El Ter entre la riera de Vallfogona i el Ges
+after_2007,296,El Ter entre el Ges i el Gurri
+after_2007,297,El Ter entre el Gurri i la cua de l'embassament de Sau
+after_2007,298,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser
+after_2007,299,Riera d'Avencó
+after_2007,3,Riera de Marmellar
+after_2007,30,El Gaià des de Pontils a la cua de  l'embassament del Catllar
+after_2007,300,Riera de Cànoves des de la presa de Valforners fins al Mogent
+after_2007,301,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya"
+after_2007,302,Riera de Vallgorguina
+after_2007,303,Riera de Gualba des de la presa de Santa Fe fins a la Tordera
+after_2007,304,Riera de Fuirosos
+after_2007,305,Riera de Breda
+after_2007,306,"Capçalera de la riera d'Arbúcies fins a la riera de Buixalleu (canvi de tipologia), inclosa la riera de la Pineda"
+after_2007,307,Capçalera del Gurri fins a la confluència amb la riera de Tona
+after_2007,308,Riera Major
+after_2007,309,Riera d'Osor
+after_2007,31,El Gaià des de la presa del Catllar fins al mar
+after_2007,310,Capçalera del Francolí fins a la confluència amb el riu Sec
+after_2007,311,Riu Sec (Francolí)
+after_2007,312,El Francolí entre el riu Sec i el riu d'Anguera
+after_2007,313,Conca del riu d'Anguera
+after_2007,314,El Francolí entre el riu d'Anguera i el Brugent
+after_2007,315,Torrent del Puig
+after_2007,316,Torrent de Vallmoll
+after_2007,317,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix"
+after_2007,318,Torrent de Rupit
+after_2007,319,Torrent de Rubió
+after_2007,32,Capçalera del Foix fins a Sant Martí Sarroca
+after_2007,320,Torrent de les Pinetelles (o barranc de Pedrafita)
+after_2007,321,Torrent del Còdol
+after_2007,322,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà
+after_2007,323,Capçalera de la riera de Llitrà fins a l'EDAR de Vilafranca
+after_2007,324,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca"
+after_2007,325,El Foix des de la presa de Foix fins al mar
+after_2007,326,Riera de Gaià
+after_2007,327,Riera del Mujal
+after_2007,328,Riu de Cornet
+after_2007,329,Torrent d'Olost
+after_2007,33,Capçalera de la riera de Pontons fins a Sant Martí Sarroca
+after_2007,330,Riera de Basí
+after_2007,331,Riera de Relat
+after_2007,332,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec"
+after_2007,333,Riera d'Oló
+after_2007,334,Riera de Malrubí
+after_2007,335,Riera de la Golarda i riera de Castellnou
+after_2007,336,Riera de Calders i riera del Marcet
+after_2007,337,Riu d'Or
+after_2007,338,Riera de Mura i riera de Talamanca
+after_2007,339,Riera de Santa Creu (o Mata-rodona)
+after_2007,34,Riera de Carme
+after_2007,340,Torrent de Davins
+after_2007,341,Riera de Salo
+after_2007,342,Riera de Coaner
+after_2007,343,Riera d'Hortons
+after_2007,344,Riera de Sant Cugat
+after_2007,345,Riera de Bellver
+after_2007,346,Riera de Fals
+after_2007,347,Riera de Rajadell
+after_2007,348,Riera de Cornet
+after_2007,349,Riera de Rellinars
+after_2007,35,Riu Anoia entre la riera de Carme i el riu de Bitlles
+after_2007,350,Riera de Marganell
+after_2007,351,"Riera Magarola, riera de Masquefa i riera de can Dalmases (o torrent Mal)"
+after_2007,352,Riera del Morral del Molí i riera de Sant Jaume
+after_2007,353,Conca alta de l'Anoia fins a Igualada
+after_2007,354,"Riu Anoia des de l'entrada a Igualada fins a l'EDAR d'Igualada, inclosa la riera d'Òdena"
+after_2007,355,Riera de l'Avernó i torrent dels Brivons
+after_2007,356,Torrent de la Fontsanta
+after_2007,357,Riera de Rubí i riera de les Arenes
+after_2007,358,Riera de Rafamans
+after_2007,359,Riera de Cervelló
+after_2007,36,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles
+after_2007,360,Riera de Torrelles
+after_2007,361,Capçalera del Congost fins a l'EDAR d'Aiguafreda
+after_2007,362,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga
+after_2007,363,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa"
+after_2007,364,Capçalera del Mogent fins a la potabilitzadora d'ATLL
+after_2007,365,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès
+after_2007,366,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost
+after_2007,367,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)
+after_2007,368,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana
+after_2007,369,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat
+after_2007,37,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia
+after_2007,370,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca"
+after_2007,371,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll
+after_2007,372,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui
+after_2007,373,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs
+after_2007,374,Capçalera de la riera de Sentmenat fins a Sentmenat
+after_2007,375,Riera de Sentmenat des de Sentmenat a la riera de Caldes
+after_2007,376,Riera Seca
+after_2007,377,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt
+after_2007,378,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès
+after_2007,379,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs
+after_2007,38,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat
+after_2007,380,Riu Sec (Besòs)
+after_2007,381,Riera de Sant Cugat
+after_2007,382,El Besòs des de la confluència del Ripoll fins al mar
+after_2007,383,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni
+after_2007,384,La Noguera Pallaresa des de la presa de Talarn fins a la cua de l'embassament de Terradets
+after_2007,385,Barranc de Seròs
+after_2007,386,La Noguera Pallaresa des de la presa de Terradets fins a la cua de l'embassament de Camarasa
+after_2007,387,"Riuet del Convent, barranc de Malpàs i barranc de Massivert"
+after_2007,388,La Noguera Ribagorçana des de la presa d'Escales fins al Pont de Montanyana
+after_2007,389,Barranc de Miralles
+after_2007,39,Capçalera del Terri fins a la confluència del Revardit
+after_2007,390,Barranc del Solà
+after_2007,392,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe
+after_2007,393,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs)
+after_2007,394,El Ter entre el Ritort i el Freser
+after_2007,395,"Capçalera del Freser fins a Campdevànol, inclosos el Rigard i el Segadell"
+after_2007,396,Riu Freser des de Campdevànol fins a la confluència amb el Ter
+after_2007,397,"Conca alta de la Noguera Pallaresa fins a la confluència amb el riu de la Bonaigua, riu de la Bonaigua inclòs"
+after_2007,398,"La Noguera Pallaresa des de la confluència del riu de la Bonaigua fins a l'Escrita, inclosos el barranc de Nyiri i riu de Son"
+after_2007,399,La Noguera Pallaresa des de la confluència amb l'Escrita fins a la Noguera de Cardós
+after_2007,4,"Capçalera de la riera de Ribes (o riera de Begues) fins a la confluència de la riera de Vilafranca, incloses les rieres dels Vidrers, de Vilafranca i de Jafre"
+after_2007,40,Riu Terri des de la confluència del Revardit fins al Ter
+after_2007,400,Riu Escrita i riu de Peguera
+after_2007,401,Capçalera de la Noguera de Cardós i riu de Tavascan fins a la confluència entre tots dos
+after_2007,402,"La Noguera de Cardós des de la confluència del riu de Tavascan fins a la Noguera Pallaresa, inclosa la ribera d'Estaon"
+after_2007,403,La Noguera de Vallferrera i la Noguera de Tor
+after_2007,404,Capçalera de la Noguera Ribagorçana fins a l'embassament de Baserca
+after_2007,405,La Noguera Ribagorçana des de l'embassament de Baserca fins a la confluència amb la Valira de Castanesa
+after_2007,407,La Noguera Ribagorçana des de la confluència de la Valira de Castanesa fins a la cua de l'embassament d'Escales
+after_2007,408,La Noguera de Tor des de l'embassament de Cavallers fins a la confluència amb riu de Sant Nicolau
+after_2007,409,Riu de Sant Nicolau
+after_2007,410,"La Noguera de Tor des de la confluència del riu de Sant Nicolau fins a la Noguera Ribargorçana, inclosos el riuet de Durro i el riu de Sant Martí"
+after_2007,411,"Garona des de Salardú fins a la frontera, arriu de Varradòs i arriu Nere"
+after_2007,412,Capçalera de la Garona fins a Salardú i arriu Unhola
+after_2007,413,Arriu de Valarties
+after_2007,414,Arriu Joèu
+after_2007,415,Arriu de Toran
+after_2007,416,Riera de la Portella
+after_2007,417,Riera de Graugés
+after_2007,418,Riera de la Riba
+after_2007,419,Riera de Biure
+after_2007,420,Riera de Clarà
+after_2007,421,Capçalera de la riera de Merlès fins a la confluència del torrent de Regatell
+after_2007,422,Riera de Merlès des de la confluència del torrent de Regatell fins al Llobregat
+after_2007,423,Riera de Merola
+after_2007,424,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers"
+after_2007,425,Riera de Lluçanès
+after_2007,426,Riu Negre
+after_2007,427,Conca de l'Aigua d'Ora
+after_2007,428,Riera de Navel i rasa de l'Hospital
+after_2007,429,Riera de les Llosses
+after_2007,430,Riera de Vallfogona
+after_2007,431,Riera de Sora
+after_2007,432,Riera de la Foradada
+after_2007,433,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs)
+after_2007,434,El Ges des de la confluència del Fornès fins al Ter
+after_2007,435,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN)
+after_2007,436,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter
+after_2007,437,Riera de les Gorgues
+after_2007,438,Riera de Rupit
+after_2007,439,El Brugent
+after_2007,440,Riera de Llèmena i riera de Canet
+after_2007,441,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs)
+after_2007,442,El Fluvià entre el Gurn i la Riera de Bianya
+after_2007,443,Riera de Bianya i riera de Riudaura
+after_2007,444,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar)
+after_2007,445,Conca del Llierca
+after_2007,446,Riera de Borró
+after_2007,447,Conca del Ser
+after_2007,448,Riu Arnera aigües amunt de Boadella
+after_2007,449,Riu de Perles
+after_2007,450,Riu de Sallent i riu de Valldarques
+after_2007,451,Conca de la Ribera Salada
+after_2007,452,Riu Rialb
+after_2007,453,Riu Boix
+after_2007,454,Riu de Conques
+after_2007,455,Riu d'Abella
+after_2007,456,Barranc de Barcedana
+after_2007,457,Barranc del Bosc
+after_2007,458,La Noguera Ribagorçana des del Pont de Montanyana fins a la cua de l'embassament de Canelles
+after_2007,459,La Noguera Ribagorçana des de la presa de Canelles fins a la cua de l'embassament de Santa Anna
+after_2007,460,La Noguera Ribagorçana des de la presa de Santa Anna fins a Alfarràs
+after_2007,461,Capçalera del Riu d'Algars i del riu d'Estrets fins a la confluència entre tots dos
+after_2007,462,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny
+after_2007,463,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa
+after_2007,464,El Llobregat entre la riera Gavarresa i el Cardener
+after_2007,465,Riu Cardener des de la presa de Sant Ponç fins a l'EDAR de Cardona
+after_2007,466,Riu Cardener des de l'abocament de Cardona fins a Súria
+after_2007,467,Riu Cardener des de Súria fins a l'EDAR de Manresa
+after_2007,468,Riu Cardener des de l'EDAR de Manresa fins al Llobregat
+after_2007,469,El Ter entre el Freser i la riera de Vallfogona
+after_2007,49,Riu Glorieta des de l'EDAR d'Alcover fins al Francolí
+after_2007,490,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat
+after_2007,491,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera
+after_2007,492,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia
+after_2007,493,El Llobregat entre l'Anoia i la riera de Rubí
+after_2007,494,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí
+after_2007,495,El Llobregat des de Sant Joan Despí fins al mar
+after_2007,496,El Ter des del Pasteral fins a la confluència de l'Onyar
+after_2007,497,El Ter entre l'Onyar i el Terri
+after_2007,498,El Ter des de la confluència del Terri fins a Flaçà
+after_2007,499,El Ter des de Flaçà fins al mar
+after_2007,5,Riera de Ribes (o riera de Begues) des de la confluència de la riera de Vilafranca fins al mar
+after_2007,50,Barranc de Xalamera
+after_2007,500,L'Ebre des de la confluència del barranc de la Galera fins a l'Illa de Gràcia
+after_2007,501,L'Ebre de la presa de Flix fins al desguàs de la central hidroelèctrica de Flix
+after_2007,502,L'Ebre des del desguàs de la central hidroelèctrica de Flix fins a Ascó
+after_2007,503,L'Ebre entre Ascó i l'assut de Xerta
+after_2007,504,L'Ebre des de l'assut de Xerta fins a la confluència del barranc de la Galera
+after_2007,505,L'Ebre des de l'Illa de Gràcia fins al mar
+after_2007,506,El Segre des de la confluència amb la Noguera Pallaresa fins a la cua de l'embassament de Sant Llorenç de Montgai
+after_2007,507,El Segre des de la presa de Sant Llorenç de Montgai fins a Vilanova de la Barca
+after_2007,508,El Segre des de Vilanova de la Barca fins a Alcoletge
+after_2007,509,La Noguera Ribagorçana des d'Alfarràs fins a la confluència amb el Segre
+after_2007,51,Capçalera del Llobregat de la Muga fins al Ricardell
+after_2007,510,El Segre des d'Alcoletge fins a Lleida
+after_2007,511,El Segre al seu pas per Lleida
+after_2007,512,El Segre des de Lleida fins a Seròs
+after_2007,513,El Segre des de Seròs fins a la confluència amb el Cinca
+after_2007,514,El Cinca des de la confluència amb la Clamor Amarga fins al Segre
+after_2007,515,El Segre des de la confluència amb el Cinca fins a la cua de l'embassament de Riba-roja
+after_2007,516,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos
+after_2007,517,El Llobregat entre l'Arija i el Bastareny
+after_2007,518,Riu Bastareny i riu de Gréixer
+after_2007,519,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells
+after_2007,520,Riu de Saldes
+after_2007,521,Riu de Peguera
+after_2007,522,Riu Merdançol i riera de Vilada
+after_2007,523,Riu Demetge
+after_2007,524,Capçalera del Cardener fins a la cua de l'embassament de la Llosa del Cavall
+after_2007,525,Capçalera de l'Aigua de Valls fins a la cua de l'embassament de la Llosa del Cavall
+after_2007,526,Riu Cardener entre la presa de la Llosa del Cavall i la cua de l'embassament de Sant Ponç
+after_2007,527,Riu Merdàs
+after_2007,528,Conca alta del Segre fins a la confluència amb el Querol
+after_2007,529,Riu Querol
+after_2007,530,"El Segre entre el Querol i el riu de la Llosa, inclosos el torrent de la Bavosa, el riu de Santa Maria i el torrent de Ridolaina"
+after_2007,531,Riu d'Alp
+after_2007,532,Riu Duran
+after_2007,533,Riu de la Llosa
+after_2007,534,"El Segre entre el riu de la Llosa i la Valira, inclosos el riu de Vilanova i el riu de Cerc"
+after_2007,535,Riu del Molí
+after_2007,536,Torrent del Cabiscol
+after_2007,537,Riu d'Arsèguel
+after_2007,538,Riu de Bescaran
+after_2007,539,El Segre entre la Valira i el riu de la Guàrdia
+after_2007,54,Riera de Vallvidrera
+after_2007,540,Conca de la Valira
+after_2007,541,Riu de Castellbò
+after_2007,542,Riu de la Guàrdia i riu de Castellàs
+after_2007,543,Riu de Pallerols i llau del Poador
+after_2007,544,"El Segre des de la confluència amb el riu de la Guàrdia fins a la cua de l'embassament d'Oliana, inclosos el riu de Tost i el riuet de Fontanet"
+after_2007,545,Riu de Lavansa i riu de Bona
+after_2007,546,Riu de Cabó
+after_2007,547,El Segre des de la presa d'Oliana fins a la cua de l'embassament de Rialb
+after_2007,548,"El Segre des de la presa de Rialb fins a Artesa de Segre, inclòs el riu de les Segues"
+after_2007,549,"El Segre des d'Artesa de Segre fins a la confluència amb la Noguera Pallaresa, inclòs l'últim tram de la Noguera Pallaresa des de la presa de Camarasa"
+after_2007,55,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent
+after_2007,550,La Noguera Pallaresa des de la confluència amb la Noguera de Cardós fins a la cua de l'embassament de Talarn
+after_2007,551,Riu de Santa Magdalena
+after_2007,552,Riu de Cantó
+after_2007,553,Riu d'Ancs
+after_2007,554,Riu Major
+after_2007,555,Barranc de la Coma d'Orient
+after_2007,556,Riu Flamisell des de la presa de Sallente fins a la confluència amb el riu Bossia
+after_2007,557,Riu Flamisell des de la confluència amb el Bossia fins a la Noguera Pallaresa
+after_2007,558,Riu Bossia
+after_2007,559,Riu de Carreu
+after_2007,56,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell
+after_2007,57,Capçalera de la Muga fins a l'embassament de Boadella
+after_2007,58,El Llobregat des de la presa de La Baells fins a la Colònia Rosal
+after_2007,59,"Riu de Sant Antoni, riu de Caregue i riu de Pamano"
+after_2007,6,Riera de Sant Climent
+after_2007,7,Capçalera de la riera d'Argentona fins a la confluència de la riera d'Òrrius
+after_2007,8,Riera d'Argentona des de confluència de la riera d'Òrrius fins al mar
+after_2007,9,Riera de Sant Pol
+after_2007,971,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí"
+after_2007,100,Detrític neogen de l'Empordà
+after_2007,101,Paleògens del Baix Ter
+after_2007,102,Baixa Garrotxa-Pla de l'Estany
+after_2007,103,Fluviovolcànic de la Garrotxa
+after_2007,104,Plana de Vic - Collsacabra
+after_2007,105,Detrítics terciaris del Llobregat mig
+after_2007,106,Prelitoral del Vallès
+after_2007,107,Montseny-Guilleries
+after_2007,1071,l'Ametlla de Mar- Perelló
+after_2007,1072,Ports de Beseit (CHE)_Cat
+after_2007,1073,Ports de Tortosa
+after_2007,1074,Serra del Montsià
+after_2007,1075,Plana d'Alcanar
+after_2007,1076,Plana de Vinaròs_Cat
+after_2007,1077,Plana de la Sènia_Cat
+after_2007,1078,Ports de Beseit (CHX)_Cat
+after_2007,108,Plioquaternari de l'Onyar
+after_2007,1081,"Al·luvials del Ter Mig, Brugent i Llémena"
+after_2007,1082,Plioquaternari de la Riera Santa Coloma
+after_2007,1083,Baix Gaià
+after_2007,1084,Calcàries de l'Alt Foix-Gaià
+after_2007,1085,Moianès-Sant Llorenç del Munt
+after_2007,1086,Alta Anoia
+after_2007,109,Al·luvials de la Baixa Costa Brava
+after_2007,110,Al·luvials del Vallès
+after_2007,111,Detrític neogen del Vallès
+after_2007,112,Maresme
+after_2007,113,Carme-Capellades
+after_2007,114,Bloc del Gaià-Bonastre
+after_2007,115,Sorres de Santa Oliva
+after_2007,116,Detrític neogen del Penedès
+after_2007,117,Garraf
+after_2007,118,Baix Francolí
+after_2007,119,Alt Camp
+after_2007,120,Baix Camp
+after_2007,121,Prades - Alt Francolí
+after_2007,122,Llaberia - Prades meridional
+after_2007,123,Cardó - Vandellòs
+after_2007,124,Plana de la Galera
+after_2007,125,Mesozoic de la Galera
+after_2007,126,Fluviodeltaic del Fluvià - Muga
+after_2007,127,Fluviodeltaic del Baix Ter
+after_2007,128,Al·luvials de l'alta i mitjana Tordera
+after_2007,129,Al·luvials de la baixa i delta de la Tordera
+after_2007,130,Baix Besòs i Pla de Barcelona
+after_2007,131,Cubeta d'Abrera
+after_2007,132,Cubeta de Sant Andreu
+after_2007,133,Vall baixa i Delta del Llobregat
+after_2007,134,Massís Axial Pirenaic_Cat
+after_2007,135,La Cerdanya
+after_2007,136,Alt Urgell
+after_2007,137,Tremp-Isona
+after_2007,138,Cadí-Port del Comte
+after_2007,139,Serres marginals catalanes
+after_2007,140,Al·luvial del Segre mitjà
+after_2007,141,Al·luvial del baix Segre_Cat
+after_2007,142,Al·luvial d'Urgell
+after_2007,143,Calcàries de Tàrrega
+after_2007,144,Priorat
+after_2007,145,Fossa de Móra
+after_2007,146,Al·luvial de Tortosa
+after_2007,147,Delta de l'Ebre
+after_2007,95,Conca alta de Freser i Ter
+after_2007,96,Conca alta del Fluvià
+after_2007,97,Conca alta de la Muga
+after_2007,98,Al·luvials de l'Albera i Cap de Creus
+after_2007,99,Conca alta de Cardener i Llobregat
+after_2007,1002,Pantà de l'Arrós
+after_2007,1047,Utxesa
+after_2007,1049,Delta del Llobregat-Riera de Sant Climent
+after_2007,1050,Aiguamolls del Baix Empordà-El Ter Vell
+after_2007,1052,Delta de l'Ebre-El Clot
+after_2007,1053,Delta de l'Ebre-L'Encanyissada
+after_2007,1054,Estanyets de Pals
+after_2007,1055,Delta de l'Ebre-Riet Vell
+after_2007,1056,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord
+after_2007,1058,Estanys de les Alberes-Estanys de Canadal
+after_2007,1059,Estanys de les Alberes-Estanys de Cantallops
+after_2007,1060,Aiguamolls de l'Alt Empordà - La Llarga
+after_2007,1061,Estany de Bancells
+after_2007,1062,Delta de Llobregat-Ca l'Arana
+after_2007,1063,Delta de Llobregat-Cal Tet
+after_2007,1064,Delta del Llobregat - La Magarola
+after_2007,1065,Delta del Llobregat-La Roberta
+after_2007,1066,Basses de Sió
+after_2007,1067,Estany d'Ivars i Vila-sana
+after_2007,1070,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits
+after_2007,149,Aiguamolls del Baix Empordà-Bassa del Frare Ramon
+after_2007,150,Desembocadura del torrent de Santes Creus
+after_2007,153,Desembocadura del riu Gaià
+after_2007,154,Desembocadura del riu Tordera
+after_2007,155,Desembocadura del torrent de l'Estany
+after_2007,157,Aiguamolls de l'Alt Empordà-Estany d'en Túries
+after_2007,159,Delta del Llobregat-Estany de la Ricarda
+after_2007,161,Aiguamolls de l'Alt Empordà-La Rogera
+after_2007,163,Platja de Torredembarra
+after_2007,164,Delta de l'Ebre-El Canal Vell
+after_2007,165,Delta de l'Ebre-Illa de Buda
+after_2007,166,Delta de l'Ebre-La Tancada
+after_2007,168,Delta de l'Ebre-La Platjola
+after_2007,280,Basses d'en Broc i Aiguamoixos de la Déu Vella
+after_2007,281,Aiguamolls del Baix Empordà-Basses d'en Coll
+after_2007,282,Basses de Can Jordà
+after_2007,284,Estanys de Tordera-Estany de Can Raba
+after_2007,285,Delta del Llobregat-Estany de la Murtra
+after_2007,286,Estany de Sils
+after_2007,287,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona
+after_2007,288,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara
+after_2007,290,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià
+after_2007,52,Estanyols de Mas Margall
+after_2007,80,Herbassars de Castelldans
+after_2007,808,Delta de l'Ebre-les Olles
+after_2007,810,Delta de l'Ebre-El Garxal
+after_2007,811,Ullals de la Carrova
+after_2007,813,Delta de l'Ebre-L'Alfacada
+after_2007,815,Delta de l'Ebre-Punta de la Banya
+after_2007,818,Delta de l'Ebre-Erms de Casablanca o Vilacoto
+after_2007,84,Delta de l'Ebre-Ullals de l'Arispe i Baltasar
+after_2007,85,Estanyols del Pla dels Estanyets
+after_2007,86,Clot d'Espolla-Platja d'Espolla
+after_2007,88,Estanys dels Tórlits
+after_2007,90,Estanyols de la Vall de Sant Miquel de Campmajor
+after_2007,92,Estanys de Gutina
+after_2007,927,Estanys de Tordera-Braç esquerre de l'illa del Tordera
+after_2007,932,Desembocadura del riu Llastres
+after_2007,935,Desembocadura del torrent del Pi
+after_2007,940,Estanys de Tordera-Estany de Can Torrent
+after_2007,941,Estanys de Tordera-Estany de la Júlia
+after_2007,946,Aiguamolls de l'Alt Empordà-Estany del Cortalet
+after_2007,947,Delta del Llobregat-El Remolar-Filipines-Pas Vaques
+after_2007,948,Aiguamolls de l'Alt Empordà-Estany del Tec
+after_2007,949,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix
+after_2007,963,Aiguamolls de l'Alt Empordà-La Massona i la Llarga
+after_2007,976,Platja Castell
+after_2007,986,Aiguamolls de l'Alt Empordà-Riu Vell
+after_2007,988,Sèquia Major
+after_2007,989,Sorrals de Can Pomac
+before_2007,23,El Fangar
+before_2007,24,Els Alfacs
+before_2007,470,Sitges
+before_2007,471,Vilanova i la Geltrú
+before_2007,472,Cubelles - Altafulla
+before_2007,473,Tarragona Nord
+before_2007,474,Tarragona - Vila-seca
+before_2007,475,Salou - Cambrils
+before_2007,476,Cambrils - Mont-roig del Camp
+before_2007,477,Vandellós i l'Hospitalet de l'Infant
+before_2007,478,L'Ametlla de Mar
+before_2007,479,Cap de Salou
+before_2007,480,Roses - Castelló d'Empúries
+before_2007,481,Sant Pere Pescador - Fluvià
+before_2007,482,Sant Adrià de Besòs - Barceloneta
+before_2007,483,Llobregat
+before_2007,484,Delta Nord
+before_2007,485,Delta Sud
+before_2007,486,Alcanar
+before_2007,487,Torroella de Montgrí - el Ter
+before_2007,488,Pals - Sa Riera
+before_2007,489,Blanes - Pineda de Mar
+before_2007,665,Portbou - Llançà
+before_2007,666,Badia de El Port de la Selva
+before_2007,667,Cap de Creus
+before_2007,668,Badia de Cadaqués
+before_2007,669,Cap Norfeu
+before_2007,670,L'Escala
+before_2007,671,Montgrí
+before_2007,672,Begur - Blanes
+before_2007,673,Pineda de Mar - Mataró
+before_2007,674,Mataró - Montgat
+before_2007,675,Montgat - Badalona
+before_2007,676,Barceloneta - Zona II Port Barcelona
+before_2007,677,El Prat de Llobregat - Castelldefels
+before_2007,71,Canyelles
+before_2007,41,N/D - Subterrània
+before_2007,42,N/D - Superficial
+before_2007,43,N/D
+before_2007,25,Riu Brugent
+before_2007,314,El Francolí entre el riu d'Anguera i el Brugent
+before_2007,34,Riera de Carme
+before_2007,353,Conca alta de l'Anoia fins a Igualada
+before_2007,36,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles
+before_2007,38,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat
+before_2007,427,Conca de l'Aigua d'Ora
+before_2007,448,Riu Arnera aigües amunt de Boadella
+before_2007,469,El Ter entre el Freser i la riera de Vallfogona
+before_2007,524,Capçalera del Cardener fins a la cua de l'embassament de la Llosa del Cavall
+before_2007,525,Capçalera de l'Aigua de Valls fins a la cua de l'embassament de la Llosa del Cavall
+before_2007,100,Detrític neogen de l'Empordà
+before_2007,101,Paleògens del Baix Ter
+before_2007,102,Baixa Garrotxa-Pla de l'Estany
+before_2007,103,Fluviovolcànic de la Garrotxa
+before_2007,104,Plana de Vic - Collsacabra
+before_2007,105,Detrítics terciaris del Llobregat mig
+before_2007,106,Prelitoral del Vallès
+before_2007,107,Montseny-Guilleries
+before_2007,1071,l'Ametlla de Mar- Perelló
+before_2007,1072,Ports de Beseit (CHE)_Cat
+before_2007,1073,Ports de Tortosa
+before_2007,1074,Serra del Montsià
+before_2007,1075,Plana d'Alcanar
+before_2007,1076,Plana de Vinaròs_Cat
+before_2007,1077,Plana de la Sènia_Cat
+before_2007,1078,Ports de Beseit (CHX)_Cat
+before_2007,108,Plioquaternari de l'Onyar
+before_2007,1081,"Al·luvials del Ter Mig, Brugent i Llémena"
+before_2007,1082,Plioquaternari de la Riera Santa Coloma
+before_2007,1083,Baix Gaià
+before_2007,1084,Calcàries de l'Alt Foix-Gaià
+before_2007,1085,Moianès-Sant Llorenç del Munt
+before_2007,1086,Alta Anoia
+before_2007,109,Al·luvials de la Baixa Costa Brava
+before_2007,110,Al·luvials del Vallès
+before_2007,111,Detrític neogen del Vallès
+before_2007,112,Maresme
+before_2007,113,Carme-Capellades
+before_2007,114,Bloc del Gaià-Bonastre
+before_2007,115,Sorres de Santa Oliva
+before_2007,116,Detrític neogen del Penedès
+before_2007,117,Garraf
+before_2007,118,Baix Francolí
+before_2007,119,Alt Camp
+before_2007,120,Baix Camp
+before_2007,121,Prades - Alt Francolí
+before_2007,122,Llaberia - Prades meridional
+before_2007,123,Cardó - Vandellòs
+before_2007,124,Plana de la Galera
+before_2007,125,Mesozoic de la Galera
+before_2007,126,Fluviodeltaic del Fluvià - Muga
+before_2007,127,Fluviodeltaic del Baix Ter
+before_2007,128,Al·luvials de l'alta i mitjana Tordera
+before_2007,129,Al·luvials de la baixa i delta de la Tordera
+before_2007,130,Baix Besòs i Pla de Barcelona
+before_2007,131,Cubeta d'Abrera
+before_2007,132,Cubeta de Sant Andreu
+before_2007,133,Vall baixa i Delta del Llobregat
+before_2007,134,Massís Axial Pirenaic_Cat
+before_2007,135,La Cerdanya
+before_2007,136,Alt Urgell
+before_2007,137,Tremp-Isona
+before_2007,138,Cadí-Port del Comte
+before_2007,139,Serres marginals catalanes
+before_2007,141,Al·luvial del baix Segre_Cat
+before_2007,142,Al·luvial d'Urgell
+before_2007,143,Calcàries de Tàrrega
+before_2007,144,Priorat
+before_2007,145,Fossa de Móra
+before_2007,146,Al·luvial de Tortosa
+before_2007,147,Delta de l'Ebre
+before_2007,97,Conca alta de la Muga
+before_2007,99,Conca alta de Cardener i Llobregat

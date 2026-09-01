@@ -1,0 +1,1392 @@
+period,network,subnetwork,station,station_name,x,y,variable_id,variable_name
+after_2007,0001,0001,F007347,Barranc de l'Estany - 003001000,310212,4532916,4356277,índex IMF
+after_2007,0001,0001,F007348,Barranc del Torrent del Pi  - 005001000,311552,4533492,4356278,índex IMF
+after_2007,0001,0001,F007349,Riu de Llastres i barranc de Santa Marina - 010001000,321471,4546195,3348146,índex IPS
+after_2007,0001,0001,F007349,Riu de Llastres i barranc de Santa Marina - 010001000,321471,4546195,4258983,índex IBMWP
+after_2007,0001,0001,F007349,Riu de Llastres i barranc de Santa Marina - 010001000,321471,4546195,4356279,índex IMF
+after_2007,0001,0001,F007350,Riudecanyes des de la presa de Riudecanyes fins al mar - 020003000,329958,4554197,4356280,índex IMF
+after_2007,0001,0001,F007351,Riera d'Alforja i riera de Riudecols - 030001000,331384,4563515,4258982,índex IBMWP
+after_2007,0001,0001,F007351,Riera d'Alforja i riera de Riudecols - 030001000,331384,4563515,4356281,índex IMF
+after_2007,0001,0001,F007351,Riera d'Alforja i riera de Riudecols - 030001000,331384,4563515,4421166,índex IPS
+after_2007,0001,0001,F007352,Riera de Riudoms - 040001000,336201,4562567,3348147,índex IPS
+after_2007,0001,0001,F007352,Riera de Riudoms - 040001000,336201,4562567,4258981,índex IBMWP
+after_2007,0001,0001,F007352,Riera de Riudoms - 040001000,336201,4562567,4356282,índex IMF
+after_2007,0001,0001,F007352,Riera de Riudoms - 040001000,336201,4562567,4357565,índex IBICAT-2010
+after_2007,0001,0001,F007353,Riera de Boella i rasa del Mas de Sostres - 045001000,348483,4551785,4258980,índex IBMWP
+after_2007,0001,0001,F007353,Riera de Boella i rasa del Mas de Sostres - 045001000,348483,4551785,4343372,índex IPS
+after_2007,0001,0001,F007353,Riera de Boella i rasa del Mas de Sostres - 045001000,348483,4551785,4356283,índex IMF
+after_2007,0001,0001,F007354,Capçalera del Francolí fins a la confluència amb el riu Sec - 050001000,336212,4584370,4258979,índex IBMWP
+after_2007,0001,0001,F007354,Capçalera del Francolí fins a la confluència amb el riu Sec - 050001000,336212,4584370,4343373,índex IPS
+after_2007,0001,0001,F007354,Capçalera del Francolí fins a la confluència amb el riu Sec - 050001000,336212,4584370,4356284,índex IMF
+after_2007,0001,0001,F007355,Riu Sec (Francolí) - 050002000,339532,4583652,4356285,índex IMF
+after_2007,0001,0001,F007356,El Francolí entre el riu Sec i el riu d'Anguera - 050003000,342725,4584018,4258977,índex IBMWP
+after_2007,0001,0001,F007356,El Francolí entre el riu Sec i el riu d'Anguera - 050003000,342725,4584018,4294804,índex IBICAT-2010
+after_2007,0001,0001,F007356,El Francolí entre el riu Sec i el riu d'Anguera - 050003000,342725,4584018,4343374,índex IPS
+after_2007,0001,0001,F007356,El Francolí entre el riu Sec i el riu d'Anguera - 050003000,342725,4584018,4356286,índex IMF
+after_2007,0001,0001,F007357,Conca del riu d'Anguera - 050004000,347483,4582290,4258976,índex IBMWP
+after_2007,0001,0001,F007357,Conca del riu d'Anguera - 050004000,347483,4582290,4294797,índex IBICAT-2010
+after_2007,0001,0001,F007357,Conca del riu d'Anguera - 050004000,347483,4582290,4343375,índex IPS
+after_2007,0001,0001,F007357,Conca del riu d'Anguera - 050004000,347483,4582290,4356287,índex IMF
+after_2007,0001,0001,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,4258975,índex IBMWP
+after_2007,0001,0001,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,4294803,índex IBICAT-2010
+after_2007,0001,0001,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,4343376,índex IPS
+after_2007,0001,0001,F007358,El Francolí entre el riu d'Anguera i el Brugent - 050005000,347596,4577394,4356288,índex IMF
+after_2007,0001,0001,F007359,Riu Brugent - 050006000,343305,4574382,4258974,índex IBMWP
+after_2007,0001,0001,F007359,Riu Brugent - 050006000,343305,4574382,4294870,índex IBICAT-2010
+after_2007,0001,0001,F007359,Riu Brugent - 050006000,343305,4574382,4343377,índex IPS
+after_2007,0001,0001,F007359,Riu Brugent - 050006000,343305,4574382,4356289,índex IMF
+after_2007,0001,0001,F007360,El Francolí entre el Brugent i el torrent del Puig - 050007000,351085,4569649,3348148,índex IPS
+after_2007,0001,0001,F007360,El Francolí entre el Brugent i el torrent del Puig - 050007000,351085,4569649,4258973,índex IBMWP
+after_2007,0001,0001,F007360,El Francolí entre el Brugent i el torrent del Puig - 050007000,351085,4569649,4294802,índex IBICAT-2010
+after_2007,0001,0001,F007360,El Francolí entre el Brugent i el torrent del Puig - 050007000,351085,4569649,4356290,índex IMF
+after_2007,0001,0001,F007361,Torrent del Puig - 050008000,351138,4569581,3348149,índex IPS
+after_2007,0001,0001,F007361,Torrent del Puig - 050008000,351138,4569581,4258972,índex IBMWP
+after_2007,0001,0001,F007361,Torrent del Puig - 050008000,351138,4569581,4294888,índex IBICAT-2010
+after_2007,0001,0001,F007361,Torrent del Puig - 050008000,351138,4569581,4356291,índex IMF
+after_2007,0001,0001,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,3348150,índex IPS
+after_2007,0001,0001,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,4258971,índex IBMWP
+after_2007,0001,0001,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,4294805,índex IBICAT-2010
+after_2007,0001,0001,F007362,El Francolí entre el torrent del Puig i la riera de la Selva - 050009000,351833,4563715,4356292,índex IMF
+after_2007,0001,0001,F007363,Torrent de Vallmoll - 050010000,352778,4566207,3348151,índex IPS
+after_2007,0001,0001,F007363,Torrent de Vallmoll - 050010000,352778,4566207,4258970,índex IBMWP
+after_2007,0001,0001,F007363,Torrent de Vallmoll - 050010000,352778,4566207,4356293,índex IMF
+after_2007,0001,0001,F007363,Torrent de Vallmoll - 050010000,352778,4566207,4357569,índex IBICAT-2010
+after_2007,0001,0001,F007364,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011000,345969,4569372,3348152,índex IPS
+after_2007,0001,0001,F007364,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011000,345969,4569372,4258969,índex IBMWP
+after_2007,0001,0001,F007364,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011000,345969,4569372,4294765,índex IBICAT-2010
+after_2007,0001,0001,F007364,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011000,345969,4569372,4356294,índex IMF
+after_2007,0001,0001,F007365,Riu Glorieta des de l'EDAR d'Alcover fins al Francolí - 050012000,350132,4564838,3348153,índex IPS
+after_2007,0001,0001,F007365,Riu Glorieta des de l'EDAR d'Alcover fins al Francolí - 050012000,350132,4564838,4258968,índex IBMWP
+after_2007,0001,0001,F007365,Riu Glorieta des de l'EDAR d'Alcover fins al Francolí - 050012000,350132,4564838,4356295,índex IMF
+after_2007,0001,0001,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,3348154,índex IPS
+after_2007,0001,0001,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,4258967,índex IBMWP
+after_2007,0001,0001,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,4294801,índex IBICAT-2010
+after_2007,0001,0001,F007367,El Francolí des de la confluència de la riera de la Selva fins al mar - 050014000,351762,4557528,4356296,índex IMF
+after_2007,0001,0001,F007368,Barranc dels Garidells - 050014500,352827,4562473,3348155,índex IPS
+after_2007,0001,0001,F007368,Barranc dels Garidells - 050014500,352827,4562473,4258966,índex IBMWP
+after_2007,0001,0001,F007368,Barranc dels Garidells - 050014500,352827,4562473,4356297,índex IMF
+after_2007,0001,0001,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,4258965,índex IBMWP
+after_2007,0001,0001,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,4294783,índex IBICAT-2010
+after_2007,0001,0001,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,4343378,índex IPS
+after_2007,0001,0001,F007369,"Capçalera del Gaià fins a Pontils, inclòs el riu de Boix - 060001000",365596,4592912,4356298,índex IMF
+after_2007,0001,0001,F007370,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002000,362265,4569517,3348156,índex IPS
+after_2007,0001,0001,F007370,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002000,362265,4569517,4258964,índex IBMWP
+after_2007,0001,0001,F007370,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002000,362265,4569517,4294806,índex IBICAT-2010
+after_2007,0001,0001,F007370,El Gaià des de Pontils a la cua de  l'embassament del Catllar - 060002000,362265,4569517,4356299,índex IMF
+after_2007,0001,0001,F007371,Torrent de Rupit - 060003000,360158,4584928,3348157,índex IPS
+after_2007,0001,0001,F007371,Torrent de Rupit - 060003000,360158,4584928,4258963,índex IBMWP
+after_2007,0001,0001,F007371,Torrent de Rupit - 060003000,360158,4584928,4356300,índex IMF
+after_2007,0001,0001,F007371,Torrent de Rupit - 060003000,360158,4584928,4357573,índex IBICAT-2010
+after_2007,0001,0001,F007372,Torrent de Rubió - 060004000,362916,4577718,4258962,índex IBMWP
+after_2007,0001,0001,F007372,Torrent de Rubió - 060004000,362916,4577718,4343379,índex IPS
+after_2007,0001,0001,F007372,Torrent de Rubió - 060004000,362916,4577718,4356301,índex IMF
+after_2007,0001,0001,F007373,Torrent de les Pinetelles (o barranc de Pedrafita) - 060005000,364707,4573514,4258961,índex IBMWP
+after_2007,0001,0001,F007373,Torrent de les Pinetelles (o barranc de Pedrafita) - 060005000,364707,4573514,4343380,índex IPS
+after_2007,0001,0001,F007373,Torrent de les Pinetelles (o barranc de Pedrafita) - 060005000,364707,4573514,4356302,índex IMF
+after_2007,0001,0001,F007374,Torrent del Còdol - 060005500,364606,4570711,4356303,índex IMF
+after_2007,0001,0001,F007375,El Gaià des de la presa del Catllar fins al mar - 060007000,361850,4558555,4258960,índex IBMWP
+after_2007,0001,0001,F007375,El Gaià des de la presa del Catllar fins al mar - 060007000,361850,4558555,4343381,índex IPS
+after_2007,0001,0001,F007375,El Gaià des de la presa del Catllar fins al mar - 060007000,361850,4558555,4356304,índex IMF
+after_2007,0001,0001,F007376,Barranc de Salomó - 060007500,362457,4561808,4356305,índex IMF
+after_2007,0001,0001,F007377,Conca de la riera de la Bisbal - 070001000,380411,4571470,4258959,índex IBMWP
+after_2007,0001,0001,F007377,Conca de la riera de la Bisbal - 070001000,380411,4571470,4343382,índex IPS
+after_2007,0001,0001,F007377,Conca de la riera de la Bisbal - 070001000,380411,4571470,4356306,índex IMF
+after_2007,0001,0001,F007378,Capçalera del Foix fins a Sant Martí Sarroca - 080001000,384217,4583397,3348158,índex IPS
+after_2007,0001,0001,F007378,Capçalera del Foix fins a Sant Martí Sarroca - 080001000,384217,4583397,4258958,índex IBMWP
+after_2007,0001,0001,F007378,Capçalera del Foix fins a Sant Martí Sarroca - 080001000,384217,4583397,4356307,índex IMF
+after_2007,0001,0001,F007379,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà - 080002000,388035,4577998,3348159,índex IPS
+after_2007,0001,0001,F007379,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà - 080002000,388035,4577998,4258957,índex IBMWP
+after_2007,0001,0001,F007379,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà - 080002000,388035,4577998,4294800,índex IBICAT-2010
+after_2007,0001,0001,F007379,El Foix i la riera de Pontons des de Sant Martí Sarroca fins a la conlfuència de la riera de Llitrà - 080002000,388035,4577998,4356308,índex IMF
+after_2007,0001,0001,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,3348160,índex IPS
+after_2007,0001,0001,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,4258956,índex IBMWP
+after_2007,0001,0001,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,4294774,índex IBICAT-2010
+after_2007,0001,0001,F007380,Capçalera de la riera de Pontons fins a Sant Martí Sarroca - 080003000,376901,4585725,4356309,índex IMF
+after_2007,0001,0001,F007381,Capçalera de la riera de Llitrà fins a l'EDAR de Vilafranca - 080004000,389422,4578327,3348161,índex IPS
+after_2007,0001,0001,F007381,Capçalera de la riera de Llitrà fins a l'EDAR de Vilafranca - 080004000,389422,4578327,4258955,índex IBMWP
+after_2007,0001,0001,F007381,Capçalera de la riera de Llitrà fins a l'EDAR de Vilafranca - 080004000,389422,4578327,4356310,índex IMF
+after_2007,0001,0001,F007382,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca - 080005000",385967,4570563,3348162,índex IPS
+after_2007,0001,0001,F007382,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca - 080005000",385967,4570563,4258954,índex IBMWP
+after_2007,0001,0001,F007382,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca - 080005000",385967,4570563,4294799,índex IBICAT-2010
+after_2007,0001,0001,F007382,"El Foix des de la confluència de la riera de Llitrà fins a la cua de l'embassament de Foix, inclòs el tram baix de la riera de Llitrà des de l'EDAR de Vilafranca - 080005000",385967,4570563,4356311,índex IMF
+after_2007,0001,0001,F007383,Riera de Marmellar - 080006000,384949,4569847,4258953,índex IBMWP
+after_2007,0001,0001,F007383,Riera de Marmellar - 080006000,384949,4569847,4343383,índex IPS
+after_2007,0001,0001,F007383,Riera de Marmellar - 080006000,384949,4569847,4356312,índex IMF
+after_2007,0001,0001,F007383,Riera de Marmellar - 080006000,384949,4569847,4357582,índex IBICAT-2010
+after_2007,0001,0001,F007384,El Foix des de la presa de Foix fins al mar - 080008000,387994,4565815,4258952,índex IBMWP
+after_2007,0001,0001,F007384,El Foix des de la presa de Foix fins al mar - 080008000,387994,4565815,4343384,índex IPS
+after_2007,0001,0001,F007384,El Foix des de la presa de Foix fins al mar - 080008000,387994,4565815,4356313,índex IMF
+after_2007,0001,0001,F007384,El Foix des de la presa de Foix fins al mar - 080008000,387994,4565815,4357583,índex IBICAT-2010
+after_2007,0001,0001,F007385,"Capçalera de la riera de Ribes (o riera de Begues) fins a la confluència de la riera de Vilafranca, incloses les rieres dels Vidrers, de Vilafranca i de Jafre - 090001000",399683,4573861,4258951,índex IBMWP
+after_2007,0001,0001,F007385,"Capçalera de la riera de Ribes (o riera de Begues) fins a la confluència de la riera de Vilafranca, incloses les rieres dels Vidrers, de Vilafranca i de Jafre - 090001000",399683,4573861,4343385,índex IPS
+after_2007,0001,0001,F007385,"Capçalera de la riera de Ribes (o riera de Begues) fins a la confluència de la riera de Vilafranca, incloses les rieres dels Vidrers, de Vilafranca i de Jafre - 090001000",399683,4573861,4356314,índex IMF
+after_2007,0001,0001,F007386,Riera de Ribes (o riera de Begues) des de la confluència de la riera de Vilafranca fins al mar - 090002000,396585,4568258,4342795,índex IBMWP
+after_2007,0001,0001,F007386,Riera de Ribes (o riera de Begues) des de la confluència de la riera de Vilafranca fins al mar - 090002000,396585,4568258,4343386,índex IPS
+after_2007,0001,0001,F007386,Riera de Ribes (o riera de Begues) des de la confluència de la riera de Vilafranca fins al mar - 090002000,396585,4568258,4356315,índex IMF
+after_2007,0001,0001,F007387,Riera de Sant Climent - 095001000,419777,4572020,4356316,índex IMF
+after_2007,0001,0001,F007388,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001000,415484,4678967,3348163,índex IPS
+after_2007,0001,0001,F007388,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001000,415484,4678967,4258950,índex IBMWP
+after_2007,0001,0001,F007388,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001000,415484,4678967,4294787,índex IBICAT-2010
+after_2007,0001,0001,F007388,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001000,415484,4678967,4356317,índex IMF
+after_2007,0001,0001,F007389,El Llobregat entre l'Arija i el Bastareny - 100002000,408727,4676390,3348164,índex IPS
+after_2007,0001,0001,F007389,El Llobregat entre l'Arija i el Bastareny - 100002000,408727,4676390,4258949,índex IBMWP
+after_2007,0001,0001,F007389,El Llobregat entre l'Arija i el Bastareny - 100002000,408727,4676390,4294818,índex IBICAT-2010
+after_2007,0001,0001,F007389,El Llobregat entre l'Arija i el Bastareny - 100002000,408727,4676390,4356318,índex IMF
+after_2007,0001,0001,F007390,Riu Bastareny i riu de Gréixer - 100004000,405280,4680163,3348165,índex IPS
+after_2007,0001,0001,F007390,Riu Bastareny i riu de Gréixer - 100004000,405280,4680163,4258948,índex IBMWP
+after_2007,0001,0001,F007390,Riu Bastareny i riu de Gréixer - 100004000,405280,4680163,4294869,índex IBICAT-2010
+after_2007,0001,0001,F007390,Riu Bastareny i riu de Gréixer - 100004000,405280,4680163,4356319,índex IMF
+after_2007,0001,0001,F007391,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells - 100005000,406731,4674365,4258947,índex IBMWP
+after_2007,0001,0001,F007391,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells - 100005000,406731,4674365,4294809,índex IBICAT-2010
+after_2007,0001,0001,F007391,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells - 100005000,406731,4674365,4343387,índex IPS
+after_2007,0001,0001,F007391,El Llobregat des de la confluència del Bastareny fins a la cua de l'embassament de La Baells - 100005000,406731,4674365,4356320,índex IMF
+after_2007,0001,0001,F007392,Riu de Saldes - 100006000,406469,4674394,3348166,índex IPS
+after_2007,0001,0001,F007392,Riu de Saldes - 100006000,406469,4674394,4258946,índex IBMWP
+after_2007,0001,0001,F007392,Riu de Saldes - 100006000,406469,4674394,4294878,índex IBICAT-2010
+after_2007,0001,0001,F007392,Riu de Saldes - 100006000,406469,4674394,4356321,índex IMF
+after_2007,0001,0001,F007393,Riu de Peguera - 100008000,405487,4666801,3348167,índex IPS
+after_2007,0001,0001,F007393,Riu de Peguera - 100008000,405487,4666801,4258945,índex IBMWP
+after_2007,0001,0001,F007393,Riu de Peguera - 100008000,405487,4666801,4294877,índex IBICAT-2010
+after_2007,0001,0001,F007393,Riu de Peguera - 100008000,405487,4666801,4356322,índex IMF
+after_2007,0001,0001,F007394,Riu Merdançol i riera de Vilada - 100009000,412515,4664689,3348168,índex IPS
+after_2007,0001,0001,F007394,Riu Merdançol i riera de Vilada - 100009000,412515,4664689,4258944,índex IBMWP
+after_2007,0001,0001,F007394,Riu Merdançol i riera de Vilada - 100009000,412515,4664689,4294881,índex IBICAT-2010
+after_2007,0001,0001,F007394,Riu Merdançol i riera de Vilada - 100009000,412515,4664689,4356323,índex IMF
+after_2007,0001,0001,F007395,El Llobregat des de la presa de La Baells fins a la Colònia Rosal - 100011000,407469,4662114,4258943,índex IBMWP
+after_2007,0001,0001,F007395,El Llobregat des de la presa de La Baells fins a la Colònia Rosal - 100011000,407469,4662114,4294811,índex IBICAT-2010
+after_2007,0001,0001,F007395,El Llobregat des de la presa de La Baells fins a la Colònia Rosal - 100011000,407469,4662114,4343388,índex IPS
+after_2007,0001,0001,F007395,El Llobregat des de la presa de La Baells fins a la Colònia Rosal - 100011000,407469,4662114,4356324,índex IMF
+after_2007,0001,0001,F007396,Riu Demetge - 100012000,403873,4662638,3348169,índex IPS
+after_2007,0001,0001,F007396,Riu Demetge - 100012000,403873,4662638,4258942,índex IBMWP
+after_2007,0001,0001,F007396,Riu Demetge - 100012000,403873,4662638,4356325,índex IMF
+after_2007,0001,0001,F007397,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny - 100013000,407500,4641747,3348170,índex IPS
+after_2007,0001,0001,F007397,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny - 100013000,407500,4641747,4258941,índex IBMWP
+after_2007,0001,0001,F007397,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny - 100013000,407500,4641747,4294807,índex IBICAT-2010
+after_2007,0001,0001,F007397,El Llobregat des de la Colònia Rosal fins a l'EDAR de Balsareny - 100013000,407500,4641747,4356326,índex IMF
+after_2007,0001,0001,F007398,Riera de la Portella - 100014000,408409,4657854,4258940,índex IBMWP
+after_2007,0001,0001,F007398,Riera de la Portella - 100014000,408409,4657854,4294844,índex IBICAT-2010
+after_2007,0001,0001,F007398,Riera de la Portella - 100014000,408409,4657854,4343389,índex IPS
+after_2007,0001,0001,F007398,Riera de la Portella - 100014000,408409,4657854,4356327,índex IMF
+after_2007,0001,0001,F007399,Riera de Graugés - 100016000,404022,4657011,4258939,índex IBMWP
+after_2007,0001,0001,F007399,Riera de Graugés - 100016000,404022,4657011,4294839,índex IBICAT-2010
+after_2007,0001,0001,F007399,Riera de Graugés - 100016000,404022,4657011,4343390,índex IPS
+after_2007,0001,0001,F007399,Riera de Graugés - 100016000,404022,4657011,4356328,índex IMF
+after_2007,0001,0001,F007400,Riera de la Riba - 100017000,408947,4655910,3348171,índex IPS
+after_2007,0001,0001,F007400,Riera de la Riba - 100017000,408947,4655910,4258938,índex IBMWP
+after_2007,0001,0001,F007400,Riera de la Riba - 100017000,408947,4655910,4294846,índex IBICAT-2010
+after_2007,0001,0001,F007400,Riera de la Riba - 100017000,408947,4655910,4356329,índex IMF
+after_2007,0001,0001,F007401,Riera de Biure - 100018000,409456,4652047,3348172,índex IPS
+after_2007,0001,0001,F007401,Riera de Biure - 100018000,409456,4652047,4258937,índex IBMWP
+after_2007,0001,0001,F007401,Riera de Biure - 100018000,409456,4652047,4294830,índex IBICAT-2010
+after_2007,0001,0001,F007401,Riera de Biure - 100018000,409456,4652047,4356330,índex IMF
+after_2007,0001,0001,F007402,Riera de Clarà - 100019000,405521,4652425,4258936,índex IBMWP
+after_2007,0001,0001,F007402,Riera de Clarà - 100019000,405521,4652425,4294835,índex IBICAT-2010
+after_2007,0001,0001,F007402,Riera de Clarà - 100019000,405521,4652425,4343391,índex IPS
+after_2007,0001,0001,F007402,Riera de Clarà - 100019000,405521,4652425,4356331,índex IMF
+after_2007,0001,0001,F007403,Capçalera de la riera de Merlès fins a la confluència del torrent de Regatell - 100021000,416889,4653580,4258935,índex IBMWP
+after_2007,0001,0001,F007403,Capçalera de la riera de Merlès fins a la confluència del torrent de Regatell - 100021000,416889,4653580,4294772,índex IBICAT-2010
+after_2007,0001,0001,F007403,Capçalera de la riera de Merlès fins a la confluència del torrent de Regatell - 100021000,416889,4653580,4343392,índex IPS
+after_2007,0001,0001,F007403,Capçalera de la riera de Merlès fins a la confluència del torrent de Regatell - 100021000,416889,4653580,4356332,índex IMF
+after_2007,0001,0001,F007404,Riera de Merlès des de la confluència del torrent de Regatell fins al Llobregat - 100022000,407369,4642352,4258934,índex IBMWP
+after_2007,0001,0001,F007404,Riera de Merlès des de la confluència del torrent de Regatell fins al Llobregat - 100022000,407369,4642352,4294850,índex IBICAT-2010
+after_2007,0001,0001,F007404,Riera de Merlès des de la confluència del torrent de Regatell fins al Llobregat - 100022000,407369,4642352,4343393,índex IPS
+after_2007,0001,0001,F007404,Riera de Merlès des de la confluència del torrent de Regatell fins al Llobregat - 100022000,407369,4642352,4356333,índex IMF
+after_2007,0001,0001,F007405,Riera de Merola - 100023000,406456,4642835,3348173,índex IPS
+after_2007,0001,0001,F007405,Riera de Merola - 100023000,406456,4642835,4258933,índex IBMWP
+after_2007,0001,0001,F007405,Riera de Merola - 100023000,406456,4642835,4294851,índex IBICAT-2010
+after_2007,0001,0001,F007405,Riera de Merola - 100023000,406456,4642835,4356334,índex IMF
+after_2007,0001,0001,F007406,Riera de Gaià - 100024000,408452,4638579,3348174,índex IPS
+after_2007,0001,0001,F007406,Riera de Gaià - 100024000,408452,4638579,4258932,índex IBMWP
+after_2007,0001,0001,F007406,Riera de Gaià - 100024000,408452,4638579,4356335,índex IMF
+after_2007,0001,0001,F007407,Riera del Mujal - 100025000,405177,4637865,3348175,índex IPS
+after_2007,0001,0001,F007407,Riera del Mujal - 100025000,405177,4637865,4258931,índex IBMWP
+after_2007,0001,0001,F007407,Riera del Mujal - 100025000,405177,4637865,4356336,índex IMF
+after_2007,0001,0001,F007407,Riera del Mujal - 100025000,405177,4637865,4357589,índex IBICAT-2010
+after_2007,0001,0001,F007408,Riu de Cornet - 100026000,408390,4632008,3348176,índex IPS
+after_2007,0001,0001,F007408,Riu de Cornet - 100026000,408390,4632008,4258930,índex IBMWP
+after_2007,0001,0001,F007408,Riu de Cornet - 100026000,408390,4632008,4356337,índex IMF
+after_2007,0001,0001,F007409,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa - 100027000,408693,4630090,4258929,índex IBMWP
+after_2007,0001,0001,F007409,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa - 100027000,408693,4630090,4294813,índex IBICAT-2010
+after_2007,0001,0001,F007409,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa - 100027000,408693,4630090,4343394,índex IPS
+after_2007,0001,0001,F007409,El Llobregat des de l'EDAR de Balsareny fins a la confluència de la riera Gavarresa - 100027000,408693,4630090,4356338,índex IMF
+after_2007,0001,0001,F007410,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers - 100028000",415787,4634995,4258928,índex IBMWP
+after_2007,0001,0001,F007410,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers - 100028000",415787,4634995,4294777,índex IBICAT-2010
+after_2007,0001,0001,F007410,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers - 100028000",415787,4634995,4343395,índex IPS
+after_2007,0001,0001,F007410,"Capçalera de la riera Gavarresa fins a l'EDAR d'Avinyó, inclosa la riera de Segalers - 100028000",415787,4634995,4356339,índex IMF
+after_2007,0001,0001,F007411,Riera de Lluçanès - 100031000,421811,4650161,4258927,índex IBMWP
+after_2007,0001,0001,F007411,Riera de Lluçanès - 100031000,421811,4650161,4294847,índex IBICAT-2010
+after_2007,0001,0001,F007411,Riera de Lluçanès - 100031000,421811,4650161,4343396,índex IPS
+after_2007,0001,0001,F007411,Riera de Lluçanès - 100031000,421811,4650161,4356340,índex IMF
+after_2007,0001,0001,F007412,Torrent d'Olost - 100032000,424703,4647030,3348177,índex IPS
+after_2007,0001,0001,F007412,Torrent d'Olost - 100032000,424703,4647030,4258926,índex IBMWP
+after_2007,0001,0001,F007412,Torrent d'Olost - 100032000,424703,4647030,4294889,índex IBICAT-2010
+after_2007,0001,0001,F007412,Torrent d'Olost - 100032000,424703,4647030,4356341,índex IMF
+after_2007,0001,0001,F007413,Riera de Basí - 100033000,420006,4645164,4258925,índex IBMWP
+after_2007,0001,0001,F007413,Riera de Basí - 100033000,420006,4645164,4343397,índex IPS
+after_2007,0001,0001,F007413,Riera de Basí - 100033000,420006,4645164,4356342,índex IMF
+after_2007,0001,0001,F007413,Riera de Basí - 100033000,420006,4645164,4357591,índex IBICAT-2010
+after_2007,0001,0001,F007414,Riera de Relat - 100034000,415363,4636789,4258924,índex IBMWP
+after_2007,0001,0001,F007414,Riera de Relat - 100034000,415363,4636789,4343398,índex IPS
+after_2007,0001,0001,F007414,Riera de Relat - 100034000,415363,4636789,4356343,índex IMF
+after_2007,0001,0001,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,3348178,índex IPS
+after_2007,0001,0001,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,4258923,índex IBMWP
+after_2007,0001,0001,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,4294865,índex IBICAT-2010
+after_2007,0001,0001,F007415,"Riera Gavarresa des de l'EDAR d'Avinyó fins al Llobregat, inclòs el riu Sec - 100035000",413077,4629319,4356344,índex IMF
+after_2007,0001,0001,F007416,Riera d'Oló - 100036000,414323,4631810,3348179,índex IPS
+after_2007,0001,0001,F007416,Riera d'Oló - 100036000,414323,4631810,4258922,índex IBMWP
+after_2007,0001,0001,F007416,Riera d'Oló - 100036000,414323,4631810,4294863,índex IBICAT-2010
+after_2007,0001,0001,F007416,Riera d'Oló - 100036000,414323,4631810,4356345,índex IMF
+after_2007,0001,0001,F007417,Riera de Malrubí - 100038000,413785,4627930,3348180,índex IPS
+after_2007,0001,0001,F007417,Riera de Malrubí - 100038000,413785,4627930,4258921,índex IBMWP
+after_2007,0001,0001,F007417,Riera de Malrubí - 100038000,413785,4627930,4356346,índex IMF
+after_2007,0001,0001,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,3348181,índex IPS
+after_2007,0001,0001,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,4258920,índex IBMWP
+after_2007,0001,0001,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,4294817,índex IBICAT-2010
+after_2007,0001,0001,F007418,El Llobregat entre la riera Gavarresa i el Cardener - 100040000,408143,4621304,4356347,índex IMF
+after_2007,0001,0001,F007419,Riera de la Golarda i riera de Castellnou - 100041000,418294,4624812,3348182,índex IPS
+after_2007,0001,0001,F007419,Riera de la Golarda i riera de Castellnou - 100041000,418294,4624812,4258919,índex IBMWP
+after_2007,0001,0001,F007419,Riera de la Golarda i riera de Castellnou - 100041000,418294,4624812,4294843,índex IBICAT-2010
+after_2007,0001,0001,F007419,Riera de la Golarda i riera de Castellnou - 100041000,418294,4624812,4356348,índex IMF
+after_2007,0001,0001,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,3348183,índex IPS
+after_2007,0001,0001,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,4258918,índex IBMWP
+after_2007,0001,0001,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,4294833,índex IBICAT-2010
+after_2007,0001,0001,F007420,Riera de Calders i riera del Marcet - 100043000,409461,4623702,4356349,índex IMF
+after_2007,0001,0001,F007421,Riu d'Or - 100044000,406735,4620559,3348184,índex IPS
+after_2007,0001,0001,F007421,Riu d'Or - 100044000,406735,4620559,4258917,índex IBMWP
+after_2007,0001,0001,F007421,Riu d'Or - 100044000,406735,4620559,4294879,índex IBICAT-2010
+after_2007,0001,0001,F007421,Riu d'Or - 100044000,406735,4620559,4356350,índex IMF
+after_2007,0001,0001,F007422,Riera de Mura i riera de Talamanca - 100045000,411816,4618070,4258916,índex IBMWP
+after_2007,0001,0001,F007422,Riera de Mura i riera de Talamanca - 100045000,411816,4618070,4294852,índex IBICAT-2010
+after_2007,0001,0001,F007422,Riera de Mura i riera de Talamanca - 100045000,411816,4618070,4343399,índex IPS
+after_2007,0001,0001,F007422,Riera de Mura i riera de Talamanca - 100045000,411816,4618070,4356351,índex IMF
+after_2007,0001,0001,F007423,Riera de Santa Creu (o Mata-rodona) - 100046000,406531,4617560,4258915,índex IBMWP
+after_2007,0001,0001,F007423,Riera de Santa Creu (o Mata-rodona) - 100046000,406531,4617560,4343400,índex IPS
+after_2007,0001,0001,F007423,Riera de Santa Creu (o Mata-rodona) - 100046000,406531,4617560,4356352,índex IMF
+after_2007,0001,0001,F007424,Capçalera del Cardener fins a la cua de l'embassament de la Llosa del Cavall - 100047000,383878,4669590,3348185,índex IPS
+after_2007,0001,0001,F007424,Capçalera del Cardener fins a la cua de l'embassament de la Llosa del Cavall - 100047000,383878,4669590,4258914,índex IBMWP
+after_2007,0001,0001,F007424,Capçalera del Cardener fins a la cua de l'embassament de la Llosa del Cavall - 100047000,383878,4669590,4294779,índex IBICAT-2010
+after_2007,0001,0001,F007424,Capçalera del Cardener fins a la cua de l'embassament de la Llosa del Cavall - 100047000,383878,4669590,4356353,índex IMF
+after_2007,0001,0001,F007425,Capçalera de l'Aigua de Valls fins a la cua de l'embassament de la Llosa del Cavall - 100049000,390357,4665705,3348186,índex IPS
+after_2007,0001,0001,F007425,Capçalera de l'Aigua de Valls fins a la cua de l'embassament de la Llosa del Cavall - 100049000,390357,4665705,4258913,índex IBMWP
+after_2007,0001,0001,F007425,Capçalera de l'Aigua de Valls fins a la cua de l'embassament de la Llosa del Cavall - 100049000,390357,4665705,4294767,índex IBICAT-2010
+after_2007,0001,0001,F007425,Capçalera de l'Aigua de Valls fins a la cua de l'embassament de la Llosa del Cavall - 100049000,390357,4665705,4356354,índex IMF
+after_2007,0001,0001,F007426,Riu Cardener entre la presa de la Llosa del Cavall i la cua de l'embassament de Sant Ponç - 100050000,381095,4654736,3348187,índex IPS
+after_2007,0001,0001,F007426,Riu Cardener entre la presa de la Llosa del Cavall i la cua de l'embassament de Sant Ponç - 100050000,381095,4654736,4258912,índex IBMWP
+after_2007,0001,0001,F007426,Riu Cardener entre la presa de la Llosa del Cavall i la cua de l'embassament de Sant Ponç - 100050000,381095,4654736,4294875,índex IBICAT-2010
+after_2007,0001,0001,F007426,Riu Cardener entre la presa de la Llosa del Cavall i la cua de l'embassament de Sant Ponç - 100050000,381095,4654736,4356355,índex IMF
+after_2007,0001,0001,F007427,Riu Cardener des de la presa de Sant Ponç fins a l'EDAR de Cardona - 100052000,387335,4643094,3348188,índex IPS
+after_2007,0001,0001,F007427,Riu Cardener des de la presa de Sant Ponç fins a l'EDAR de Cardona - 100052000,387335,4643094,4258911,índex IBMWP
+after_2007,0001,0001,F007427,Riu Cardener des de la presa de Sant Ponç fins a l'EDAR de Cardona - 100052000,387335,4643094,4294872,índex IBICAT-2010
+after_2007,0001,0001,F007427,Riu Cardener des de la presa de Sant Ponç fins a l'EDAR de Cardona - 100052000,387335,4643094,4356356,índex IMF
+after_2007,0001,0001,F007428,Riu Negre - 100053000,386754,4642918,3348189,índex IPS
+after_2007,0001,0001,F007428,Riu Negre - 100053000,386754,4642918,4258910,índex IBMWP
+after_2007,0001,0001,F007428,Riu Negre - 100053000,386754,4642918,4294882,índex IBICAT-2010
+after_2007,0001,0001,F007428,Riu Negre - 100053000,386754,4642918,4356357,índex IMF
+after_2007,0001,0001,F007429,Conca de l'Aigua d'Ora - 100054000,389778,4644073,4258909,índex IBMWP
+after_2007,0001,0001,F007429,Conca de l'Aigua d'Ora - 100054000,389778,4644073,4294789,índex IBICAT-2010
+after_2007,0001,0001,F007429,Conca de l'Aigua d'Ora - 100054000,389778,4644073,4343401,índex IPS
+after_2007,0001,0001,F007429,Conca de l'Aigua d'Ora - 100054000,389778,4644073,4356358,índex IMF
+after_2007,0001,0001,F007430,Riera de Navel i rasa de l'Hospital - 100056000,394438,4643383,3348190,índex IPS
+after_2007,0001,0001,F007430,Riera de Navel i rasa de l'Hospital - 100056000,394438,4643383,4258908,índex IBMWP
+after_2007,0001,0001,F007430,Riera de Navel i rasa de l'Hospital - 100056000,394438,4643383,4294853,índex IBICAT-2010
+after_2007,0001,0001,F007430,Riera de Navel i rasa de l'Hospital - 100056000,394438,4643383,4356359,índex IMF
+after_2007,0001,0001,F007431,Riu Cardener des de l'abocament de Cardona fins a Súria - 100058000,393547,4634513,3348191,índex IPS
+after_2007,0001,0001,F007431,Riu Cardener des de l'abocament de Cardona fins a Súria - 100058000,393547,4634513,4258907,índex IBMWP
+after_2007,0001,0001,F007431,Riu Cardener des de l'abocament de Cardona fins a Súria - 100058000,393547,4634513,4294871,índex IBICAT-2010
+after_2007,0001,0001,F007431,Riu Cardener des de l'abocament de Cardona fins a Súria - 100058000,393547,4634513,4356360,índex IMF
+after_2007,0001,0001,F007432,Torrent de Davins - 100059000,391961,4635007,3348192,índex IPS
+after_2007,0001,0001,F007432,Torrent de Davins - 100059000,391961,4635007,4258906,índex IBMWP
+after_2007,0001,0001,F007432,Torrent de Davins - 100059000,391961,4635007,4294886,índex IBICAT-2010
+after_2007,0001,0001,F007432,Torrent de Davins - 100059000,391961,4635007,4356361,índex IMF
+after_2007,0001,0001,F007433,Riera de Salo - 100060000,392586,4633307,3348193,índex IPS
+after_2007,0001,0001,F007433,Riera de Salo - 100060000,392586,4633307,4258905,índex IBMWP
+after_2007,0001,0001,F007433,Riera de Salo - 100060000,392586,4633307,4294857,índex IBICAT-2010
+after_2007,0001,0001,F007433,Riera de Salo - 100060000,392586,4633307,4356362,índex IMF
+after_2007,0001,0001,F007434,Riera de Coaner - 100062000,394006,4631970,4258904,índex IBMWP
+after_2007,0001,0001,F007434,Riera de Coaner - 100062000,394006,4631970,4294836,índex IBICAT-2010
+after_2007,0001,0001,F007434,Riera de Coaner - 100062000,394006,4631970,4343402,índex IPS
+after_2007,0001,0001,F007434,Riera de Coaner - 100062000,394006,4631970,4356363,índex IMF
+after_2007,0001,0001,F007435,Riera d'Hortons - 100063000,396081,4632811,3348194,índex IPS
+after_2007,0001,0001,F007435,Riera d'Hortons - 100063000,396081,4632811,4258903,índex IBMWP
+after_2007,0001,0001,F007435,Riera d'Hortons - 100063000,396081,4632811,4356364,índex IMF
+after_2007,0001,0001,F007436,Riu Cardener des de Súria fins a l'EDAR de Manresa - 100064000,397128,4629080,3348195,índex IPS
+after_2007,0001,0001,F007436,Riu Cardener des de Súria fins a l'EDAR de Manresa - 100064000,397128,4629080,4258902,índex IBMWP
+after_2007,0001,0001,F007436,Riu Cardener des de Súria fins a l'EDAR de Manresa - 100064000,397128,4629080,4294874,índex IBICAT-2010
+after_2007,0001,0001,F007436,Riu Cardener des de Súria fins a l'EDAR de Manresa - 100064000,397128,4629080,4356365,índex IMF
+after_2007,0001,0001,F007437,Riera de Sant Cugat - 100065000,400530,4636154,3348196,índex IPS
+after_2007,0001,0001,F007437,Riera de Sant Cugat - 100065000,400530,4636154,4258901,índex IBMWP
+after_2007,0001,0001,F007437,Riera de Sant Cugat - 100065000,400530,4636154,4356366,índex IMF
+after_2007,0001,0001,F007438,Riera de Bellver - 100066000,400021,4626196,4258900,índex IBMWP
+after_2007,0001,0001,F007438,Riera de Bellver - 100066000,400021,4626196,4343403,índex IPS
+after_2007,0001,0001,F007438,Riera de Bellver - 100066000,400021,4626196,4356367,índex IMF
+after_2007,0001,0001,F007439,Riera de Fals - 100067000,398470,4623017,4258899,índex IBMWP
+after_2007,0001,0001,F007439,Riera de Fals - 100067000,398470,4623017,4343404,índex IPS
+after_2007,0001,0001,F007439,Riera de Fals - 100067000,398470,4623017,4356368,índex IMF
+after_2007,0001,0001,F007440,Riera de Rajadell - 100068000,402033,4617836,3348197,índex IPS
+after_2007,0001,0001,F007440,Riera de Rajadell - 100068000,402033,4617836,4258898,índex IBMWP
+after_2007,0001,0001,F007440,Riera de Rajadell - 100068000,402033,4617836,4294854,índex IBICAT-2010
+after_2007,0001,0001,F007440,Riera de Rajadell - 100068000,402033,4617836,4356369,índex IMF
+after_2007,0001,0001,F007441,Riera de Cornet - 100069000,402353,4615855,3348198,índex IPS
+after_2007,0001,0001,F007441,Riera de Cornet - 100069000,402353,4615855,4258897,índex IBMWP
+after_2007,0001,0001,F007441,Riera de Cornet - 100069000,402353,4615855,4294837,índex IBICAT-2010
+after_2007,0001,0001,F007441,Riera de Cornet - 100069000,402353,4615855,4356370,índex IMF
+after_2007,0001,0001,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,3348199,índex IPS
+after_2007,0001,0001,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,4258896,índex IBMWP
+after_2007,0001,0001,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,4294873,índex IBICAT-2010
+after_2007,0001,0001,F007442,Riu Cardener des de l'EDAR de Manresa fins al Llobregat - 100070000,404029,4615047,4356371,índex IMF
+after_2007,0001,0001,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,3348200,índex IPS
+after_2007,0001,0001,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,4258895,índex IBMWP
+after_2007,0001,0001,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,4294810,índex IBICAT-2010
+after_2007,0001,0001,F007443,El Llobregat des de la confluència del Cardener fins a l'EDAR de Monistrol de Montserrat - 100071000,405050,4612004,4356372,índex IMF
+after_2007,0001,0001,F007444,Riera de Rellinars - 100072000,408321,4610296,4258894,índex IBMWP
+after_2007,0001,0001,F007444,Riera de Rellinars - 100072000,408321,4610296,4294855,índex IBICAT-2010
+after_2007,0001,0001,F007444,Riera de Rellinars - 100072000,408321,4610296,4343405,índex IPS
+after_2007,0001,0001,F007444,Riera de Rellinars - 100072000,408321,4610296,4356373,índex IMF
+after_2007,0001,0001,F007445,Riera de Marganell - 100073000,403614,4611156,3348201,índex IPS
+after_2007,0001,0001,F007445,Riera de Marganell - 100073000,403614,4611156,4258893,índex IBMWP
+after_2007,0001,0001,F007445,Riera de Marganell - 100073000,403614,4611156,4294849,índex IBICAT-2010
+after_2007,0001,0001,F007445,Riera de Marganell - 100073000,403614,4611156,4356374,índex IMF
+after_2007,0001,0001,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,3348202,índex IPS
+after_2007,0001,0001,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,4258892,índex IBMWP
+after_2007,0001,0001,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,4294814,índex IBICAT-2010
+after_2007,0001,0001,F007446,El Llobregat des de l'EDAR de  Monistrol fins a l'EDAR d'Abrera - 100074000,406576,4601631,4356375,índex IMF
+after_2007,0001,0001,F007447,"Riera Magarola, riera de Masquefa i riera de can Dalmases (o torrent Mal) - 100075000",408925,4598141,4342807,índex IBMWP
+after_2007,0001,0001,F007447,"Riera Magarola, riera de Masquefa i riera de can Dalmases (o torrent Mal) - 100075000",408925,4598141,4343406,índex IPS
+after_2007,0001,0001,F007447,"Riera Magarola, riera de Masquefa i riera de can Dalmases (o torrent Mal) - 100075000",408925,4598141,4356376,índex IMF
+after_2007,0001,0001,F007448,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia - 100076000,409806,4595003,3348203,índex IPS
+after_2007,0001,0001,F007448,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia - 100076000,409806,4595003,4258891,índex IBMWP
+after_2007,0001,0001,F007448,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia - 100076000,409806,4595003,4294812,índex IBICAT-2010
+after_2007,0001,0001,F007448,El Llobregat des de l'EDAR d'Abrera fins a la confluència de l'Anoia - 100076000,409806,4595003,4356377,índex IMF
+after_2007,0001,0001,F007449,Riera del Morral del Molí i riera de Sant Jaume - 100077000,411356,4596167,3348204,índex IPS
+after_2007,0001,0001,F007449,Riera del Morral del Molí i riera de Sant Jaume - 100077000,411356,4596167,4258890,índex IBMWP
+after_2007,0001,0001,F007449,Riera del Morral del Molí i riera de Sant Jaume - 100077000,411356,4596167,4356378,índex IMF
+after_2007,0001,0001,F007450,Conca alta de l'Anoia fins a Igualada - 100078000,378888,4606037,4242875,índex IBICAT-2010
+after_2007,0001,0001,F007450,Conca alta de l'Anoia fins a Igualada - 100078000,378888,4606037,4258889,índex IBMWP
+after_2007,0001,0001,F007450,Conca alta de l'Anoia fins a Igualada - 100078000,378888,4606037,4343407,índex IPS
+after_2007,0001,0001,F007450,Conca alta de l'Anoia fins a Igualada - 100078000,378888,4606037,4356379,índex IMF
+after_2007,0001,0001,F007451,"Riu Anoia des de l'entrada a Igualada fins a l'EDAR d'Igualada, inclosa la riera d'Òdena - 100079000",386256,4602806,3348205,índex IPS
+after_2007,0001,0001,F007451,"Riu Anoia des de l'entrada a Igualada fins a l'EDAR d'Igualada, inclosa la riera d'Òdena - 100079000",386256,4602806,4258888,índex IBMWP
+after_2007,0001,0001,F007451,"Riu Anoia des de l'entrada a Igualada fins a l'EDAR d'Igualada, inclosa la riera d'Òdena - 100079000",386256,4602806,4356380,índex IMF
+after_2007,0001,0001,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,3348206,índex IPS
+after_2007,0001,0001,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,4242866,índex IBICAT-2010
+after_2007,0001,0001,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,4258887,índex IBMWP
+after_2007,0001,0001,F007452,"Riu Anoia des de l'EDAR d'Igualda fins a la confluència de la riera de Carme, inclosa la riera de Castellolí - 100080000",389318,4602196,4356381,índex IMF
+after_2007,0001,0001,F007453,Riera de Carme - 100081000,387360,4598995,3348207,índex IPS
+after_2007,0001,0001,F007453,Riera de Carme - 100081000,387360,4598995,4242878,índex IBICAT-2010
+after_2007,0001,0001,F007453,Riera de Carme - 100081000,387360,4598995,4258886,índex IBMWP
+after_2007,0001,0001,F007453,Riera de Carme - 100081000,387360,4598995,4356382,índex IMF
+after_2007,0001,0001,F007454,Riu Anoia entre la riera de Carme i el riu de Bitlles - 100082000,396983,4590408,3348208,índex IPS
+after_2007,0001,0001,F007454,Riu Anoia entre la riera de Carme i el riu de Bitlles - 100082000,396983,4590408,4242853,índex IBICAT-2010
+after_2007,0001,0001,F007454,Riu Anoia entre la riera de Carme i el riu de Bitlles - 100082000,396983,4590408,4258885,índex IBMWP
+after_2007,0001,0001,F007454,Riu Anoia entre la riera de Carme i el riu de Bitlles - 100082000,396983,4590408,4356383,índex IMF
+after_2007,0001,0001,F007455,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - 100083000,394439,4588853,4242852,índex IBICAT-2010
+after_2007,0001,0001,F007455,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - 100083000,394439,4588853,4258884,índex IBMWP
+after_2007,0001,0001,F007455,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - 100083000,394439,4588853,4343408,índex IPS
+after_2007,0001,0001,F007455,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - 100083000,394439,4588853,4356384,índex IMF
+after_2007,0001,0001,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,3348209,índex IPS
+after_2007,0001,0001,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,4242849,índex IBICAT-2010
+after_2007,0001,0001,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,4258883,índex IBMWP
+after_2007,0001,0001,F007456,Riu de Bitlles des de l'EDAR de Riudebitlles fins a l'Anoia - 100084000,398406,4588606,4356385,índex IMF
+after_2007,0001,0001,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,4242850,índex IBICAT-2010
+after_2007,0001,0001,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,4258882,índex IBMWP
+after_2007,0001,0001,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,4343409,índex IPS
+after_2007,0001,0001,F007457,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - 100085000,404119,4588737,4356386,índex IMF
+after_2007,0001,0001,F007458,Riera de l'Avernó i torrent dels Brivons - 100086000,400668,4586507,3348210,índex IPS
+after_2007,0001,0001,F007458,Riera de l'Avernó i torrent dels Brivons - 100086000,400668,4586507,4258881,índex IBMWP
+after_2007,0001,0001,F007458,Riera de l'Avernó i torrent dels Brivons - 100086000,400668,4586507,4356387,índex IMF
+after_2007,0001,0001,F007459,Torrent de la Fontsanta - 100087000,402708,4591542,3348211,índex IPS
+after_2007,0001,0001,F007459,Torrent de la Fontsanta - 100087000,402708,4591542,4242854,índex IBICAT-2010
+after_2007,0001,0001,F007459,Torrent de la Fontsanta - 100087000,402708,4591542,4258880,índex IBMWP
+after_2007,0001,0001,F007459,Torrent de la Fontsanta - 100087000,402708,4591542,4356388,índex IMF
+after_2007,0001,0001,F007460,El Llobregat entre l'Anoia i la riera de Rubí - 100088000,413604,4591758,3348212,índex IPS
+after_2007,0001,0001,F007460,El Llobregat entre l'Anoia i la riera de Rubí - 100088000,413604,4591758,4258879,índex IBMWP
+after_2007,0001,0001,F007460,El Llobregat entre l'Anoia i la riera de Rubí - 100088000,413604,4591758,4294816,índex IBICAT-2010
+after_2007,0001,0001,F007460,El Llobregat entre l'Anoia i la riera de Rubí - 100088000,413604,4591758,4356389,índex IMF
+after_2007,0001,0001,F007461,Riera de Rubí i riera de les Arenes - 100089000,416091,4589051,3348213,índex IPS
+after_2007,0001,0001,F007461,Riera de Rubí i riera de les Arenes - 100089000,416091,4589051,4258878,índex IBMWP
+after_2007,0001,0001,F007461,Riera de Rubí i riera de les Arenes - 100089000,416091,4589051,4356390,índex IMF
+after_2007,0001,0001,F007462,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí - 100090000,420246,4578238,3348214,índex IPS
+after_2007,0001,0001,F007462,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí - 100090000,420246,4578238,4258877,índex IBMWP
+after_2007,0001,0001,F007462,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí - 100090000,420246,4578238,4294808,índex IBICAT-2010
+after_2007,0001,0001,F007462,El Llobregat des de la confluència de la riera de Rubí fins a Sant Joan Despí - 100090000,420246,4578238,4356391,índex IMF
+after_2007,0001,0001,F007463,Riera de Vallvidrera - 100091000,418462,4586699,4258876,índex IBMWP
+after_2007,0001,0001,F007463,Riera de Vallvidrera - 100091000,418462,4586699,4294862,índex IBICAT-2010
+after_2007,0001,0001,F007463,Riera de Vallvidrera - 100091000,418462,4586699,4343410,índex IPS
+after_2007,0001,0001,F007463,Riera de Vallvidrera - 100091000,418462,4586699,4356392,índex IMF
+after_2007,0001,0001,F007464,Riera de Rafamans - 100092000,412986,4585160,4258875,índex IBMWP
+after_2007,0001,0001,F007464,Riera de Rafamans - 100092000,412986,4585160,4343411,índex IPS
+after_2007,0001,0001,F007464,Riera de Rafamans - 100092000,412986,4585160,4356393,índex IMF
+after_2007,0001,0001,F007465,Riera de Cervelló - 100093000,415015,4583453,4258874,índex IBMWP
+after_2007,0001,0001,F007465,Riera de Cervelló - 100093000,415015,4583453,4343412,índex IPS
+after_2007,0001,0001,F007465,Riera de Cervelló - 100093000,415015,4583453,4356394,índex IMF
+after_2007,0001,0001,F007465,Riera de Cervelló - 100093000,415015,4583453,4357603,índex IBICAT-2010
+after_2007,0001,0001,F007466,Riera de Torrelles - 100094000,415060,4578865,3348215,índex IPS
+after_2007,0001,0001,F007466,Riera de Torrelles - 100094000,415060,4578865,4258873,índex IBMWP
+after_2007,0001,0001,F007466,Riera de Torrelles - 100094000,415060,4578865,4294859,índex IBICAT-2010
+after_2007,0001,0001,F007466,Riera de Torrelles - 100094000,415060,4578865,4356395,índex IMF
+after_2007,0001,0001,F007467,El Llobregat des de Sant Joan Despí fins al mar - 100095000,425686,4575451,3348216,índex IPS
+after_2007,0001,0001,F007467,El Llobregat des de Sant Joan Despí fins al mar - 100095000,425686,4575451,4258872,índex IBMWP
+after_2007,0001,0001,F007467,El Llobregat des de Sant Joan Despí fins al mar - 100095000,425686,4575451,4294815,índex IBICAT-2010
+after_2007,0001,0001,F007467,El Llobregat des de Sant Joan Despí fins al mar - 100095000,425686,4575451,4356396,índex IMF
+after_2007,0001,0001,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,3348217,índex IPS
+after_2007,0001,0001,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,4242860,índex IBICAT-2010
+after_2007,0001,0001,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,4258871,índex IBMWP
+after_2007,0001,0001,F007468,Capçalera del Congost fins a l'EDAR d'Aiguafreda - 110002000,436470,4627063,4356397,índex IMF
+after_2007,0001,0001,F007469,Riera d'Avencó - 110003000,438770,4623838,3348218,índex IPS
+after_2007,0001,0001,F007469,Riera d'Avencó - 110003000,438770,4623838,4242861,índex IBICAT-2010
+after_2007,0001,0001,F007469,Riera d'Avencó - 110003000,438770,4623838,4258870,índex IBMWP
+after_2007,0001,0001,F007469,Riera d'Avencó - 110003000,438770,4623838,4356398,índex IMF
+after_2007,0001,0001,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,3348219,índex IPS
+after_2007,0001,0001,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,4242863,índex IBICAT-2010
+after_2007,0001,0001,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,4258869,índex IBMWP
+after_2007,0001,0001,F007470,Riu Congost des de l'EDAR d'Aiguafreda fins a l'EDAR de La Garriga - 110004000,439609,4619390,4356399,índex IMF
+after_2007,0001,0001,F007471,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa - 110005000",441159,4612020,4242903,índex IBICAT-2010
+after_2007,0001,0001,F007471,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa - 110005000",441159,4612020,4258868,índex IBMWP
+after_2007,0001,0001,F007471,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa - 110005000",441159,4612020,4343413,índex IPS
+after_2007,0001,0001,F007471,"Riu Congost des de l'EDAR de la Garriga fins a la confluència amb la riera de Carbonell, riera de Carbonell inclosa - 110005000",441159,4612020,4356400,índex IMF
+after_2007,0001,0001,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,3348220,índex IPS
+after_2007,0001,0001,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,4242879,índex IBICAT-2010
+after_2007,0001,0001,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,4258867,índex IBMWP
+after_2007,0001,0001,F007472,Riu Congost des de la confluència de la riera de Carbonell fins a la confluència amb el Mogent - 110006000,437707,4600165,4356401,índex IMF
+after_2007,0001,0001,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,3348221,índex IPS
+after_2007,0001,0001,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,4242869,índex IBICAT-2010
+after_2007,0001,0001,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,4258866,índex IBMWP
+after_2007,0001,0001,F007473,Capçalera del Mogent fins a la potabilitzadora d'ATLL - 110007000,448840,4609087,4356402,índex IMF
+after_2007,0001,0001,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,3348222,índex IPS
+after_2007,0001,0001,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,4242870,índex IBICAT-2010
+after_2007,0001,0001,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,4258865,índex IBMWP
+after_2007,0001,0001,F007474,Riu Mogent des de la potabilitzadora fins a l'EDAR de Vilanova del Vallès - 110008000,444855,4605329,4356403,índex IMF
+after_2007,0001,0001,F007475,Riera de Cànoves des de la presa de Valforners fins al Mogent - 110010000,446378,4611753,3348223,índex IPS
+after_2007,0001,0001,F007475,Riera de Cànoves des de la presa de Valforners fins al Mogent - 110010000,446378,4611753,4242856,índex IBICAT-2010
+after_2007,0001,0001,F007475,Riera de Cànoves des de la presa de Valforners fins al Mogent - 110010000,446378,4611753,4258864,índex IBMWP
+after_2007,0001,0001,F007475,Riera de Cànoves des de la presa de Valforners fins al Mogent - 110010000,446378,4611753,4356404,índex IMF
+after_2007,0001,0001,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,3348224,índex IPS
+after_2007,0001,0001,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,4242865,índex IBICAT-2010
+after_2007,0001,0001,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,4258863,índex IBMWP
+after_2007,0001,0001,F007476,Riu Mogent des de l'EDAR de Vilanova del Vallès fins a la confluència amb el Congost - 110011000,443422,4604354,4356405,índex IMF
+after_2007,0001,0001,F007477,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)  - 110012000,432624,4617144,3348225,índex IPS
+after_2007,0001,0001,F007477,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)  - 110012000,432624,4617144,4242858,índex IBICAT-2010
+after_2007,0001,0001,F007477,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)  - 110012000,432624,4617144,4258862,índex IBMWP
+after_2007,0001,0001,F007477,Capçalera del Tenes fins a la confluència del torrent del Villar (EDAR de Sant Feliu de Codines)  - 110012000,432624,4617144,4356406,índex IMF
+after_2007,0001,0001,F007478,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana - 110014000,436069,4611473,3348226,índex IPS
+after_2007,0001,0001,F007478,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana - 110014000,436069,4611473,4242874,índex IBICAT-2010
+after_2007,0001,0001,F007478,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana - 110014000,436069,4611473,4258861,índex IBMWP
+after_2007,0001,0001,F007478,Riu Tenes des de l'EDAR de Sant Feliu de Codines fins a l'EDAR de Santa Eulàlia de Ronçana - 110014000,436069,4611473,4356407,índex IMF
+after_2007,0001,0001,F007479,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat - 110016000,437114,4604148,4242859,índex IBICAT-2010
+after_2007,0001,0001,F007479,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat - 110016000,437114,4604148,4258860,índex IBMWP
+after_2007,0001,0001,F007479,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat - 110016000,437114,4604148,4343414,índex IPS
+after_2007,0001,0001,F007479,Riu Tenes des de l'EDAR de Santa Eulàlia de Ronçana fins a l'inici del tram endegat - 110016000,437114,4604148,4356408,índex IMF
+after_2007,0001,0001,F007480,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca - 110017000",435853,4599484,3348227,índex IPS
+after_2007,0001,0001,F007480,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca - 110017000",435853,4599484,4242864,índex IBICAT-2010
+after_2007,0001,0001,F007480,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca - 110017000",435853,4599484,4258859,índex IBMWP
+after_2007,0001,0001,F007480,"Riu Tenes des de l'inici del tram endegat fins al Besòs, inclosa la riera Seca - 110017000",435853,4599484,4356409,índex IMF
+after_2007,0001,0001,F007481,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll  - 110018000,432651,4593766,3348228,índex IPS
+after_2007,0001,0001,F007481,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll  - 110018000,432651,4593766,4242844,índex IBICAT-2010
+after_2007,0001,0001,F007481,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll  - 110018000,432651,4593766,4258858,índex IBMWP
+after_2007,0001,0001,F007481,El Besòs des de la confluència Congost-Mogent fins a la confluència del Ripoll  - 110018000,432651,4593766,4356410,índex IMF
+after_2007,0001,0001,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,3348229,índex IPS
+after_2007,0001,0001,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,4242857,índex IBICAT-2010
+after_2007,0001,0001,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,4258857,índex IBMWP
+after_2007,0001,0001,F007482,Capçalera de la riera de Caldes fins a l'EDAR de Caldes de Montbui - 110019000,429594,4610324,4356411,índex IMF
+after_2007,0001,0001,F007483,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs - 110020000,431189,4602873,3348230,índex IPS
+after_2007,0001,0001,F007483,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs - 110020000,431189,4602873,4242901,índex IBICAT-2010
+after_2007,0001,0001,F007483,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs - 110020000,431189,4602873,4258856,índex IBMWP
+after_2007,0001,0001,F007483,Riera de Caldes des de l'EDAR de Caldes de Montbui fins al Besòs - 110020000,431189,4602873,4356412,índex IMF
+after_2007,0001,0001,F007484,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020500,426754,4609085,3348231,índex IPS
+after_2007,0001,0001,F007484,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020500,426754,4609085,4258855,índex IBMWP
+after_2007,0001,0001,F007484,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020500,426754,4609085,4356413,índex IMF
+after_2007,0001,0001,F007485,Riera de Sentmenat des de Sentmenat a la riera de Caldes - 110020700,429597,4604240,3348232,índex IPS
+after_2007,0001,0001,F007485,Riera de Sentmenat des de Sentmenat a la riera de Caldes - 110020700,429597,4604240,4356414,índex IMF
+after_2007,0001,0001,F007485,Riera de Sentmenat des de Sentmenat a la riera de Caldes - 110020700,429597,4604240,4421093,índex IBMWP
+after_2007,0001,0001,F007486,Riera Seca - 110021000,429375,4598548,4342809,índex IBMWP
+after_2007,0001,0001,F007486,Riera Seca - 110021000,429375,4598548,4343415,índex IPS
+after_2007,0001,0001,F007486,Riera Seca - 110021000,429375,4598548,4356415,índex IMF
+after_2007,0001,0001,F007487,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt - 110022000,421418,4610624,3348233,índex IPS
+after_2007,0001,0001,F007487,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt - 110022000,421418,4610624,4242877,índex IBICAT-2010
+after_2007,0001,0001,F007487,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt - 110022000,421418,4610624,4258854,índex IBMWP
+after_2007,0001,0001,F007487,Capçalera del Ripoll fins al límit del Parc de Sant Llorenç del Munt - 110022000,421418,4610624,4356416,índex IMF
+after_2007,0001,0001,F007488,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès - 110023000,422644,4607781,3348234,índex IPS
+after_2007,0001,0001,F007488,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès - 110023000,422644,4607781,4242855,índex IBICAT-2010
+after_2007,0001,0001,F007488,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès - 110023000,422644,4607781,4258853,índex IBMWP
+after_2007,0001,0001,F007488,Riu Ripoll des del límit del Parc de Sant Llorenç del Munt fins a l'EDAR de Castellar del Vallès - 110023000,422644,4607781,4356417,índex IMF
+after_2007,0001,0001,F007489,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell - 110024000,425278,4602157,3348235,índex IPS
+after_2007,0001,0001,F007489,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell - 110024000,425278,4602157,4242900,índex IBICAT-2010
+after_2007,0001,0001,F007489,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell - 110024000,425278,4602157,4258852,índex IBMWP
+after_2007,0001,0001,F007489,Riu Ripoll des de l' EDAR de Castellar del Vallès fins a l'EDAR de Sabadell - 110024000,425278,4602157,4356418,índex IMF
+after_2007,0001,0001,F007490,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs - 110025000,432000,4593213,3348236,índex IPS
+after_2007,0001,0001,F007490,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs - 110025000,432000,4593213,4242862,índex IBICAT-2010
+after_2007,0001,0001,F007490,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs - 110025000,432000,4593213,4258851,índex IBMWP
+after_2007,0001,0001,F007490,Riu Ripoll des de l'EDAR de Sabadell fins al Besòs - 110025000,432000,4593213,4356419,índex IMF
+after_2007,0001,0001,F007491,Riu Sec (Besòs) - 110026000,429192,4593550,3348237,índex IPS
+after_2007,0001,0001,F007491,Riu Sec (Besòs) - 110026000,429192,4593550,4242902,índex IBICAT-2010
+after_2007,0001,0001,F007491,Riu Sec (Besòs) - 110026000,429192,4593550,4258850,índex IBMWP
+after_2007,0001,0001,F007491,Riu Sec (Besòs) - 110026000,429192,4593550,4356420,índex IMF
+after_2007,0001,0001,F007492,Riera de Sant Cugat - 110028000,427156,4592468,3348238,índex IPS
+after_2007,0001,0001,F007492,Riera de Sant Cugat - 110028000,427156,4592468,4242873,índex IBICAT-2010
+after_2007,0001,0001,F007492,Riera de Sant Cugat - 110028000,427156,4592468,4258849,índex IBMWP
+after_2007,0001,0001,F007492,Riera de Sant Cugat - 110028000,427156,4592468,4356421,índex IMF
+after_2007,0001,0001,F007493,El Besòs des de la confluència del Ripoll fins al mar - 110030000,433240,4589118,3348239,índex IPS
+after_2007,0001,0001,F007493,El Besòs des de la confluència del Ripoll fins al mar - 110030000,433240,4589118,4242848,índex IBICAT-2010
+after_2007,0001,0001,F007493,El Besòs des de la confluència del Ripoll fins al mar - 110030000,433240,4589118,4258848,índex IBMWP
+after_2007,0001,0001,F007493,El Besòs des de la confluència del Ripoll fins al mar - 110030000,433240,4589118,4356422,índex IMF
+after_2007,0001,0001,F007494,Capçalera de la riera d'Argentona fins a la confluència de la riera d'Òrrius - 120001000,451563,4605368,4356423,índex IMF
+after_2007,0001,0001,F007494,Capçalera de la riera d'Argentona fins a la confluència de la riera d'Òrrius - 120001000,451563,4605368,4421094,índex IBMWP
+after_2007,0001,0001,F007494,Capçalera de la riera d'Argentona fins a la confluència de la riera d'Òrrius - 120001000,451563,4605368,4421167,índex IPS
+after_2007,0001,0001,F007495,Riera d'Argentona des de confluència de la riera d'Òrrius fins al mar - 120002000,449554,4602013,4356424,índex IMF
+after_2007,0001,0001,F007496,Riera de Sant Pol - 130001000,467331,4606977,4342811,índex IBMWP
+after_2007,0001,0001,F007496,Riera de Sant Pol - 130001000,467331,4606977,4343416,índex IPS
+after_2007,0001,0001,F007496,Riera de Sant Pol - 130001000,467331,4606977,4356425,índex IMF
+after_2007,0001,0001,F007497,Riera de Pineda  - 135101000,471822,4611160,3348240,índex IPS
+after_2007,0001,0001,F007497,Riera de Pineda  - 135101000,471822,4611160,4258847,índex IBMWP
+after_2007,0001,0001,F007497,Riera de Pineda  - 135101000,471822,4611160,4356426,índex IMF
+after_2007,0001,0001,F007498,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001000",449036,4623648,3348241,índex IPS
+after_2007,0001,0001,F007498,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001000",449036,4623648,4258846,índex IBMWP
+after_2007,0001,0001,F007498,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001000",449036,4623648,4294778,índex IBICAT-2010
+after_2007,0001,0001,F007498,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001000",449036,4623648,4356427,índex IMF
+after_2007,0001,0001,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,3348242,índex IPS
+after_2007,0001,0001,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,4258845,índex IBMWP
+after_2007,0001,0001,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,4294823,índex IBICAT-2010
+after_2007,0001,0001,F007499,La Tordera des de l'EDAR de Santa Maria de Palautordera fins a l'EDAR de Sant Celoni - 140003000,457478,4614405,4356428,índex IMF
+after_2007,0001,0001,F007500,Riera de Vallgorguina - 140004000,456791,4612483,4258844,índex IBMWP
+after_2007,0001,0001,F007500,Riera de Vallgorguina - 140004000,456791,4612483,4343417,índex IPS
+after_2007,0001,0001,F007500,Riera de Vallgorguina - 140004000,456791,4612483,4356429,índex IMF
+after_2007,0001,0001,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,3348243,índex IPS
+after_2007,0001,0001,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,4258843,índex IBMWP
+after_2007,0001,0001,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,4294824,índex IBICAT-2010
+after_2007,0001,0001,F007501,La Tordera des de l'EDAR de Sant Celoni fins a la confluència de la riera d'Arbúcies - 140006000,466947,4619673,4356430,índex IMF
+after_2007,0001,0001,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4258842,índex IBMWP
+after_2007,0001,0001,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4343418,índex IPS
+after_2007,0001,0001,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4356431,índex IMF
+after_2007,0001,0001,F007502,Capçalera de la riera de Gualba fins a la cua de l'embassament de Santa Fe - 140007000,454424,4625570,4357609,índex IBICAT-2010
+after_2007,0001,0001,F007503,Riera de Gualba des de la presa de Santa Fe fins a la Tordera - 140008000,460350,4618715,4258841,índex IBMWP
+after_2007,0001,0001,F007503,Riera de Gualba des de la presa de Santa Fe fins a la Tordera - 140008000,460350,4618715,4294840,índex IBICAT-2010
+after_2007,0001,0001,F007503,Riera de Gualba des de la presa de Santa Fe fins a la Tordera - 140008000,460350,4618715,4343419,índex IPS
+after_2007,0001,0001,F007503,Riera de Gualba des de la presa de Santa Fe fins a la Tordera - 140008000,460350,4618715,4356432,índex IMF
+after_2007,0001,0001,F007504,Riera de Fuirosos - 140010000,464906,4615795,4258840,índex IBMWP
+after_2007,0001,0001,F007504,Riera de Fuirosos - 140010000,464906,4615795,4343420,índex IPS
+after_2007,0001,0001,F007504,Riera de Fuirosos - 140010000,464906,4615795,4356433,índex IMF
+after_2007,0001,0001,F007504,Riera de Fuirosos - 140010000,464906,4615795,4357610,índex IBICAT-2010
+after_2007,0001,0001,F007505,Riera de Breda - 140011000,463368,4620915,3348244,índex IPS
+after_2007,0001,0001,F007505,Riera de Breda - 140011000,463368,4620915,4258839,índex IBMWP
+after_2007,0001,0001,F007505,Riera de Breda - 140011000,463368,4620915,4294832,índex IBICAT-2010
+after_2007,0001,0001,F007505,Riera de Breda - 140011000,463368,4620915,4356434,índex IMF
+after_2007,0001,0001,F007506,"Capçalera de la riera d'Arbúcies fins a la riera de Buixalleu (canvi de tipologia), inclosa la riera de la Pineda - 140013000",458135,4629679,4258838,índex IBMWP
+after_2007,0001,0001,F007506,"Capçalera de la riera d'Arbúcies fins a la riera de Buixalleu (canvi de tipologia), inclosa la riera de la Pineda - 140013000",458135,4629679,4294771,índex IBICAT-2010
+after_2007,0001,0001,F007506,"Capçalera de la riera d'Arbúcies fins a la riera de Buixalleu (canvi de tipologia), inclosa la riera de la Pineda - 140013000",458135,4629679,4343421,índex IPS
+after_2007,0001,0001,F007506,"Capçalera de la riera d'Arbúcies fins a la riera de Buixalleu (canvi de tipologia), inclosa la riera de la Pineda - 140013000",458135,4629679,4356435,índex IMF
+after_2007,0001,0001,F007507,Tram baix de la riera d'Arbúcies - 140014000,467165,4622820,4258837,índex IBMWP
+after_2007,0001,0001,F007507,Tram baix de la riera d'Arbúcies - 140014000,467165,4622820,4294890,índex IBICAT-2010
+after_2007,0001,0001,F007507,Tram baix de la riera d'Arbúcies - 140014000,467165,4622820,4343422,índex IPS
+after_2007,0001,0001,F007507,Tram baix de la riera d'Arbúcies - 140014000,467165,4622820,4356436,índex IMF
+after_2007,0001,0001,F007508,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma - 140015000,472830,4621157,4258836,índex IBMWP
+after_2007,0001,0001,F007508,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma - 140015000,472830,4621157,4294825,índex IBICAT-2010
+after_2007,0001,0001,F007508,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma - 140015000,472830,4621157,4343423,índex IPS
+after_2007,0001,0001,F007508,La Tordera entre la riera d'Arbúcies i la riera de Santa Coloma - 140015000,472830,4621157,4356437,índex IMF
+after_2007,0001,0001,F007509,Capçalera de la riera de Santa Coloma fins a Santa Coloma de Faners - 140016000,466246,4635038,4258835,índex IBMWP
+after_2007,0001,0001,F007509,Capçalera de la riera de Santa Coloma fins a Santa Coloma de Faners - 140016000,466246,4635038,4294776,índex IBICAT-2010
+after_2007,0001,0001,F007509,Capçalera de la riera de Santa Coloma fins a Santa Coloma de Faners - 140016000,466246,4635038,4343424,índex IPS
+after_2007,0001,0001,F007509,Capçalera de la riera de Santa Coloma fins a Santa Coloma de Faners - 140016000,466246,4635038,4356438,índex IMF
+after_2007,0001,0001,F007510,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000 - 140017000,473899,4631816,4258834,índex IBMWP
+after_2007,0001,0001,F007510,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000 - 140017000,473899,4631816,4294866,índex IBICAT-2010
+after_2007,0001,0001,F007510,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000 - 140017000,473899,4631816,4343425,índex IPS
+after_2007,0001,0001,F007510,Riera de Santa Coloma des de Santa Coloma fins a l'inici del tram inclòs a la Xarxa Natura 2000 - 140017000,473899,4631816,4356439,índex IMF
+after_2007,0001,0001,F007511,Riera de l'Esparra - 140018000,474195,4628191,4258833,índex IBMWP
+after_2007,0001,0001,F007511,Riera de l'Esparra - 140018000,474195,4628191,4343426,índex IPS
+after_2007,0001,0001,F007511,Riera de l'Esparra - 140018000,474195,4628191,4356440,índex IMF
+after_2007,0001,0001,F007511,Riera de l'Esparra - 140018000,474195,4628191,4357611,índex IBICAT-2010
+after_2007,0001,0001,F007512,Sèquia de Sils - 140019000,474189,4626704,3348245,índex IPS
+after_2007,0001,0001,F007512,Sèquia de Sils - 140019000,474189,4626704,4258832,índex IBMWP
+after_2007,0001,0001,F007512,Sèquia de Sils - 140019000,474189,4626704,4294884,índex IBICAT-2010
+after_2007,0001,0001,F007512,Sèquia de Sils - 140019000,474189,4626704,4356441,índex IMF
+after_2007,0001,0001,F007513,El Reclar i riera de Pins - 140020000,478735,4627523,4342813,índex IBMWP
+after_2007,0001,0001,F007513,El Reclar i riera de Pins - 140020000,478735,4627523,4343427,índex IPS
+after_2007,0001,0001,F007513,El Reclar i riera de Pins - 140020000,478735,4627523,4356442,índex IMF
+after_2007,0001,0001,F007513,El Reclar i riera de Pins - 140020000,478735,4627523,4357612,índex IBICAT-2010
+after_2007,0001,0001,F007514,Riera de Santa Coloma des de l'inici del tram inclòs a la Xarxa Natura 2000 fins a la Tordera - 140021500,474252,4626972,4258831,índex IBMWP
+after_2007,0001,0001,F007514,Riera de Santa Coloma des de l'inici del tram inclòs a la Xarxa Natura 2000 fins a la Tordera - 140021500,474252,4626972,4294858,índex IBICAT-2010
+after_2007,0001,0001,F007514,Riera de Santa Coloma des de l'inici del tram inclòs a la Xarxa Natura 2000 fins a la Tordera - 140021500,474252,4626972,4343428,índex IPS
+after_2007,0001,0001,F007514,Riera de Santa Coloma des de l'inici del tram inclòs a la Xarxa Natura 2000 fins a la Tordera - 140021500,474252,4626972,4356443,índex IMF
+after_2007,0001,0001,F007515,Riera de Maçanes - 140022000,470697,4624540,4258830,índex IBMWP
+after_2007,0001,0001,F007515,Riera de Maçanes - 140022000,470697,4624540,4343429,índex IPS
+after_2007,0001,0001,F007515,Riera de Maçanes - 140022000,470697,4624540,4356444,índex IMF
+after_2007,0001,0001,F007515,Riera de Maçanes - 140022000,470697,4624540,4357613,índex IBICAT-2010
+after_2007,0001,0001,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,3348246,índex IPS
+after_2007,0001,0001,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,4258829,índex IBMWP
+after_2007,0001,0001,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,4294821,índex IBICAT-2010
+after_2007,0001,0001,F007516,La Tordera des de la confluència de la riera de Santa Coloma fins a la confluència de la riera de Vallmanya - 140023000,475745,4618342,4356445,índex IMF
+after_2007,0001,0001,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,4258828,índex IBMWP
+after_2007,0001,0001,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,4294822,índex IBICAT-2010
+after_2007,0001,0001,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,4343430,índex IPS
+after_2007,0001,0001,F007517,La Tordera des de la confluència de la riera de Vallmanya fins al mar - 140024000,480394,4612722,4356446,índex IMF
+after_2007,0001,0001,F007518,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001000,491424,4621111,4258827,índex IBMWP
+after_2007,0001,0001,F007518,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001000,491424,4621111,4343431,índex IPS
+after_2007,0001,0001,F007518,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001000,491424,4621111,4356447,índex IMF
+after_2007,0001,0001,F007518,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001000,491424,4621111,4357614,índex IBICAT-2010
+after_2007,0001,0001,F007519,Riera de Tossa des de l'EDAR de Tossa de Mar fins al mar - 150003000,493818,4619651,3348247,índex IPS
+after_2007,0001,0001,F007519,Riera de Tossa des de l'EDAR de Tossa de Mar fins al mar - 150003000,493818,4619651,4258826,índex IBMWP
+after_2007,0001,0001,F007519,Riera de Tossa des de l'EDAR de Tossa de Mar fins al mar - 150003000,493818,4619651,4294860,índex IBICAT-2010
+after_2007,0001,0001,F007519,Riera de Tossa des de l'EDAR de Tossa de Mar fins al mar - 150003000,493818,4619651,4356448,índex IMF
+after_2007,0001,0001,F007520,Capçalera del Ridaura fins a l'EDAR de Castell-Platja d'Aro - 160001000,494624,4630671,3348248,índex IPS
+after_2007,0001,0001,F007520,Capçalera del Ridaura fins a l'EDAR de Castell-Platja d'Aro - 160001000,494624,4630671,4258825,índex IBMWP
+after_2007,0001,0001,F007520,Capçalera del Ridaura fins a l'EDAR de Castell-Platja d'Aro - 160001000,494624,4630671,4356449,índex IMF
+after_2007,0001,0001,F007520,Capçalera del Ridaura fins a l'EDAR de Castell-Platja d'Aro - 160001000,494624,4630671,4357615,índex IBICAT-2010
+after_2007,0001,0001,F007521,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar  - 160002000,503573,4628943,3348249,índex IPS
+after_2007,0001,0001,F007521,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar  - 160002000,503573,4628943,4258824,índex IBMWP
+after_2007,0001,0001,F007521,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar  - 160002000,503573,4628943,4294883,índex IBICAT-2010
+after_2007,0001,0001,F007521,Riu Ridaura des de l'EDAR de Castell-Platja d'Aro fins al mar  - 160002000,503573,4628943,4356450,índex IMF
+after_2007,0001,0001,F007522,Capçalera de la riera de Calonge fins al límit del PEIN - 170001000,503369,4632847,4258823,índex IBMWP
+after_2007,0001,0001,F007522,Capçalera de la riera de Calonge fins al límit del PEIN - 170001000,503369,4632847,4343432,índex IPS
+after_2007,0001,0001,F007522,Capçalera de la riera de Calonge fins al límit del PEIN - 170001000,503369,4632847,4356451,índex IMF
+after_2007,0001,0001,F007522,Capçalera de la riera de Calonge fins al límit del PEIN - 170001000,503369,4632847,4357616,índex IBICAT-2010
+after_2007,0001,0001,F007523,Riera de Calonge des del límit del PEIN fins al mar - 170002000,506754,4633643,4258822,índex IBMWP
+after_2007,0001,0001,F007523,Riera de Calonge des del límit del PEIN fins al mar - 170002000,506754,4633643,4294834,índex IBICAT-2010
+after_2007,0001,0001,F007523,Riera de Calonge des del límit del PEIN fins al mar - 170002000,506754,4633643,4343433,índex IPS
+after_2007,0001,0001,F007523,Riera de Calonge des del límit del PEIN fins al mar - 170002000,506754,4633643,4356452,índex IMF
+after_2007,0001,0001,F007524,Riera d'Aubi - 180001000,512771,4637902,4258821,índex IBMWP
+after_2007,0001,0001,F007524,Riera d'Aubi - 180001000,512771,4637902,4343434,índex IPS
+after_2007,0001,0001,F007524,Riera d'Aubi - 180001000,512771,4637902,4356453,índex IMF
+after_2007,0001,0001,F007525,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001000,500738,4643462,4258820,índex IBMWP
+after_2007,0001,0001,F007525,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001000,500738,4643462,4294780,índex IBICAT-2010
+after_2007,0001,0001,F007525,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001000,500738,4643462,4343435,índex IPS
+after_2007,0001,0001,F007525,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001000,500738,4643462,4356454,índex IMF
+after_2007,0001,0001,F007526,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal) - 190002000,503425,4647607,4258819,índex IBMWP
+after_2007,0001,0001,F007526,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal) - 190002000,503425,4647607,4343436,índex IPS
+after_2007,0001,0001,F007526,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal) - 190002000,503425,4647607,4356455,índex IMF
+after_2007,0001,0001,F007526,El Daró entre el torrent de la Marqueta i el Rissec (tram urbà de la Bisbal) - 190002000,503425,4647607,4357618,índex IBICAT-2010
+after_2007,0001,0001,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,4258818,índex IBMWP
+after_2007,0001,0001,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,4294876,índex IBICAT-2010
+after_2007,0001,0001,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,4343437,índex IPS
+after_2007,0001,0001,F007527,"Riu Daró des de la confluència del Rissec fins a Gualta, inclosos el Rissec i la riera de Rupià - 190003000",508539,4653221,4356456,índex IMF
+after_2007,0001,0001,F007528,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001000,446469,4685287,4242915,índex IBICAT-2010
+after_2007,0001,0001,F007528,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001000,446469,4685287,4258817,índex IBMWP
+after_2007,0001,0001,F007528,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001000,446469,4685287,4343438,índex IPS
+after_2007,0001,0001,F007528,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001000,446469,4685287,4356457,índex IMF
+after_2007,0001,0001,F007529,El Ter entre el Ritort i el Freser - 200002000,437368,4674575,4242836,índex IBICAT-2010
+after_2007,0001,0001,F007529,El Ter entre el Ritort i el Freser - 200002000,437368,4674575,4258816,índex IBMWP
+after_2007,0001,0001,F007529,El Ter entre el Ritort i el Freser - 200002000,437368,4674575,4343439,índex IPS
+after_2007,0001,0001,F007529,El Ter entre el Ritort i el Freser - 200002000,437368,4674575,4356458,índex IMF
+after_2007,0001,0001,F007530,"Capçalera del Freser fins a Campdevànol, inclosos el Rigard i el Segadell - 200003000",431007,4678048,4242917,índex IBICAT-2010
+after_2007,0001,0001,F007530,"Capçalera del Freser fins a Campdevànol, inclosos el Rigard i el Segadell - 200003000",431007,4678048,4258815,índex IBMWP
+after_2007,0001,0001,F007530,"Capçalera del Freser fins a Campdevànol, inclosos el Rigard i el Segadell - 200003000",431007,4678048,4343440,índex IPS
+after_2007,0001,0001,F007530,"Capçalera del Freser fins a Campdevànol, inclosos el Rigard i el Segadell - 200003000",431007,4678048,4356459,índex IMF
+after_2007,0001,0001,F007531,Riu Freser des de Campdevànol fins a la confluència amb el Ter - 200004000,431341,4673706,4242839,índex IBICAT-2010
+after_2007,0001,0001,F007531,Riu Freser des de Campdevànol fins a la confluència amb el Ter - 200004000,431341,4673706,4258814,índex IBMWP
+after_2007,0001,0001,F007531,Riu Freser des de Campdevànol fins a la confluència amb el Ter - 200004000,431341,4673706,4343441,índex IPS
+after_2007,0001,0001,F007531,Riu Freser des de Campdevànol fins a la confluència amb el Ter - 200004000,431341,4673706,4356460,índex IMF
+after_2007,0001,0001,F007532,Riu Merdàs - 200005000,424296,4677759,4242841,índex IBICAT-2010
+after_2007,0001,0001,F007532,Riu Merdàs - 200005000,424296,4677759,4258813,índex IBMWP
+after_2007,0001,0001,F007532,Riu Merdàs - 200005000,424296,4677759,4343442,índex IPS
+after_2007,0001,0001,F007532,Riu Merdàs - 200005000,424296,4677759,4356461,índex IMF
+after_2007,0001,0001,F007533,El Ter entre el Freser i la riera de Vallfogona - 200006000,433894,4671033,4242833,índex IBICAT-2010
+after_2007,0001,0001,F007533,El Ter entre el Freser i la riera de Vallfogona - 200006000,433894,4671033,4258812,índex IBMWP
+after_2007,0001,0001,F007533,El Ter entre el Freser i la riera de Vallfogona - 200006000,433894,4671033,4343443,índex IPS
+after_2007,0001,0001,F007533,El Ter entre el Freser i la riera de Vallfogona - 200006000,433894,4671033,4356462,índex IMF
+after_2007,0001,0001,F007534,Riera de les Llosses - 200007000,430074,4668865,4242831,índex IBICAT-2010
+after_2007,0001,0001,F007534,Riera de les Llosses - 200007000,430074,4668865,4258811,índex IBMWP
+after_2007,0001,0001,F007534,Riera de les Llosses - 200007000,430074,4668865,4343444,índex IPS
+after_2007,0001,0001,F007534,Riera de les Llosses - 200007000,430074,4668865,4356463,índex IMF
+after_2007,0001,0001,F007535,Riera de Vallfogona - 200008000,437543,4670858,3348250,índex IPS
+after_2007,0001,0001,F007535,Riera de Vallfogona - 200008000,437543,4670858,4242838,índex IBICAT-2010
+after_2007,0001,0001,F007535,Riera de Vallfogona - 200008000,437543,4670858,4258810,índex IBMWP
+after_2007,0001,0001,F007535,Riera de Vallfogona - 200008000,437543,4670858,4356464,índex IMF
+after_2007,0001,0001,F007536,El Ter entre la riera de Vallfogona i el Ges - 200009000,434466,4662661,3348251,índex IPS
+after_2007,0001,0001,F007536,El Ter entre la riera de Vallfogona i el Ges - 200009000,434466,4662661,4242829,índex IBICAT-2010
+after_2007,0001,0001,F007536,El Ter entre la riera de Vallfogona i el Ges - 200009000,434466,4662661,4258809,índex IBMWP
+after_2007,0001,0001,F007536,El Ter entre la riera de Vallfogona i el Ges - 200009000,434466,4662661,4356465,índex IMF
+after_2007,0001,0001,F007537,Riera de Sora - 200010000,432475,4663231,3348252,índex IPS
+after_2007,0001,0001,F007537,Riera de Sora - 200010000,432475,4663231,4242830,índex IBICAT-2010
+after_2007,0001,0001,F007537,Riera de Sora - 200010000,432475,4663231,4258808,índex IBMWP
+after_2007,0001,0001,F007537,Riera de Sora - 200010000,432475,4663231,4356466,índex IMF
+after_2007,0001,0001,F007538,Riera de la Foradada - 200011000,436848,4661438,3348253,índex IPS
+after_2007,0001,0001,F007538,Riera de la Foradada - 200011000,436848,4661438,4242824,índex IBICAT-2010
+after_2007,0001,0001,F007538,Riera de la Foradada - 200011000,436848,4661438,4258807,índex IBMWP
+after_2007,0001,0001,F007538,Riera de la Foradada - 200011000,436848,4661438,4356467,índex IMF
+after_2007,0001,0001,F007539,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013000,442190,4658218,3348254,índex IPS
+after_2007,0001,0001,F007539,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013000,442190,4658218,4242825,índex IBICAT-2010
+after_2007,0001,0001,F007539,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013000,442190,4658218,4258806,índex IBMWP
+after_2007,0001,0001,F007539,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013000,442190,4658218,4356468,índex IMF
+after_2007,0001,0001,F007540,El Ges des de la confluència del Fornès fins al Ter - 200014000,439545,4655609,4242828,índex IBICAT-2010
+after_2007,0001,0001,F007540,El Ges des de la confluència del Fornès fins al Ter - 200014000,439545,4655609,4258805,índex IBMWP
+after_2007,0001,0001,F007540,El Ges des de la confluència del Fornès fins al Ter - 200014000,439545,4655609,4343445,índex IPS
+after_2007,0001,0001,F007540,El Ges des de la confluència del Fornès fins al Ter - 200014000,439545,4655609,4356469,índex IMF
+after_2007,0001,0001,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,3348255,índex IPS
+after_2007,0001,0001,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,4242837,índex IBICAT-2010
+after_2007,0001,0001,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,4258804,índex IBMWP
+after_2007,0001,0001,F007541,El Ter entre el Ges i el Gurri - 200015000,440445,4648830,4356470,índex IMF
+after_2007,0001,0001,F007542,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN) - 200017000,432891,4650667,3348256,índex IPS
+after_2007,0001,0001,F007542,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN) - 200017000,432891,4650667,4242835,índex IBICAT-2010
+after_2007,0001,0001,F007542,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN) - 200017000,432891,4650667,4258803,índex IBMWP
+after_2007,0001,0001,F007542,Capçalera de la riera de Sorreigs fins a Angelats (límit del PEIN) - 200017000,432891,4650667,4356471,índex IMF
+after_2007,0001,0001,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,3348257,índex IPS
+after_2007,0001,0001,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,4242834,índex IBICAT-2010
+after_2007,0001,0001,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,4258802,índex IBMWP
+after_2007,0001,0001,F007543,Riera de Sorreigs des d'Angelats (límit del PEIN) fins al Ter - 200018000,436050,4648924,4356472,índex IMF
+after_2007,0001,0001,F007544,Capçalera del Gurri fins a la confluència amb la riera de Tona - 200019000,438514,4635618,4242904,índex IBICAT-2010
+after_2007,0001,0001,F007544,Capçalera del Gurri fins a la confluència amb la riera de Tona - 200019000,438514,4635618,4258801,índex IBMWP
+after_2007,0001,0001,F007544,Capçalera del Gurri fins a la confluència amb la riera de Tona - 200019000,438514,4635618,4343446,índex IPS
+after_2007,0001,0001,F007544,Capçalera del Gurri fins a la confluència amb la riera de Tona - 200019000,438514,4635618,4356473,índex IMF
+after_2007,0001,0001,F007545,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol - 200019500",439959,4642899,3348258,índex IPS
+after_2007,0001,0001,F007545,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol - 200019500",439959,4642899,4242906,índex IBICAT-2010
+after_2007,0001,0001,F007545,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol - 200019500",439959,4642899,4258800,índex IBMWP
+after_2007,0001,0001,F007545,"Riu Gurri entre la riera de Tona i la riera de Rimentol, inclosos la riera de Tona, la conca del Mèder i la riera de Rimentol - 200019500",439959,4642899,4356474,índex IMF
+after_2007,0001,0001,F007546,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles) - 200020000,441143,4648214,3348259,índex IPS
+after_2007,0001,0001,F007546,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles) - 200020000,441143,4648214,4242871,índex IBICAT-2010
+after_2007,0001,0001,F007546,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles) - 200020000,441143,4648214,4258799,índex IBMWP
+after_2007,0001,0001,F007546,Riu Gurri des de la confluència de la riera de Rimentol fins al Ter (inclòs el torrent de Folgueroles) - 200020000,441143,4648214,4356475,índex IMF
+after_2007,0001,0001,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,3348260,índex IPS
+after_2007,0001,0001,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,4242847,índex IBICAT-2010
+after_2007,0001,0001,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,4258798,índex IBMWP
+after_2007,0001,0001,F007547,El Ter entre el Gurri i la cua de l'embassament de Sau - 200021000,442932,4646754,4356476,índex IMF
+after_2007,0001,0001,F007548,Riera de les Gorgues - 200023000,447968,4652914,3348261,índex IPS
+after_2007,0001,0001,F007548,Riera de les Gorgues - 200023000,447968,4652914,4242832,índex IBICAT-2010
+after_2007,0001,0001,F007548,Riera de les Gorgues - 200023000,447968,4652914,4258797,índex IBMWP
+after_2007,0001,0001,F007548,Riera de les Gorgues - 200023000,447968,4652914,4356477,índex IMF
+after_2007,0001,0001,F007549,Riera Major - 200024000,450572,4642446,3348262,índex IPS
+after_2007,0001,0001,F007549,Riera Major - 200024000,450572,4642446,4242890,índex IBICAT-2010
+after_2007,0001,0001,F007549,Riera Major - 200024000,450572,4642446,4258796,índex IBMWP
+after_2007,0001,0001,F007549,Riera Major - 200024000,450572,4642446,4356478,índex IMF
+after_2007,0001,0001,F007550,Riera de Rupit - 200025000,456363,4651776,3348263,índex IPS
+after_2007,0001,0001,F007550,Riera de Rupit - 200025000,456363,4651776,4242884,índex IBICAT-2010
+after_2007,0001,0001,F007550,Riera de Rupit - 200025000,456363,4651776,4258795,índex IBMWP
+after_2007,0001,0001,F007550,Riera de Rupit - 200025000,456363,4651776,4356479,índex IMF
+after_2007,0001,0001,F007551,El Brugent - 200026000,464886,4654028,3348264,índex IPS
+after_2007,0001,0001,F007551,El Brugent - 200026000,464886,4654028,4242905,índex IBICAT-2010
+after_2007,0001,0001,F007551,El Brugent - 200026000,464886,4654028,4258794,índex IBMWP
+after_2007,0001,0001,F007551,El Brugent - 200026000,464886,4654028,4356480,índex IMF
+after_2007,0001,0001,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,3348265,índex IPS
+after_2007,0001,0001,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,4242842,índex IBICAT-2010
+after_2007,0001,0001,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,4258793,índex IBMWP
+after_2007,0001,0001,F007552,El Ter des del Pasteral fins a la confluència de l'Onyar - 200028000,479598,4646569,4356481,índex IMF
+after_2007,0001,0001,F007553,Riera d'Osor - 200029000,467709,4644416,3348266,índex IPS
+after_2007,0001,0001,F007553,Riera d'Osor - 200029000,467709,4644416,4242889,índex IBICAT-2010
+after_2007,0001,0001,F007553,Riera d'Osor - 200029000,467709,4644416,4258792,índex IBMWP
+after_2007,0001,0001,F007553,Riera d'Osor - 200029000,467709,4644416,4356482,índex IMF
+after_2007,0001,0001,F007554,Riera de Llèmena i riera de Canet - 200030000,478819,4648922,3348267,índex IPS
+after_2007,0001,0001,F007554,Riera de Llèmena i riera de Canet - 200030000,478819,4648922,4242880,índex IBICAT-2010
+after_2007,0001,0001,F007554,Riera de Llèmena i riera de Canet - 200030000,478819,4648922,4258791,índex IBMWP
+after_2007,0001,0001,F007554,Riera de Llèmena i riera de Canet - 200030000,478819,4648922,4356483,índex IMF
+after_2007,0001,0001,F007555,Torrent de Gàrrep - 200031000,480160,4651693,4258790,índex IBMWP
+after_2007,0001,0001,F007555,Torrent de Gàrrep - 200031000,480160,4651693,4294887,índex IBICAT-2010
+after_2007,0001,0001,F007555,Torrent de Gàrrep - 200031000,480160,4651693,4343447,índex IPS
+after_2007,0001,0001,F007555,Torrent de Gàrrep - 200031000,480160,4651693,4356484,índex IMF
+after_2007,0001,0001,F007556,Riu Güell - 200032000,483701,4644326,3348268,índex IPS
+after_2007,0001,0001,F007556,Riu Güell - 200032000,483701,4644326,4258789,índex IBMWP
+after_2007,0001,0001,F007556,Riu Güell - 200032000,483701,4644326,4356485,índex IMF
+after_2007,0001,0001,F007557,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra - 200033000,482897,4636730,4242909,índex IBICAT-2010
+after_2007,0001,0001,F007557,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra - 200033000,482897,4636730,4258788,índex IBMWP
+after_2007,0001,0001,F007557,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra - 200033000,482897,4636730,4343448,índex IPS
+after_2007,0001,0001,F007557,Capçalera de l'Onyar fins a la confluència de la riera de Gotarra - 200033000,482897,4636730,4356486,índex IMF
+after_2007,0001,0001,F007558,"Rieres de Gotarra, Verneda i Benaula - 200034000",484973,4639156,3348269,índex IPS
+after_2007,0001,0001,F007558,"Rieres de Gotarra, Verneda i Benaula - 200034000",484973,4639156,4242912,índex IBICAT-2010
+after_2007,0001,0001,F007558,"Rieres de Gotarra, Verneda i Benaula - 200034000",484973,4639156,4258787,índex IBMWP
+after_2007,0001,0001,F007558,"Rieres de Gotarra, Verneda i Benaula - 200034000",484973,4639156,4356487,índex IMF
+after_2007,0001,0001,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,3348270,índex IPS
+after_2007,0001,0001,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,4242910,índex IBICAT-2010
+after_2007,0001,0001,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,4258786,índex IBMWP
+after_2007,0001,0001,F007559,"Riu Onyar des de la confluència de la riera de Gotarra fins a l'entrada al nucli urbà de Girona, incloses les rieres de Bugantó i de Celrà - 200036000",485052,4643103,4356488,índex IMF
+after_2007,0001,0001,F007560,Riu Onyar a Girona - 200037000,485781,4646867,3348271,índex IPS
+after_2007,0001,0001,F007560,Riu Onyar a Girona - 200037000,485781,4646867,4242911,índex IBICAT-2010
+after_2007,0001,0001,F007560,Riu Onyar a Girona - 200037000,485781,4646867,4258785,índex IBMWP
+after_2007,0001,0001,F007560,Riu Onyar a Girona - 200037000,485781,4646867,4356489,índex IMF
+after_2007,0001,0001,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,3348272,índex IPS
+after_2007,0001,0001,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,4242845,índex IBICAT-2010
+after_2007,0001,0001,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,4258784,índex IBMWP
+after_2007,0001,0001,F007561,El Ter entre l'Onyar i el Terri - 200038000,485774,4651476,4356490,índex IMF
+after_2007,0001,0001,F007562,Capçalera del Terri fins a la confluència del Revardit - 200039000,485431,4659558,3348273,índex IPS
+after_2007,0001,0001,F007562,Capçalera del Terri fins a la confluència del Revardit - 200039000,485431,4659558,4242888,índex IBICAT-2010
+after_2007,0001,0001,F007562,Capçalera del Terri fins a la confluència del Revardit - 200039000,485431,4659558,4258783,índex IBMWP
+after_2007,0001,0001,F007562,Capçalera del Terri fins a la confluència del Revardit - 200039000,485431,4659558,4356491,índex IMF
+after_2007,0001,0001,F007563,Riu Revardit - 200040000,485595,4658938,3348274,índex IPS
+after_2007,0001,0001,F007563,Riu Revardit - 200040000,485595,4658938,4242897,índex IBICAT-2010
+after_2007,0001,0001,F007563,Riu Revardit - 200040000,485595,4658938,4258782,índex IBMWP
+after_2007,0001,0001,F007563,Riu Revardit - 200040000,485595,4658938,4356492,índex IMF
+after_2007,0001,0001,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,3348275,índex IPS
+after_2007,0001,0001,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,4242913,índex IBICAT-2010
+after_2007,0001,0001,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,4258781,índex IBMWP
+after_2007,0001,0001,F007564,Riu Terri des de la confluència del Revardit fins al Ter - 200041000,488167,4654075,4356493,índex IMF
+after_2007,0001,0001,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,3348276,índex IPS
+after_2007,0001,0001,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,4242843,índex IBICAT-2010
+after_2007,0001,0001,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,4258780,índex IBMWP
+after_2007,0001,0001,F007565,El Ter des de la confluència del Terri fins a Flaçà - 200042000,496667,4656400,4356494,índex IMF
+after_2007,0001,0001,F007566,Riera de la Farga - 200043000,490113,4655692,4242886,índex IBICAT-2010
+after_2007,0001,0001,F007566,Riera de la Farga - 200043000,490113,4655692,4258779,índex IBMWP
+after_2007,0001,0001,F007566,Riera de la Farga - 200043000,490113,4655692,4343449,índex IPS
+after_2007,0001,0001,F007566,Riera de la Farga - 200043000,490113,4655692,4356495,índex IMF
+after_2007,0001,0001,F007567,Riera de Sant Martí - 200043500,494419,4652350,3348277,índex IPS
+after_2007,0001,0001,F007567,Riera de Sant Martí - 200043500,494419,4652350,4258778,índex IBMWP
+after_2007,0001,0001,F007567,Riera de Sant Martí - 200043500,494419,4652350,4356496,índex IMF
+after_2007,0001,0001,F007567,Riera de Sant Martí - 200043500,494419,4652350,4357619,índex IBICAT-2010
+after_2007,0001,0001,F007568,Riera de Cinyana - 200044000,496519,4656557,3348278,índex IPS
+after_2007,0001,0001,F007568,Riera de Cinyana - 200044000,496519,4656557,4242908,índex IBICAT-2010
+after_2007,0001,0001,F007568,Riera de Cinyana - 200044000,496519,4656557,4258777,índex IBMWP
+after_2007,0001,0001,F007568,Riera de Cinyana - 200044000,496519,4656557,4356497,índex IMF
+after_2007,0001,0001,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,3348279,índex IPS
+after_2007,0001,0001,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,4242846,índex IBICAT-2010
+after_2007,0001,0001,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,4258776,índex IBMWP
+after_2007,0001,0001,F007569,El Ter des de Flaçà fins al mar - 200046000,512618,4652593,4356498,índex IMF
+after_2007,0001,0001,F007570,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001000,455311,4660266,4242882,índex IBICAT-2010
+after_2007,0001,0001,F007570,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001000,455311,4660266,4258775,índex IBMWP
+after_2007,0001,0001,F007570,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001000,455311,4660266,4343450,índex IPS
+after_2007,0001,0001,F007570,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001000,455311,4660266,4356499,índex IMF
+after_2007,0001,0001,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,3348280,índex IPS
+after_2007,0001,0001,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,4242895,índex IBICAT-2010
+after_2007,0001,0001,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,4258774,índex IBMWP
+after_2007,0001,0001,F007571,El Fluvià entre el Gurn i la Riera de Bianya - 210002000,458713,4672127,4356500,índex IMF
+after_2007,0001,0001,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,4242896,índex IBICAT-2010
+after_2007,0001,0001,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,4258773,índex IBMWP
+after_2007,0001,0001,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,4343451,índex IPS
+after_2007,0001,0001,F007572,Riera de Bianya i riera de Riudaura - 210003000,457645,4673954,4356501,índex IMF
+after_2007,0001,0001,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,4242894,índex IBICAT-2010
+after_2007,0001,0001,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,4258772,índex IBMWP
+after_2007,0001,0001,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,4343452,índex IPS
+after_2007,0001,0001,F007573,El Fluvià entre la riera de Bianya i el Llierca (inclosa la riera de Castellar) - 210004000,464900,4674012,4356502,índex IMF
+after_2007,0001,0001,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,3348281,índex IPS
+after_2007,0001,0001,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,4242893,índex IBICAT-2010
+after_2007,0001,0001,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,4258771,índex IBMWP
+after_2007,0001,0001,F007574,El Fluvià des de la confluència del Llierca fins a la confluència amb el riu Ser - 210006000,475572,4672101,4356503,índex IMF
+after_2007,0001,0001,F007575,Conca del Llierca - 210007000,467796,4675382,4242883,índex IBICAT-2010
+after_2007,0001,0001,F007575,Conca del Llierca - 210007000,467796,4675382,4258770,índex IBMWP
+after_2007,0001,0001,F007575,Conca del Llierca - 210007000,467796,4675382,4343453,índex IPS
+after_2007,0001,0001,F007575,Conca del Llierca - 210007000,467796,4675382,4356504,índex IMF
+after_2007,0001,0001,F007576,Riera de Borró - 210008000,472003,4673260,4258769,índex IBMWP
+after_2007,0001,0001,F007576,Riera de Borró - 210008000,472003,4673260,4343454,índex IPS
+after_2007,0001,0001,F007576,Riera de Borró - 210008000,472003,4673260,4356505,índex IMF
+after_2007,0001,0001,F007576,Riera de Borró - 210008000,472003,4673260,4357620,índex IBICAT-2010
+after_2007,0001,0001,F007577,Riera de Junyell - 210009000,476934,4671375,4258768,índex IBMWP
+after_2007,0001,0001,F007577,Riera de Junyell - 210009000,476934,4671375,4294841,índex IBICAT-2010
+after_2007,0001,0001,F007577,Riera de Junyell - 210009000,476934,4671375,4343455,índex IPS
+after_2007,0001,0001,F007577,Riera de Junyell - 210009000,476934,4671375,4356506,índex IMF
+after_2007,0001,0001,F007578,Conca del Ser - 210011000,478225,4669586,4258767,índex IBMWP
+after_2007,0001,0001,F007578,Conca del Ser - 210011000,478225,4669586,4294798,índex IBICAT-2010
+after_2007,0001,0001,F007578,Conca del Ser - 210011000,478225,4669586,4343456,índex IPS
+after_2007,0001,0001,F007578,Conca del Ser - 210011000,478225,4669586,4356507,índex IMF
+after_2007,0001,0001,F007579,Riera de Sant Jaume - 210012000,487031,4670800,4258766,índex IBMWP
+after_2007,0001,0001,F007579,Riera de Sant Jaume - 210012000,487031,4670800,4343457,índex IPS
+after_2007,0001,0001,F007579,Riera de Sant Jaume - 210012000,487031,4670800,4356508,índex IMF
+after_2007,0001,0001,F007580,Rec Sirvent - 210013000,507009,4672940,4258765,índex IBMWP
+after_2007,0001,0001,F007580,Rec Sirvent - 210013000,507009,4672940,4294828,índex IBICAT-2010
+after_2007,0001,0001,F007580,Rec Sirvent - 210013000,507009,4672940,4343458,índex IPS
+after_2007,0001,0001,F007580,Rec Sirvent - 210013000,507009,4672940,4356509,índex IMF
+after_2007,0001,0001,F007581,Capçalera de la Muga fins a l'embassament de Boadella - 220001000,475638,4684196,4258764,índex IBMWP
+after_2007,0001,0001,F007581,Capçalera de la Muga fins a l'embassament de Boadella - 220001000,475638,4684196,4294769,índex IBICAT-2010
+after_2007,0001,0001,F007581,Capçalera de la Muga fins a l'embassament de Boadella - 220001000,475638,4684196,4343459,índex IPS
+after_2007,0001,0001,F007581,Capçalera de la Muga fins a l'embassament de Boadella - 220001000,475638,4684196,4356510,índex IMF
+after_2007,0001,0001,F007582,Riu Arnera aigües amunt de Boadella - 220002000,479276,4691504,4258763,índex IBMWP
+after_2007,0001,0001,F007582,Riu Arnera aigües amunt de Boadella - 220002000,479276,4691504,4294867,índex IBICAT-2010
+after_2007,0001,0001,F007582,Riu Arnera aigües amunt de Boadella - 220002000,479276,4691504,4343460,índex IPS
+after_2007,0001,0001,F007582,Riu Arnera aigües amunt de Boadella - 220002000,479276,4691504,4356511,índex IMF
+after_2007,0001,0001,F007583,La Muga entre l'embassament de Boadella i el Llobregat de la Muga - 220003000,488558,4686834,4258762,índex IBMWP
+after_2007,0001,0001,F007583,La Muga entre l'embassament de Boadella i el Llobregat de la Muga - 220003000,488558,4686834,4294820,índex IBICAT-2010
+after_2007,0001,0001,F007583,La Muga entre l'embassament de Boadella i el Llobregat de la Muga - 220003000,488558,4686834,4343461,índex IPS
+after_2007,0001,0001,F007583,La Muga entre l'embassament de Boadella i el Llobregat de la Muga - 220003000,488558,4686834,4356512,índex IMF
+after_2007,0001,0001,F007584,Capçalera del Llobregat de la Muga fins al Ricardell - 220004000,491052,4691447,4258761,índex IBMWP
+after_2007,0001,0001,F007584,Capçalera del Llobregat de la Muga fins al Ricardell - 220004000,491052,4691447,4294784,índex IBICAT-2010
+after_2007,0001,0001,F007584,Capçalera del Llobregat de la Muga fins al Ricardell - 220004000,491052,4691447,4343462,índex IPS
+after_2007,0001,0001,F007584,Capçalera del Llobregat de la Muga fins al Ricardell - 220004000,491052,4691447,4356513,índex IMF
+after_2007,0001,0001,F007585,Riu Ricardell - 220006000,488303,4690087,3348282,índex IPS
+after_2007,0001,0001,F007585,Riu Ricardell - 220006000,488303,4690087,4258760,índex IBMWP
+after_2007,0001,0001,F007585,Riu Ricardell - 220006000,488303,4690087,4356514,índex IMF
+after_2007,0001,0001,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,3348283,índex IPS
+after_2007,0001,0001,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,4258759,índex IBMWP
+after_2007,0001,0001,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,4294826,índex IBICAT-2010
+after_2007,0001,0001,F007586,Llobregat de la Muga des del Ricardell fins a la Muga - 220007000,500718,4683553,4356515,índex IMF
+after_2007,0001,0001,F007587,Conca de l'Orlina - 220008000,501078,4686708,3348284,índex IPS
+after_2007,0001,0001,F007587,Conca de l'Orlina - 220008000,501078,4686708,4258758,índex IBMWP
+after_2007,0001,0001,F007587,Conca de l'Orlina - 220008000,501078,4686708,4294794,índex IBICAT-2010
+after_2007,0001,0001,F007587,Conca de l'Orlina - 220008000,501078,4686708,4356516,índex IMF
+after_2007,0001,0001,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,3348285,índex IPS
+after_2007,0001,0001,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,4258757,índex IBMWP
+after_2007,0001,0001,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,4294819,índex IBICAT-2010
+after_2007,0001,0001,F007588,La Muga des de la confluència del Llobregat de la Muga fins al mar - 220009000,506231,4677830,4356517,índex IMF
+after_2007,0001,0001,F007589,Riu Manol i riera d'Àlguema - 220010000,497414,4676183,3348286,índex IPS
+after_2007,0001,0001,F007589,Riu Manol i riera d'Àlguema - 220010000,497414,4676183,4258756,índex IBMWP
+after_2007,0001,0001,F007589,Riu Manol i riera d'Àlguema - 220010000,497414,4676183,4294880,índex IBICAT-2010
+after_2007,0001,0001,F007589,Riu Manol i riera d'Àlguema - 220010000,497414,4676183,4356518,índex IMF
+after_2007,0001,0001,F007590,Riera de Figueres - 220011000,503525,4680421,3348287,índex IPS
+after_2007,0001,0001,F007590,Riera de Figueres - 220011000,503525,4680421,4258755,índex IBMWP
+after_2007,0001,0001,F007590,Riera de Figueres - 220011000,503525,4680421,4356519,índex IMF
+after_2007,0001,0001,F007590,Riera de Figueres - 220011000,503525,4680421,4357623,índex IBICAT-2010
+after_2007,0001,0001,F007591,Riera de Garriguella (Pedret) fins als aiguamolls de l'Empordà - 224001000,503794,4688453,4258754,índex IBMWP
+after_2007,0001,0001,F007591,Riera de Garriguella (Pedret) fins als aiguamolls de l'Empordà - 224001000,503794,4688453,4294838,índex IBICAT-2010
+after_2007,0001,0001,F007591,Riera de Garriguella (Pedret) fins als aiguamolls de l'Empordà - 224001000,503794,4688453,4343463,índex IPS
+after_2007,0001,0001,F007591,Riera de Garriguella (Pedret) fins als aiguamolls de l'Empordà - 224001000,503794,4688453,4356520,índex IMF
+after_2007,0001,0001,F007592,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar - 224002000,509656,4680977,4258753,índex IBMWP
+after_2007,0001,0001,F007592,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar - 224002000,509656,4680977,4294827,índex IBICAT-2010
+after_2007,0001,0001,F007592,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar - 224002000,509656,4680977,4343464,índex IPS
+after_2007,0001,0001,F007592,Rec Madral des de l'entrada als aiguamolls de l'Empordà fins al mar - 224002000,509656,4680977,4356521,índex IMF
+after_2007,0001,0001,F007593,Riera de Romanyac - 228001000,517679,4684409,3348288,índex IPS
+after_2007,0001,0001,F007593,Riera de Romanyac - 228001000,517679,4684409,4258752,índex IBMWP
+after_2007,0001,0001,F007593,Riera de Romanyac - 228001000,517679,4684409,4294856,índex IBICAT-2010
+after_2007,0001,0001,F007593,Riera de Romanyac - 228001000,517679,4684409,4356522,índex IMF
+after_2007,0001,0001,F007594,Riera de Valleta - 230001000,509097,4688994,3348289,índex IPS
+after_2007,0001,0001,F007594,Riera de Valleta - 230001000,509097,4688994,4258751,índex IBMWP
+after_2007,0001,0001,F007594,Riera de Valleta - 230001000,509097,4688994,4294861,índex IBICAT-2010
+after_2007,0001,0001,F007594,Riera de Valleta - 230001000,509097,4688994,4356523,índex IMF
+after_2007,0001,0001,F007595,Conca alta del Segre fins a la confluència amb el Querol - E002000,412012,4695372,1000002251,índex IMF
+after_2007,0001,0001,F007595,Conca alta del Segre fins a la confluència amb el Querol - E002000,412012,4695372,4391352,índex IPS
+after_2007,0001,0001,F007595,Conca alta del Segre fins a la confluència amb el Querol - E002000,412012,4695372,4391499,índex IBICAT-2010
+after_2007,0001,0001,F007595,Conca alta del Segre fins a la confluència amb el Querol - E002000,412012,4695372,4421095,índex IBMWP
+after_2007,0001,0001,F007596,Riu Querol - E003000,410612,4696564,1000002252,índex IMF
+after_2007,0001,0001,F007596,Riu Querol - E003000,410612,4696564,4391353,índex IPS
+after_2007,0001,0001,F007596,Riu Querol - E003000,410612,4696564,4391500,índex IBICAT-2010
+after_2007,0001,0001,F007596,Riu Querol - E003000,410612,4696564,4421096,índex IBMWP
+after_2007,0001,0001,F007597,"El Segre entre el Querol i el riu de la Llosa, inclosos el torrent de la Bavosa, el riu de Santa Maria i el torrent de Ridolaina  - E004000",397078,4691492,1000002253,índex IMF
+after_2007,0001,0001,F007597,"El Segre entre el Querol i el riu de la Llosa, inclosos el torrent de la Bavosa, el riu de Santa Maria i el torrent de Ridolaina  - E004000",397078,4691492,4391354,índex IPS
+after_2007,0001,0001,F007597,"El Segre entre el Querol i el riu de la Llosa, inclosos el torrent de la Bavosa, el riu de Santa Maria i el torrent de Ridolaina  - E004000",397078,4691492,4391501,índex IBICAT-2010
+after_2007,0001,0001,F007597,"El Segre entre el Querol i el riu de la Llosa, inclosos el torrent de la Bavosa, el riu de Santa Maria i el torrent de Ridolaina  - E004000",397078,4691492,4421097,índex IBMWP
+after_2007,0001,0001,F007598,Riu d'Alp - E005000,408431,4693290,1000002254,índex IMF
+after_2007,0001,0001,F007598,Riu d'Alp - E005000,408431,4693290,3348290,índex IPS
+after_2007,0001,0001,F007598,Riu d'Alp - E005000,408431,4693290,4391502,índex IBICAT-2010
+after_2007,0001,0001,F007598,Riu d'Alp - E005000,408431,4693290,4421098,índex IBMWP
+after_2007,0001,0001,F007599,Riu Duran - E006000,402067,4694497,4391503,índex IBICAT-2010
+after_2007,0001,0001,F007600,Riu de la Llosa - E006500,393176,4697188,3348291,índex IPS
+after_2007,0001,0001,F007600,Riu de la Llosa - E006500,393176,4697188,4391504,índex IBICAT-2010
+after_2007,0001,0001,F007601,"El Segre entre el riu de la Llosa i la Valira, inclosos el riu de Vilanova i el riu de Cerc - E007000",376592,4690357,1000002256,índex IMF
+after_2007,0001,0001,F007601,"El Segre entre el riu de la Llosa i la Valira, inclosos el riu de Vilanova i el riu de Cerc - E007000",376592,4690357,4391358,índex IPS
+after_2007,0001,0001,F007601,"El Segre entre el riu de la Llosa i la Valira, inclosos el riu de Vilanova i el riu de Cerc - E007000",376592,4690357,4391505,índex IBICAT-2010
+after_2007,0001,0001,F007601,"El Segre entre el riu de la Llosa i la Valira, inclosos el riu de Vilanova i el riu de Cerc - E007000",376592,4690357,4421099,índex IBMWP
+after_2007,0001,0001,F007602,Riu del Molí - E008000,390992,4692557,4391506,índex IBICAT-2010
+after_2007,0001,0001,F007603,Torrent del Cabiscol - E009000,391233,4687658,3348292,índex IPS
+after_2007,0001,0001,F007603,Torrent del Cabiscol - E009000,391233,4687658,4391507,índex IBICAT-2010
+after_2007,0001,0001,F007604,Riu d'Arsèguel - E010000,383008,4689949,1000002258,índex IMF
+after_2007,0001,0001,F007604,Riu d'Arsèguel - E010000,383008,4689949,4391508,índex IBICAT-2010
+after_2007,0001,0001,F007604,Riu d'Arsèguel - E010000,383008,4689949,4421100,índex IBMWP
+after_2007,0001,0001,F007604,Riu d'Arsèguel - E010000,383008,4689949,4421168,índex IPS
+after_2007,0001,0001,F007605,Riu de Bescaran - E011000,380064,4695627,1000002259,índex IMF
+after_2007,0001,0001,F007605,Riu de Bescaran - E011000,380064,4695627,4391509,índex IBICAT-2010
+after_2007,0001,0001,F007605,Riu de Bescaran - E011000,380064,4695627,4421101,índex IBMWP
+after_2007,0001,0001,F007605,Riu de Bescaran - E011000,380064,4695627,4421169,índex IPS
+after_2007,0001,0001,F007606,El Segre entre la Valira i el riu de la Guàrdia - E012000,367995,4687090,1000002260,índex IMF
+after_2007,0001,0001,F007606,El Segre entre la Valira i el riu de la Guàrdia - E012000,367995,4687090,4391361,índex IPS
+after_2007,0001,0001,F007606,El Segre entre la Valira i el riu de la Guàrdia - E012000,367995,4687090,4391510,índex IBICAT-2010
+after_2007,0001,0001,F007606,El Segre entre la Valira i el riu de la Guàrdia - E012000,367995,4687090,4421102,índex IBMWP
+after_2007,0001,0001,F007607,Conca de la Valira - E013000,372920,4692882,1000002261,índex IMF
+after_2007,0001,0001,F007607,Conca de la Valira - E013000,372920,4692882,4391362,índex IPS
+after_2007,0001,0001,F007607,Conca de la Valira - E013000,372920,4692882,4391511,índex IBICAT-2010
+after_2007,0001,0001,F007607,Conca de la Valira - E013000,372920,4692882,4421103,índex IBMWP
+after_2007,0001,0001,F007608,Riu de Castellbò - E014000,367435,4690122,4391512,índex IBICAT-2010
+after_2007,0001,0001,F007610,Riu de Pallerols i llau del Poador - E016000,362764,4685384,4391513,índex IBICAT-2010
+after_2007,0001,0001,F007611,"El Segre des de la confluència amb el riu de la Guàrdia fins a la cua de l'embassament d'Oliana, inclosos el riu de Tost i el riuet de Fontanet - E017000",362746,4676156,1000002262,índex IMF
+after_2007,0001,0001,F007611,"El Segre des de la confluència amb el riu de la Guàrdia fins a la cua de l'embassament d'Oliana, inclosos el riu de Tost i el riuet de Fontanet - E017000",362746,4676156,3348293,índex IPS
+after_2007,0001,0001,F007611,"El Segre des de la confluència amb el riu de la Guàrdia fins a la cua de l'embassament d'Oliana, inclosos el riu de Tost i el riuet de Fontanet - E017000",362746,4676156,4391514,índex IBICAT-2010
+after_2007,0001,0001,F007611,"El Segre des de la confluència amb el riu de la Guàrdia fins a la cua de l'embassament d'Oliana, inclosos el riu de Tost i el riuet de Fontanet - E017000",362746,4676156,4421104,índex IBMWP
+after_2007,0001,0001,F007612,Riu de Lavansa i riu de Bona - E018000,370705,4677407,4391515,índex IBICAT-2010
+after_2007,0001,0001,F007614,Riu de Perles - E021000,367002,4670673,4391516,índex IBICAT-2010
+after_2007,0001,0001,F007615,Riu de Sallent i riu de Valldarques - E022000,357410,4669783,4391517,índex IBICAT-2010
+after_2007,0001,0001,F007616,El Segre des de la presa d'Oliana fins a la cua de l'embassament de Rialb - E023000,359421,4657670,1000002263,índex IMF
+after_2007,0001,0001,F007616,El Segre des de la presa d'Oliana fins a la cua de l'embassament de Rialb - E023000,359421,4657670,4391367,índex IPS
+after_2007,0001,0001,F007616,El Segre des de la presa d'Oliana fins a la cua de l'embassament de Rialb - E023000,359421,4657670,4391518,índex IBICAT-2010
+after_2007,0001,0001,F007616,El Segre des de la presa d'Oliana fins a la cua de l'embassament de Rialb - E023000,359421,4657670,4421105,índex IBMWP
+after_2007,0001,0001,F007617,Conca de la Ribera Salada - E025000,369485,4656486,4391519,índex IBICAT-2010
+after_2007,0001,0001,F007618,Riu Rialb - E026000,348779,4657442,4391520,índex IBICAT-2010
+after_2007,0001,0001,F007619,"El Segre des de la presa de Rialb fins a Artesa de Segre, inclòs el riu de les Segues - E027000",340727,4642359,1000002266,índex IMF
+after_2007,0001,0001,F007619,"El Segre des de la presa de Rialb fins a Artesa de Segre, inclòs el riu de les Segues - E027000",340727,4642359,4391369,índex IPS
+after_2007,0001,0001,F007619,"El Segre des de la presa de Rialb fins a Artesa de Segre, inclòs el riu de les Segues - E027000",340727,4642359,4391521,índex IBICAT-2010
+after_2007,0001,0001,F007619,"El Segre des de la presa de Rialb fins a Artesa de Segre, inclòs el riu de les Segues - E027000",340727,4642359,4421106,índex IBMWP
+after_2007,0001,0001,F007620,Riu Llobregós - E028000,353894,4638679,1000002267,índex IMF
+after_2007,0001,0001,F007620,Riu Llobregós - E028000,353894,4638679,4391370,índex IPS
+after_2007,0001,0001,F007620,Riu Llobregós - E028000,353894,4638679,4421107,índex IBMWP
+after_2007,0001,0001,F007620,Riu Llobregós - E028000,353894,4638679,4483610,índex IBICAT-2010
+after_2007,0001,0001,F007621,Riera de Llanera - E029000,369969,4632234,3348296,índex IPS
+after_2007,0001,0001,F007621,Riera de Llanera - E029000,369969,4632234,4421108,índex IBMWP
+after_2007,0001,0001,F007622,Riera de Sanaüja - E030000,358419,4636329,1000002268,índex IMF
+after_2007,0001,0001,F007622,Riera de Sanaüja - E030000,358419,4636329,3348297,índex IPS
+after_2007,0001,0001,F007622,Riera de Sanaüja - E030000,358419,4636329,4421109,índex IBMWP
+after_2007,0001,0001,F007623,"El Segre des d'Artesa de Segre fins a la confluència amb la Noguera Pallaresa, inclòs l'últim tram de la Noguera Pallaresa des de la presa de Camarasa - E031000",334157,4641455,1000002269,índex IMF
+after_2007,0001,0001,F007623,"El Segre des d'Artesa de Segre fins a la confluència amb la Noguera Pallaresa, inclòs l'últim tram de la Noguera Pallaresa des de la presa de Camarasa - E031000",334157,4641455,4391522,índex IBICAT-2010
+after_2007,0001,0001,F007623,"El Segre des d'Artesa de Segre fins a la confluència amb la Noguera Pallaresa, inclòs l'últim tram de la Noguera Pallaresa des de la presa de Camarasa - E031000",334157,4641455,4421110,índex IBMWP
+after_2007,0001,0001,F007623,"El Segre des d'Artesa de Segre fins a la confluència amb la Noguera Pallaresa, inclòs l'últim tram de la Noguera Pallaresa des de la presa de Camarasa - E031000",334157,4641455,4421170,índex IPS
+after_2007,0001,0001,F007624,Riu Boix - E032000,335712,4643959,1000002270,índex IMF
+after_2007,0001,0001,F007624,Riu Boix - E032000,335712,4643959,3348298,índex IPS
+after_2007,0001,0001,F007624,Riu Boix - E032000,335712,4643959,4391523,índex IBICAT-2010
+after_2007,0001,0001,F007624,Riu Boix - E032000,335712,4643959,4421111,índex IBMWP
+after_2007,0001,0001,F007625,"Conca alta de la Noguera Pallaresa fins a la confluència amb el riu de la Bonaigua, riu de la Bonaigua inclòs - E033000",344483,4729620,1000002271,índex IMF
+after_2007,0001,0001,F007625,"Conca alta de la Noguera Pallaresa fins a la confluència amb el riu de la Bonaigua, riu de la Bonaigua inclòs - E033000",344483,4729620,4391374,índex IPS
+after_2007,0001,0001,F007625,"Conca alta de la Noguera Pallaresa fins a la confluència amb el riu de la Bonaigua, riu de la Bonaigua inclòs - E033000",344483,4729620,4391524,índex IBICAT-2010
+after_2007,0001,0001,F007625,"Conca alta de la Noguera Pallaresa fins a la confluència amb el riu de la Bonaigua, riu de la Bonaigua inclòs - E033000",344483,4729620,4421112,índex IBMWP
+after_2007,0001,0001,F007626,"La Noguera Pallaresa des de la confluència del riu de la Bonaigua fins a l'Escrita, inclosos el barranc de Nyiri i riu de Son - E034000",346160,4721478,1000002273,índex IMF
+after_2007,0001,0001,F007626,"La Noguera Pallaresa des de la confluència del riu de la Bonaigua fins a l'Escrita, inclosos el barranc de Nyiri i riu de Son - E034000",346160,4721478,4391375,índex IPS
+after_2007,0001,0001,F007626,"La Noguera Pallaresa des de la confluència del riu de la Bonaigua fins a l'Escrita, inclosos el barranc de Nyiri i riu de Son - E034000",346160,4721478,4391525,índex IBICAT-2010
+after_2007,0001,0001,F007626,"La Noguera Pallaresa des de la confluència del riu de la Bonaigua fins a l'Escrita, inclosos el barranc de Nyiri i riu de Son - E034000",346160,4721478,4421113,índex IBMWP
+after_2007,0001,0001,F007627,La Noguera Pallaresa des de la confluència amb l'Escrita fins a la Noguera de Cardós - E035000,349493,4711711,1000002274,índex IMF
+after_2007,0001,0001,F007627,La Noguera Pallaresa des de la confluència amb l'Escrita fins a la Noguera de Cardós - E035000,349493,4711711,4391376,índex IPS
+after_2007,0001,0001,F007627,La Noguera Pallaresa des de la confluència amb l'Escrita fins a la Noguera de Cardós - E035000,349493,4711711,4391526,índex IBICAT-2010
+after_2007,0001,0001,F007627,La Noguera Pallaresa des de la confluència amb l'Escrita fins a la Noguera de Cardós - E035000,349493,4711711,4421114,índex IBMWP
+after_2007,0001,0001,F007628,Riu Escrita i riu de Peguera - E036000,338906,4716356,4391527,índex IBICAT-2010
+after_2007,0001,0001,F007629,Capçalera de la Noguera de Cardós i riu de Tavascan fins a la confluència entre tots dos - E037000,357064,4722835,1000002275,índex IMF
+after_2007,0001,0001,F007629,Capçalera de la Noguera de Cardós i riu de Tavascan fins a la confluència entre tots dos - E037000,357064,4722835,3348300,índex IPS
+after_2007,0001,0001,F007629,Capçalera de la Noguera de Cardós i riu de Tavascan fins a la confluència entre tots dos - E037000,357064,4722835,4391528,índex IBICAT-2010
+after_2007,0001,0001,F007629,Capçalera de la Noguera de Cardós i riu de Tavascan fins a la confluència entre tots dos - E037000,357064,4722835,4421115,índex IBMWP
+after_2007,0001,0001,F007630,"La Noguera de Cardós des de la confluència del riu de Tavascan fins a la Noguera Pallaresa, inclosa la ribera d'Estaon - E038000",355590,4717225,1000002277,índex IMF
+after_2007,0001,0001,F007630,"La Noguera de Cardós des de la confluència del riu de Tavascan fins a la Noguera Pallaresa, inclosa la ribera d'Estaon - E038000",355590,4717225,3348301,índex IPS
+after_2007,0001,0001,F007630,"La Noguera de Cardós des de la confluència del riu de Tavascan fins a la Noguera Pallaresa, inclosa la ribera d'Estaon - E038000",355590,4717225,4391529,índex IBICAT-2010
+after_2007,0001,0001,F007630,"La Noguera de Cardós des de la confluència del riu de Tavascan fins a la Noguera Pallaresa, inclosa la ribera d'Estaon - E038000",355590,4717225,4421116,índex IBMWP
+after_2007,0001,0001,F007631,La Noguera de Vallferrera i la Noguera de Tor - E039000,357798,4710724,1000002278,índex IMF
+after_2007,0001,0001,F007631,La Noguera de Vallferrera i la Noguera de Tor - E039000,357798,4710724,3348302,índex IPS
+after_2007,0001,0001,F007631,La Noguera de Vallferrera i la Noguera de Tor - E039000,357798,4710724,4391530,índex IBICAT-2010
+after_2007,0001,0001,F007631,La Noguera de Vallferrera i la Noguera de Tor - E039000,357798,4710724,4421117,índex IBMWP
+after_2007,0001,0001,F007632,La Noguera Pallaresa des de la confluència amb la Noguera de Cardós fins a la cua de l'embassament de Talarn - E040000,342406,4691520,1000002279,índex IMF
+after_2007,0001,0001,F007632,La Noguera Pallaresa des de la confluència amb la Noguera de Cardós fins a la cua de l'embassament de Talarn - E040000,342406,4691520,3348303,índex IPS
+after_2007,0001,0001,F007632,La Noguera Pallaresa des de la confluència amb la Noguera de Cardós fins a la cua de l'embassament de Talarn - E040000,342406,4691520,4391531,índex IBICAT-2010
+after_2007,0001,0001,F007632,La Noguera Pallaresa des de la confluència amb la Noguera de Cardós fins a la cua de l'embassament de Talarn - E040000,342406,4691520,4421118,índex IBMWP
+after_2007,0001,0001,F007633,Riu de Santa Magdalena - E041000,351987,4703122,4391532,índex IBICAT-2010
+after_2007,0001,0001,F007634,"Riu de Sant Antoni, riu de Caregue i riu de Pamano - E042000",343182,4703378,4391533,índex IBICAT-2010
+after_2007,0001,0001,F007635,Riu de Cantó - E043000,347540,4693608,3348306,índex IPS
+after_2007,0001,0001,F007635,Riu de Cantó - E043000,347540,4693608,4391534,índex IBICAT-2010
+after_2007,0001,0001,F007636,Riu d'Ancs - E044000,339280,4688770,3348307,índex IPS
+after_2007,0001,0001,F007637,Riu Major - E045000,340819,4685855,3348308,índex IPS
+after_2007,0001,0001,F007637,Riu Major - E045000,340819,4685855,4391535,índex IBICAT-2010
+after_2007,0001,0001,F007638,Barranc de la Coma d'Orient - E046000,346349,4679183,4421119,índex IBMWP
+after_2007,0001,0001,F007638,Barranc de la Coma d'Orient - E046000,346349,4679183,4421171,índex IPS
+after_2007,0001,0001,F007639,Riu Flamisell des de la presa de Sallente fins a la confluència amb el riu Bossia - E049000,330295,4687998,1000002281,índex IMF
+after_2007,0001,0001,F007639,Riu Flamisell des de la presa de Sallente fins a la confluència amb el riu Bossia - E049000,330295,4687998,3348309,índex IPS
+after_2007,0001,0001,F007639,Riu Flamisell des de la presa de Sallente fins a la confluència amb el riu Bossia - E049000,330295,4687998,4391536,índex IBICAT-2010
+after_2007,0001,0001,F007639,Riu Flamisell des de la presa de Sallente fins a la confluència amb el riu Bossia - E049000,330295,4687998,4421120,índex IBMWP
+after_2007,0001,0001,F007640,Riu Flamisell des de la confluència amb el Bossia fins a la Noguera Pallaresa - E050000,329905,4686860,1000002282,índex IMF
+after_2007,0001,0001,F007640,Riu Flamisell des de la confluència amb el Bossia fins a la Noguera Pallaresa - E050000,329905,4686860,3348310,índex IPS
+after_2007,0001,0001,F007640,Riu Flamisell des de la confluència amb el Bossia fins a la Noguera Pallaresa - E050000,329905,4686860,4391537,índex IBICAT-2010
+after_2007,0001,0001,F007640,Riu Flamisell des de la confluència amb el Bossia fins a la Noguera Pallaresa - E050000,329905,4686860,4421121,índex IBMWP
+after_2007,0001,0001,F007641,Riu Bossia - E051000,328172,4689918,1000002283,índex IMF
+after_2007,0001,0001,F007641,Riu Bossia - E051000,328172,4689918,3348311,índex IPS
+after_2007,0001,0001,F007641,Riu Bossia - E051000,328172,4689918,4391538,índex IBICAT-2010
+after_2007,0001,0001,F007641,Riu Bossia - E051000,328172,4689918,4421122,índex IBMWP
+after_2007,0001,0001,F007643,La Noguera Pallaresa des de la presa de Talarn fins a la cua de l'embassament de Terradets - E053000,326654.17,4666840.37,1000002285,índex IMF
+after_2007,0001,0001,F007643,La Noguera Pallaresa des de la presa de Talarn fins a la cua de l'embassament de Terradets - E053000,326654.17,4666840.37,3348313,índex IPS
+after_2007,0001,0001,F007643,La Noguera Pallaresa des de la presa de Talarn fins a la cua de l'embassament de Terradets - E053000,326654.17,4666840.37,4391539,índex IBICAT-2010
+after_2007,0001,0001,F007643,La Noguera Pallaresa des de la presa de Talarn fins a la cua de l'embassament de Terradets - E053000,326654.17,4666840.37,4421123,índex IBMWP
+after_2007,0001,0001,F007645,Riu de Conques - E055000,334771,4664183,4391540,índex IBICAT-2010
+after_2007,0001,0001,F007646,Riu d'Abella - E056000,334331,4667365,4391541,índex IBICAT-2010
+after_2007,0001,0001,F007647,Barranc de Barcedana - E057500,329326,4657843,4391542,índex IBICAT-2010
+after_2007,0001,0001,F007649,Barranc del Bosc - E059000,319771,4659863,4391543,índex IBICAT-2010
+after_2007,0001,0001,F007650,El Segre des de la confluència amb la Noguera Pallaresa fins a la cua de l'embassament de Sant Llorenç de Montgai - E061000,324044,4639324,1000002286,índex IMF
+after_2007,0001,0001,F007650,El Segre des de la confluència amb la Noguera Pallaresa fins a la cua de l'embassament de Sant Llorenç de Montgai - E061000,324044,4639324,3348319,índex IPS
+after_2007,0001,0001,F007650,El Segre des de la confluència amb la Noguera Pallaresa fins a la cua de l'embassament de Sant Llorenç de Montgai - E061000,324044,4639324,4391544,índex IBICAT-2010
+after_2007,0001,0001,F007650,El Segre des de la confluència amb la Noguera Pallaresa fins a la cua de l'embassament de Sant Llorenç de Montgai - E061000,324044,4639324,4421124,índex IBMWP
+after_2007,0001,0001,F007651,El Segre des de la presa de Sant Llorenç de Montgai fins a Vilanova de la Barca - E063000,314009,4621809,1000002287,índex IMF
+after_2007,0001,0001,F007651,El Segre des de la presa de Sant Llorenç de Montgai fins a Vilanova de la Barca - E063000,314009,4621809,3348320,índex IPS
+after_2007,0001,0001,F007651,El Segre des de la presa de Sant Llorenç de Montgai fins a Vilanova de la Barca - E063000,314009,4621809,4391545,índex IBICAT-2010
+after_2007,0001,0001,F007651,El Segre des de la presa de Sant Llorenç de Montgai fins a Vilanova de la Barca - E063000,314009,4621809,4421125,índex IBMWP
+after_2007,0001,0001,F007653,Riu Sió des de la confluència amb el barranc de la Pisquera fins al Segre - E065000,327219,4630229,1000002288,índex IMF
+after_2007,0001,0001,F007653,Riu Sió des de la confluència amb el barranc de la Pisquera fins al Segre - E065000,327219,4630229,3348321,índex IPS
+after_2007,0001,0001,F007653,Riu Sió des de la confluència amb el barranc de la Pisquera fins al Segre - E065000,327219,4630229,4391546,índex IBICAT-2010
+after_2007,0001,0001,F007653,Riu Sió des de la confluència amb el barranc de la Pisquera fins al Segre - E065000,327219,4630229,4421126,índex IBMWP
+after_2007,0001,0001,F007654,Riu de Farfanya  - E066000,311413,4633354,4391547,índex IBICAT-2010
+after_2007,0001,0001,F007655,El Segre des de Vilanova de la Barca fins a Alcoletge - E067000,308452,4615316,1000002289,índex IMF
+after_2007,0001,0001,F007655,El Segre des de Vilanova de la Barca fins a Alcoletge - E067000,308452,4615316,3348322,índex IPS
+after_2007,0001,0001,F007655,El Segre des de Vilanova de la Barca fins a Alcoletge - E067000,308452,4615316,4391548,índex IBICAT-2010
+after_2007,0001,0001,F007655,El Segre des de Vilanova de la Barca fins a Alcoletge - E067000,308452,4615316,4421127,índex IBMWP
+after_2007,0001,0001,F007657,"Riu Corb, barranc del Gossalet i riu d'Ondara des de la confluència amb el Cercavins fins al Corb - E069000",331393,4611084,1000002290,índex IMF
+after_2007,0001,0001,F007657,"Riu Corb, barranc del Gossalet i riu d'Ondara des de la confluència amb el Cercavins fins al Corb - E069000",331393,4611084,3348323,índex IPS
+after_2007,0001,0001,F007657,"Riu Corb, barranc del Gossalet i riu d'Ondara des de la confluència amb el Cercavins fins al Corb - E069000",331393,4611084,4391549,índex IBICAT-2010
+after_2007,0001,0001,F007657,"Riu Corb, barranc del Gossalet i riu d'Ondara des de la confluència amb el Cercavins fins al Corb - E069000",331393,4611084,4421128,índex IBMWP
+after_2007,0001,0001,F007658,Capçalera de la Noguera Ribagorçana fins a l'embassament de Baserca - E070000,316719,4720727,4391550,índex IBICAT-2010
+after_2007,0001,0001,F007659,La Noguera Ribagorçana des de l'embassament de Baserca fins a la confluència amb la Valira de Castanesa - E072000,311848,4704019,4391551,índex IBICAT-2010
+after_2007,0001,0001,F007660,La Noguera Ribagorçana des de la confluència de la Valira de Castanesa fins a la cua de l'embassament d'Escales - E074000,313720,4698063,1000002292,índex IMF
+after_2007,0001,0001,F007660,La Noguera Ribagorçana des de la confluència de la Valira de Castanesa fins a la cua de l'embassament d'Escales - E074000,313720,4698063,4391406,índex IPS
+after_2007,0001,0001,F007660,La Noguera Ribagorçana des de la confluència de la Valira de Castanesa fins a la cua de l'embassament d'Escales - E074000,313720,4698063,4391552,índex IBICAT-2010
+after_2007,0001,0001,F007660,La Noguera Ribagorçana des de la confluència de la Valira de Castanesa fins a la cua de l'embassament d'Escales - E074000,313720,4698063,4421129,índex IBMWP
+after_2007,0001,0001,F007661,La Noguera de Tor des de l'embassament de Cavallers fins a la confluència amb riu de Sant Nicolau - E076000,323165,4715004,3348324,índex IPS
+after_2007,0001,0001,F007661,La Noguera de Tor des de l'embassament de Cavallers fins a la confluència amb riu de Sant Nicolau - E076000,323165,4715004,4391553,índex IBICAT-2010
+after_2007,0001,0001,F007662,Riu de Sant Nicolau - E077000,329153,4713224,3348325,índex IPS
+after_2007,0001,0001,F007662,Riu de Sant Nicolau - E077000,329153,4713224,4391554,índex IBICAT-2010
+after_2007,0001,0001,F007663,"La Noguera de Tor des de la confluència del riu de Sant Nicolau fins a la Noguera Ribargorçana, inclosos el riuet de Durro i el riu de Sant Martí - E078000",321362,4709605,1000002293,índex IMF
+after_2007,0001,0001,F007663,"La Noguera de Tor des de la confluència del riu de Sant Nicolau fins a la Noguera Ribargorçana, inclosos el riuet de Durro i el riu de Sant Martí - E078000",321362,4709605,3348326,índex IPS
+after_2007,0001,0001,F007663,"La Noguera de Tor des de la confluència del riu de Sant Nicolau fins a la Noguera Ribargorçana, inclosos el riuet de Durro i el riu de Sant Martí - E078000",321362,4709605,4391555,índex IBICAT-2010
+after_2007,0001,0001,F007663,"La Noguera de Tor des de la confluència del riu de Sant Nicolau fins a la Noguera Ribargorçana, inclosos el riuet de Durro i el riu de Sant Martí - E078000",321362,4709605,4421130,índex IBMWP
+after_2007,0001,0001,F007664,"Riuet del Convent, barranc de Malpàs i barranc de Massivert - E080000",317500,4695914,4391556,índex IBICAT-2010
+after_2007,0001,0001,F007665,La Noguera Ribagorçana des de la presa d'Escales fins al Pont de Montanyana - E081000,310230,4672750,1000002295,índex IMF
+after_2007,0001,0001,F007665,La Noguera Ribagorçana des de la presa d'Escales fins al Pont de Montanyana - E081000,310230,4672750,4391411,índex IPS
+after_2007,0001,0001,F007665,La Noguera Ribagorçana des de la presa d'Escales fins al Pont de Montanyana - E081000,310230,4672750,4391557,índex IBICAT-2010
+after_2007,0001,0001,F007665,La Noguera Ribagorçana des de la presa d'Escales fins al Pont de Montanyana - E081000,310230,4672750,4421131,índex IBMWP
+after_2007,0001,0001,F007666,Barranc de Miralles - E082000,315747,4685817,4391558,índex IBICAT-2010
+after_2007,0001,0001,F007667,Barranc del Solà - E083000,316123,4681820,4391559,índex IBICAT-2010
+after_2007,0001,0001,F007668,La Noguera Ribagorçana des del Pont de Montanyana fins a la cua de l'embassament de Canelles - E085000,309900,4666079,1000002296,índex IMF
+after_2007,0001,0001,F007668,La Noguera Ribagorçana des del Pont de Montanyana fins a la cua de l'embassament de Canelles - E085000,309900,4666079,3348330,índex IPS
+after_2007,0001,0001,F007668,La Noguera Ribagorçana des del Pont de Montanyana fins a la cua de l'embassament de Canelles - E085000,309900,4666079,4391560,índex IBICAT-2010
+after_2007,0001,0001,F007668,La Noguera Ribagorçana des del Pont de Montanyana fins a la cua de l'embassament de Canelles - E085000,309900,4666079,4421132,índex IBMWP
+after_2007,0001,0001,F007669,La Noguera Ribagorçana des de la presa de Canelles fins a la cua de l'embassament de Santa Anna - E087000,301973,4649106,1000002297,índex IMF
+after_2007,0001,0001,F007669,La Noguera Ribagorçana des de la presa de Canelles fins a la cua de l'embassament de Santa Anna - E087000,301973,4649106,3348331,índex IPS
+after_2007,0001,0001,F007669,La Noguera Ribagorçana des de la presa de Canelles fins a la cua de l'embassament de Santa Anna - E087000,301973,4649106,4421133,índex IBMWP
+after_2007,0001,0001,F007670,La Noguera Ribagorçana des de la presa de Santa Anna fins a Alfarràs - E089000,298902,4638020,1000002298,índex IMF
+after_2007,0001,0001,F007670,La Noguera Ribagorçana des de la presa de Santa Anna fins a Alfarràs - E089000,298902,4638020,4391416,índex IPS
+after_2007,0001,0001,F007670,La Noguera Ribagorçana des de la presa de Santa Anna fins a Alfarràs - E089000,298902,4638020,4391561,índex IBICAT-2010
+after_2007,0001,0001,F007670,La Noguera Ribagorçana des de la presa de Santa Anna fins a Alfarràs - E089000,298902,4638020,4421134,índex IBMWP
+after_2007,0001,0001,F007671,La Noguera Ribagorçana des d'Alfarràs fins a la confluència amb el Segre - E090000,309164,4617173,1000002299,índex IMF
+after_2007,0001,0001,F007671,La Noguera Ribagorçana des d'Alfarràs fins a la confluència amb el Segre - E090000,309164,4617173,3348332,índex IPS
+after_2007,0001,0001,F007671,La Noguera Ribagorçana des d'Alfarràs fins a la confluència amb el Segre - E090000,309164,4617173,4391562,índex IBICAT-2010
+after_2007,0001,0001,F007671,La Noguera Ribagorçana des d'Alfarràs fins a la confluència amb el Segre - E090000,309164,4617173,4421135,índex IBMWP
+after_2007,0001,0001,F007673,El Segre des d'Alcoletge fins a Lleida - E092000,305190,4614334,1000002300,índex IMF
+after_2007,0001,0001,F007673,El Segre des d'Alcoletge fins a Lleida - E092000,305190,4614334,3348334,índex IPS
+after_2007,0001,0001,F007673,El Segre des d'Alcoletge fins a Lleida - E092000,305190,4614334,4391563,índex IBICAT-2010
+after_2007,0001,0001,F007673,El Segre des d'Alcoletge fins a Lleida - E092000,305190,4614334,4421136,índex IBMWP
+after_2007,0001,0001,F007674,Riu Clamor de les Canals  - E093000,311741,4612511,1000002301,índex IMF
+after_2007,0001,0001,F007674,Riu Clamor de les Canals  - E093000,311741,4612511,3348335,índex IPS
+after_2007,0001,0001,F007674,Riu Clamor de les Canals  - E093000,311741,4612511,4391564,índex IBICAT-2010
+after_2007,0001,0001,F007674,Riu Clamor de les Canals  - E093000,311741,4612511,4421137,índex IBMWP
+after_2007,0001,0001,F007675,El Segre al seu pas per Lleida - E094000,301556,4608768,1000002302,índex IMF
+after_2007,0001,0001,F007675,El Segre al seu pas per Lleida - E094000,301556,4608768,3348336,índex IPS
+after_2007,0001,0001,F007675,El Segre al seu pas per Lleida - E094000,301556,4608768,4391565,índex IBICAT-2010
+after_2007,0001,0001,F007675,El Segre al seu pas per Lleida - E094000,301556,4608768,4421138,índex IBMWP
+after_2007,0001,0001,F007676,Torrent de la Femosa - E095000,304190,4606783,1000002303,índex IMF
+after_2007,0001,0001,F007676,Torrent de la Femosa - E095000,304190,4606783,3348337,índex IPS
+after_2007,0001,0001,F007676,Torrent de la Femosa - E095000,304190,4606783,4391566,índex IBICAT-2010
+after_2007,0001,0001,F007676,Torrent de la Femosa - E095000,304190,4606783,4421139,índex IBMWP
+after_2007,0001,0001,F007677,El Segre des de Lleida fins a Seròs - E096000,288127,4595578,1000002304,índex IMF
+after_2007,0001,0001,F007677,El Segre des de Lleida fins a Seròs - E096000,288127,4595578,3348338,índex IPS
+after_2007,0001,0001,F007677,El Segre des de Lleida fins a Seròs - E096000,288127,4595578,4391567,índex IBICAT-2010
+after_2007,0001,0001,F007677,El Segre des de Lleida fins a Seròs - E096000,288127,4595578,4421140,índex IBMWP
+after_2007,0001,0001,F007679,Capçalera del riu de Set fins al límit entre els termes municipals d'Albagés i el Cogul - E098000,314325,4590679,1000002305,índex IMF
+after_2007,0001,0001,F007679,Capçalera del riu de Set fins al límit entre els termes municipals d'Albagés i el Cogul - E098000,314325,4590679,4391424,índex IPS
+after_2007,0001,0001,F007679,Capçalera del riu de Set fins al límit entre els termes municipals d'Albagés i el Cogul - E098000,314325,4590679,4470137,índex IBMWP
+after_2007,0001,0001,F007680,Riu Set des del límit dels termes municipals d'Albagés i el Cogul fins al Segre - E099000,297016,4604395,1000002306,índex IMF
+after_2007,0001,0001,F007680,Riu Set des del límit dels termes municipals d'Albagés i el Cogul fins al Segre - E099000,297016,4604395,4391425,índex IPS
+after_2007,0001,0001,F007680,Riu Set des del límit dels termes municipals d'Albagés i el Cogul fins al Segre - E099000,297016,4604395,4421141,índex IBMWP
+after_2007,0001,0001,F007680,Riu Set des del límit dels termes municipals d'Albagés i el Cogul fins al Segre - E099000,297016,4604395,4483596,índex IBICAT-2010
+after_2007,0001,0001,F007681,El Segre des de Seròs fins a la confluència amb el Cinca - E100000,284048,4592034,1000002307,índex IMF
+after_2007,0001,0001,F007681,El Segre des de Seròs fins a la confluència amb el Cinca - E100000,284048,4592034,4391426,índex IPS
+after_2007,0001,0001,F007681,El Segre des de Seròs fins a la confluència amb el Cinca - E100000,284048,4592034,4391568,índex IBICAT-2010
+after_2007,0001,0001,F007681,El Segre des de Seròs fins a la confluència amb el Cinca - E100000,284048,4592034,4421142,índex IBMWP
+after_2007,0001,0001,F007682,Riu de la Clamor Amarga - E101000,277826,4615760,1000002308,índex IMF
+after_2007,0001,0001,F007682,Riu de la Clamor Amarga - E101000,277826,4615760,3348339,índex IPS
+after_2007,0001,0001,F007682,Riu de la Clamor Amarga - E101000,277826,4615760,4421143,índex IBMWP
+after_2007,0001,0001,F007682,Riu de la Clamor Amarga - E101000,277826,4615760,4483597,índex IBICAT-2010
+after_2007,0001,0001,F007683,El Cinca des de la confluència amb la Clamor Amarga fins al Segre - E102000,278177,4590466,1000002309,índex IMF
+after_2007,0001,0001,F007683,El Cinca des de la confluència amb la Clamor Amarga fins al Segre - E102000,278177,4590466,3348340,índex IPS
+after_2007,0001,0001,F007683,El Cinca des de la confluència amb la Clamor Amarga fins al Segre - E102000,278177,4590466,4391569,índex IBICAT-2010
+after_2007,0001,0001,F007683,El Cinca des de la confluència amb la Clamor Amarga fins al Segre - E102000,278177,4590466,4421144,índex IBMWP
+after_2007,0001,0001,F007684,El Segre des de la confluència amb el Cinca fins a la cua de l'embassament de Riba-roja - E103000,276053,4586203,1000002310,índex IMF
+after_2007,0001,0001,F007684,El Segre des de la confluència amb el Cinca fins a la cua de l'embassament de Riba-roja - E103000,276053,4586203,3348341,índex IPS
+after_2007,0001,0001,F007684,El Segre des de la confluència amb el Cinca fins a la cua de l'embassament de Riba-roja - E103000,276053,4586203,4421145,índex IBMWP
+after_2007,0001,0001,F007684,El Segre des de la confluència amb el Cinca fins a la cua de l'embassament de Riba-roja - E103000,276053,4586203,4483598,índex IBICAT-2010
+after_2007,0001,0001,F007685,Capçalera del Riu d'Algars i del riu d'Estrets fins a la confluència entre tots dos - E105000,265716,4555492,4391570,índex IBICAT-2010
+after_2007,0001,0001,F007686,Riu d'Algars des de la confluència del riu d'Estrets fins al Matarranya i Matarranya des de la confluència de l'Algars fins a la cua de l'embassament de Riba-roja - E106000,266203,4552791,4258750,índex IBMWP
+after_2007,0001,0001,F007686,Riu d'Algars des de la confluència del riu d'Estrets fins al Matarranya i Matarranya des de la confluència de l'Algars fins a la cua de l'embassament de Riba-roja - E106000,266203,4552791,4391431,índex IPS
+after_2007,0001,0001,F007686,Riu d'Algars des de la confluència del riu d'Estrets fins al Matarranya i Matarranya des de la confluència de l'Algars fins a la cua de l'embassament de Riba-roja - E106000,266203,4552791,4391571,índex IBICAT-2010
+after_2007,0001,0001,F007687,L'Ebre de la presa de Flix fins al desguàs de la central hidroelèctrica de Flix - E108000,294204,4568011,4391432,índex IPS
+after_2007,0001,0001,F007687,L'Ebre de la presa de Flix fins al desguàs de la central hidroelèctrica de Flix - E108000,294204,4568011,4391572,índex IBICAT-2010
+after_2007,0001,0001,F007687,L'Ebre de la presa de Flix fins al desguàs de la central hidroelèctrica de Flix - E108000,294204,4568011,4421146,índex IBMWP
+after_2007,0001,0001,F007688,Riu de la Cana - E109000,295362,4569189,4655801,índex IPS
+after_2007,0001,0001,F007689,L'Ebre des del desguàs de la central hidroelèctrica de Flix fins a Ascó - E110000,294929,4564982,3348343,índex IPS
+after_2007,0001,0001,F007689,L'Ebre des del desguàs de la central hidroelèctrica de Flix fins a Ascó - E110000,294929,4564982,4258749,índex IBMWP
+after_2007,0001,0001,F007689,L'Ebre des del desguàs de la central hidroelèctrica de Flix fins a Ascó - E110000,294929,4564982,4391573,índex IBICAT-2010
+after_2007,0001,0001,F007690,L'Ebre entre Ascó i l'assut de Xerta - E111000,299642,4546809,3348344,índex IPS
+after_2007,0001,0001,F007690,L'Ebre entre Ascó i l'assut de Xerta - E111000,299642,4546809,4258748,índex IBMWP
+after_2007,0001,0001,F007690,L'Ebre entre Ascó i l'assut de Xerta - E111000,299642,4546809,4391574,índex IBICAT-2010
+after_2007,0001,0001,F007691,Capçalera del Montsant fins a la cua de l'embassament de Margalef - E112000,317252,4574778,4391435,índex IPS
+after_2007,0001,0001,F007691,Capçalera del Montsant fins a la cua de l'embassament de Margalef - E112000,317252,4574778,4509987,índex IBMWP
+after_2007,0001,0001,F007692,"Riu de Montsant des de la presa de Margalef fins a la confluència amb el riuet d'Escaladei, inclòs el riuet d'Escaladei - E114000",307304,4568418,3348345,índex IPS
+after_2007,0001,0001,F007692,"Riu de Montsant des de la presa de Margalef fins a la confluència amb el riuet d'Escaladei, inclòs el riuet d'Escaladei - E114000",307304,4568418,4258747,índex IBMWP
+after_2007,0001,0001,F007692,"Riu de Montsant des de la presa de Margalef fins a la confluència amb el riuet d'Escaladei, inclòs el riuet d'Escaladei - E114000",307304,4568418,4391575,índex IBICAT-2010
+after_2007,0001,0001,F007693,"Riu de Siurana des de la presa de Siurana fins a l'Ebre, riu de Cortiella i tram baix del riu de Montsant des de la confluència amb el riuet d'Escaladei - E115000",318866,4566775,3348346,índex IPS
+after_2007,0001,0001,F007693,"Riu de Siurana des de la presa de Siurana fins a l'Ebre, riu de Cortiella i tram baix del riu de Montsant des de la confluència amb el riuet d'Escaladei - E115000",318866,4566775,4258746,índex IBMWP
+after_2007,0001,0001,F007693,"Riu de Siurana des de la presa de Siurana fins a l'Ebre, riu de Cortiella i tram baix del riu de Montsant des de la confluència amb el riuet d'Escaladei - E115000",318866,4566775,4391576,índex IBICAT-2010
+after_2007,0001,0001,F007694,Capçalera del Siurana fins a la cua de l'embassament de Siurana - E116000,329107,4570178,3348347,índex IPS
+after_2007,0001,0001,F007694,Capçalera del Siurana fins a la cua de l'embassament de Siurana - E116000,329107,4570178,4391577,índex IBICAT-2010
+after_2007,0001,0001,F007694,Capçalera del Siurana fins a la cua de l'embassament de Siurana - E116000,329107,4570178,4509989,índex IBMWP
+after_2007,0001,0001,F007695,Capçalera de la riera de Capçanes fins a la cua de l'embassament de Guiamets - E118000,314334,4552757,4391578,índex IBICAT-2010
+after_2007,0001,0001,F007697,Riu Sec (Ebre) - E121000,302085,4549835,3348349,índex IPS
+after_2007,0001,0001,F007699,Riu Canaletes - E123000,290035,4538018,3348350,índex IPS
+after_2007,0001,0001,F007699,Riu Canaletes - E123000,290035,4538018,4258745,índex IBMWP
+after_2007,0001,0001,F007699,Riu Canaletes - E123000,290035,4538018,4391579,índex IBICAT-2010
+after_2007,0001,0001,F007701,Barranc de l'Arram - E125000,287661,4533979,3348352,índex IPS
+after_2007,0001,0001,F007701,Barranc de l'Arram - E125000,287661,4533979,4391580,índex IBICAT-2010
+after_2007,0001,0001,F007701,Barranc de l'Arram - E125000,287661,4533979,4421147,índex IBMWP
+after_2007,0001,0001,F007702,L'Ebre des de l'assut de Xerta fins a la confluència del barranc de la Galera - E126000,289926,4528480,3348353,índex IPS
+after_2007,0001,0001,F007702,L'Ebre des de l'assut de Xerta fins a la confluència del barranc de la Galera - E126000,289926,4528480,4258744,índex IBMWP
+after_2007,0001,0001,F007702,L'Ebre des de l'assut de Xerta fins a la confluència del barranc de la Galera - E126000,289926,4528480,4391581,índex IBICAT-2010
+after_2007,0001,0001,F007703,Barranc de la Conca - E127000,288251,4528028,4391582,índex IBICAT-2010
+after_2007,0001,0001,F007704,Barranc de la Servera - E128000,284207,4524125,3348354,índex IPS
+after_2007,0001,0001,F007704,Barranc de la Servera - E128000,284207,4524125,4391583,índex IBICAT-2010
+after_2007,0001,0001,F007704,Barranc de la Servera - E128000,284207,4524125,4421148,índex IBMWP
+after_2007,0001,0001,F007705,Barranc de Sant Antoni - E129000,287320,4518301,4420435,índex IPS
+after_2007,0001,0001,F007705,Barranc de Sant Antoni - E129000,287320,4518301,4421149,índex IBMWP
+after_2007,0001,0001,F007705,Barranc de Sant Antoni - E129000,287320,4518301,4483599,índex IBICAT-2010
+after_2007,0001,0001,F007706,Conca del barranc de la Galera - E130000,273695,4514675,3348355,índex IPS
+after_2007,0001,0001,F007706,Conca del barranc de la Galera - E130000,273695,4514675,4258743,índex IBMWP
+after_2007,0001,0001,F007708,"Garona des de Salardú fins a la frontera, arriu de Varradòs i arriu Nere - G001000",313736,4734295,1000002312,índex IMF
+after_2007,0001,0001,F007708,"Garona des de Salardú fins a la frontera, arriu de Varradòs i arriu Nere - G001000",313736,4734295,3348356,índex IPS
+after_2007,0001,0001,F007708,"Garona des de Salardú fins a la frontera, arriu de Varradòs i arriu Nere - G001000",313736,4734295,4391584,índex IBICAT-2010
+after_2007,0001,0001,F007708,"Garona des de Salardú fins a la frontera, arriu de Varradòs i arriu Nere - G001000",313736,4734295,4421150,índex IBMWP
+after_2007,0001,0001,F007709,Capçalera de la Garona fins a Salardú i arriu Unhola - G002000,330964,4730197,1000002314,índex IMF
+after_2007,0001,0001,F007709,Capçalera de la Garona fins a Salardú i arriu Unhola - G002000,330964,4730197,3348357,índex IPS
+after_2007,0001,0001,F007709,Capçalera de la Garona fins a Salardú i arriu Unhola - G002000,330964,4730197,4391585,índex IBICAT-2010
+after_2007,0001,0001,F007709,Capçalera de la Garona fins a Salardú i arriu Unhola - G002000,330964,4730197,4421151,índex IBMWP
+after_2007,0001,0001,F007710,Arriu de Valarties - G003000,325875,4727822,3348358,índex IPS
+after_2007,0001,0001,F007710,Arriu de Valarties - G003000,325875,4727822,4391586,índex IBICAT-2010
+after_2007,0001,0001,F007711,Arriu Joèu - G004000,312510,4729943,3348359,índex IPS
+after_2007,0001,0001,F007711,Arriu Joèu - G004000,312510,4729943,4391587,índex IBICAT-2010
+after_2007,0001,0001,F007712,Arriu de Toran - G005000,320432,4743110,3348360,índex IPS
+after_2007,0001,0001,F007712,Arriu de Toran - G005000,320432,4743110,4391588,índex IBICAT-2010
+after_2007,0001,0001,F007713,Riu de la Sénia des de la presa d'Ulldecona fins al mar - S001000,269013,4504266,3348361,índex IPS
+after_2007,0001,0001,F007713,Riu de la Sénia des de la presa d'Ulldecona fins al mar - S001000,269013,4504266,4258742,índex IBMWP
+after_2007,0001,0001,F007713,Riu de la Sénia des de la presa d'Ulldecona fins al mar - S001000,269013,4504266,4391589,índex IBICAT-2010
+after_2007,0001,0001,F012652,Conca de l'Orlina - 220008010,504108,4692756,4258741,índex IBMWP
+after_2007,0001,0001,F012652,Conca de l'Orlina - 220008010,504108,4692756,4294795,índex IBICAT-2010
+after_2007,0001,0001,F012652,Conca de l'Orlina - 220008010,504108,4692756,4343465,índex IPS
+after_2007,0001,0001,F012652,Conca de l'Orlina - 220008010,504108,4692756,4356524,índex IMF
+after_2007,0001,0001,F012653,Conca de l'Orlina - 220008011,495936,4697723,4258740,índex IBMWP
+after_2007,0001,0001,F012653,Conca de l'Orlina - 220008011,495936,4697723,4294796,índex IBICAT-2010
+after_2007,0001,0001,F012653,Conca de l'Orlina - 220008011,495936,4697723,4343466,índex IPS
+after_2007,0001,0001,F012653,Conca de l'Orlina - 220008011,495936,4697723,4356525,índex IMF
+after_2007,0001,0001,F012654,Capçalera del Llobregat de la Muga fins al Ricardell - 220004010,486576,4693332,4258739,índex IBMWP
+after_2007,0001,0001,F012654,Capçalera del Llobregat de la Muga fins al Ricardell - 220004010,486576,4693332,4294785,índex IBICAT-2010
+after_2007,0001,0001,F012654,Capçalera del Llobregat de la Muga fins al Ricardell - 220004010,486576,4693332,4343467,índex IPS
+after_2007,0001,0001,F012654,Capçalera del Llobregat de la Muga fins al Ricardell - 220004010,486576,4693332,4356526,índex IMF
+after_2007,0001,0001,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,4242919,índex IBICAT-2010
+after_2007,0001,0001,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,4258738,índex IBMWP
+after_2007,0001,0001,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,4343468,índex IPS
+after_2007,0001,0001,F012655,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001010,441947,4693204,4356527,índex IMF
+after_2007,0001,0001,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,4242918,índex IBICAT-2010
+after_2007,0001,0001,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,4258737,índex IBMWP
+after_2007,0001,0001,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,4343469,índex IPS
+after_2007,0001,0001,F012656,Capçalera del Ter fins a la confluència amb el Ritort (Ritort inclòs) - 200001011,449681,4692310,4356528,índex IMF
+after_2007,0001,0001,F012657,Riera Major - 200024010,449370,4631506,4242891,índex IBICAT-2010
+after_2007,0001,0001,F012657,Riera Major - 200024010,449370,4631506,4258736,índex IBMWP
+after_2007,0001,0001,F012657,Riera Major - 200024010,449370,4631506,4343470,índex IPS
+after_2007,0001,0001,F012657,Riera Major - 200024010,449370,4631506,4356529,índex IMF
+after_2007,0001,0001,F012658,Riera de Carme - 100081010,380379,4597530,4242868,índex IBICAT-2010
+after_2007,0001,0001,F012658,Riera de Carme - 100081010,380379,4597530,4258735,índex IBMWP
+after_2007,0001,0001,F012658,Riera de Carme - 100081010,380379,4597530,4343471,índex IPS
+after_2007,0001,0001,F012658,Riera de Carme - 100081010,380379,4597530,4356530,índex IMF
+after_2007,0001,0001,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,4258734,índex IBMWP
+after_2007,0001,0001,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,4294766,índex IBICAT-2010
+after_2007,0001,0001,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,4343472,índex IPS
+after_2007,0001,0001,F012660,Capçalera de la Glorieta fins a l'EDAR d'Alcover - 050011010,343355,4569947,4356531,índex IMF
+after_2007,0001,0001,F014708,Riera d'Osor - 200029020,456992,4638679,4356532,índex IMF
+after_2007,0001,0001,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,4258733,índex IBMWP
+after_2007,0001,0001,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,4294788,índex IBICAT-2010
+after_2007,0001,0001,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,4343474,índex IPS
+after_2007,0001,0001,F015000,Capçaleres del Llobregat i l'Arija fins a la confluència entre tots dos  - 100001010,419912,4677769,4356533,índex IMF
+after_2007,0001,0001,F015001,Riera d'Oló - 100036010,425264,4638740,4258732,índex IBMWP
+after_2007,0001,0001,F015001,Riera d'Oló - 100036010,425264,4638740,4294864,índex IBICAT-2010
+after_2007,0001,0001,F015001,Riera d'Oló - 100036010,425264,4638740,4343475,índex IPS
+after_2007,0001,0001,F015001,Riera d'Oló - 100036010,425264,4638740,4356534,índex IMF
+after_2007,0001,0001,F015019,Riera de Malrubí - 100038010,420186,4629704,4258731,índex IBMWP
+after_2007,0001,0001,F015019,Riera de Malrubí - 100038010,420186,4629704,4294848,índex IBICAT-2010
+after_2007,0001,0001,F015019,Riera de Malrubí - 100038010,420186,4629704,4343476,índex IPS
+after_2007,0001,0001,F015019,Riera de Malrubí - 100038010,420186,4629704,4356535,índex IMF
+after_2007,0001,0001,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,4258730,índex IBMWP
+after_2007,0001,0001,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,4294790,índex IBICAT-2010
+after_2007,0001,0001,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,4343477,índex IPS
+after_2007,0001,0001,F015020,Conca de l'Aigua d'Ora - 100054010,389359,4657773,4356536,índex IMF
+after_2007,0001,0001,F015021,Riera d'Avencó - 110003010,442179,4628636,4242867,índex IBICAT-2010
+after_2007,0001,0001,F015021,Riera d'Avencó - 110003010,442179,4628636,4258729,índex IBMWP
+after_2007,0001,0001,F015021,Riera d'Avencó - 110003010,442179,4628636,4343478,índex IPS
+after_2007,0001,0001,F015021,Riera d'Avencó - 110003010,442179,4628636,4356537,índex IMF
+after_2007,0001,0001,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4242907,índex IBICAT-2010
+after_2007,0001,0001,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4258728,índex IBMWP
+after_2007,0001,0001,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4343479,índex IPS
+after_2007,0001,0001,F015022,Capçalera de la riera de Sentmenat fins a Sentmenat - 110020510,426054,4610658,4356538,índex IMF
+after_2007,0001,0001,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4258727,índex IBMWP
+after_2007,0001,0001,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4294885,índex IBICAT-2010
+after_2007,0001,0001,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4343480,índex IPS
+after_2007,0001,0001,F015023,"Capçalera de la Tordera fins a l'EDAR de Santa Maria de Palautordera, inclosa la riera de la Castanya - 140001010",450730,4626002,4356539,índex IMF
+after_2007,0001,0001,F015025,Capçalera de la riera de Santa Coloma fins a Santa Coloma de Faners - 140016010,466246,4635038,4258726,índex IBMWP
+after_2007,0001,0001,F015025,Capçalera de la riera de Santa Coloma fins a Santa Coloma de Faners - 140016010,466246,4635038,4294775,índex IBICAT-2010
+after_2007,0001,0001,F015025,Capçalera de la riera de Santa Coloma fins a Santa Coloma de Faners - 140016010,466246,4635038,4343481,índex IPS
+after_2007,0001,0001,F015025,Capçalera de la riera de Santa Coloma fins a Santa Coloma de Faners - 140016010,466246,4635038,4356540,índex IMF
+after_2007,0001,0001,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,4258725,índex IBMWP
+after_2007,0001,0001,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,4343482,índex IPS
+after_2007,0001,0001,F015026,Capçaleres del sot de Verderes i la riera de Tossa fins a l'EDAR de Tossa de Mar - 150001010,491366,4623074,4356541,índex IMF
+after_2007,0001,0001,F015027,Capçalera del Ridaura fins a l'EDAR de Castell-Platja d'Aro - 160001010,493990,4625760,4258724,índex IBMWP
+after_2007,0001,0001,F015027,Capçalera del Ridaura fins a l'EDAR de Castell-Platja d'Aro - 160001010,493990,4625760,4294786,índex IBICAT-2010
+after_2007,0001,0001,F015027,Capçalera del Ridaura fins a l'EDAR de Castell-Platja d'Aro - 160001010,493990,4625760,4343483,índex IPS
+after_2007,0001,0001,F015027,Capçalera del Ridaura fins a l'EDAR de Castell-Platja d'Aro - 160001010,493990,4625760,4356542,índex IMF
+after_2007,0001,0001,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,4258723,índex IBMWP
+after_2007,0001,0001,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,4294781,índex IBICAT-2010
+after_2007,0001,0001,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,4343484,índex IPS
+after_2007,0001,0001,F015028,Capçalera del Daró fins a la confluència amb el torrent de la Marqueta (torrent de la Marqueta inclòs) - 190001010,497319,4643252,4356543,índex IMF
+after_2007,0001,0001,F015029,"Capçalera del Freser fins a Campdevànol, inclosos el Rigard i el Segadell - 200003010",418048,4685756,4356544,índex IMF
+after_2007,0001,0001,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,4242826,índex IBICAT-2010
+after_2007,0001,0001,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,4258722,índex IBMWP
+after_2007,0001,0001,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,4343486,índex IPS
+after_2007,0001,0001,F015030,Capçalera del Ges fina a la confluència amb el Fornès (Fornès inclòs) - 200013010,445169,4658482,4356545,índex IMF
+after_2007,0001,0001,F015032,Conca del Llierca - 210007010,462032,4682815,4258721,índex IBMWP
+after_2007,0001,0001,F015032,Conca del Llierca - 210007010,462032,4682815,4294792,índex IBICAT-2010
+after_2007,0001,0001,F015032,Conca del Llierca - 210007010,462032,4682815,4343487,índex IPS
+after_2007,0001,0001,F015032,Conca del Llierca - 210007010,462032,4682815,4356546,índex IMF
+after_2007,0001,0001,F015033,Riera de Borró - 210008010,471810,4677111,4258720,índex IBMWP
+after_2007,0001,0001,F015033,Riera de Borró - 210008010,471810,4677111,4294831,índex IBICAT-2010
+after_2007,0001,0001,F015033,Riera de Borró - 210008010,471810,4677111,4343488,índex IPS
+after_2007,0001,0001,F015033,Riera de Borró - 210008010,471810,4677111,4356547,índex IMF
+after_2007,0001,0001,F015034,Riera de Junyell - 210009010,475240,4669980,4258719,índex IBMWP
+after_2007,0001,0001,F015034,Riera de Junyell - 210009010,475240,4669980,4294842,índex IBICAT-2010
+after_2007,0001,0001,F015034,Riera de Junyell - 210009010,475240,4669980,4343489,índex IPS
+after_2007,0001,0001,F015034,Riera de Junyell - 210009010,475240,4669980,4356548,índex IMF
+after_2007,0001,0001,F015035,Conca de la Ribera Salada - E025010,373516,4660308,1000002264,índex IMF
+after_2007,0001,0001,F015035,Conca de la Ribera Salada - E025010,373516,4660308,4421152,índex IBMWP
+after_2007,0001,0001,F015035,Conca de la Ribera Salada - E025010,373516,4660308,4421172,índex IPS
+after_2007,0001,0001,F015035,Conca de la Ribera Salada - E025010,373516,4660308,4483611,índex IBICAT-2010
+after_2007,0001,0001,F015036,Capçalera del Riu d'Algars i del riu d'Estrets fins a la confluència entre tots dos - E105010,268590,4528012,1000002311,índex IMF
+after_2007,0001,0001,F015036,Capçalera del Riu d'Algars i del riu d'Estrets fins a la confluència entre tots dos - E105010,268590,4528012,4421153,índex IBMWP
+after_2007,0001,0001,F015036,Capçalera del Riu d'Algars i del riu d'Estrets fins a la confluència entre tots dos - E105010,268590,4528012,4421173,índex IPS
+after_2007,0001,0001,F015036,Capçalera del Riu d'Algars i del riu d'Estrets fins a la confluència entre tots dos - E105010,268590,4528012,4483620,índex IBICAT-2010
+after_2007,0001,0001,F015039,Riera de Llanera - E029010,371410,4633988,4421154,índex IBMWP
+after_2007,0001,0001,F015039,Riera de Llanera - E029010,371410,4633988,4421174,índex IPS
+after_2007,0001,0001,F015039,Riera de Llanera - E029010,371410,4633988,4483615,índex IBICAT-2010
+after_2007,0001,0001,F015043,Capçalera de l'Aigua de Valls fins a la cua de l'embassament de la Llosa del Cavall - 100049010,391781,4674519,4258718,índex IBMWP
+after_2007,0001,0001,F015043,Capçalera de l'Aigua de Valls fins a la cua de l'embassament de la Llosa del Cavall - 100049010,391781,4674519,4294768,índex IBICAT-2010
+after_2007,0001,0001,F015043,Capçalera de l'Aigua de Valls fins a la cua de l'embassament de la Llosa del Cavall - 100049010,391781,4674519,4343490,índex IPS
+after_2007,0001,0001,F015043,Capçalera de l'Aigua de Valls fins a la cua de l'embassament de la Llosa del Cavall - 100049010,391781,4674519,4356549,índex IMF
+after_2007,0001,0001,F015044,Riu de la Llosa - E006510,393372,4699714,1000002255,índex IMF
+after_2007,0001,0001,F015044,Riu de la Llosa - E006510,393372,4699714,4421155,índex IBMWP
+after_2007,0001,0001,F015044,Riu de la Llosa - E006510,393372,4699714,4421175,índex IPS
+after_2007,0001,0001,F015044,Riu de la Llosa - E006510,393372,4699714,4483612,índex IBICAT-2010
+after_2007,0001,0001,F015045,Torrent del Cabiscol - E009010,391306,4685805,1000002257,índex IMF
+after_2007,0001,0001,F015045,Torrent del Cabiscol - E009010,391306,4685805,4421156,índex IBMWP
+after_2007,0001,0001,F015045,Torrent del Cabiscol - E009010,391306,4685805,4421176,índex IPS
+after_2007,0001,0001,F015045,Torrent del Cabiscol - E009010,391306,4685805,4483613,índex IBICAT-2010
+after_2007,0001,0001,F015575,Riu Rialb - E026010,348779,4657442,1000002265,índex IMF
+after_2007,0001,0001,F015575,Riu Rialb - E026010,348779,4657442,4421157,índex IBMWP
+after_2007,0001,0001,F015575,Riu Rialb - E026010,348779,4657442,4421177,índex IPS
+after_2007,0001,0001,F015575,Riu Rialb - E026010,348779,4657442,4483614,índex IBICAT-2010
+after_2007,0001,0001,F015576,Capçalera de la Noguera de Cardós i riu de Tavascan fins a la confluència entre tots dos - E037010,356312,4723946,1000002276,índex IMF
+after_2007,0001,0001,F015576,Capçalera de la Noguera de Cardós i riu de Tavascan fins a la confluència entre tots dos - E037010,356312,4723946,4421158,índex IBMWP
+after_2007,0001,0001,F015576,Capçalera de la Noguera de Cardós i riu de Tavascan fins a la confluència entre tots dos - E037010,356312,4723946,4421178,índex IPS
+after_2007,0001,0001,F015576,Capçalera de la Noguera de Cardós i riu de Tavascan fins a la confluència entre tots dos - E037010,356312,4723946,4483617,índex IBICAT-2010
+after_2007,0001,0001,F015577,"Riu de Sant Antoni, riu de Caregue i riu de Pamano - E042010",343185,4703357,1000002280,índex IMF
+after_2007,0001,0001,F015577,"Riu de Sant Antoni, riu de Caregue i riu de Pamano - E042010",343185,4703357,4421159,índex IBMWP
+after_2007,0001,0001,F015577,"Riu de Sant Antoni, riu de Caregue i riu de Pamano - E042010",343185,4703357,4421179,índex IPS
+after_2007,0001,0001,F015577,"Riu de Sant Antoni, riu de Caregue i riu de Pamano - E042010",343185,4703357,4483619,índex IBICAT-2010
+after_2007,0001,0001,F015578,Riu Bossia - E051010,327227,4702277,1000002284,índex IMF
+after_2007,0001,0001,F015578,Riu Bossia - E051010,327227,4702277,4421160,índex IBMWP
+after_2007,0001,0001,F015578,Riu Bossia - E051010,327227,4702277,4421180,índex IPS
+after_2007,0001,0001,F015578,Riu Bossia - E051010,327227,4702277,4483624,índex IBICAT-2010
+after_2007,0001,0001,F015579,Capçalera de la Noguera Ribagorçana fins a l'embassament de Baserca - E070010,316748,4720600,1000002291,índex IMF
+after_2007,0001,0001,F015579,Capçalera de la Noguera Ribagorçana fins a l'embassament de Baserca - E070010,316748,4720600,4421161,índex IBMWP
+after_2007,0001,0001,F015579,Capçalera de la Noguera Ribagorçana fins a l'embassament de Baserca - E070010,316748,4720600,4421181,índex IPS
+after_2007,0001,0001,F015579,Capçalera de la Noguera Ribagorçana fins a l'embassament de Baserca - E070010,316748,4720600,4483621,índex IBICAT-2010
+after_2007,0001,0001,F015580,"Riuet del Convent, barranc de Malpàs i barranc de Massivert - E080010",320420,4696864,1000002294,índex IMF
+after_2007,0001,0001,F015580,"Riuet del Convent, barranc de Malpàs i barranc de Massivert - E080010",320420,4696864,4421162,índex IBMWP
+after_2007,0001,0001,F015580,"Riuet del Convent, barranc de Malpàs i barranc de Massivert - E080010",320420,4696864,4421182,índex IPS
+after_2007,0001,0001,F015580,"Riuet del Convent, barranc de Malpàs i barranc de Massivert - E080010",320420,4696864,4483622,índex IBICAT-2010
+after_2007,0001,0001,F015581,"Garona des de Salardú fins a la frontera, arriu de Varradòs i arriu Nere - G001010",321309,4738174,1000002313,índex IMF
+after_2007,0001,0001,F015581,"Garona des de Salardú fins a la frontera, arriu de Varradòs i arriu Nere - G001010",321309,4738174,4421163,índex IBMWP
+after_2007,0001,0001,F015581,"Garona des de Salardú fins a la frontera, arriu de Varradòs i arriu Nere - G001010",321309,4738174,4421183,índex IPS
+after_2007,0001,0001,F015581,"Garona des de Salardú fins a la frontera, arriu de Varradòs i arriu Nere - G001010",321309,4738174,4483623,índex IBICAT-2010
+after_2007,0001,0001,F015583,"Conca alta de la Noguera Pallaresa fins a la confluència amb el riu de la Bonaigua, riu de la Bonaigua inclòs - E033010",340542,4736028,1000002272,índex IMF
+after_2007,0001,0001,F015583,"Conca alta de la Noguera Pallaresa fins a la confluència amb el riu de la Bonaigua, riu de la Bonaigua inclòs - E033010",340542,4736028,4421164,índex IBMWP
+after_2007,0001,0001,F015583,"Conca alta de la Noguera Pallaresa fins a la confluència amb el riu de la Bonaigua, riu de la Bonaigua inclòs - E033010",340542,4736028,4421184,índex IPS
+after_2007,0001,0001,F015583,"Conca alta de la Noguera Pallaresa fins a la confluència amb el riu de la Bonaigua, riu de la Bonaigua inclòs - E033010",340542,4736028,4483616,índex IBICAT-2010
+after_2007,0001,0001,F019009,El Fluvià des del riu Ser fins al mar - 210006500,496567,4667751,4242898,índex IBICAT-2010
+after_2007,0001,0001,F019009,El Fluvià des del riu Ser fins al mar - 210006500,496567,4667751,4258717,índex IBMWP
+after_2007,0001,0001,F019009,El Fluvià des del riu Ser fins al mar - 210006500,496567,4667751,4343491,índex IPS
+after_2007,0001,0001,F019009,El Fluvià des del riu Ser fins al mar - 210006500,496567,4667751,4356550,índex IMF
+after_2007,0001,0001,F022239,Riera Major - 200024011,449364,4631900,4242892,índex IBICAT-2010
+after_2007,0001,0001,F022239,Riera Major - 200024011,449364,4631900,4258716,índex IBMWP
+after_2007,0001,0001,F022239,Riera Major - 200024011,449364,4631900,4343492,índex IPS
+after_2007,0001,0001,F022239,Riera Major - 200024011,449364,4631900,4356551,índex IMF
+after_2007,0001,0001,F025147,Riera de la Foradada - 200011030,438731,4662224,4356552,índex IMF
+after_2007,0001,0001,F025148,Capçalera del Foix fins a Sant Martí Sarroca - 080001030,379323,4587218,4356553,índex IMF
+after_2007,0001,0001,F025149,Riera de Vallfogona - 200008030,436652,4667979,4356554,índex IMF
+after_2007,0001,0001,F025150,Riera d'Osor - 200029030,461690,4644066,4356555,índex IMF
+after_2007,0001,0001,F026867,L'Ebre des de l'Illa de Gràcia fins al mar - E001000,312377,4507248,4652300,Clorofil·la a (lab)
+after_2007,0001,0001,F026868,L'Ebre des de la confluència del barranc de la Galera fins a l'Illa de Gràcia - E131000,298231,4508670,4652305,Clorofil·la a (lab)
+after_2007,0001,0001,F029673,Riera de la Portella - 100014030,409565,4659316,4356557,índex IMF
+after_2007,0001,0001,F029674,Capçalera de la riera de Merlès fins a la confluència del torrent de Regatell - 100021030,422202,4669805,4356558,índex IMF
+after_2007,0001,0001,F029675,Conca de l'Aigua d'Ora - 100054030,391575,4661673,4356559,índex IMF
+after_2007,0001,0001,F029676,Capçalera del Fluvià fins a la confluència amb el Gurn (Gurn inclòs) - 210001030,449918,4666145,4356560,índex IMF
+after_2007,0001,0001,F029677,Riera de Bianya i riera de Riudaura - 210003030,450506,4674098,4356561,índex IMF
+after_2007,0001,0001,F029693,Conca del Llierca - 210007030,455730,4679623,4356562,índex IMF
+after_2007,0001,0001,F029713,Capçalera de la Muga fins a l'embassament de Boadella - 220001030,475372,4686295,4356563,índex IMF
+after_2007,0001,0001,F029714,Riu Arnera aigües amunt de Boadella - 220002030,478606,4691654,4356564,índex IMF

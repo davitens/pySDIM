@@ -1,0 +1,35 @@
+period,network,subnetwork,station,station_name,x,y,variable_id,variable_name
+before_2007,0002,0302,L08058-72-00003,N/D - Superficial - E16,386988,4568011,4159490,E16_Castellet i la Gornal_Foix_Nivell embassament
+before_2007,0002,0302,L08058-72-00003,N/D - Superficial - E16,386988,4568011,4159491,E16_Castellet i la Gornal_Foix_Volum embassament
+before_2007,0002,0302,L08058-72-00003,N/D - Superficial - E16,386988,4568011,4159541,E16_Castellet i la Gornal_Foix_Percentatge volum embassat
+before_2007,0002,0302,L08268-72-00001,N/D - Superficial - E14,407302,4663932,4159492,E14_Cercs_Baells_Nivell embassament
+before_2007,0002,0302,L08268-72-00001,N/D - Superficial - E14,407302,4663932,4159493,E14_Cercs_Baells_Volum embassament
+before_2007,0002,0302,L08268-72-00001,N/D - Superficial - E14,407302,4663932,4159542,E14_Cercs_Baells_Percentatge volum embassat
+before_2007,0002,0302,L08303-72-00001,N/D - Superficial - E06,451408,4646459,4159509,E06_Vilanova Sau_Sau_Nivell embassament
+before_2007,0002,0302,L08303-72-00001,N/D - Superficial - E06,451408,4646459,4159510,E06_Vilanova Sau_Sau_Volum embassament
+before_2007,0002,0302,L08303-72-00001,N/D - Superficial - E06,451408,4646459,4159547,E06_Vilanova Sau_Sau_Percentatge volum embassat
+before_2007,0002,0302,L17060-72-00002,N/D - Superficial - E01,486262,4687606,4140490,E01_Darnius Boadella_Volum embassament
+before_2007,0002,0302,L17060-72-00002,N/D - Superficial - E01,486262,4687606,4140576,E01_Darnius Boadella_Nivell embassament
+before_2007,0002,0302,L17060-72-00002,N/D - Superficial - E01,486262,4687606,4159540,E01_Darnius Boadella_Percentatge volum embassat
+before_2007,0002,0302,L17116-72-00002,N/D - Superficial - E07,460844,4647561,4159513,E07_Osor_Susqueda_Nivell embassament
+before_2007,0002,0302,L17116-72-00002,N/D - Superficial - E07,460844,4647561,4159514,E07_Osor_Susqueda_Volum embassament
+before_2007,0002,0302,L17116-72-00002,N/D - Superficial - E07,460844,4647561,4159549,E07_Osor_Susqueda_Percentatge volum embassat
+before_2007,0002,0302,L17138-72-00002,N/D - Superficial - E02,510294,4697062,4363238,E02_Portbou_Volum embassat
+before_2007,0002,0302,L17138-72-00002,N/D - Superficial - E02,510294,4697062,4363239,E02_Portbou_Nivell embassament
+before_2007,0002,0302,L17189-72-00005,N/D - Superficial - E08_C4077,466982,4648125,4364530,E08_Cellera Ter_Pasteral_Nivell embassament
+before_2007,0002,0302,L17189-72-00005,N/D - Superficial - E08_C4077,466982,4648125,4364532,E08_Cellera Ter_Pasteral_Volum embassament
+before_2007,0002,0302,L25075-72-00003,N/D - Superficial - E13,384452,4646602,4159498,E13_Clariana Cardener_Sant Ponc_Nivell embassament
+before_2007,0002,0302,L25075-72-00003,N/D - Superficial - E13,384452,4646602,4159499,E13_Clariana Cardener_Sant Ponc_Volum embassament
+before_2007,0002,0302,L25075-72-00003,N/D - Superficial - E13,384452,4646602,4159546,E13_Clariana Cardener_Sant Ponc_Percentatge volum embassat
+before_2007,0002,0302,L25146-72-00002,N/D - Superficial - E12,382818,4661827,4159494,E12_Naves_Llosa Cavall_Nivell embassament
+before_2007,0002,0302,L25146-72-00002,N/D - Superficial - E12,382818,4661827,4159495,E12_Naves_Llosa Cavall_Volum embassament
+before_2007,0002,0302,L25146-72-00002,N/D - Superficial - E12,382818,4661827,4159543,E12_Naves_Llosa Cavall_Percentatge volum embassat
+before_2007,0002,0302,L43043-72-00001,N/D - Superficial - E17,359786,4561777,4291576,E17_Gaia_El Catllar_Nivell embassament
+before_2007,0002,0302,L43043-72-00001,N/D - Superficial - E17,359786,4561777,4291577,E17_Gaia_El Catllar_Volum embassament
+before_2007,0002,0302,L43043-72-00001,N/D - Superficial - E17,359786,4561777,4291612,E17_Gaia_El Catllar_Percentatge volum embassat
+before_2007,0002,0302,L43049-72-00003,N/D - Superficial - E18,325206,4568569,4159511,E18_Cornudella Montsant_Siurana_Nivell embassament
+before_2007,0002,0302,L43049-72-00003,N/D - Superficial - E18,325206,4568569,4159548,E18_Cornudella Montsant_Siurana_Percentatge volum embassat
+before_2007,0002,0302,L43049-72-00003,N/D - Superficial - E18,325206,4568569,4159569,E18_Cornudella Montsant_Siurana_Volum embassament
+before_2007,0002,0302,L43127-72-00002,N/D - Superficial - E19,328801,4555741,4159496,E19_Duesaigues_Riudecanyes_Nivell embassament
+before_2007,0002,0302,L43127-72-00002,N/D - Superficial - E19,328801,4555741,4159497,E19_Duesaigues_Riudecanyes_Volum embassament
+before_2007,0002,0302,L43127-72-00002,N/D - Superficial - E19,328801,4555741,4159545,E19_Duesaigues_Riudecanyes_Percentatge volum embassat

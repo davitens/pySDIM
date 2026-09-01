@@ -1,0 +1,83 @@
+period,network,subnetwork,station,station_name,x,y,variable_id,variable_name
+before_2007,0001,0301,F000004,N/D - Superficial - EA008,385564,4569143,4268098,EA008_Castellet i la Gornal_Cabal riu Foix
+before_2007,0001,0301,F000005,N/D - Superficial - EA009,477269,4651536,4183944,EA009_Sant Gregori_Cabal riu Llemena
+before_2007,0001,0301,F000006,N/D - Superficial - EA056,466660,4623237,4290748,EA056_Sant Feliu de Buixalleu_Cabal riera d'Arbucies
+before_2007,0001,0301,F000007,N/D - Superficial - EA012,488441,4686953,4140492,EA012_Boadella Emporda_Cabal riu Muga
+before_2007,0001,0301,F000008,N/D - Superficial - EA014,326845,4556670,4178796,EA014_Duesaigües_Cabal riera Riudecanyes
+before_2007,0001,0301,F000012,N/D - Superficial - EA026,449906,4622487,4290743,EA026_Montseny_Cabal riu Tordera
+before_2007,0001,0301,F000014,Conca de l'Aigua d'Ora - EA063,388408,4651438,4369441,EA063_Naves_Cabal riera Aiguadora
+before_2007,0001,0301,F000015,N/D - Superficial - EA066a_C4066a,406366,4657951,4369156,EA066a_Avia_Cabal riu Llobregat
+before_2007,0001,0301,F000016,Capçalera del Cardener fins a la cua de l'embassament de la Llosa del Cavall - EA087,382793,4670980,4369439,EA087_Coma i Pedra_Cabal riu Cardener
+before_2007,0001,0301,F001204,N/D - Superficial - EA006,365794,4587939,4291572,EA006_Querol_Cabal riu Gaia
+before_2007,0001,0301,F001213,N/D - Superficial - EA021,384717,4664384,4369409,EA021_Guixers_Aigues Juntes_Cabal riu Cardener
+before_2007,0001,0301,F001217,N/D - EA027,452148,4645978,4262185,EA027_Vilanova Sau_Cabal riera Major
+before_2007,0001,0301,F001222,N/D - Superficial - EA032,386482,4602653,4369457,EA032_Vilanova del Cami_Cabal riu Anoia
+before_2007,0001,0301,F001229,N/D - Superficial - EA040,477746,4668642,4291449,EA040_Serinya_Cabal riu Ser
+before_2007,0001,0301,F001230,N/D - Superficial - EA041,322597,4567061,4178795,EA041_Cornudella Montsant_Cabal riu Siurana
+before_2007,0001,0301,F001240,Riu Brugent - EA058,347591,4575852,4364910,EA058_La Riba_Cabal riu Brugent
+before_2007,0001,0301,F001242,N/D - Superficial - EA060,467132,4648235,4167473,EA060_Cellera Ter_Pasteral_Cabal riu Ter
+before_2007,0001,0301,F001243,N/D - Superficial - EA061,483379,4660993,4287920,EA061_Cornella Terri_Cabal riu Terri
+before_2007,0001,0301,F001245,Riera de Carme - EA065,388449,4599736,4369449,EA065_Pobla Claramunt_Cabal riera Carme
+before_2007,0001,0301,F009793,N/D - Superficial - EA066_C4066,407241,4659812,4168261,EA066_Berga_Cabal riu_Llobregat
+before_2007,0001,0301,F025248,N/D - EA085_C4085,441145,4648284,4265225,EA085_C4085_Masies Roda_Cabal total riu Ter
+before_2007,0001,0301,F025249,N/D - EA120,441180,4648214,4265222,EA120_Masies Roda_Cabal riu Gurri
+before_2007,0001,0301,F026458,N/D - EA124,484777,4638503,4287766,EA124_Riudellots Selva_Cabal riu Onyar
+before_2007,0001,0301,F030767,N/D - Superficial - EA047a,432395,4589963,4495045,EA047a_Santa Coloma Gramenet_Cabal riu Besòs
+before_2007,0001,0301,L08001-72-00001,N/D - Superficial - EA084_A084,409650,4596023,4369154,EA084_Abrera_Cabal riu Llobregat
+before_2007,0001,0301,L08018-72-00003,N/D - Superficial - EA067_C4067,407058,4634787,4261134,EA067_Balsareny_Cabal riu_Llobregat
+before_2007,0001,0301,L08047-72-00005,N/D - Superficial - EA001b_C4001b,391877,4641790,4369406,EA001b_Cardona_Cabal riu Cardener
+before_2007,0001,0301,L08051-72-00001,N/D - Superficial - EA075,423392,4606810,4368815,EA075_Castellar Valles_Cabal riu Ripoll
+before_2007,0001,0301,L08052-72-00002,N/D - Superficial - EA086,415662,4679126,4369171,EA086_Castellar nHug_Cabal riu Llobregat
+before_2007,0001,0301,L08053-72-00003,N/D - Superficial - EA023,404933,4611165,4261138,EA023_Castellbell i el Vilar_Cabal riu Llobregat
+before_2007,0001,0301,L08058-72-00003,N/D - Superficial - E16,386988,4568011,4165137,E16_Castellet i la Gornal_Foix_Cabal sortida
+before_2007,0001,0301,L08061-72-00005,N/D - Superficial - EA031,405557,4615941,4369413,EA031_Castellgali_Cabal riu Llobregat
+before_2007,0001,0301,L08082-72-00001,N/D - Superficial - EA081,472505,4621554,4343826,EA081_Fogars Selva_Cabal riera Santa Coloma
+before_2007,0001,0301,L08082-72-00002,N/D - Superficial - EA089,474545,4620839,4343824,EA089_Fogars Tordera_Cabal riu Tordera
+before_2007,0001,0301,L08088-72-00002,N/D - Superficial - EA037,440427,4616399,4290744,EA037_La Garriga_Cabal riu_Congost
+before_2007,0001,0301,L08099-72-00006,N/D - Superficial - EA078_C4078,406706,4674198,4290751,EA078_Guardiola Bergueda_Cabal riu Llobregat
+before_2007,0001,0301,L08099-72-00006,N/D - Superficial - EA078_C4078,406706,4674198,4429176,EA078_C4078_Guardiola Bergueda_Cabal total (Llobregat+CIB)
+before_2007,0001,0301,L08103-72-00001,Conca alta de l'Anoia fins a Igualada - EA011,379541,4604957,4369447,EA011_Jorba_Cabal riu Anoia
+before_2007,0001,0301,L08108-72-00001,N/D - Superficial - EA046,437121,4604145,4290746,EA046_Lliça de Vall_Cabal riu_Tenes
+before_2007,0001,0301,L08114-72-00001,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - EA074,410604,4592342,4369451,EA074_Martorell_Cabal riu Anoia
+before_2007,0001,0301,L08114-72-00003,N/D - Superficial - EA005_C4005,412142,4591309,4369418,EA005_Martorell_Cabal riu Llobregat
+before_2007,0001,0301,L08116-72-00002,N/D - Superficial - EA085_C4085_EA120,442102,4648259,4265227,EA085_C4085_EA120_Masies Roda_Cabal total Ter+Gurri
+before_2007,0001,0301,L08136-72-00004,N/D - Superficial - EA035,438721,4599712,4358606,EA035_Montornes Valles_Cabal riu Mogent
+before_2007,0001,0301,L08158-72-00001,N/D - Superficial - EA076,416110,4589073,4369445,EA076_Papiol_Cabal riera Rubi
+before_2007,0001,0301,L08191-72-00003,N/D - Superficial - EA077,410024,4626764,4369422,EA077_Artes_Cabal riera Gavarresa
+before_2007,0001,0301,L08202-72-00001,N/D - Superficial - EA015,457467,4614412,4343829,EA015_Sant Celoni_Cabal riu Tordera
+before_2007,0001,0301,L08217-72-00001,N/D - Superficial - EA049_C4049,420245,4578251,4369424,EA049_Sant Joan Despi_Cabal riu Llobregat
+before_2007,0001,0301,L08236-72-00001,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - EA039_C4039,388430,4590540,4369453,EA039_Sant Quinti Mediona_Cabal riu Mediona
+before_2007,0001,0301,L08240-72-00004,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - EA004,398770,4588700,4368233,EA004_Sant Sadurni Anoia_Cabal riu Anoia
+before_2007,0001,0301,L08245-72-00003,N/D - Superficial - EA047,433208,4589126,4358587,EA047_Santa Coloma Gramenet_Cabal riu Besos
+before_2007,0001,0301,L08260-72-00001,N/D - Superficial - EA045,433061,4597081,4290745,EA045_Santa Perpetua de Mogoda_Cabal riu_Riera de Caldes
+before_2007,0001,0301,L08263-72-00002,N/D - Superficial - EA093_C4007,418245,4582379,4369435,EA093_Sant Vicenc Horts_Cabal riu Llobregat
+before_2007,0001,0301,L08268-72-00001,N/D - Superficial - E14,407302,4663932,4462770,E14_Cercs_Baells_Cabal sortida
+before_2007,0001,0301,L08274-72-00002,N/D - Superficial - EA068,397233,4629811,4261135,EA068_Suria_Cabal riu Cardener
+before_2007,0001,0301,L08279-72-00002,N/D - Superficial - EA134,419412,4598359,4369428,EA134_Terrassa_Cabal riera de les Arenes
+before_2007,0001,0301,L08303-72-00001,N/D - Superficial - E06,451408,4646459,4165140,E06_Vilanova Sau_Sau_Cabal sortida
+before_2007,0001,0301,L17005-72-00001,N/D - Superficial - EA082,497447,4676178,4140494,EA082_Santa Llogaia Alguema_Cabal riu Manol
+before_2007,0001,0301,L17022-72-00001,N/D - Superficial - EA131,503167,4645845,4287925,EA131_Bisbal Emporda_Cabal riu Daro
+before_2007,0001,0301,L17038-72-00002,N/D - Superficial - EA123,484973,4638465,4287929,EA123_Campllong_Cabal riera Gotarra
+before_2007,0001,0301,L17047-72-00002,N/D - Superficial - EA052,505939,4678023,4140493,EA052_Castello Empuries_Cabal riu Muga
+before_2007,0001,0301,L17055-72-00002,N/D - Superficial - EA121_C4121_E09,499269,4658310,4557642,EA121_Colomers_Cabal riu Ter
+before_2007,0001,0301,L17060-72-00002,N/D - Superficial - E01,486262,4687606,4140489,E01_Darnius Boadella_Cabal sortida
+before_2007,0001,0301,L17065-72-00002,N/D - Superficial - EA016_C4016,483371,4669513,4290783,EA016_Esponella_Cabal riu Fluvia
+before_2007,0001,0301,L17075-72-00001,N/D - Superficial - EA053_C4053,496265,4666829,4290747,EA053_Garrigas_Cabal total Fluvia
+before_2007,0001,0301,L17079-72-00004,N/D - Superficial - EA020,485464,4647022,4287922,EA020_Girona_Cabal riu Onyar
+before_2007,0001,0301,L17079-72-00005,N/D - Superficial - EA010,485021,4648705,4184098,EA010_Girona_Cabal riu Ter
+before_2007,0001,0301,L17114-72-00003,N/D - Superficial - EA013,459542,4670840,4290742,EA013_Olot_Cabal riu Fluvia
+before_2007,0001,0301,L17116-72-00002,N/D - Superficial - E07,460844,4647561,4165144,E07_Osor_Susqueda_Cabal sortida
+before_2007,0001,0301,L17132-72-00006,N/D - Superficial - EA088,500722,4683552,4140495,EA088_Peralada_Cabal riu Llobregat Emporda
+before_2007,0001,0301,L17135-72-00001,N/D - Superficial - EA125,493240,4684812,4143482,EA125_Pont Molins_Cabal riu Muga
+before_2007,0001,0301,L17147-72-00005,El Ter entre el Freser i la riera de Vallfogona - EA033_C4033,433448,4669209,4277308,EA033_C4033_Ripoll_Cabal total Ter (riu + CH)
+before_2007,0001,0301,L17167-72-00001,N/D - Superficial - EA072_C4072,437264,4674557,4277310,EA072_C4072_St Joan Abadesses_Cabal total Ter (riu + CH)
+before_2007,0001,0301,L17181-72-00001,N/D - Superficial - EA064,499533,4628889,4290749,EA064_Santa Cristina Aro_Cabal riu Ridaura
+before_2007,0001,0301,L17191-72-00001,N/D - Superficial - EA132,505910,4652555,4287927,EA132_Serra Daro_Cabal riu Daro
+before_2007,0001,0301,L17199-72-00001,N/D - Superficial - EA080,510378,4653688,4184095,EA080_Torroella Montgri_Cabal riu Ter
+before_2007,0001,0301,L25075-72-00003,N/D - Superficial - E13,384452,4646602,4165146,E13_Clariana Cardener_Sant Ponc_Cabal sortida
+before_2007,0001,0301,L25146-72-00002,N/D - Superficial - E12,382818,4661827,4165460,E12_Naves_Llosa Cavall_Cabal sortida
+before_2007,0001,0301,L43049-72-00003,N/D - Superficial - E18,325206,4568569,4165465,E18_Cornudella Montsant_Siurana_Cabal sortida
+before_2007,0001,0301,L43086-72-00003,El Francolí entre el riu d'Anguera i el Brugent - EA028_C4028,347766,4580851,4363187,EA028_Montblanc_Cabal riu Francoli
+before_2007,0001,0301,L43127-72-00002,N/D - Superficial - E19,328801,4555741,4165468,E19_Duesaigues_Riudecanyes_Cabal sortida
+before_2007,0001,0301,L43148-72-00002,N/D - Superficial - EA079,351999,4556773,4363213,EA079_Tarragona_Cabal riu Francoli
+before_2007,0001,0301,L43165-72-00001,N/D - Superficial - EA007,360657,4566063,4291574,EA007_Vilabella_Cabal riu Gaia

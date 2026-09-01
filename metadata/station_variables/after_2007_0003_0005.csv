@@ -1,0 +1,504 @@
+period,network,subnetwork,station,station_name,x,y,variable_id,variable_name
+after_2007,0003,0005,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060646,índex InClo
+after_2007,0003,0005,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060647,índex InGA
+after_2007,0003,0005,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060648,índex InMac
+after_2007,0003,0005,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060649,% perímetre helòfits
+after_2007,0003,0005,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060650,índex InMacro
+after_2007,0003,0005,F009980,Estanys de Banyoles - 045040100,480010,4663228,4060654,Clorofil·la a (camp)
+after_2007,0003,0005,F009980,Estanys de Banyoles - 045040100,480010,4663228,4166789,% cianobacteris
+after_2007,0003,0005,F009980,Estanys de Banyoles - 045040100,480010,4663228,4420709,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967564,Clorofil·la a (camp)
+after_2007,0003,0005,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967565,índex RIC
+after_2007,0003,0005,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967566,índex ACCO-2010
+after_2007,0003,0005,F016182,Pantà de l'Arrós - H230002000,290392,4613323,3967567,índex QAELS-e-2010
+after_2007,0003,0005,F016182,Pantà de l'Arrós - H230002000,290392,4613323,4415950,% cianobacteris
+after_2007,0003,0005,F016182,Pantà de l'Arrós - H230002000,290392,4613323,4415961,índex InGA
+after_2007,0003,0005,F016182,Pantà de l'Arrós - H230002000,290392,4613323,4420727,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016183,Utxesa - H230003001,293081,4598472,3967581,Clorofil·la a (camp)
+after_2007,0003,0005,F016183,Utxesa - H230003001,293081,4598472,3967582,índex RIC
+after_2007,0003,0005,F016183,Utxesa - H230003001,293081,4598472,3967583,índex ACCO-2010
+after_2007,0003,0005,F016183,Utxesa - H230003001,293081,4598472,3967584,índex QAELS-e-2010
+after_2007,0003,0005,F016183,Utxesa - H230003001,293081,4598472,4416046,% cianobacteris
+after_2007,0003,0005,F016183,Utxesa - H230003001,293081,4598472,4416057,índex InGA
+after_2007,0003,0005,F016183,Utxesa - H230003001,293081,4598472,4420728,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016184,Utxesa - H230003000,293266,4595237,3967598,Clorofil·la a (camp)
+after_2007,0003,0005,F016184,Utxesa - H230003000,293266,4595237,3967599,índex RIC
+after_2007,0003,0005,F016184,Utxesa - H230003000,293266,4595237,3967600,índex ACCO-2010
+after_2007,0003,0005,F016184,Utxesa - H230003000,293266,4595237,3967601,índex QAELS-e-2010
+after_2007,0003,0005,F016184,Utxesa - H230003000,293266,4595237,4416028,% cianobacteris
+after_2007,0003,0005,F016184,Utxesa - H230003000,293266,4595237,4416039,índex InGA
+after_2007,0003,0005,F016184,Utxesa - H230003000,293266,4595237,4420729,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967615,Clorofil·la a
+after_2007,0003,0005,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967616,índex RIC
+after_2007,0003,0005,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967617,índex ACCO-2010
+after_2007,0003,0005,F016185,Ullals de la Carrova - H240002000,293606,4513276,3967618,índex QAELS-e-2010
+after_2007,0003,0005,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967632,Clorofil·la a
+after_2007,0003,0005,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967633,índex RIC
+after_2007,0003,0005,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967634,índex ACCO-2010
+after_2007,0003,0005,F016189,Delta de l'Ebre-Erms de Casablanca o Vilacoto - H240014000,298715,4501535,3967635,índex QAELS-e-2010
+after_2007,0003,0005,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967649,Clorofil·la a
+after_2007,0003,0005,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967650,índex RIC
+after_2007,0003,0005,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967651,índex ACCO-2010
+after_2007,0003,0005,F016190,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015001,296797,4505049,3967652,índex QAELS-e-2010
+after_2007,0003,0005,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967666,Clorofil·la a
+after_2007,0003,0005,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967667,índex RIC
+after_2007,0003,0005,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967668,índex ACCO-2010
+after_2007,0003,0005,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967669,índex QAELS-e-2010
+after_2007,0003,0005,F016191,Delta de l'Ebre-L'Encanyissada - H240013000,300447,4501819,3967671,EQATg
+after_2007,0003,0005,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967683,Clorofil·la a
+after_2007,0003,0005,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967684,índex RIC
+after_2007,0003,0005,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967685,índex ACCO-2010
+after_2007,0003,0005,F016193,Delta de l'Ebre-Punta de la Banya - H240011000,303369,4495914,3967686,índex QAELS-e-2010
+after_2007,0003,0005,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967700,Clorofil·la a
+after_2007,0003,0005,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967701,índex RIC
+after_2007,0003,0005,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967702,índex ACCO-2010
+after_2007,0003,0005,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967703,índex QAELS-e-2010
+after_2007,0003,0005,F016194,Delta de l'Ebre-El Clot - H240012000,304379,4503557,3967705,EQATg
+after_2007,0003,0005,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967717,Clorofil·la a
+after_2007,0003,0005,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967718,índex RIC
+after_2007,0003,0005,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967719,índex ACCO-2010
+after_2007,0003,0005,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967720,índex QAELS-e-2010
+after_2007,0003,0005,F016195,Delta de l'Ebre-les Olles - H240003000,306597,4517564,3967722,EQATg
+after_2007,0003,0005,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967734,Clorofil·la a
+after_2007,0003,0005,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967735,índex RIC
+after_2007,0003,0005,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967736,índex ACCO-2010
+after_2007,0003,0005,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967737,índex QAELS-e-2010
+after_2007,0003,0005,F016196,Delta de l'Ebre-La Tancada - H240010000,307262,4502581,3967739,EQATg
+after_2007,0003,0005,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967751,Clorofil·la a
+after_2007,0003,0005,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967752,índex RIC
+after_2007,0003,0005,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967753,índex ACCO-2010
+after_2007,0003,0005,F016198,Delta de l'Ebre-Riet Vell - H240009000,311999,4503634,3967754,índex QAELS-e-2010
+after_2007,0003,0005,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416143,índex ACCO-2010
+after_2007,0003,0005,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416148,índex QAELS-e-2010
+after_2007,0003,0005,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4416149,índex RIC
+after_2007,0003,0005,F016199,Herbassars de Castelldans - H230006000,311954,4596217,4420682,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967768,Clorofil·la a (camp)
+after_2007,0003,0005,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967769,índex RIC
+after_2007,0003,0005,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967770,índex ACCO-2010
+after_2007,0003,0005,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,3967771,índex QAELS-e-2010
+after_2007,0003,0005,F016200,Desembocadura del torrent de Santes Creus - H194403000,312970,4525877,4420730,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967785,Clorofil·la a
+after_2007,0003,0005,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967786,índex RIC
+after_2007,0003,0005,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967787,índex ACCO-2010
+after_2007,0003,0005,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967788,índex QAELS-e-2010
+after_2007,0003,0005,F016201,Delta de l'Ebre-El Canal Vell - H240004000,313236,4512726,3967790,EQATg
+after_2007,0003,0005,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967802,Clorofil·la a
+after_2007,0003,0005,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967803,índex RIC
+after_2007,0003,0005,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967804,índex ACCO-2010
+after_2007,0003,0005,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967805,índex QAELS-e-2010
+after_2007,0003,0005,F016202,Delta de l'Ebre-La Platjola - H240008000,313275,4503560,3967807,EQATg
+after_2007,0003,0005,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967819,Clorofil·la a (camp)
+after_2007,0003,0005,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967820,índex RIC
+after_2007,0003,0005,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967821,índex ACCO-2010
+after_2007,0003,0005,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,3967822,índex QAELS-e-2010
+after_2007,0003,0005,F016204,Desembocadura del torrent de l'Estany - H194402000,313826,4526816,4420731,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967836,Clorofil·la a (camp)
+after_2007,0003,0005,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967837,índex RIC
+after_2007,0003,0005,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967838,índex ACCO-2010
+after_2007,0003,0005,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,3967839,índex QAELS-e-2010
+after_2007,0003,0005,F016205,Desembocadura del torrent del Pi - H194401000,316541,4529943,4420732,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967853,Clorofil·la a
+after_2007,0003,0005,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967854,índex RIC
+after_2007,0003,0005,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967855,índex ACCO-2010
+after_2007,0003,0005,F016206,Delta de l'Ebre-L'Alfacada - H240007000,316900,4505233,3967856,índex QAELS-e-2010
+after_2007,0003,0005,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967870,Clorofil·la a
+after_2007,0003,0005,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967871,índex RIC
+after_2007,0003,0005,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967872,índex ACCO-2010
+after_2007,0003,0005,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967873,índex QAELS-e-2010
+after_2007,0003,0005,F016207,Delta de l'Ebre-El Garxal - H240005000,318953,4510222,3967875,EQATg
+after_2007,0003,0005,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967887,Clorofil·la a
+after_2007,0003,0005,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967888,índex RIC
+after_2007,0003,0005,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967889,índex ACCO-2010
+after_2007,0003,0005,F016208,Delta de l'Ebre-Illa de Buda - H240006001,319432,4509121,3967890,índex QAELS-e-2010
+after_2007,0003,0005,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967904,Clorofil·la a
+after_2007,0003,0005,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967905,índex RIC
+after_2007,0003,0005,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967906,índex ACCO-2010
+after_2007,0003,0005,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967907,índex QAELS-e-2010
+after_2007,0003,0005,F016209,Delta de l'Ebre-Illa de Buda - H240006000,319574,4507523,3967909,EQATg
+after_2007,0003,0005,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967921,Clorofil·la a (camp)
+after_2007,0003,0005,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967922,índex RIC
+after_2007,0003,0005,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967923,índex ACCO-2010
+after_2007,0003,0005,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,3967924,índex QAELS-e-2010
+after_2007,0003,0005,F016210,Desembocadura del riu Llastres - H191301000,325987,4539942,4420733,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416097,% cianobacteris
+after_2007,0003,0005,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416111,índex ACCO-2010
+after_2007,0003,0005,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416115,índex InGA
+after_2007,0003,0005,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416116,índex QAELS-e-2010
+after_2007,0003,0005,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4416117,índex RIC
+after_2007,0003,0005,F016212,Estany d'Ivars i Vila-sana - H230005000,329168,4616525,4420683,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016213,Sèquia Major - H190001000,346879,4549250,3967938,Clorofil·la a (camp)
+after_2007,0003,0005,F016213,Sèquia Major - H190001000,346879,4549250,3967939,índex RIC
+after_2007,0003,0005,F016213,Sèquia Major - H190001000,346879,4549250,3967940,índex ACCO-2010
+after_2007,0003,0005,F016213,Sèquia Major - H190001000,346879,4549250,3967941,índex QAELS-e-2010
+after_2007,0003,0005,F016213,Sèquia Major - H190001000,346879,4549250,4416013,% cianobacteris
+after_2007,0003,0005,F016213,Sèquia Major - H190001000,346879,4549250,4416023,índex InGA
+after_2007,0003,0005,F016213,Sèquia Major - H190001000,346879,4549250,4420734,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016214,Basses de Sió - H230004000,350306,4621862,3967955,Clorofil·la a (camp)
+after_2007,0003,0005,F016214,Basses de Sió - H230004000,350306,4621862,3967956,índex RIC
+after_2007,0003,0005,F016214,Basses de Sió - H230004000,350306,4621862,3967957,índex ACCO-2010
+after_2007,0003,0005,F016214,Basses de Sió - H230004000,350306,4621862,3967958,índex QAELS-e-2010
+after_2007,0003,0005,F016214,Basses de Sió - H230004000,350306,4621862,4420735,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967972,Clorofil·la a (camp)
+after_2007,0003,0005,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967973,índex RIC
+after_2007,0003,0005,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967974,índex ACCO-2010
+after_2007,0003,0005,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,3967975,índex QAELS-e-2010
+after_2007,0003,0005,F016215,Desembocadura del riu Gaià - H101501000,362829,4554900,4420736,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967989,Clorofil·la a (camp)
+after_2007,0003,0005,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967990,índex RIC
+after_2007,0003,0005,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967991,índex ACCO-2010
+after_2007,0003,0005,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967992,índex QAELS-e-2010
+after_2007,0003,0005,F016216,Platja de Torredembarra - H183301000,368784,4557163,3967994,EQATg
+after_2007,0003,0005,F016216,Platja de Torredembarra - H183301000,368784,4557163,4420737,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968006,Clorofil·la a (camp)
+after_2007,0003,0005,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968007,índex RIC
+after_2007,0003,0005,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968008,índex ACCO-2010
+after_2007,0003,0005,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968009,índex QAELS-e-2010
+after_2007,0003,0005,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,3968011,EQATg
+after_2007,0003,0005,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4158709,Clorofil·la b
+after_2007,0003,0005,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4158710,Clorofil·la c
+after_2007,0003,0005,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4415665,% cianobacteris
+after_2007,0003,0005,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4415675,índex InGA
+after_2007,0003,0005,F016217,Delta del Llobregat-Estany de la Murtra - H180002000,419713,4569594,4420738,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968023,Clorofil·la a (camp)
+after_2007,0003,0005,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968024,índex RIC
+after_2007,0003,0005,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968025,índex ACCO-2010
+after_2007,0003,0005,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968026,índex QAELS-e-2010
+after_2007,0003,0005,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,3968028,EQATg
+after_2007,0003,0005,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4158671,Clorofil·la b
+after_2007,0003,0005,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4158842,Clorofil·la c
+after_2007,0003,0005,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4415380,% cianobacteris
+after_2007,0003,0005,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4415390,índex InGA
+after_2007,0003,0005,F016218,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906001,421246,4570763,4420739,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968040,Clorofil·la a (camp)
+after_2007,0003,0005,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968041,índex RIC
+after_2007,0003,0005,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968042,índex ACCO-2010
+after_2007,0003,0005,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968043,índex QAELS-e-2010
+after_2007,0003,0005,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,3968045,EQATg
+after_2007,0003,0005,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4158690,Clorofil·la b
+after_2007,0003,0005,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4158691,Clorofil·la c
+after_2007,0003,0005,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4415983,% cianobacteris
+after_2007,0003,0005,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4415993,índex InGA
+after_2007,0003,0005,F016219,Delta del Llobregat-Riera de Sant Climent - H180001000,421436,4570049,4420740,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968057,Clorofil·la a (camp)
+after_2007,0003,0005,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968058,índex RIC
+after_2007,0003,0005,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968059,índex ACCO-2010
+after_2007,0003,0005,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968060,índex QAELS-e-2010
+after_2007,0003,0005,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,3968062,EQATg
+after_2007,0003,0005,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4158652,Clorofil·la b
+after_2007,0003,0005,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4158653,Clorofil·la c
+after_2007,0003,0005,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4415725,% cianobacteris
+after_2007,0003,0005,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4415735,índex InGA
+after_2007,0003,0005,F016220,Delta del Llobregat-El Remolar-Filipines-Pas Vaques - H178906000,422266,4570283,4420741,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968074,Clorofil·la a (camp)
+after_2007,0003,0005,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968075,índex RIC
+after_2007,0003,0005,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968076,índex ACCO-2010
+after_2007,0003,0005,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968077,índex QAELS-e-2010
+after_2007,0003,0005,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,3968079,EQATg
+after_2007,0003,0005,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,4158633,Clorofil·la b
+after_2007,0003,0005,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,4158843,Clorofil·la c
+after_2007,0003,0005,F016221,Delta del Llobregat-La Roberta - H178905000,423345,4570476,4420742,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968091,Clorofil·la a (camp)
+after_2007,0003,0005,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968092,índex RIC
+after_2007,0003,0005,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968093,índex ACCO-2010
+after_2007,0003,0005,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968094,índex QAELS-e-2010
+after_2007,0003,0005,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,3968096,EQATg
+after_2007,0003,0005,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4158614,Clorofil·la b
+after_2007,0003,0005,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4158615,Clorofil·la c
+after_2007,0003,0005,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4415680,% cianobacteris
+after_2007,0003,0005,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4415690,índex InGA
+after_2007,0003,0005,F016222,Delta del Llobregat-Estany de la Ricarda - H178904000,425762,4571603,4420743,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968108,Clorofil·la a (camp)
+after_2007,0003,0005,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968109,índex RIC
+after_2007,0003,0005,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968110,índex ACCO-2010
+after_2007,0003,0005,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,3968111,índex QAELS-e-2010
+after_2007,0003,0005,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,4158595,Clorofil·la b
+after_2007,0003,0005,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,4158596,Clorofil·la c
+after_2007,0003,0005,F016223,Delta del Llobregat - La Magarola - H178903000,426154,4571705,4420744,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968125,Clorofil·la a (camp)
+after_2007,0003,0005,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968126,índex RIC
+after_2007,0003,0005,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968127,índex ACCO-2010
+after_2007,0003,0005,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968128,índex QAELS-e-2010
+after_2007,0003,0005,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,3968130,EQATg
+after_2007,0003,0005,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4158576,Clorofil·la b
+after_2007,0003,0005,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4158577,Clorofil·la c
+after_2007,0003,0005,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4415575,% cianobacteris
+after_2007,0003,0005,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4415585,índex InGA
+after_2007,0003,0005,F016224,Delta de Llobregat-Cal Tet - H178902000,426562,4572694,4420745,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968142,Clorofil·la a (camp)
+after_2007,0003,0005,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968143,índex RIC
+after_2007,0003,0005,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968144,índex ACCO-2010
+after_2007,0003,0005,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968145,índex QAELS-e-2010
+after_2007,0003,0005,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,3968147,EQATg
+after_2007,0003,0005,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4158557,Clorofil·la b
+after_2007,0003,0005,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4158558,Clorofil·la c
+after_2007,0003,0005,F016225,Delta de Llobregat-Ca l'Arana - H178901000,427070,4572706,4420746,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968159,Clorofil·la a (camp)
+after_2007,0003,0005,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968160,índex RIC
+after_2007,0003,0005,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968161,índex ACCO-2010
+after_2007,0003,0005,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968162,índex QAELS-e-2010
+after_2007,0003,0005,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,3968164,EQATg
+after_2007,0003,0005,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,4158253,Clorofil·la b
+after_2007,0003,0005,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,4158254,Clorofil·la c
+after_2007,0003,0005,F016226,Basses d'en Broc i Aiguamoixos de la Déu Vella - H104005000,457684,4668278,4420747,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968176,Clorofil·la a (camp)
+after_2007,0003,0005,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968177,índex RIC
+after_2007,0003,0005,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968178,índex ACCO-2010
+after_2007,0003,0005,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968179,índex QAELS-e-2010
+after_2007,0003,0005,F016227,Basses de Can Jordà - H104006000,459280,4665966,3968181,EQATg
+after_2007,0003,0005,F016227,Basses de Can Jordà - H104006000,459280,4665966,4158272,Clorofil·la b
+after_2007,0003,0005,F016227,Basses de Can Jordà - H104006000,459280,4665966,4158273,Clorofil·la c
+after_2007,0003,0005,F016227,Basses de Can Jordà - H104006000,459280,4665966,4420748,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158214,Clorofil·la a (camp)
+after_2007,0003,0005,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158229,índex RIC
+after_2007,0003,0005,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158230,índex ACCO-2010
+after_2007,0003,0005,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4158231,índex QAELS-e-2010
+after_2007,0003,0005,F016228,Estanyols de la Vall de Sant Miquel de Campmajor-Estanyols temporanis petits - H104003000,473478,4664131,4420691,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158233,Clorofil·la a (camp)
+after_2007,0003,0005,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158234,Clorofil·la b
+after_2007,0003,0005,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158235,Clorofil·la c
+after_2007,0003,0005,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158248,índex RIC
+after_2007,0003,0005,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158249,índex ACCO-2010
+after_2007,0003,0005,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4158250,índex QAELS-e-2010
+after_2007,0003,0005,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4415785,% cianobacteris
+after_2007,0003,0005,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4415795,índex InGA
+after_2007,0003,0005,F016229,Estanyols de la Vall de Sant Miquel de Campmajor - H104004000,473716,4663066,4420690,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016230,Estany de Bancells - H105002000,474867,4621612,4158309,Clorofil·la a (camp)
+after_2007,0003,0005,F016230,Estany de Bancells - H105002000,474867,4621612,4158324,índex RIC
+after_2007,0003,0005,F016230,Estany de Bancells - H105002000,474867,4621612,4158325,índex ACCO-2010
+after_2007,0003,0005,F016230,Estany de Bancells - H105002000,474867,4621612,4158326,índex QAELS-e-2010
+after_2007,0003,0005,F016230,Estany de Bancells - H105002000,474867,4621612,4420688,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968193,Clorofil·la a (camp)
+after_2007,0003,0005,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968194,índex RIC
+after_2007,0003,0005,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968195,índex ACCO-2010
+after_2007,0003,0005,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968196,índex QAELS-e-2010
+after_2007,0003,0005,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,3968198,EQATg
+after_2007,0003,0005,F016231,Estanys de Tordera-Estany de Can Torrent - H105006000,475258,4616435,4420749,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968210,Clorofil·la a (camp)
+after_2007,0003,0005,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968211,índex RIC
+after_2007,0003,0005,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968212,índex ACCO-2010
+after_2007,0003,0005,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,3968213,índex QAELS-e-2010
+after_2007,0003,0005,F016232,Estanys de Tordera-Estany de la Júlia - H105003000,475311,4618678,4420750,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968227,Clorofil·la a (camp)
+after_2007,0003,0005,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968228,índex RIC
+after_2007,0003,0005,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968229,índex ACCO-2010
+after_2007,0003,0005,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,3968230,índex QAELS-e-2010
+after_2007,0003,0005,F016233,Estanys de Tordera-Braç esquerre de l'illa del Tordera - H105004000,475842,4617296,4420751,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968244,Clorofil·la a (camp)
+after_2007,0003,0005,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968245,índex RIC
+after_2007,0003,0005,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968246,índex ACCO-2010
+after_2007,0003,0005,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968247,índex QAELS-e-2010
+after_2007,0003,0005,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,3968249,EQATg
+after_2007,0003,0005,F016234,Estanys de Tordera-Estany de Can Raba - H105005000,476940,4617485,4420752,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016235,Estany de Sils - H105001000,478631,4627820,4158290,Clorofil·la a (camp)
+after_2007,0003,0005,F016235,Estany de Sils - H105001000,478631,4627820,4158305,índex RIC
+after_2007,0003,0005,F016235,Estany de Sils - H105001000,478631,4627820,4158306,índex ACCO-2010
+after_2007,0003,0005,F016235,Estany de Sils - H105001000,478631,4627820,4158307,índex QAELS-e-2010
+after_2007,0003,0005,F016235,Estany de Sils - H105001000,478631,4627820,4415770,% cianobacteris
+after_2007,0003,0005,F016235,Estany de Sils - H105001000,478631,4627820,4415780,índex InGA
+after_2007,0003,0005,F016235,Estany de Sils - H105001000,478631,4627820,4420689,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158195,Clorofil·la a (camp)
+after_2007,0003,0005,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158210,índex RIC
+after_2007,0003,0005,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158211,índex ACCO-2010
+after_2007,0003,0005,F016236,Clot d'Espolla-Platja d'Espolla - H104002000,480693,4666475,4158212,índex QAELS-e-2010
+after_2007,0003,0005,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968261,Clorofil·la a (camp)
+after_2007,0003,0005,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968262,índex RIC
+after_2007,0003,0005,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968263,índex ACCO-2010
+after_2007,0003,0005,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968264,índex QAELS-e-2010
+after_2007,0003,0005,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,3968266,EQATg
+after_2007,0003,0005,F016237,Desembocadura del riu Tordera - H105007000,481386,4611198,4420753,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158043,Clorofil·la a (camp)
+after_2007,0003,0005,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158044,Clorofil·la b
+after_2007,0003,0005,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158045,Clorofil·la c
+after_2007,0003,0005,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158058,índex RIC
+after_2007,0003,0005,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158059,índex ACCO-2010
+after_2007,0003,0005,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4158060,índex QAELS-e-2010
+after_2007,0003,0005,F016238,Estanyols de Mas Margall - H103005000,492353,4677498,4420698,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157948,Clorofil·la a (camp)
+after_2007,0003,0005,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157963,índex RIC
+after_2007,0003,0005,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157964,índex ACCO-2010
+after_2007,0003,0005,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4157965,índex QAELS-e-2010
+after_2007,0003,0005,F016239,Estanys de les Alberes-Estanys de Canadal - H103001001,492052,4694301,4420703,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157929,Clorofil·la a (camp)
+after_2007,0003,0005,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157944,índex RIC
+after_2007,0003,0005,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157945,índex ACCO-2010
+after_2007,0003,0005,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4157946,índex QAELS-e-2010
+after_2007,0003,0005,F016240,Estanys de les Alberes-Estanys de Canadal - H103001000,492581,4693746,4420704,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157967,Clorofil·la a (camp)
+after_2007,0003,0005,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157982,índex RIC
+after_2007,0003,0005,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157983,índex ACCO-2010
+after_2007,0003,0005,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4157984,índex QAELS-e-2010
+after_2007,0003,0005,F016241,Estanys de les Alberes-Estanys de Cantallops - H103002000,494139,4693988,4420702,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158005,Clorofil·la a (camp)
+after_2007,0003,0005,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158020,índex RIC
+after_2007,0003,0005,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158021,índex ACCO-2010
+after_2007,0003,0005,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4158022,índex QAELS-e-2010
+after_2007,0003,0005,F016242,Estanys dels Tórlits - H103004000,495931,4690868,4420700,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158024,Clorofil·la a (camp)
+after_2007,0003,0005,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158039,índex RIC
+after_2007,0003,0005,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158040,índex ACCO-2010
+after_2007,0003,0005,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4158041,índex QAELS-e-2010
+after_2007,0003,0005,F016243,Estanys dels Tórlits - H103004001,496618,4691863,4420699,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016244,Estanys de Gutina - H103003000,498332,4693849,4157986,Clorofil·la a (camp)
+after_2007,0003,0005,F016244,Estanys de Gutina - H103003000,498332,4693849,4158001,índex RIC
+after_2007,0003,0005,F016244,Estanys de Gutina - H103003000,498332,4693849,4158002,índex ACCO-2010
+after_2007,0003,0005,F016244,Estanys de Gutina - H103003000,498332,4693849,4158003,índex QAELS-e-2010
+after_2007,0003,0005,F016244,Estanys de Gutina - H103003000,498332,4693849,4420701,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158176,Clorofil·la a (camp)
+after_2007,0003,0005,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158177,Clorofil·la b
+after_2007,0003,0005,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158178,Clorofil·la c
+after_2007,0003,0005,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158191,índex RIC
+after_2007,0003,0005,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158192,índex ACCO-2010
+after_2007,0003,0005,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4158193,índex QAELS-e-2010
+after_2007,0003,0005,F016245,Aiguamolls de l'Alt Empordà-Meandres del riu Fluvià - H104001000,506864,4669601,4420693,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158157,Clorofil·la a (camp)
+after_2007,0003,0005,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158158,Clorofil·la b
+after_2007,0003,0005,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158159,Clorofil·la c
+after_2007,0003,0005,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158172,índex RIC
+after_2007,0003,0005,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158173,índex ACCO-2010
+after_2007,0003,0005,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4158174,índex QAELS-e-2010
+after_2007,0003,0005,F016246,Aiguamolls de l'Alt Empordà-Estany del Cortalet - H103010000,507909,4674620,4420694,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158518,Clorofil·la a (camp)
+after_2007,0003,0005,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158519,Clorofil·la b
+after_2007,0003,0005,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158520,Clorofil·la c
+after_2007,0003,0005,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158533,índex RIC
+after_2007,0003,0005,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158534,índex ACCO-2010
+after_2007,0003,0005,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4158535,índex QAELS-e-2010
+after_2007,0003,0005,F016247,Aiguamolls de l'Alt Empordà-Riu Vell - H160001000,508751,4666210,4420685,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158138,Clorofil·la a (camp)
+after_2007,0003,0005,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158139,Clorofil·la b
+after_2007,0003,0005,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158140,Clorofil·la c
+after_2007,0003,0005,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158153,índex RIC
+after_2007,0003,0005,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158154,índex ACCO-2010
+after_2007,0003,0005,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4158155,índex QAELS-e-2010
+after_2007,0003,0005,F016248,Aiguamolls de l'Alt Empordà-La Massona i la Llarga - H103009000,508755,4673041,4420695,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158119,Clorofil·la a (camp)
+after_2007,0003,0005,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158120,Clorofil·la b
+after_2007,0003,0005,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158121,Clorofil·la c
+after_2007,0003,0005,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158134,índex RIC
+after_2007,0003,0005,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158135,índex ACCO-2010
+after_2007,0003,0005,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4158136,índex QAELS-e-2010
+after_2007,0003,0005,F016249,Aiguamolls de l'Alt Empordà - La Llarga - H103008000,508821,4673354,4420696,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158100,Clorofil·la a (camp)
+after_2007,0003,0005,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158101,Clorofil·la b
+after_2007,0003,0005,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158102,Clorofil·la c
+after_2007,0003,0005,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158115,índex RIC
+after_2007,0003,0005,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158116,índex ACCO-2010
+after_2007,0003,0005,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4158117,índex QAELS-e-2010
+after_2007,0003,0005,F016250,Aiguamolls de l'Alt Empordà-La Rogera - H103007001,508957,4674575,4420697,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157777,Clorofil·la a (camp)
+after_2007,0003,0005,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157778,Clorofil·la b
+after_2007,0003,0005,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157779,Clorofil·la c
+after_2007,0003,0005,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157792,índex RIC
+after_2007,0003,0005,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157793,índex ACCO-2010
+after_2007,0003,0005,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4157794,índex QAELS-e-2010
+after_2007,0003,0005,F016251,Aiguamolls de l'Alt Empordà-Est.de Vilaüt-Bassa Rodona - H100201000,509065,4681823,4420708,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968278,Clorofil·la a (camp)
+after_2007,0003,0005,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968279,índex RIC
+after_2007,0003,0005,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968280,índex ACCO-2010
+after_2007,0003,0005,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,3968281,índex QAELS-e-2010
+after_2007,0003,0005,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,4158082,Clorofil·la b
+after_2007,0003,0005,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,4158083,Clorofil·la c
+after_2007,0003,0005,F016252,Aiguamolls de l'Alt Empordà-La Rogera - H103007000,509367,4674385,4420713,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968295,Clorofil·la a (camp)
+after_2007,0003,0005,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968296,índex RIC
+after_2007,0003,0005,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968297,índex ACCO-2010
+after_2007,0003,0005,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,3968298,índex QAELS-e-2010
+after_2007,0003,0005,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,4158063,Clorofil·la b
+after_2007,0003,0005,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,4158064,Clorofil·la c
+after_2007,0003,0005,F016253,Aiguamolls de l'Alt Empordà-Estany d'en Túries - H103006000,509405,4675999,4420712,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968312,Clorofil·la a (camp)
+after_2007,0003,0005,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968313,índex RIC
+after_2007,0003,0005,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968314,índex ACCO-2010
+after_2007,0003,0005,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968315,índex QAELS-e-2010
+after_2007,0003,0005,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,3968317,EQATg
+after_2007,0003,0005,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4157835,Clorofil·la b
+after_2007,0003,0005,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4157836,Clorofil·la c
+after_2007,0003,0005,F016254,Aiguamolls de l'Alt Empordà-Estany del Tec - H100204000,510377,4679157,4420711,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157815,Clorofil·la a (camp)
+after_2007,0003,0005,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157816,Clorofil·la b
+after_2007,0003,0005,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157817,Clorofil·la c
+after_2007,0003,0005,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157830,índex RIC
+after_2007,0003,0005,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157831,índex ACCO-2010
+after_2007,0003,0005,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4157832,índex QAELS-e-2010
+after_2007,0003,0005,F016255,Aiguamolls de l'Alt Empordà-Estany d'Aigua Clara - H100203000,510382,4679743,4420706,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157796,Clorofil·la a (camp)
+after_2007,0003,0005,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157797,Clorofil·la b
+after_2007,0003,0005,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157798,Clorofil·la c
+after_2007,0003,0005,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157811,índex RIC
+after_2007,0003,0005,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157812,índex ACCO-2010
+after_2007,0003,0005,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4157813,índex QAELS-e-2010
+after_2007,0003,0005,F016256,Aiguamolls de l'Alt Empordà-Estany de Palau de Baix - H100202000,510610,4680423,4420707,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968329,Clorofil·la a (camp)
+after_2007,0003,0005,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968330,índex RIC
+after_2007,0003,0005,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968331,índex ACCO-2010
+after_2007,0003,0005,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,3968332,índex QAELS-e-2010
+after_2007,0003,0005,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,4157854,Clorofil·la b
+after_2007,0003,0005,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,4157855,Clorofil·la c
+after_2007,0003,0005,F016257,Aiguamolls de l'Alt Empordà - Aiguamolls de la Rubina nord - H100205000,511907,4678745,4420710,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016258,Platja Castell - H161801000,512894,4634747,3968346,Clorofil·la a (camp)
+after_2007,0003,0005,F016258,Platja Castell - H161801000,512894,4634747,3968347,índex RIC
+after_2007,0003,0005,F016258,Platja Castell - H161801000,512894,4634747,3968348,índex ACCO-2010
+after_2007,0003,0005,F016258,Platja Castell - H161801000,512894,4634747,3968349,índex QAELS-e-2010
+after_2007,0003,0005,F016258,Platja Castell - H161801000,512894,4634747,4158538,Clorofil·la b
+after_2007,0003,0005,F016258,Platja Castell - H161801000,512894,4634747,4158539,Clorofil·la c
+after_2007,0003,0005,F016258,Platja Castell - H161801000,512894,4634747,4420754,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016259,Estanyets de Pals - H100601000,513424,4649229,3968363,Clorofil·la a (camp)
+after_2007,0003,0005,F016259,Estanyets de Pals - H100601000,513424,4649229,3968364,índex RIC
+after_2007,0003,0005,F016259,Estanyets de Pals - H100601000,513424,4649229,3968365,índex ACCO-2010
+after_2007,0003,0005,F016259,Estanyets de Pals - H100601000,513424,4649229,3968366,índex QAELS-e-2010
+after_2007,0003,0005,F016259,Estanyets de Pals - H100601000,513424,4649229,4415232,% cianobacteris
+after_2007,0003,0005,F016259,Estanyets de Pals - H100601000,513424,4649229,4415241,índex InGA
+after_2007,0003,0005,F016259,Estanyets de Pals - H100601000,513424,4649229,4420755,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968380,Clorofil·la a (camp)
+after_2007,0003,0005,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968381,índex RIC
+after_2007,0003,0005,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968382,índex ACCO-2010
+after_2007,0003,0005,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968383,índex QAELS-e-2010
+after_2007,0003,0005,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,3968385,EQATg
+after_2007,0003,0005,F016260,Aiguamolls del Baix Empordà-Bassa del Frare Ramon - H110003000,515751,4653027,4420756,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157891,Clorofil·la a (camp)
+after_2007,0003,0005,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157906,índex RIC
+after_2007,0003,0005,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157907,índex ACCO-2010
+after_2007,0003,0005,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4157908,índex QAELS-e-2010
+after_2007,0003,0005,F016261,Aiguamolls del Baix Empordà-Basses d'en Coll - H100602000,515980,4650235,4420705,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968397,Clorofil·la a (camp)
+after_2007,0003,0005,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968398,índex RIC
+after_2007,0003,0005,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968399,índex ACCO-2010
+after_2007,0003,0005,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,3968400,índex QAELS-e-2010
+after_2007,0003,0005,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4158500,Clorofil·la b
+after_2007,0003,0005,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4158501,Clorofil·la c
+after_2007,0003,0005,F016262,Sorrals de Can Pomac - H150002000,516004,4681816,4420757,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968414,Clorofil·la a (camp)
+after_2007,0003,0005,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968415,índex RIC
+after_2007,0003,0005,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968416,índex ACCO-2010
+after_2007,0003,0005,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,3968417,índex QAELS-e-2010
+after_2007,0003,0005,F016263,Aiguamolls del Baix Empordà-El Ter Vell - H110002000,516125,4654864,4420758,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158442,Clorofil·la a (camp)
+after_2007,0003,0005,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158457,índex RIC
+after_2007,0003,0005,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158458,índex ACCO-2010
+after_2007,0003,0005,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4158459,índex QAELS-e-2010
+after_2007,0003,0005,F016264,Aiguamolls del Baix Empordà-El Ter Vell - H110002001,516163,4655069,4420687,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158480,Clorofil·la a (camp)
+after_2007,0003,0005,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158495,índex RIC
+after_2007,0003,0005,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158496,índex ACCO-2010
+after_2007,0003,0005,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4158497,índex QAELS-e-2010
+after_2007,0003,0005,F016265,Estanyols del Pla dels Estanyets - H150001000,524939,4685184,4420686,Clorofil·la a (laboratori)
+after_2007,0003,0005,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968431,Clorofil·la a
+after_2007,0003,0005,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968432,índex RIC
+after_2007,0003,0005,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968433,índex ACCO-2010
+after_2007,0003,0005,F016268,Delta de l'Ebre-Ullals de l'Arispe i Baltasar - H240015000,296630,4505713,3968434,índex QAELS-e-2010
+after_2007,0003,0005,F021074,Estany de Basturs - 136160000,336495,4667760,4060662,índex InClo
+after_2007,0003,0005,F021074,Estany de Basturs - 136160000,336495,4667760,4060663,índex InGA
+after_2007,0003,0005,F021074,Estany de Basturs - 136160000,336495,4667760,4060664,índex InMac
+after_2007,0003,0005,F021074,Estany de Basturs - 136160000,336495,4667760,4060665,% perímetre helòfits
+after_2007,0003,0005,F021074,Estany de Basturs - 136160000,336495,4667760,4060666,índex InMacro
+after_2007,0003,0005,F021074,Estany de Basturs - 136160000,336495,4667760,4060670,Clorofil·la a (camp)
+after_2007,0003,0005,F021074,Estany de Basturs - 136160000,336495,4667760,4410168,% cianobacteris
+after_2007,0003,0005,F021074,Estany de Basturs - 136160000,336495,4667760,4420759,Clorofil·la a (laboratori)
+after_2007,0003,0005,F021075,Estany de Montcortès - 139160000,334919,4688704,4060678,índex InClo
+after_2007,0003,0005,F021075,Estany de Montcortès - 139160000,334919,4688704,4060679,índex InGA
+after_2007,0003,0005,F021075,Estany de Montcortès - 139160000,334919,4688704,4060680,índex InMac
+after_2007,0003,0005,F021075,Estany de Montcortès - 139160000,334919,4688704,4060681,% perímetre helòfits
+after_2007,0003,0005,F021075,Estany de Montcortès - 139160000,334919,4688704,4060682,índex InMacro
+after_2007,0003,0005,F021075,Estany de Montcortès - 139160000,334919,4688704,4060686,Clorofil·la a (camp)
+after_2007,0003,0005,F021075,Estany de Montcortès - 139160000,334919,4688704,4410176,% cianobacteris
+after_2007,0003,0005,F021075,Estany de Montcortès - 139160000,334919,4688704,4420760,Clorofil·la a (laboratori)

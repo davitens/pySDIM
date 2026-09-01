@@ -1,0 +1,714 @@
+period,network,subnetwork,station,station_name,x,y,variable_id,variable_name
+after_2007,0005,0011,F000025,Cubeta d'Abrera - 08001-0015,409277,4598220,F000025NPM,Nivell piezomètric
+after_2007,0005,0011,F000026,Cubeta d'Abrera - 08001-0044,409247,4598377,F000026NPM,Nivell piezomètric
+after_2007,0005,0011,F000028,Cubeta d'Abrera - 08147-0045,408844,4598726,F000028NPM,Nivell piezomètric
+after_2007,0005,0011,F000029,Cubeta d'Abrera - 08001-0039,409587.35,4595217.23,1701988,Nivell piezomètric
+after_2007,0005,0011,F000029,Cubeta d'Abrera - 08001-0039,409587.35,4595217.23,3106766,08001-0039_Abrera_AB2_Nivell piezometric_REV0
+after_2007,0005,0011,F000029,Cubeta d'Abrera - 08001-0039,409587.35,4595217.23,F000029NPM,08001-0039_Abrera_AB2_Nivell piezometric_Manual
+after_2007,0005,0011,F000030,Cubeta d'Abrera - 08001-0041,409347.25,4598113.52,F000030NPM,Nivell piezomètric
+after_2007,0005,0011,F000031,Detrític neogen del Penedès - 08114-0035,410311.93,4591926.42,F000031NPM,Nivell piezomètric
+after_2007,0005,0011,F000032,Cubeta d'Abrera - 08054-0074,410166.34,4593607.52,3106762,08054-0074_Castellbisbal_AB1_Nivell piezometric_REV0
+after_2007,0005,0011,F000032,Cubeta d'Abrera - 08054-0074,410166.34,4593607.52,3993521,Nivell piezomètric
+after_2007,0005,0011,F000032,Cubeta d'Abrera - 08054-0074,410166.34,4593607.52,F000032NPA,08054-0074_Castellbisbal_AB1_Nivell piezometric_Manual
+after_2007,0005,0011,F000037,Cubeta de Sant Andreu - 08054-0072,413747.53,4591299.79,F000037NPA,Nivell piezomètric (F000037NPA)
+after_2007,0005,0011,F000038,Cubeta de Sant Andreu - 08054-0073,413270.73,4591879.8,F000038NPM,Nivell piezomètric
+after_2007,0005,0011,F000040,Vall baixa i Delta del Llobregat - 08157-0011,417039.59,4585351.76,3115661,08157-0011_Palleja_P_Nivell piezomètric_REV0
+after_2007,0005,0011,F000040,Vall baixa i Delta del Llobregat - 08157-0011,417039.59,4585351.76,F000040NPA,P_Palleja_Nivell piezometric (limnígraf)_REV0
+after_2007,0005,0011,F000040,Vall baixa i Delta del Llobregat - 08157-0011,417039.59,4585351.76,F000040NPM,Nivell piezomètric (F000040NPM)
+after_2007,0005,0011,F000042,Vall baixa i Delta del Llobregat - 08244-0009,419132.25,4579978.94,F000042NPM,Nivell piezomètric
+after_2007,0005,0011,F000047,Vall baixa i Delta del Llobregat - 08211-0036,419443.88,4583108.74,F000047NPM,Nivell piezomètric
+after_2007,0005,0011,F000048,Vall baixa i Delta del Llobregat - 08158-0012,416172.81,4588365.27,F000048NPA,Nivell piezomètric (F000048NPA)
+after_2007,0005,0011,F000048,Vall baixa i Delta del Llobregat - 08158-0012,416172.81,4588365.27,F000048NPM,Nivell piezomètric (F000048NPM)
+after_2007,0005,0011,F000049,Vall baixa i Delta del Llobregat - 08217-0018,420194,4580672,F000049NPA,Nivell piezomètric (F000049NPA)
+after_2007,0005,0011,F000049,Vall baixa i Delta del Llobregat - 08217-0018,420194,4580672,F000049NPM,Nivell piezomètric (F000049NPM)
+after_2007,0005,0011,F000050,Vall baixa i Delta del Llobregat - 08211-0007,419171,4581653,F000050NPM,Nivell piezomètric
+after_2007,0005,0011,F000052,Vall baixa i Delta del Llobregat - 08211-0011,418551,4582074,F000052NPM,Nivell piezomètric
+after_2007,0005,0011,F000057,Vall baixa i Delta del Llobregat - 08217-0017,419844,4580475,F000057NPM,Nivell piezomètric
+after_2007,0005,0011,F000059,Vall baixa i Delta del Llobregat - 08217-0020,420410.84,4578080.72,F000059NPM,Nivell piezomètric
+after_2007,0005,0011,F000061,Vall baixa i Delta del Llobregat - 08217-0022,420651,4578226,F000061NPM,Nivell piezomètric
+after_2007,0005,0011,F000065,Vall baixa i Delta del Llobregat - 08301-0112,421045,4570659,F000065NPM,Nivell piezomètric
+after_2007,0005,0011,F000070,Vall baixa i Delta del Llobregat - 08169-0359,421596,4573211,F000070NPM,Nivell piezomètric
+after_2007,0005,0011,F000071,Vall baixa i Delta del Llobregat - 08169-0327,422995.83,4575820.7,F000071NPA,Nivell piezomètric (F000071NPA)
+after_2007,0005,0011,F000075,Vall baixa i Delta del Llobregat - 08169-0332,423900,4575785,F000075NPM,Nivell piezomètric
+after_2007,0005,0011,F000076,Vall baixa i Delta del Llobregat - 08169-0339,425329,4575114,F000076NPM,Nivell piezomètric
+after_2007,0005,0011,F000079,Vall baixa i Delta del Llobregat - 08169-0328,425237,4573714,F000079NPM,Nivell piezomètric
+after_2007,0005,0011,F000080,Vall baixa i Delta del Llobregat - 08169-0334,426519,4572027,F000080NPM,Nivell piezomètric
+after_2007,0005,0011,F000082,Vall baixa i Delta del Llobregat - 08169-0342,427035,4573815,F000082NPM,Nivell piezomètric
+after_2007,0005,0011,F000083,Vall baixa i Delta del Llobregat - 08169-0343,425918,4573611,F000083NPM,Nivell piezomètric
+after_2007,0005,0011,F000084,Vall baixa i Delta del Llobregat - 08169-0344,426035,4573469,F000084NPM,Nivell piezomètric
+after_2007,0005,0011,F000085,Vall baixa i Delta del Llobregat - 08169-0345,425954,4573218,F000085NPM,Nivell piezomètric
+after_2007,0005,0011,F000086,Vall baixa i Delta del Llobregat - 08169-0346,425949,4572965,F000086NPM,Nivell piezomètric
+after_2007,0005,0011,F000087,Vall baixa i Delta del Llobregat - 08169-0347,425636,4573021,F000087NPM,Nivell piezomètric
+after_2007,0005,0011,F000088,Vall baixa i Delta del Llobregat - 08301-0113,421044,4570662,F000088NPM,Nivell piezomètric
+after_2007,0005,0011,F000092,Vall baixa i Delta del Llobregat - 08169-0361,423016,4575866,3106769,Nivell piezomètric
+after_2007,0005,0011,F000092,Vall baixa i Delta del Llobregat - 08169-0361,423016,4575866,F000092NPA,08169-0361_Prat Llobregat_D4b_Nivell piezometric_Manual
+after_2007,0005,0011,F000097,Vall baixa i Delta del Llobregat - 08169-0333,423903,4575786,F000097NPM,Nivell piezomètric
+after_2007,0005,0011,F000100,Vall baixa i Delta del Llobregat - 08169-0340,425327,4575111,3121014,Nivell piezomètric
+after_2007,0005,0011,F000100,Vall baixa i Delta del Llobregat - 08169-0340,425327,4575111,3294749,Nivell piezomètric
+after_2007,0005,0011,F000100,Vall baixa i Delta del Llobregat - 08169-0340,425327,4575111,F000100NPM,Nivell piezomètric (F000100NPM)
+after_2007,0005,0011,F000101,Vall baixa i Delta del Llobregat - 08169-0325,422850.42,4574820.8,F000101NPM,Nivell piezomètric
+after_2007,0005,0011,F000102,Vall baixa i Delta del Llobregat - 08169-0341,425523,4573224,F000102NPA,Nivell piezomètric (F000102NPA)
+after_2007,0005,0011,F000105,Vall baixa i Delta del Llobregat - 08169-0330,425249,4573721,F000105NPM,Nivell piezomètric
+after_2007,0005,0011,F000107,Vall baixa i Delta del Llobregat - 08169-0336,426516,4572025,F000107NPM,Nivell piezomètric
+after_2007,0005,0011,F000109,Vall baixa i Delta del Llobregat - 08169-0335,426511,4572022,F000109NPM,Nivell piezomètric
+after_2007,0005,0011,F000112,Vall baixa i Delta del Llobregat - 08101-0034,424404,4577467,F000112NPM,Nivell piezomètric
+after_2007,0005,0011,F000115,Vall baixa i Delta del Llobregat - 08019-0142,427188.94,4576386.17,F000115NPM,Nivell piezomètric
+after_2007,0005,0011,F000116,Vall baixa i Delta del Llobregat - 08019-0143,427182.84,4576383.67,F000116NPM,Nivell piezomètric
+after_2007,0005,0011,F000119,Vall baixa i Delta del Llobregat - 08019-0141,428492,4577686,F000119NPM,Nivell piezomètric
+after_2007,0005,0011,F000120,Vall baixa i Delta del Llobregat - 08019-0152,428298,4577097,F000120NPM,Nivell piezomètric
+after_2007,0005,0011,F000121,Vall baixa i Delta del Llobregat - 08019-0146,428842,4575589,F000121NPM,Nivell piezomètric
+after_2007,0005,0011,F000122,Vall baixa i Delta del Llobregat - 08019-0147,428842,4575587,F000122NPM,Nivell piezomètric
+after_2007,0005,0011,F000123,Vall baixa i Delta del Llobregat - 08019-0154,427864,4576055,F000123NPM,Nivell piezomètric
+after_2007,0005,0011,F000125,Vall baixa i Delta del Llobregat - 08019-0149,429570,4577007,F000125NPM,Nivell piezomètric
+after_2007,0005,0011,F000126,Vall baixa i Delta del Llobregat - 08019-0150,429573,4577006,F000126NPM,Nivell piezomètric
+after_2007,0005,0011,F000128,Vall baixa i Delta del Llobregat - 08101-0035,424402,4577469,F000128NPM,Nivell piezomètric
+after_2007,0005,0011,F000132,Vall baixa i Delta del Llobregat - 08019-0144,427187,4576385,3281783,Nivell piezomètric
+after_2007,0005,0011,F000132,Vall baixa i Delta del Llobregat - 08019-0144,427187,4576385,3294627,Nivell piezomètric
+after_2007,0005,0011,F000132,Vall baixa i Delta del Llobregat - 08019-0144,427187,4576385,F000132NPM,08019-0144_C7'C_Barcelona_Nivell piezometric_Manual
+after_2007,0005,0011,F000133,Vall baixa i Delta del Llobregat - 08019-0145,427179,4576383,F000133NPM,Nivell piezomètric (F000133NPM)
+after_2007,0005,0011,F000136,Vall baixa i Delta del Llobregat - 08019-0148,428842,4575590,F000136NPA,Nivell piezomètric (F000136NPA)
+after_2007,0005,0011,F000136,Vall baixa i Delta del Llobregat - 08019-0148,428842,4575590,F000136NPM,Nivell piezomètric (F000136NPM)
+after_2007,0005,0011,F000138,Vall baixa i Delta del Llobregat - 08019-0155,427864,4576056,F000138NPM,Nivell piezomètric
+after_2007,0005,0011,F000139,Vall baixa i Delta del Llobregat - 08019-0151,429576,4577005,F000139NPM,Nivell piezomètric
+after_2007,0005,0011,F000141,Vall baixa i Delta del Llobregat - 08056-0017,413435.06,4568765.96,F000141NPM,Nivell piezomètric
+after_2007,0005,0011,F000144,Vall baixa i Delta del Llobregat - 08089-0050,419783.77,4569193.71,F000144NPM,Nivell piezomètric
+after_2007,0005,0011,F000146,Vall baixa i Delta del Llobregat - 08089-0047,417110,4568710,F000146NPM,Nivell piezomètric
+after_2007,0005,0011,F000148,Vall baixa i Delta del Llobregat - 08089-0051,417895,4570260,F000148NPM,Nivell piezomètric
+after_2007,0005,0011,F000151,Vall baixa i Delta del Llobregat - 08089-0053,416321,4571430,F000151NPM,Nivell piezomètric
+after_2007,0005,0011,F000152,Vall baixa i Delta del Llobregat - 08056-0020,415310.78,4570972.75,F000152NPM,Nivell piezomètric
+after_2007,0005,0011,F000153,Vall baixa i Delta del Llobregat - 08056-0021,415306.78,4570977.75,F000153NPM,Nivell piezomètric
+after_2007,0005,0011,F000155,Vall baixa i Delta del Llobregat - 08056-0019,414387,4569707,F000155NPM,Nivell piezomètric
+after_2007,0005,0011,F000160,Vall baixa i Delta del Llobregat - 08089-0049,419783.77,4569194.71,F000160NPM,Nivell piezomètric
+after_2007,0005,0011,F000161,Vall baixa i Delta del Llobregat - 08200-0048,421036,4575096,F000161NPM,Nivell piezomètric
+after_2007,0005,0011,F000162,Vall baixa i Delta del Llobregat - 08200-0049,421035,4575100,F000162NPM,Nivell piezomètric
+after_2007,0005,0011,F000166,Vall baixa i Delta del Llobregat - 08089-0048,417087,4568711,F000166NPM,Nivell piezomètric
+after_2007,0005,0011,F000168,Vall baixa i Delta del Llobregat - 08089-0052,417894.78,4570252.73,F000168NPM,Nivell piezomètric
+after_2007,0005,0011,F000173,Vall baixa i Delta del Llobregat - 08089-0054,416318,4571434,F000173NPM,Nivell piezomètric
+after_2007,0005,0011,F000174,Vall baixa i Delta del Llobregat - 08089-0055,416315,4571438,F000174NPM,Nivell piezomètric
+after_2007,0005,0011,F000175,Vall baixa i Delta del Llobregat - 08056-0022,415310.78,4570967.75,F000175NPM,Nivell piezomètric
+after_2007,0005,0011,F000176,Vall baixa i Delta del Llobregat - 08056-0023,415304.78,4570975.75,F000176NPM,Nivell piezomètric
+after_2007,0005,0011,F000177,Carme-Capellades - 08048-0009,385700.78,4598384.19,4142572,08048-0009_Carme_Cementiri_Nivell piezometric_REV0
+after_2007,0005,0011,F000177,Carme-Capellades - 08048-0009,385700.78,4598384.19,4494187,08048-0009_Carme_Cementiri_Nivell piezometric
+after_2007,0005,0011,F000177,Carme-Capellades - 08048-0009,385700.78,4598384.19,F000177NPM,08048-0009_Carme_Cementiri_Nivell piezometric_Manual
+after_2007,0005,0011,F000178,Carme-Capellades - 08048-0010,386223.35,4598209.69,F000178NPM,Nivell piezomètric
+after_2007,0005,0011,F000179,Carme-Capellades - 08152-0013,383404.44,4598340.78,F000179NPM,Nivell piezomètric
+after_2007,0005,0011,F000180,Carme-Capellades - 08044-0015,390198.74,4598093.99,4494205,08044-0015_Capellades_S6 Poliesportiu_Nivell piezometric
+after_2007,0005,0011,F000180,Carme-Capellades - 08044-0015,390198.74,4598093.99,F000180NPM,08044-0015_Capellades_S6 Poliesportiu_Nivell piezometric_Manual
+after_2007,0005,0011,F000181,Carme-Capellades - 08286-0026,388188.41,4597763.6,F000181NPM,Nivell piezomètric
+after_2007,0005,0011,F000182,Carme-Capellades - 08286-0027,387601.22,4598898.49,F000182NPM,Nivell piezomètric
+after_2007,0005,0011,F000183,Carme-Capellades - 08044-0016,390213.95,4598271.98,F000183NPM,S2-Museu_Capellades_Nivell piezometric_REV0
+after_2007,0005,0011,F000184,Carme-Capellades - 08104-0023,377194.47,4592715.8,F000184NPM,Nivell piezomètric
+after_2007,0005,0011,F000187,Bloc del Gaià-Bonastre - 43030-0014,370156,4563119,F000187NPM,Nivell piezomètric
+after_2007,0005,0011,F000188,Bloc del Gaià-Bonastre - 43030-0029,369456,4564046,F000188NPM,Nivell piezomètric
+after_2007,0005,0011,F000189,Baix Gaià - 43126-0027,362876.77,4557136.25,F000189NPM,Nivell piezomètric (F000189NPM)
+after_2007,0005,0011,F000190,Baix Gaià - 43043-0054,358621.72,4558513.95,F000190NPM,Nivell piezomètric (F000190NPM)
+after_2007,0005,0011,F000191,Garraf - 43163-0049,377919.32,4565108.22,F000191NPM,Nivell piezomètric (F000191NPM)
+after_2007,0005,0011,F000192,Bloc del Gaià-Bonastre - 43089-0007,364550,4568729,F000192NPM,Nivell piezomètric
+after_2007,0005,0011,F000193,Bloc del Gaià-Bonastre - 43089-0008,366228.09,4568055.89,F000193NPM,Nivell piezomètric (F000193NPM)
+after_2007,0005,0011,F000194,Bloc del Gaià-Bonastre - 43131-0032,369784,4562211.35,F000194NPM,Nivell piezomètric
+after_2007,0005,0011,F000195,Bloc del Gaià-Bonastre - 43030-0030,370188.32,4562970.93,F000195NPM,Nivell piezomètric (F000195NPM)
+after_2007,0005,0011,F000196,Bloc del Gaià-Bonastre - 43089-0009,367549.93,4568752.79,F000196NPM,Nivell piezomètric
+after_2007,0005,0011,F000197,Garraf - 08058-0057,387094.79,4567964.53,F000197NPM,Nivell piezomètric
+after_2007,0005,0011,F000198,Garraf - 08231-0041,398562.7,4568283.9,F000198NPM,Nivell piezomètric
+after_2007,0005,0011,F000200,Garraf - 08058-0058,387400,4567732,F000200NPM,Nivell piezomètric
+after_2007,0005,0011,F000201,Garraf - 08074-0025,387997.83,4566369.57,F000201NPM,Nivell piezomètric
+after_2007,0005,0011,F000202,Garraf - 43037-0029,381456.87,4562908.81,F000202NPM,Nivell piezomètric
+after_2007,0005,0011,F000205,Garraf - 43024-0076,380990.89,4565397.58,F000205NPM,Nivell piezomètric
+after_2007,0005,0011,F000206,Garraf - 43037-0032,380710.06,4561448.55,F000206NPM,Nivell piezomètric (F000206NPM)
+after_2007,0005,0011,F000207,Baix Camp - 43145-0138,344528.66,4564228.23,F000207NPM,Nivell piezomètric
+after_2007,0005,0011,F000208,Baix Camp - 43145-0139,344311.42,4563517.16,F000208NPM,Nivell piezomètric (F000208NPM)
+after_2007,0005,0011,F000209,Baix Camp - 43095-0017,349633.95,4562423.45,F000209NPM,Nivell piezomètric
+after_2007,0005,0011,F000210,Baix Camp - 43005-0110,348407.73,4569698.54,F000210NPA,Nivell piezomètric (F000210NPA_Limnigraf)
+after_2007,0005,0011,F000210,Baix Camp - 43005-0110,348407.73,4569698.54,F000210NPM,43005-0110_Alcover_Nivell piezomètric_Manual
+after_2007,0005,0011,F000212,Alt Camp - 43066-0012,353099.21,4564130.72,F000212NPM,Nivell piezomètric (F000212NPM)
+after_2007,0005,0011,F000213,Alt Camp - 43165-0013,359041,4568765,F000213NPA,Nivell piezomètric (F000213NPA)
+after_2007,0005,0011,F000213,Alt Camp - 43165-0013,359041,4568765,F000213NPM,43165-0013_Vilabella_Brafim_Nivell piezometric_Manual
+after_2007,0005,0011,F000216,Baix Camp - 43160-0055,351882.54,4564805.09,F000216NPM,Nivell piezomètric (F000216NPM)
+after_2007,0005,0011,F000217,Alt Camp - 43144-0032,354563.94,4565230.93,F000217NPA,Nivell piezomètric (F000217NPA)
+after_2007,0005,0011,F000217,Alt Camp - 43144-0032,354563.94,4565230.93,F000217NPM,Nivell piezomètric (F000217NPM)
+after_2007,0005,0011,F000222,Alt Camp - 43170-0031,362642,4572014,F000222NPM,Nivell piezomètric
+after_2007,0005,0011,F000226,Baix Francolí - 43109-0020,351415.63,4559325.12,3348437,43109-0020_Pobla Mafumet_Enpetrol_Nivell piezometric_REV0
+after_2007,0005,0011,F000226,Baix Francolí - 43109-0020,351415.63,4559325.12,F000226NPM,43109-0020_Pobla Mafumet_Enpetrol_Nivell piezometric_Manual
+after_2007,0005,0011,F000229,Baix Camp - 43007-0123,336119.19,4560266.3,F000229NPA,Nivell piezomètric (F000229NPA)
+after_2007,0005,0011,F000229,Baix Camp - 43007-0123,336119.19,4560266.3,F000229NPM,Nivell piezomètric (F000229NPM)
+after_2007,0005,0011,F000233,Baix Camp - 43033-0072,331263.33,4554682.71,F000233NPM,Nivell piezomètric (F000233NPM)
+after_2007,0005,0011,F000234,Baix Camp - 43129-0180,338163.97,4552890.97,F000234NPM,Nivell piezomètric (F000234NPM)
+after_2007,0005,0011,F000235,Baix Camp - 43123-0260,341781.31,4556805.03,F000235NPM,Nivell piezomètric (F000235)
+after_2007,0005,0011,F000236,Baix Camp - 43123-0275,344422.32,4555073.62,3351256,Nivell piezomètric (F000236NP)
+after_2007,0005,0011,F000236,Baix Camp - 43123-0275,344422.32,4555073.62,F000236NPM,Nivell piezomètric
+after_2007,0005,0011,F000238,Baix Camp - 43905-0030,343566.94,4550907.15,F000238NPM,Nivell piezomètric (F000238)
+after_2007,0005,0011,F000239,Baix Camp - 43092-0158,328241.22,4546176.69,F000239NPM,Nivell piezomètric
+after_2007,0005,0011,F000240,Baix Camp - 43092-0159,325810.06,4544132.31,F000240NPM,Nivell piezomètric
+after_2007,0005,0011,F000241,Baix Camp - 43092-0160,326133.3,4543055.83,F000241NPM,Nivell piezomètric
+after_2007,0005,0011,F000242,Baix Camp - 43092-0161,331045.02,4545613.37,F000242NPM,Nivell piezomètric
+after_2007,0005,0011,F000243,Baix Camp - 43092-0164,330436.17,4549384.83,F000243NPM,43092-0164_Mont-roig Camp_Mont-roig 2_Nivell piezometric_Manual
+after_2007,0005,0011,F000244,Baix Camp - 43092-0162,331773.09,4545744.79,F000244NPM,Nivell piezomètric
+after_2007,0005,0011,F000245,Baix Francolí - 43148-0120,349751.76,4552346.55,F000245NPA,Nivell piezomètric (F000245NPA)
+after_2007,0005,0011,F000245,Baix Francolí - 43148-0120,349751.76,4552346.55,F000245NPM,43148-0120_Tarragona_T-117_Nivell piezometric_Manual
+after_2007,0005,0011,F000248,Baix Camp - 43123-0261,346077.68,4556332.44,F000248NPM,Nivell piezomètric (F000248)
+after_2007,0005,0011,F000249,Baix Camp - 43123-0262,346227.13,4555753.57,F000249NPM,Nivell piezomètric (F000249NPM)
+after_2007,0005,0011,F000250,Baix Francolí - 43148-0121,351893.88,4553236.35,F000250NPM,Nivell piezomètric (F000250NPM)
+after_2007,0005,0011,F000251,Baix Francolí - 43148-0123,351466.8,4554995.16,F000251NPM,Nivell piezomètric (F000251NPM)
+after_2007,0005,0011,F000252,Baix Camp - 43162-0062,324339.17,4541661.38,F000252NPM,Nivell piezomètric (F000252NPM)
+after_2007,0005,0011,F000253,Baix Camp - 43092-0163,330856.86,4547679.96,F000253NPM,43092-0163_Mont-roig Camp_Sc_Nivell piezometric_Manual
+after_2007,0005,0011,F000254,Baix Camp - 43171-0105,343525.92,4554459.09,F000254NPM,Nivell piezomètric
+after_2007,0005,0011,F000255,Llaberia - Prades meridional - 43042-0022,340353.08,4560428.78,F000255NPM,Nivell piezomètric
+after_2007,0005,0011,F000256,Baix Camp - 43123-0263,345101.96,4554222.23,F000256NPA,Nivell piezomètric (F000256NPA)
+after_2007,0005,0011,F000256,Baix Camp - 43123-0263,345101.96,4554222.23,F000256NPM,Nivell piezomètric (F000256NPM)
+after_2007,0005,0011,F000257,Baix Camp - 43123-0264,340768.32,4558461.89,F000257NPM,Nivell piezomètric
+after_2007,0005,0011,F000258,Llaberia - Prades meridional - 43007-0125,337229.83,4561328.07,F000258NPM,Nivell piezomètric
+after_2007,0005,0011,F000260,Fluviodeltaic del Fluvià - Muga - 17030-0030,496953.08,4685849.51,F000260NPM,Peralada_S13_Nivell Piezometric_REV0
+after_2007,0005,0011,F000262,Detrític neogen de l'Empordà - 17132-0053,500648,4685230,F000262NPM,17132-0053_Peralada S-1_Nivell piezometric_Manual
+after_2007,0005,0011,F000267,Fluviodeltaic del Fluvià - Muga - 17132-0063,500014.94,4684405.63,F000267NPM,Peralada_S12_Nivell Piezometric_Manual
+after_2007,0005,0011,F000268,Fluviodeltaic del Fluvià - Muga - 17047-0063,506986.01,4674870.72,F000268NPM,Nivell piezomètric
+after_2007,0005,0011,F000269,Fluviodeltaic del Fluvià - Muga - 17047-0064,506987.91,4674864.62,F000269NPM,Nivell piezomètric
+after_2007,0005,0011,F000270,Fluviodeltaic del Fluvià - Muga - 17047-0066,507291.2,4673938.2,F000270NPM,Nivell piezomètric
+after_2007,0005,0011,F000271,Fluviodeltaic del Fluvià - Muga - 17047-0061,507118.41,4674878.51,F000271NPM,Nivell piezomètric (F000271NPM)
+after_2007,0005,0011,F000273,Fluviodeltaic del Fluvià - Muga - 17047-0065,507226.16,4674433.9,F000273NPM,Nivell piezomètric
+after_2007,0005,0011,F000274,Fluviodeltaic del Fluvià - Muga - 17047-0067,507293.5,4673936.3,F000274NPM,17047-0067_Castello Empuries_Muga S-8_Nivell piezometric_Manual
+after_2007,0005,0011,F000279,Fluviodeltaic del Baix Ter - 17057-0051,502343.8,4647981.81,F000279NPA,Nivell piezomètric (F000279NPA)
+after_2007,0005,0011,F000279,Fluviodeltaic del Baix Ter - 17057-0051,502343.8,4647981.81,F000279NPM,S24_Angles_Rissec_Nivell Piezometric (F000279NPM)_REV0
+after_2007,0005,0011,F000280,Paleògens del Baix Ter - 17211-0026,504123.77,4657034.51,F000280NPM,Nivell piezomètric
+after_2007,0005,0011,F000281,Fluviodeltaic del Baix Ter - 17081-0042,508490.85,4653548.37,F000281NPM,Nivell piezomètric
+after_2007,0005,0011,F000282,Fluviodeltaic del Baix Ter - 17081-0043,510649.35,4652673.95,F000282NPM,Nivell piezomètric
+after_2007,0005,0011,F000284,Fluviodeltaic del Baix Ter - 17191-0033,505708.95,4654360.89,F000284NPM,17191-0033_Serra Daro_Ter S-1'_Nivell piezometric_Manual
+after_2007,0005,0011,F000285,Fluviodeltaic del Baix Ter - 17191-0034,505845.35,4654241.29,F000285NPM,Nivell piezomètric
+after_2007,0005,0011,F000286,Fluviodeltaic del Baix Ter - 17191-0035,506097.24,4653107.79,F000286NPM,Nivell piezomètric
+after_2007,0005,0011,F000287,Fluviodeltaic del Baix Ter - 17199-0054,511266.16,4653871.15,F000287NPM,Nivell piezomètric
+after_2007,0005,0011,F000288,Fluviodeltaic del Baix Ter - 17204-0012,507501,4654648,F000288NPM,Nivell piezomètric
+after_2007,0005,0011,F000289,Fluviodeltaic del Baix Ter - 17197-0015,512080.09,4645094.43,F000289NPM,Nivell piezomètric (F000289NPM)
+after_2007,0005,0011,F000291,Fluviodeltaic del Baix Ter - 17081-0046,510375.54,4652099.75,F000291NPA,Nivell piezomètric (F000291NPA)
+after_2007,0005,0011,F000292,Fluviodeltaic del Baix Ter - 17195-0054,506239,4654589,F000292NPM,Nivell piezomètric
+after_2007,0005,0011,F000293,Fluviodeltaic del Baix Ter - 17195-0055,506319.18,4658290.79,F000293NPM,S17c_Nivell Piezometric_Ter (F000293NPM)_REV0
+after_2007,0005,0011,F000295,Fluviodeltaic del Baix Ter - 17199-0056,513630.05,4652294.83,F000295NPM,Nivell piezomètric (F000295NPM)
+after_2007,0005,0011,F000298,Fluviodeltaic del Baix Ter - 17081-0047,510931.04,4651350.05,F000298NPM,Nivell piezomètric
+after_2007,0005,0011,F000299,Fluviodeltaic del Baix Ter - 17068-0057,502112,4655976,F000299NPM,S7b_Nivell Piezometric_Ter_REV0
+after_2007,0005,0011,F000300,Fluviodeltaic del Baix Ter - 17068-0059,502121,4655981,F000300NPM,S9b_Nivell Piezometric_Ter_REV0
+after_2007,0005,0011,F000301,Fluviodeltaic del Baix Ter - 17068-0060,502233.46,4656266.62,F000301NPM,S3b_Nivell Piezometric_Ter_REV0
+after_2007,0005,0011,F000302,Fluviodeltaic del Baix Ter - 17068-0058,502230,4656265,F000302NPM,S8b_Nivell Piezometric_Ter (F000302NPM)_REV0
+after_2007,0005,0011,F000304,Fluviodeltaic del Baix Ter - 17199-0055,511787.54,4651650.64,F000304NPA,Nivell piezomètric (F000304NPA)
+after_2007,0005,0011,F000304,Fluviodeltaic del Baix Ter - 17199-0055,511787.54,4651650.64,F000304NPM,17199-0055_Torroella Montgri_Ter S-10 Golf_Nivell piezometric_Manual
+after_2007,0005,0011,F000306,Fluviodeltaic del Baix Ter - 17081-0041,508845.05,4653434.97,F000306NPM,S3c_Nivell Piezometric_Daro (F000306NPM)_REV0
+after_2007,0005,0011,F000307,Fluviodeltaic del Baix Ter - 17062-0014,509544.61,4661650.58,F000307NPA,17062-0014_Escala_Nivell piezometric_Manual
+after_2007,0005,0011,F000308,Fluviodeltaic del Baix Ter - 17199-0053,515200.37,4654203.62,F000308NPM,Nivell piezomètric (F000308NPM)
+after_2007,0005,0011,F000311,Fluviodeltaic del Fluvià - Muga - 17210-0047,501693.95,4668308.55,F000311NPM,17210-0047_Ventallo_Fluvia S-4_Nivell piezomètric_Manual
+after_2007,0005,0011,F000313,Detrític neogen de l'Empordà - 17075-0025,496563.04,4667649.48,F000313NPM,S15_Garrigas_Nivell piezomètric (F000313NPM)
+after_2007,0005,0011,F000314,Fluviodeltaic del Fluvià - Muga - 17178-0069,508935.97,4668721.79,F000314NPM,Nivell piezomètric
+after_2007,0005,0011,F000317,Fluviodeltaic del Fluvià - Muga - 17178-0070,508968.38,4670756.89,F000317NPM,Nivell piezomètric (F000317NPM)
+after_2007,0005,0011,F000320,Fluviodeltaic del Fluvià - Muga - 17210-0048,501177.95,4668075.35,F000320NPM,Nivell piezomètric
+after_2007,0005,0011,F000321,Baix Besòs i Pla de Barcelona - 08245-0010,432721.95,4589834.65,F000321NPM,Nivell piezomètric
+after_2007,0005,0011,F000322,Baix Besòs i Pla de Barcelona - 08019-0014,432348,4589833,3280487,Nivell piezomètric
+after_2007,0005,0011,F000322,Baix Besòs i Pla de Barcelona - 08019-0014,432348,4589833,3323235,Nivell piezomètric
+after_2007,0005,0011,F000322,Baix Besòs i Pla de Barcelona - 08019-0014,432348,4589833,F000322NPM,Nivell piezomètric
+after_2007,0005,0011,F000324,Baix Besòs i Pla de Barcelona - 08019-0411,433601.9,4587035.6,F000324NPM,Nivell piezomètric
+after_2007,0005,0011,F000325,Baix Besòs i Pla de Barcelona - 08245-0011,433589.44,4588790.24,F000325NPM,Nivell piezomètric
+after_2007,0005,0011,F000326,Baix Besòs i Pla de Barcelona - 08245-0009,433558.34,4588835.74,F000326NPM,Nivell piezomètric
+after_2007,0005,0011,F000329,Detrític neogen del Vallès - 08279-0101,419418.3,4598362.5,F000329NPM,Nivell piezomètric
+after_2007,0005,0011,F000330,Detrític neogen del Vallès - 08279-0103,419418.6,4598362.4,F000330NPM,Nivell piezomètric
+after_2007,0005,0011,F000331,Detrític neogen del Vallès - 08279-0102,419415.8,4598358.1,F000331NPM,Nivell piezomètric
+after_2007,0005,0011,F000332,Detrític neogen del Vallès - 08279-0104,419415.7,4598357.8,F000332NPA,Nivell piezomètric (F000332NPA)
+after_2007,0005,0011,F000332,Detrític neogen del Vallès - 08279-0104,419415.7,4598357.8,F000332NPM,Nivell piezomètric (F000332NPM)
+after_2007,0005,0011,F000333,Detrític neogen del Vallès - 08187-0082,425786,4601929.7,F000333NPM,Nivell piezomètric
+after_2007,0005,0011,F000334,Detrític neogen del Vallès - 08187-0083,425786.6,4601929.8,F000334NPM,Nivell piezomètric
+after_2007,0005,0011,F000335,Detrític neogen del Vallès - 08187-0084,425789.7,4601930.9,F000335NPM,Nivell piezomètric
+after_2007,0005,0011,F000339,Detrític neogen del Vallès - 08156-0053,431062.04,4601613.68,F000339NPM,Nivell piezomètric
+after_2007,0005,0011,F000340,Detrític neogen del Vallès - 08156-0054,431066.04,4601618.68,F000340NPM,Nivell piezomètric
+after_2007,0005,0011,F000341,Detrític neogen del Vallès - 08156-0055,431287.64,4601512.18,F000341NPM,Nivell piezomètric
+after_2007,0005,0011,F000345,Al·luvials del Vallès - 08156-0056,431196.24,4602030.48,F000345NPA,Nivell piezomètric (F000345NPA)
+after_2007,0005,0011,F000345,Al·luvials del Vallès - 08156-0056,431196.24,4602030.48,F000345NPM,Nivell piezomètric (F000345NPM)
+after_2007,0005,0011,F000348,Al·luvials del Vallès - 08156-0057,431294.04,4601906.68,F000348NPA,Nivell piezomètric (F000348NPA)
+after_2007,0005,0011,F000348,Al·luvials del Vallès - 08156-0057,431294.04,4601906.68,F000348NPM,Nivell piezomètric (F000348NPM)
+after_2007,0005,0011,F000349,Al·luvials del Vallès - 08115-0031,435966.02,4599108.64,F000349NPA,Nivell piezomètric (F000349NPA)
+after_2007,0005,0011,F000349,Al·luvials del Vallès - 08115-0031,435966.02,4599108.64,F000349NPM,Nivell piezomètric (F000349NPM)
+after_2007,0005,0011,F000352,Al·luvials del Vallès - 08159-0104,436061.04,4601135.64,F000352NPA,Nivell piezomètric (F000352NPA)
+after_2007,0005,0011,F000352,Al·luvials del Vallès - 08159-0104,436061.04,4601135.64,F000352NPM,Nivell piezomètric (F000352NPM)
+after_2007,0005,0011,F000353,Al·luvials del Vallès - 08159-0096,436364.65,4602370.04,F000353NPA,Nivell piezomètric (F000353NPA)
+after_2007,0005,0011,F000354,Al·luvials del Vallès - 08136-0089,439221.7,4600391.9,F000354NPM,Nivell piezomètric
+after_2007,0005,0011,F000357,Al·luvials del Vallès - 08125-0042,432585.98,4593680.65,F000357NPA,Nivell piezomètric (F000357NPA)
+after_2007,0005,0011,F000357,Al·luvials del Vallès - 08125-0042,432585.98,4593680.65,F000357NPM,Nivell piezomètric (F000357NPM)
+after_2007,0005,0011,F000358,Al·luvials del Vallès - 08125-0043,430174.54,4593431.76,F000358NPA,Nivell piezomètric_limnígraf
+after_2007,0005,0011,F000358,Al·luvials del Vallès - 08125-0043,430174.54,4593431.76,F000358NPM,Nivell piezomètric (F000358NPM)
+after_2007,0005,0011,F000360,Al·luvials del Vallès - 08125-0045,433036,4595015,F000360NPM,Nivell piezomètric
+after_2007,0005,0011,F000361,Detrític neogen del Vallès - 08125-0021,432724.37,4595334.81,F000361NPM,Nivell piezomètric
+after_2007,0005,0011,F000362,Al·luvials del Vallès - 08105-0021,433671,4595759,F000362NPM,Nivell piezomètric
+after_2007,0005,0011,F000363,Al·luvials del Vallès - 08159-0097,436168.04,4601288.64,F000363NPM,Nivell piezomètric
+after_2007,0005,0011,F000364,Al·luvials de la baixa i delta de la Tordera - 08284-0318,477434,4616572,F000364NPM,Nivell piezomètric
+after_2007,0005,0011,F000365,Al·luvials de la baixa i delta de la Tordera - 08284-0319,476760.23,4617376.36,F000365NPM,08284-0319_Tordera_G1_Nivell piezometric_REV0
+after_2007,0005,0011,F000366,Al·luvials de la baixa i delta de la Tordera - 08284-0320,475619,4619294,F000366NPM,Nivell piezomètric
+after_2007,0005,0011,F000367,Al·luvials de la baixa i delta de la Tordera - 08155-0164,479692,4614228,F000367NPM,Nivell piezomètric
+after_2007,0005,0011,F000368,Al·luvials de la baixa i delta de la Tordera - 08155-0165,480112,4613116,F000368NPM,Nivell piezomètric
+after_2007,0005,0011,F000369,Al·luvials de la baixa i delta de la Tordera - 08284-0321,479347,4615135,F000369NPM,Nivell piezomètric
+after_2007,0005,0011,F000370,Al·luvials de la baixa i delta de la Tordera - 08284-0322,479349,4615132,F000370NPM,Nivell piezomètric
+after_2007,0005,0011,F000372,Al·luvials de la baixa i delta de la Tordera - 08110-0216,479528,4611177,F000372NPM,Nivell piezomètric
+after_2007,0005,0011,F000378,Al·luvials de la baixa i delta de la Tordera - 17023-0155,482028,4612464,F000378NPM,Nivell piezomètric
+after_2007,0005,0011,F000379,Al·luvials de la baixa i delta de la Tordera - 17023-0156,482027,4612463,F000379NPM,Nivell piezomètric
+after_2007,0005,0011,F000383,Al·luvials de la baixa i delta de la Tordera - 08110-0223,480346.26,4612430.75,F000383NPM,08110-0223_Malgrat Mar_Sondeig Blanes_Nivell piezometric_Manual
+after_2007,0005,0011,F000384,Al·luvials de la baixa i delta de la Tordera - 17023-0157,479992,4613843,F000384NPM,Nivell piezomètric
+after_2007,0005,0011,F000385,Al·luvials de la baixa i delta de la Tordera - 08155-0166,479753,4613617,F000385NPM,08155-0166_Palafolls_S32_Nivell piezometric_Manual
+after_2007,0005,0011,F000386,Al·luvials de la baixa i delta de la Tordera - 08110-0163,480697.89,4612069.92,F000386NPM,Nivell piezomètric
+after_2007,0005,0011,F000391,Al·luvials de la baixa i delta de la Tordera - 08110-0218,480431.7,4612603.62,F000391NPA,Nivell piezomètric (F000391NPA)
+after_2007,0005,0011,F000391,Al·luvials de la baixa i delta de la Tordera - 08110-0218,480431.7,4612603.62,F000391NPM,Nivell piezomètric (F000391NPM)
+after_2007,0005,0011,F000392,Al·luvials de l'alta i mitjana Tordera - 08259-0041,455380,4615083,F000392NPM,Nivell piezomètric
+after_2007,0005,0011,F000393,Al·luvials de l'alta i mitjana Tordera - 08259-0042,454260,4615855,F000393NPM,Nivell piezomètric
+after_2007,0005,0011,F000395,Al·luvials de l'alta i mitjana Tordera - 17083-0037,468040.24,4620878.43,F000395NPM,Nivell piezomètric
+after_2007,0005,0011,F000396,Al·luvials de l'alta i mitjana Tordera - 08202-0125,463474.72,4618969.66,F000396NPM,Nivell piezomètric
+after_2007,0005,0011,F000397,Al·luvials de l'alta i mitjana Tordera - 08202-0126,462982.71,4618658.26,F000397NPM,Nivell piezomètric
+after_2007,0005,0011,F000398,Al·luvials de l'alta i mitjana Tordera - 08097-0014,460161,4617237,F000398NPM,Nivell piezomètric
+after_2007,0005,0011,F000399,Al·luvials de l'alta i mitjana Tordera - 17103-0056,474478,4621197,F000399NPM,17103-0056_Maçanet Selva_I1_Nivell piezometric_REV0
+after_2007,0005,0011,F000400,Al·luvials de l'alta i mitjana Tordera - 17083-0038,468157.24,4620777.43,F000400NPM,Nivell piezomètric
+after_2007,0005,0011,F000402,Montseny-Guilleries - 17159-0159,467963.24,4621492.43,F000402NPM,Nivell piezomètric (F000402NPM)
+after_2007,0005,0011,F000404,Al·luvials de l'alta i mitjana Tordera - 17101-0116,471079.2,4621520.4,F000404NPM,Nivell piezomètric
+after_2007,0005,0011,F000406,Montseny-Guilleries - 17159-0162,468274.24,4621102.43,F000406NPM,Nivell piezomètric
+after_2007,0005,0011,F000412,Plioquaternari de la Riera Santa Coloma - 17148-0079,474079.05,4632038.11,F000412NPM,Nivell piezomètric
+after_2007,0005,0011,F000413,Plioquaternari de la Riera Santa Coloma - 17148-0086,474208.33,4632065.4,F000413NPM,Nivell piezomètric
+after_2007,0005,0011,F000417,Maresme - 08219-0073,449105.32,4595457.33,F000417NPM,Nivell piezomètric
+after_2007,0005,0011,F000419,Maresme - 08009-0111,449679.37,4601739.94,F000419NPA,Nivell piezomètric (F000419NPA)
+after_2007,0005,0011,F000419,Maresme - 08009-0111,449679.37,4601739.94,F000419NPM,Nivell piezomètric (F000419NPM)
+after_2007,0005,0011,F000424,Maresme - 08009-0110,451678.04,4598034.42,F000424NPM,Nivell piezomètric
+after_2007,0005,0011,F000425,Maresme - 08029-0092,451778.44,4597499.51,4594656,08029-0092_Cabrera de Mar_Argentona-2_Nivell piezomètric_Manual
+after_2007,0005,0011,F000428,Maresme - 08029-0094,451793.53,4596925.01,F000428NPM,Nivell piezomètric
+after_2007,0005,0011,F000430,Maresme - 08118-0027,441591.08,4591740.78,F000430NPM,Nivell piezomètric
+after_2007,0005,0011,F000432,Maresme - 08219-0071,448132.61,4594351.34,F000432NPM,Nivell piezomètric
+after_2007,0005,0011,F000433,Maresme - 08172-0013,445693.2,4593539.15,F000433NPM,Nivell piezomètric
+after_2007,0005,0011,F000436,Maresme - 08172-0014,447274.06,4593980.69,F000436NPM,Nivell piezomètric
+after_2007,0005,0011,F000437,Maresme - 08009-0116,450106.16,4601174.73,F000437NPM,Nivell piezomètric
+after_2007,0005,0011,F000439,Maresme - 08219-0072,447553.21,4594271.04,F000439NPM,Nivell piezomètric
+after_2007,0005,0011,F000441,Conca alta de Cardener i Llobregat - 08052-0002,418658,4681584,F000441NPM,Nivell piezomètric
+after_2007,0005,0011,F000442,Conca alta de Cardener i Llobregat - 08268-0021,406161.52,4670410.97,F000442NPM,Nivell piezomètric
+after_2007,0005,0011,F000443,Conca alta de Cardener i Llobregat - 08052-0003,418670.1,4681676.4,F000443NPA,Nivell piezomètric (F000443NPA)
+after_2007,0005,0011,F000443,Conca alta de Cardener i Llobregat - 08052-0003,418670.1,4681676.4,F000443NPM,Nivell piezomètric (F000443NPM)
+after_2007,0005,0011,F000446,Conca alta de Cardener i Llobregat - 08268-0019,405764.7,4666573.7,F000446NPM,Nivell piezomètric
+after_2007,0005,0011,F000447,Conca alta de Cardener i Llobregat - 08268-0020,405659.4,4666541.1,F000447NPM,Nivell piezomètric
+after_2007,0005,0011,F000448,Bloc del Gaià-Bonastre - 08065-0048,381627.36,4577111.76,F000448NPM,Nivell piezomètric (F000448NPM)
+after_2007,0005,0011,F000449,Bloc del Gaià-Bonastre - 43137-0050,378444.05,4574798.74,F000449NPM,Nivell piezomètric
+after_2007,0005,0011,F000451,Sorres de Santa Oliva - 43002-0037,376350.49,4567831.22,F000451NPA,Nivell piezomètric (F000451NPA )
+after_2007,0005,0011,F000453,Bloc del Gaià-Bonastre - 43137-0049,378284.05,4574615.81,F000453NPM,Nivell piezomètric (F000453NPM)
+after_2007,0005,0011,F000455,Sorres de Santa Oliva - 43140-0095,376678.97,4569164.61,F000455NPM,Nivell piezomètric
+after_2007,0005,0011,F000456,Sorres de Santa Oliva - 43020-0099,378726.97,4568692.91,3348435,Nivell piezomètric (F000456NP)
+after_2007,0005,0011,F000456,Sorres de Santa Oliva - 43020-0099,378726.97,4568692.91,F000456NPA,Nivell piezomètric (F000456NPA)
+after_2007,0005,0011,F000456,Sorres de Santa Oliva - 43020-0099,378726.97,4568692.91,F000456NPM,Nivell piezomètric (F000456NPM)
+after_2007,0005,0011,F000457,Sorres de Santa Oliva - 43002-0039,376380.58,4567787.15,F000457NPM,Nivell piezomètric (F000457NPM)
+after_2007,0005,0011,F000461,Sorres de Santa Oliva - 43020-0121,379213,4569142,F000461NPM,Nivell piezomètric
+after_2007,0005,0011,F000462,Sorres de Santa Oliva - 43020-0139,379256,4569252,F000462NPM,Nivell piezomètric
+after_2007,0005,0011,F000465,Sorres de Santa Oliva - 43020-0101,379846.13,4569717.09,F000465NPM,Nivell piezomètric
+after_2007,0005,0011,F000466,Baixa Garrotxa-Pla de l'Estany - 17015-0026,479760.79,4665036.01,F000466NPM,Nivell piezomètric
+after_2007,0005,0011,F000467,Al·luvials de la Baixa Costa Brava - 17181-0113,498332.25,4629582.41,F000467NPA,Nivell piezomètric (F000467NPA)
+after_2007,0005,0011,F000467,Al·luvials de la Baixa Costa Brava - 17181-0113,498332.25,4629582.41,F000467NPM,Nivell piezomètric (F000467NPM)
+after_2007,0005,0011,F000468,Al·luvials de la Baixa Costa Brava - 17181-0115,498738.25,4629302.31,F000468NPM,Nivell piezomètric
+after_2007,0005,0011,F000469,Al·luvials de la Baixa Costa Brava - 17181-0116,499621.75,4628775.1,F000469NPM,Nivell piezomètric (F000469NPM)
+after_2007,0005,0011,F000470,Al·luvials de la Baixa Costa Brava - 17048-0078,502641.05,4628451.68,F000470NPM,Nivell piezomètric (F000470NPM)
+after_2007,0005,0011,F000471,Al·luvials de la Baixa Costa Brava - 17048-0079,502645.15,4628453.78,3385602,Nivell piezomètric
+after_2007,0005,0011,F000471,Al·luvials de la Baixa Costa Brava - 17048-0079,502645.15,4628453.78,F000471NPA,Nivell piezomètric (F000471NPA)
+after_2007,0005,0011,F000471,Al·luvials de la Baixa Costa Brava - 17048-0079,502645.15,4628453.78,F000471NPM,Nivell piezomètric (F000471NPM)
+after_2007,0005,0011,F000472,Al·luvials de la Baixa Costa Brava - 17048-0081,503085.45,4628623.87,F000472NPM,Nivell piezomètric
+after_2007,0005,0011,F000475,Al·luvials de la Baixa Costa Brava - 17181-0114,498926.85,4629544.41,F000475NPM,Nivell piezomètric (F000475NPM)
+after_2007,0005,0011,F000477,Al·luvials de la Baixa Costa Brava - 17048-0080,505101.45,4628353.06,3385601,Nivell piezomètric (BDH)
+after_2007,0005,0011,F000477,Al·luvials de la Baixa Costa Brava - 17048-0080,505101.45,4628353.06,F000477NPM,Nivell piezomètric (F000477NPM)
+after_2007,0005,0011,F000479,Al·luvials de la Baixa Costa Brava - 17118-0036,510446.01,4634199.03,F000479NPM,Nivell piezomètric (F000479NPM)
+after_2007,0005,0011,F000480,Al·luvials de la Baixa Costa Brava - 17118-0037,511008.31,4634851.22,F000480NPM,Nivell piezomètric (F000480NPM)
+after_2007,0005,0011,F000482,Al·luvials de la Baixa Costa Brava - 17118-0038,511406,4635540,F000482NPA,Nivell piezomètric (F000482NPA)
+after_2007,0005,0011,F000482,Al·luvials de la Baixa Costa Brava - 17118-0038,511406,4635540,F000482NPM,Nivell piezomètric (F000482NPM)
+after_2007,0005,0011,F000483,Al·luvials de la Baixa Costa Brava - 17118-0035,510654.71,4634269.02,F000483NPM,Nivell piezomètric (F000483NPM)
+after_2007,0005,0011,F000486,l'Ametlla de Mar- Perelló - 43162-0048,319249,4535002,F000486NPM,Nivell piezomètric
+after_2007,0005,0011,F000487,l'Ametlla de Mar- Perelló - 43013-0080,314012.34,4533409.46,F000487NPM,Nivell piezomètric
+after_2007,0005,0011,F000551,Priorat - 43055-0019,316247.52,4557126.48,F000551NPM,Nivell piezomètric
+after_2007,0005,0011,F000552,Fossa de Móra - 43070-0008,311425,4552602,F000552NPM,Nivell piezomètric
+after_2007,0005,0011,F000553,Fossa de Móra - 43076-0134,312442,4554861,F000553NPM,Nivell piezomètric
+after_2007,0005,0011,F000555,Priorat - 43076-0057,314928,4555354,F000555NPM,Nivell piezomètric
+after_2007,0005,0011,F000556,Fossa de Móra - 43085-0005,307071,4559822,F000556NPM,Nivell piezomètric
+after_2007,0005,0011,F000558,Fossa de Móra - 43151-0001,319165.51,4554883.45,F000558NPM,Nivell piezomètric
+after_2007,0005,0011,F000559,Fossa de Móra - 43121-0010,299160,4543572,F000559NPM,Nivell piezomètric
+after_2007,0005,0011,F000561,Cardó - Vandellòs - 43904-0205,298480,4517823,F000561NPM,Nivell piezomètric
+after_2007,0005,0011,F000562,l'Ametlla de Mar- Perelló - 43906-0448,304890.25,4524011.52,F000562NPM,Nivell piezomètric
+after_2007,0005,0011,F000578,Plana de la Galera - 43138-0044,287660,4510856,F000578NPM,Nivell piezomètric (F000578NPM)
+after_2007,0005,0011,F000583,Al·luvial d'Urgell - 25168-0006,321858.97,4615773.63,F000583NPM,Nivell piezomètric
+after_2007,0005,0011,F000587,Calcàries de Tàrrega - 25152-0020,362565,4617122,F000587NPM,Nivell piezomètric
+after_2007,0005,0011,F000588,Serres marginals catalanes - 25037-0015,310311,4645143,F000588NPM,Nivell piezomètric
+after_2007,0005,0011,F000589,Al·luvial d'Urgell - 25225-0007,338359.5,4618356.4,F000589NPM,Nivell piezomètric
+after_2007,0005,0011,F000592,Baix Camp - 43092-0176,330997.82,4545704.05,F000592NPM,Nivell piezomètric (F000592NPM)
+after_2007,0005,0011,F002149,Plana de la Galera - 43138-0045,290060.15,4513041.61,1698660,Nivell piezomètric
+after_2007,0005,0011,F002173,Plioquaternari de l'Onyar - 17233-0021,479311,4639595,3071155,Nivell piezomètric
+after_2007,0005,0011,F002173,Plioquaternari de l'Onyar - 17233-0021,479311,4639595,3385875,Nivell piezomètric (3385875)
+after_2007,0005,0011,F002173,Plioquaternari de l'Onyar - 17233-0021,479311,4639595,3985511,Nivell piezomètric
+after_2007,0005,0011,F002326,Bloc del Gaià-Bonastre - 43002-0020,373556.69,4567264.06,4462768,Nivell piezomètric
+after_2007,0005,0011,F002573,Conca alta de Cardener i Llobregat - 08093-0005,401042.59,4680293.03,F000440NPM,Nivell piezomètric
+after_2007,0005,0011,F002590,Tremp-Isona - 25115-0022,335885.6,4665195.9,3986842,Nivell piezomètric
+after_2007,0005,0011,F002590,Tremp-Isona - 25115-0022,335885.6,4665195.9,F000597NPM,Nivell piezomètric
+after_2007,0005,0011,F003034,Fluviovolcànic de la Garrotxa - 17139-0010,455442,4666463,3159404,Nivell piezomètric
+after_2007,0005,0011,F003405,Calcàries de Tàrrega - 25157-0008,345577,4625300,3386572,Nivell piezomètric xarxa qualitat
+after_2007,0005,0011,F003405,Calcàries de Tàrrega - 25157-0008,345577,4625300,4159488,Nivell piezomètric
+after_2007,0005,0011,F003575,Calcàries de Tàrrega - 25103-0006,350567,4613142,3071335,Nivell piezomètric
+after_2007,0005,0011,F003863,Al·luvials de l'alta i mitjana Tordera - 08207-0012,452263,4618840,F000394NPM,Nivell piezomètric
+after_2007,0005,0011,F003887,Al·luvials de l'alta i mitjana Tordera - 17159-0033,466924.23,4619664.43,F000401NPM,Nivell piezomètric
+after_2007,0005,0011,F004143,Maresme - 08029-0027,451621.04,4597326.52,F000418NPM,Nivell piezomètric
+after_2007,0005,0011,F004237,Maresme - 08118-0003,444223.99,4592754.56,1700678,Nivell piezomètric
+after_2007,0005,0011,F004237,Maresme - 08118-0003,444223.99,4592754.56,3104572,Nivell piezomètric
+after_2007,0005,0011,F004237,Maresme - 08118-0003,444223.99,4592754.56,F000431NPM,Nivell piezomètric (F000431NPM)
+after_2007,0005,0011,F004270,Maresme - 08029-0025,451462.23,4596716.82,F000420NPM,Nivell piezomètric (F000420NPM)
+after_2007,0005,0011,F004531,Sorres de Santa Oliva - 43020-0081,379277,4568872,F000463NPM,Nivell piezomètric
+after_2007,0005,0011,F004592,Sorres de Santa Oliva - 43020-0087,379170.71,4569101.02,F000464NPA,Nivell piezomètric (F000464NPA)
+after_2007,0005,0011,F004603,Sorres de Santa Oliva - 43140-0068,376673.71,4569167.04,F000454NPM,Nivell piezomètric (F000454NPM)
+after_2007,0005,0011,F004656,Al·luvials de l'alta i mitjana Tordera - 17159-0161,465845,4619706,1701337,Nivell piezomètric
+after_2007,0005,0011,F004656,Al·luvials de l'alta i mitjana Tordera - 17159-0161,465845,4619706,F000405NPM,Nivell piezomètric (F000405NPM)
+after_2007,0005,0011,F004663,Sorres de Santa Oliva - 43020-0067,378975,4569100,3377512,Nivell piezomètric (3377512)
+after_2007,0005,0011,F004786,Baix Gaià - 43131-0016,370662,4560760,3073522,Nivell piezomètric
+after_2007,0005,0011,F004827,Bloc del Gaià-Bonastre - 43030-0020,369571,4563257,4041597,Nivell piezomètric
+after_2007,0005,0011,F005252,Fossa de Móra - 43150-0029,308078.1,4551680.8,1701474,Nivell piezomètric (1701474)
+after_2007,0005,0011,F005252,Fossa de Móra - 43150-0029,308078.1,4551680.8,3294015,Nivell piezomètric
+after_2007,0005,0011,F005298,l'Ametlla de Mar- Perelló - 43013-0188,314745,4532354,F000484NPM,Nivell piezomètric
+after_2007,0005,0011,F005299,l'Ametlla de Mar- Perelló - 43013-0187,316113,4532090,3226175,Nivell piezomètric
+after_2007,0005,0011,F005341,Serra del Montsià - 43156-0041,288130.06,4501906.61,1701694,Nivell piezomètric
+after_2007,0005,0011,F005365,Mesozoic de la Galera - 43138-0095,286105.12,4510996.64,3226211,Nivell piezomètric
+after_2007,0005,0011,F005601,Fluviodeltaic del Baix Ter - 17199-0037,513768.55,4652137.13,3281710,Nivell piezomètric
+after_2007,0005,0011,F005636,Al·luvials de la baixa i delta de la Tordera - 17023-0083,481166,4611815,F000390NPM,17023-0083_Blanes_Iryda B_Nivell piezometric_Manual
+after_2007,0005,0011,F005640,Al·luvials de la baixa i delta de la Tordera - 17023-0102,481193,4612419,3108288,17023-0102_Blanes_ACA 20020501_Nivell piezometric_Manual
+after_2007,0005,0011,F005650,Al·luvials de la baixa i delta de la Tordera - 08110-0035,480133.3,4611063,4141225,Nivell piezomètric (4141225)
+after_2007,0005,0011,F005651,Al·luvials de la baixa i delta de la Tordera - 08110-0011,480133.5,4611063.5,4141226,Nivell piezomètric (4141226)
+after_2007,0005,0011,F005652,Al·luvials de la baixa i delta de la Tordera - 08110-0015,480133.8,4611063.2,4141227,Nivell piezomètric (4141227)
+after_2007,0005,0011,F005653,Al·luvials de la baixa i delta de la Tordera - 17023-0101,481183,4612419,3108289,17023-0101_Blanes_ACA 20020502_Nivell piezometric_Manual
+after_2007,0005,0011,F005660,Al·luvials de la baixa i delta de la Tordera - 08110-0024,480480,4612043,4141224,Nivell piezomètric (4141224)
+after_2007,0005,0011,F005661,Al·luvials de la baixa i delta de la Tordera - 08110-0033,480490,4612043,4141223,Nivell piezomètric (4141223)
+after_2007,0005,0011,F005662,Al·luvials de la baixa i delta de la Tordera - 08110-0032,480500,4612043,4141222,Nivell piezomètric (4141222)
+after_2007,0005,0011,F005668,Al·luvials de la baixa i delta de la Tordera - 08110-0007,480458,4610953,F000387NPM,08110-0007_Malgrat Mar_B2A_Nivell piezometric_Manual
+after_2007,0005,0011,F005671,Al·luvials de la baixa i delta de la Tordera - 08110-0146,480527,4612475,F000380NPM,Nivell piezomètric
+after_2007,0005,0011,F005672,Al·luvials de la baixa i delta de la Tordera - 08110-0009,481283,4611297,F000373NPM,Nivell piezomètric
+after_2007,0005,0011,F005677,Al·luvials de la baixa i delta de la Tordera - 08110-0016,481378,4611107,F000376NPM,Nivell piezomètric
+after_2007,0005,0011,F005696,Al·luvials de la baixa i delta de la Tordera - 08110-0031,480151,4611857,F000381NPM,Nivell piezomètric
+after_2007,0005,0011,F005706,Al·luvials de la baixa i delta de la Tordera - 08110-0180,480458,4610954,F000388NPM,Nivell piezomètric
+after_2007,0005,0011,F005720,Al·luvials de la baixa i delta de la Tordera - 08110-0012,480892,4610711,F000375NPM,Nivell piezomètric
+after_2007,0005,0011,F005757,Al·luvials de la baixa i delta de la Tordera - 17023-0111,481158,4611842,F000389NPM,17023-0111_Blanes_Iryda A_Nivell piezometric_Manual
+after_2007,0005,0011,F005822,Vall baixa i Delta del Llobregat - 08211-0013,418502,4582530,F000046NPM,Nivell piezomètric
+after_2007,0005,0011,F005843,Vall baixa i Delta del Llobregat - 08211-0018,418778.87,4582534.74,F000054NPM,Nivell piezomètric
+after_2007,0005,0011,F005844,Vall baixa i Delta del Llobregat - 08211-0015,418994.87,4582345.74,F000055NPM,Nivell piezomètric
+after_2007,0005,0011,F005890,Vall baixa i Delta del Llobregat - 08211-0016,418897,4581628,F000051NPM,Nivell piezomètric
+after_2007,0005,0011,F005892,Vall baixa i Delta del Llobregat - 08211-0019,418475,4582388,F000053NPM,Nivell piezomètric
+after_2007,0005,0011,F005897,Vall baixa i Delta del Llobregat - 08301-0030,420058,4572709,F000143NPM,Nivell piezomètric
+after_2007,0005,0011,F005921,Vall baixa i Delta del Llobregat - 08200-0014,421039,4575109,F000145NPM,Nivell piezomètric
+after_2007,0005,0011,F006954,Plioquaternari de l'Onyar - 17038-0013,486143.4,4637985.32,3965777,Nivell piezomètric
+after_2007,0005,0011,F007132,Vall baixa i Delta del Llobregat - 08019-0076,428464.85,4577683.66,3073434,Nivell piezomètric
+after_2007,0005,0011,F007132,Vall baixa i Delta del Llobregat - 08019-0076,428464.85,4577683.66,3296483,Nivell piezomètric
+after_2007,0005,0011,F007132,Vall baixa i Delta del Llobregat - 08019-0076,428464.85,4577683.66,F000134NPM,Nivell piezomètric
+after_2007,0005,0011,F007133,Vall baixa i Delta del Llobregat - 08019-0067,429579,4577004,F000140NPM,Nivell piezomètric
+after_2007,0005,0011,F007134,Vall baixa i Delta del Llobregat - 08019-0077,428299,4577097,3073440,Nivell piezomètric
+after_2007,0005,0011,F007134,Vall baixa i Delta del Llobregat - 08019-0077,428299,4577097,3296549,Nivell piezomètric
+after_2007,0005,0011,F007134,Vall baixa i Delta del Llobregat - 08019-0077,428299,4577097,F000135NPM,Nivell piezomètric
+after_2007,0005,0011,F007135,Vall baixa i Delta del Llobregat - 08019-0068,428841,4575584,3073428,Nivell piezomètric
+after_2007,0005,0011,F007135,Vall baixa i Delta del Llobregat - 08019-0068,428841,4575584,3292299,Nivell piezomètric
+after_2007,0005,0011,F007135,Vall baixa i Delta del Llobregat - 08019-0068,428841,4575584,F000137NPM,Nivell piezomètric
+after_2007,0005,0011,F007154,Vall baixa i Delta del Llobregat - 08056-0010,413438,4568766,3073452,Nivell piezomètric
+after_2007,0005,0011,F007154,Vall baixa i Delta del Llobregat - 08056-0010,413438,4568766,F000154NPM,Nivell piezomètric
+after_2007,0005,0011,F007161,Vall baixa i Delta del Llobregat - 08089-0022,419786,4569192,3073458,Nivell piezomètric
+after_2007,0005,0011,F007161,Vall baixa i Delta del Llobregat - 08089-0022,419786,4569192,3292309,Nivell piezomètric
+after_2007,0005,0011,F007161,Vall baixa i Delta del Llobregat - 08089-0022,419786,4569192,F000159NPM,Nivell piezomètric
+after_2007,0005,0011,F007162,Vall baixa i Delta del Llobregat - 08089-0023,417894,4570250,F000167NPM,Nivell piezomètric
+after_2007,0005,0011,F007253,Vall baixa i Delta del Llobregat - 08073-0024,421824,4577754,3156196,Nivell piezomètric (3156196)
+after_2007,0005,0011,F007257,Plioquaternari de l'Onyar - 17150-0015,483245,4639279,3069473,Nivell piezomètric
+after_2007,0005,0011,F007257,Plioquaternari de l'Onyar - 17150-0015,483245,4639279,3385871,Nivell piezomètric (3385871)
+after_2007,0005,0011,F007257,Plioquaternari de l'Onyar - 17150-0015,483245,4639279,4051128,Nivell piezomètric
+after_2007,0005,0011,F007806,Vall baixa i Delta del Llobregat - 08169-0320,426514.1,4572023.77,3069516,Nivell piezomètric
+after_2007,0005,0011,F007806,Vall baixa i Delta del Llobregat - 08169-0320,426514.1,4572023.77,3311786,Nivell piezomètric
+after_2007,0005,0011,F007806,Vall baixa i Delta del Llobregat - 08169-0320,426514.1,4572023.77,F000108NPM,Nivell piezomètric
+after_2007,0005,0011,F007814,Vall baixa i Delta del Llobregat - 08169-0315,427034.73,4574688.87,F000090NPM,Nivell piezomètric
+after_2007,0005,0011,F007828,Calcàries de Tàrrega - 25152-0003,360432,4617214,3071311,Nivell piezomètric
+after_2007,0005,0011,F007828,Calcàries de Tàrrega - 25152-0003,360432,4617214,3307762,Nivell piezomètric
+after_2007,0005,0011,F007828,Calcàries de Tàrrega - 25152-0003,360432,4617214,F000586NPM,Nivell piezomètric (F000586NPM)
+after_2007,0005,0011,F008013,Conca alta del Fluvià - 17109-0002,461173,4680217,3067646,Nivell piezomètric
+after_2007,0005,0011,F008013,Conca alta del Fluvià - 17109-0002,461173,4680217,3159396,Nivell piezomètric
+after_2007,0005,0011,F008015,Vall baixa i Delta del Llobregat - 08169-0329,425244,4573718,3069522,Nivell piezomètric
+after_2007,0005,0011,F008015,Vall baixa i Delta del Llobregat - 08169-0329,425244,4573718,F000104NPM,Nivell piezomètric
+after_2007,0005,0011,F008048,Vall baixa i Delta del Llobregat - 08169-0348,426482.62,4573922.57,3315888,08169-0348_Prat Llobregat_BHPP1 (Mp-47)_Nivell piezometric_REV0
+after_2007,0005,0011,F009826,Baix Camp - 43047-0105,346769.91,4557736.01,F000246NPM,Nivell piezomètric
+after_2007,0005,0011,F009837,Ports de Beseit (CHE)_Cat - 43117-0005,280121.32,4538659.73,3226199,Nivell piezomètric
+after_2007,0005,0011,F009839,Ports de Beseit (CHX)_Cat - 43044-0003,269314,4503084,3226181,Nivell piezomètric
+after_2007,0005,0011,F009841,Plana de la Sènia_Cat - 43156-0027,281972,4495800.65,3226307,Nivell piezomètric
+after_2007,0005,0011,F009842,Plana d'Alcanar - 43004-0048,287089.98,4491476.6,3226165,Nivell piezomètric
+after_2007,0005,0011,F009843,Plana de Vinaròs_Cat - 43004-0006,288679,4489173,3226163,Nivell piezomètric
+after_2007,0005,0011,F009845,l'Ametlla de Mar- Perelló - 43013-0289,314746.33,4532445.45,3386343,Nivell piezomètric
+after_2007,0005,0011,F009845,l'Ametlla de Mar- Perelló - 43013-0289,314746.33,4532445.45,F000485NPM,Nivell piezomètric
+after_2007,0005,0011,F009846,l'Ametlla de Mar- Perelló - 43013-0202,313856.34,4533334.46,3226167,Nivell piezomètric
+after_2007,0005,0011,F009847,l'Ametlla de Mar- Perelló - 43013-0249,313038,4529819,F000488NPM,Nivell piezomètric
+after_2007,0005,0011,F009853,"Al·luvials del Ter Mig, Brugent i Llémena - 17079-0074",485086.48,4648678.34,3279255,Nivell piezomètric (3279255)
+after_2007,0005,0011,F009855,Plioquaternari de l'Onyar - 17038-0030,484938,4638441,3279254,Nivell piezomètric (3279254)
+after_2007,0005,0011,F009856,Plioquaternari de la Riera Santa Coloma - 17180-0099,472864.34,4632818.41,3225358,Nivell piezomètric
+after_2007,0005,0011,F009857,Plioquaternari de la Riera Santa Coloma - 17148-0089,473934.33,4631864.4,3225360,Nivell piezomètric (3225360)
+after_2007,0005,0011,F009858,Fluviodeltaic del Baix Ter - 17199-0058,515970,4652559,3376751,Nivell piezomètric (3376751)
+after_2007,0005,0011,F009972,Conca alta del Fluvià - 17021-0005,476107,4674302,3159393,Nivell piezomètric
+after_2007,0005,0011,F009976,Vall baixa i Delta del Llobregat - 08169-0321,425241.62,4573714.58,3108079,Nivell piezomètric
+after_2007,0005,0011,F009976,Vall baixa i Delta del Llobregat - 08169-0321,425241.62,4573714.58,3311792,Nivell piezomètric
+after_2007,0005,0011,F009976,Vall baixa i Delta del Llobregat - 08169-0321,425241.62,4573714.58,F000103NPM,08169-0321_B6'B_Prat Llobregat_Nivell piezometric_Manual
+after_2007,0005,0011,F009978,Vall baixa i Delta del Llobregat - 08169-0318,427013,4574692,3108069,Nivell piezomètric
+after_2007,0005,0011,F009978,Vall baixa i Delta del Llobregat - 08169-0318,427013,4574692,F000069NPM,Nivell piezomètric
+after_2007,0005,0011,F010195,Baix Besòs i Pla de Barcelona - 08019-0180,433771.41,4584801.13,3225291,Nivell piezomètric (3225291)
+after_2007,0005,0011,F010196,Baix Besòs i Pla de Barcelona - 08019-0179,433772.91,4584801.93,3225288,Nivell piezomètric
+after_2007,0005,0011,F010197,Baix Besòs i Pla de Barcelona - 08194-0007,435004,4585969,3225295,Nivell piezomètric
+after_2007,0005,0011,F010198,Baix Besòs i Pla de Barcelona - 08194-0006,435005.7,4585966.9,3225293,Nivell piezomètric
+after_2007,0005,0011,F011209,Vall baixa i Delta del Llobregat - 08169-0352,427506,4573126,F000078NPM,Nivell piezomètric
+after_2007,0005,0011,F011210,Vall baixa i Delta del Llobregat - 08169-0357,427507,4573127,F000099NPM,Nivell piezomètric
+after_2007,0005,0011,F011219,Vall baixa i Delta del Llobregat - 08019-0168,427865.94,4576050.56,F000124NPM,Nivell piezomètric
+after_2007,0005,0011,F011253,Al·luvial d'Urgell - 25135-0018,325895.02,4607855.79,F000584NPM,Nivell piezomètric
+after_2007,0005,0011,F011510,Fluviovolcànic de la Garrotxa - 17114-0004,458899.59,4668717.57,3159398,Nivell piezomètric
+after_2007,0005,0011,F011511,Fluviovolcànic de la Garrotxa - 17114-0016,458145,4672531,3159399,Nivell piezomètric
+after_2007,0005,0011,F011512,Baixa Garrotxa-Pla de l'Estany - 17105-0003,468611,4662728,3159394,Nivell piezomètric
+after_2007,0005,0011,F011513,"Al·luvials del Ter Mig, Brugent i Llémena - 17133-0010",461610.41,4656327.86,3159403,Nivell piezomètric (3159403)
+after_2007,0005,0011,F011515,Fluviovolcànic de la Garrotxa - 17184-0016,465957,4666027,3159459,Nivell piezomètric
+after_2007,0005,0011,F011516,Fluviovolcànic de la Garrotxa - 17207-0031,453612,4665846,3159462,Nivell piezomètric
+after_2007,0005,0011,F011517,Fluviovolcànic de la Garrotxa - 17208-0051,456932,4673253,3159469,Nivell piezomètric
+after_2007,0005,0011,F011518,Fluviovolcànic de la Garrotxa - 17207-0085,454415,4661981,3159464,Nivell piezomètric
+after_2007,0005,0011,F011519,Fluviovolcànic de la Garrotxa - 17207-0086,453617,4664226,3159465,Nivell piezomètric
+after_2007,0005,0011,F011520,Fluviovolcànic de la Garrotxa - 17207-0087,454177.4,4668218.4,3159466,Nivell piezomètric
+after_2007,0005,0011,F011521,Baixa Garrotxa-Pla de l'Estany - 17165-0009,467587.64,4673370.51,3159458,Nivell piezomètric
+after_2007,0005,0011,F011522,Baixa Garrotxa-Pla de l'Estany - 17019-0010,474359.7,4671726.2,3159392,Nivell piezomètric
+after_2007,0005,0011,F011523,Fluviovolcànic de la Garrotxa - 17207-0050,453799.16,4669093.61,3159463,Nivell piezomètric
+after_2007,0005,0011,F011524,Fluviovolcànic de la Garrotxa - 17184-0049,463596.88,4666076.53,3159460,Nivell piezomètric
+after_2007,0005,0011,F011525,Fluviovolcànic de la Garrotxa - 17208-0052,456831.62,4673322.39,3159470,Nivell piezomètric
+after_2007,0005,0011,F011526,Fluviovolcànic de la Garrotxa - 17185-0049,462030.93,4673155.25,3159461,Nivell piezomètric
+after_2007,0005,0011,F011527,Fluviovolcànic de la Garrotxa - 17114-0080,455626,4670413,3159402,Nivell piezomètric
+after_2007,0005,0011,F011528,Fluviovolcànic de la Garrotxa - 17207-0092,453879.57,4666681.31,3159467,Nivell piezomètric
+after_2007,0005,0011,F011529,Fluviovolcànic de la Garrotxa - 17149-0003,453412,4670806,3159405,Nivell piezomètric
+after_2007,0005,0011,F011530,Fluviovolcànic de la Garrotxa - 17208-0040,455654,4673570,3159468,Nivell piezomètric
+after_2007,0005,0011,F011531,Fluviovolcànic de la Garrotxa - 17114-0054,458420,4670925,3159400,Nivell piezomètric
+after_2007,0005,0011,F011533,Baixa Garrotxa-Pla de l'Estany - 17105-0006,470506.57,4664380.48,3159395,Nivell piezomètric xarxa qualitat
+after_2007,0005,0011,F011534,Baixa Garrotxa-Pla de l'Estany - 17109-0025,467427.16,4675772.02,3159397,Nivell piezomètric
+after_2007,0005,0011,F011535,N/D - Superficial - ITAM01,480434,4612743,3298237,ITAM01_Blanes_Tordera_Nivell pou 1_REV0
+after_2007,0005,0011,F011535,N/D - Superficial - ITAM01,480434,4612743,3298238,ITAM01_Blanes_Tordera_Nivell pou 2_REV0
+after_2007,0005,0011,F011535,N/D - Superficial - ITAM01,480434,4612743,3298239,ITAM01_Blanes_Tordera_Nivell pou 3_REV0
+after_2007,0005,0011,F011535,N/D - Superficial - ITAM01,480434,4612743,3298240,ITAM01_Blanes_Tordera_Nivell pou 4_REV0
+after_2007,0005,0011,F011535,N/D - Superficial - ITAM01,480434,4612743,3298241,ITAM01_Blanes_Tordera_Nivell pou 5_REV0
+after_2007,0005,0011,F011535,N/D - Superficial - ITAM01,480434,4612743,3298242,ITAM01_Blanes_Tordera_Nivell pou 6_REV0
+after_2007,0005,0011,F011535,N/D - Superficial - ITAM01,480434,4612743,3298243,ITAM01_Blanes_Tordera_Nivell pou 7_REV0
+after_2007,0005,0011,F011535,N/D - Superficial - ITAM01,480434,4612743,3298244,ITAM01_Blanes_Tordera_Nivell pou 8_REV0
+after_2007,0005,0011,F011535,N/D - Superficial - ITAM01,480434,4612743,3298245,ITAM01_Blanes_Tordera_Nivell pou 9_REV0
+after_2007,0005,0011,F011535,N/D - Superficial - ITAM01,480434,4612743,3298246,ITAM01_Blanes_Tordera_Nivell pou 10_REV0
+after_2007,0005,0011,F011537,Fluviovolcànic de la Garrotxa - 17114-0081,457349.58,4667523.28,3222684,Nivell piezomètric
+after_2007,0005,0011,F011538,"Al·luvials del Ter Mig, Brugent i Llémena - 17183-0018",468211.51,4656819.18,3163798,Nivell piezomètric
+after_2007,0005,0011,F011611,Cubeta d'Abrera - 08054-0084,410160.25,4594290.13,F000035NPM,Nivell piezomètric
+after_2007,0005,0011,F011612,Cubeta d'Abrera - 08054-0082,411026.24,4592661.52,F000033NPM,Nivell piezomètric
+after_2007,0005,0011,F011699,Cardó - Vandellòs - 43155-0141,292053,4521080,3226215,Nivell piezomètric
+after_2007,0005,0011,F011740,Fluviodeltaic del Baix Ter - 17049-0032,489815,4654850,3318506,Nivell piezomètric (3318506)
+after_2007,0005,0011,F011747,Fluviodeltaic del Baix Ter - 17166-0020,497389.71,4656330.09,3318507,Nivell piezomètric (3318507)
+after_2007,0005,0011,F011748,Garraf - 08058-0061,388005.89,4567049.03,3275281,Nivell piezomètric
+after_2007,0005,0011,F011757,Vall baixa i Delta del Llobregat - 08169-0390,428808.5,4571884.51,3226083,Nivell piezomètric
+after_2007,0005,0011,F011758,Vall baixa i Delta del Llobregat - 08019-0189,429119.74,4576299.65,3226082,Nivell piezomètric
+after_2007,0005,0011,F011759,Vall baixa i Delta del Llobregat - 08019-0241,429116.26,4576293.76,3226080,Nivell piezomètric
+after_2007,0005,0011,F011760,Vall baixa i Delta del Llobregat - 08019-0242,429117.24,4576296.55,3226081,Nivell piezomètric
+after_2007,0005,0011,F011761,Vall baixa i Delta del Llobregat - 08019-0188,428505.93,4574823.96,3226079,Nivell piezomètric
+after_2007,0005,0011,F011762,Vall baixa i Delta del Llobregat - 08019-0269,428527.8,4574828.27,3226078,Nivell piezomètric
+after_2007,0005,0011,F011765,Vall baixa i Delta del Llobregat - 08169-0891,425271.12,4575081.43,3226090,Nivell piezomètric
+after_2007,0005,0011,F011766,Cardó - Vandellòs - 43155-0057,292204,4525785,3226213,Nivell piezomètric
+after_2007,0005,0011,F011767,Fossa de Móra - 43064-0005,287493.39,4546197.68,3226185,Nivell piezomètric
+after_2007,0005,0011,F011767,Fossa de Móra - 43064-0005,287493.39,4546197.68,3993624,Nivell piezomètric xarxa qualitat
+after_2007,0005,0011,F011768,Plana de la Galera - 43133-0098,287947.21,4522461.64,3226201,Nivell piezomètric
+after_2007,0005,0011,F011769,Mesozoic de la Galera - 43133-0115,281600.2,4522382.69,3226203,Nivell piezomètric
+after_2007,0005,0011,F011770,Mesozoic de la Galera - 43133-0130,284070.16,4515746.66,3226205,Nivell piezomètric
+after_2007,0005,0011,F011771,Cardó - Vandellòs - 43155-0509,292132,4519083,3226301,Nivell piezomètric
+after_2007,0005,0011,F011774,Mesozoic de la Galera - 43063-0023,284050.1,4508234.65,3226183,Nivell piezomètric
+after_2007,0005,0011,F011775,Fossa de Móra - 43085-0004,306542.53,4560146.56,3226193,Nivell piezomètric
+after_2007,0005,0011,F011776,Mesozoic de la Galera - 43014-0257,293868.12,4509135.58,3231674,Nivell piezomètric
+after_2007,0005,0011,F011777,Mesozoic de la Galera - 43068-0022,285923,4505273,3226189,Nivell piezomètric (3226189)
+after_2007,0005,0011,F011777,Mesozoic de la Galera - 43068-0022,285923,4505273,4041024,Nivell piezomètric
+after_2007,0005,0011,F011777,Mesozoic de la Galera - 43068-0022,285923,4505273,4113189,Nivell piezomètric
+after_2007,0005,0011,F011778,Mesozoic de la Galera - 43078-0097,289226.11,4508633.61,3226191,Nivell piezomètric
+after_2007,0005,0011,F011779,Plana de la Galera - 43155-0828,288195.18,4518301.63,3226303,Nivell piezomètric
+after_2007,0005,0011,F011780,Fossa de Móra - 43085-0026,307059,4560329.5,3226195,Nivell piezomètric
+after_2007,0005,0011,F011781,Fossa de Móra - 43025-0094,292113,4539250,3226179,Nivell piezomètric
+after_2007,0005,0011,F011782,l'Ametlla de Mar- Perelló - 43104-0063,305208.29,4528521.52,3226197,Nivell piezomètric
+after_2007,0005,0011,F011783,l'Ametlla de Mar- Perelló - 43013-0240,312655,4530651,3226169,Nivell piezomètric
+after_2007,0005,0011,F011784,l'Ametlla de Mar- Perelló - 43013-0264,309600,4533381,3226173,Nivell piezomètric
+after_2007,0005,0011,F011786,Baixa Garrotxa-Pla de l'Estany - 17071-0027,480674.2,4666346.5,3275286,Nivell piezomètric (3275286)
+after_2007,0005,0011,F011823,Fluviodeltaic del Baix Ter - 17025-0020,492721,4655808,3318505,Nivell piezomètric (3318505)
+after_2007,0005,0011,F011941,Conca alta del Fluvià - 17109-0029,464243,4674518,3273973,Nivell piezomètric
+after_2007,0005,0011,F011972,Paleògens del Baix Ter - 17168-0013,495427.74,4653865.33,3318511,Nivell piezomètric (3318511)
+after_2007,0005,0011,F011993,Paleògens del Baix Ter - 17232-0016,498360.12,4661177.13,3318512,Nivell piezomètric (3318512)
+after_2007,0005,0011,F012554,Baixa Garrotxa-Pla de l'Estany - 17071-0029,480673.6,4666346.7,3275287,Nivell piezomètric (3275287)
+after_2007,0005,0011,F012582,Calcàries de l'Alt Foix-Gaià - 08168-0013,374065.83,4586185.09,3318504,Nivell piezomètric (3318504)
+after_2007,0005,0011,F012583,Calcàries de l'Alt Foix-Gaià - 08168-0012,374066.5,4586185.64,3318503,Nivell piezomètric (3318503)
+after_2007,0005,0011,F012622,"Al·luvials del Ter Mig, Brugent i Llémena - 17020-0073",473755.23,4647087.21,3318499,Nivell piezomètric (3318499)
+after_2007,0005,0011,F012628,Baixa Garrotxa-Pla de l'Estany - 17019-0015,476267.4,4671913.14,3318513,Nivell piezomètric (3318513)
+after_2007,0005,0011,F012629,Detrític neogen de l'Empordà - 17058-0013,483891.63,4669708.38,3318508,Nivell piezomètric (3318508)
+after_2007,0005,0011,F012630,"Al·luvials del Ter Mig, Brugent i Llémena - 17189-0025",468991.79,4646642.9,3318501,Nivell piezomètric (3318501)
+after_2007,0005,0011,F012631,Detrític neogen de l'Empordà - 17071-0031,483698.29,4663975.34,3318509,Nivell piezomètric (3318509)
+after_2007,0005,0011,F012632,Baixa Garrotxa-Pla de l'Estany - 17174-0020,474002.69,4663871.03,3318514,Nivell piezomètric (3318514)
+after_2007,0005,0011,F012651,Montseny-Guilleries - 08241-0019,448497.53,4638957.66,3318502,Nivell piezomètric (3318502)
+after_2007,0005,0011,F012669,Fluviovolcànic de la Garrotxa - 17207-0056,453377,4666011,3273986,Nivell piezomètric
+after_2007,0005,0011,F012691,Detrítics terciaris del Llobregat mig - 08191-0019,409279,4626275,3318492,Nivell piezomètric (3318492)
+after_2007,0005,0011,F012692,N/D - Subterrània - 08092-0004,407431.31,4654152.83,3318486,Nivell piezomètric
+after_2007,0005,0011,F012693,Detrítics terciaris del Llobregat mig - 08262-0011,405268.67,4612939.76,3318493,Nivell piezomètric (3318493)
+after_2007,0005,0011,F012699,Baixa Garrotxa-Pla de l'Estany - 17200-0006,469805.55,4675085.97,3318515,Nivell piezomètric (3318515)
+after_2007,0005,0011,F012705,Garraf - 08058-0062,388010,4567059,3275285,Nivell piezomètric
+after_2007,0005,0011,F012706,Baixa Garrotxa-Pla de l'Estany - 17071-0030,480673.4,4666346.5,3275288,Nivell piezomètric (3275288)
+after_2007,0005,0011,F012714,Vall baixa i Delta del Llobregat - 08169-1107,423854.83,4575583.99,3277479,3277479 (Ms Aca-1) (Nivell piezomètric)
+after_2007,0005,0011,F012715,Vall baixa i Delta del Llobregat - 08169-1108,423850.83,4575591.39,3277480,3277480 (Mp Aca-1) (Nivell piezomètric)
+after_2007,0005,0011,F012762,Al·luvials de l'alta i mitjana Tordera - 17027-0020,462853.8,4622031.71,3318500,Nivell piezomètric
+after_2007,0005,0011,F012986,Vall baixa i Delta del Llobregat - 08019-0566,427412.24,4575049.49,3315900,08019-0566_Barcelona_BHPP5_Nivell piezometric_REV0
+after_2007,0005,0011,F012987,Vall baixa i Delta del Llobregat - 08019-0567,427867.08,4576005.35,3315904,08019-0567_Barcelona_BHPP6_Nivell piezometric_REV0
+after_2007,0005,0011,F012988,Vall baixa i Delta del Llobregat - 08019-0568,427659.75,4575565,3315907,08019-0568_Barcelona_BHPP7_Nivell piezometric _REV0
+after_2007,0005,0011,F012989,Vall baixa i Delta del Llobregat - 08019-0569,426912.99,4575280.62,3315913,08019-0569_Barcelona_BHPP9_Nivell piezometric_REV0
+after_2007,0005,0011,F012990,Vall baixa i Delta del Llobregat - 08019-0570,427707.05,4577391.88,3315916,Nivell piezomètric (F012990NP)
+after_2007,0005,0011,F012991,Vall baixa i Delta del Llobregat - 08019-0573,427572.14,4576202.35,3315947,Nivell piezomètric (F012991NP)
+after_2007,0005,0011,F012992,Vall baixa i Delta del Llobregat - 08019-0574,428290.46,4577228.01,3315950,08019-0574_Barcelona_BHPP17_Nivell piezometric_REV0
+after_2007,0005,0011,F012993,Vall baixa i Delta del Llobregat - 08169-1139,425341.2,4572996.62,3315891,08169-1139_Prat Llobregat_BHPP2_Nivell piezometric_REV0
+after_2007,0005,0011,F012994,Vall baixa i Delta del Llobregat - 08169-1140,425713.03,4573487.79,3315894,08169-1140_Prat Llobregat_BHPP3_Nivell piezometric_REV0
+after_2007,0005,0011,F012995,Vall baixa i Delta del Llobregat - 08169-1142,424076.24,4573944.47,3315932,Nivell piezomètric (F012995NP)
+after_2007,0005,0011,F012996,Vall baixa i Delta del Llobregat - 08169-1144,425079.62,4574063.68,3280769,Nivell piezomètric
+after_2007,0005,0011,F012997,Vall baixa i Delta del Llobregat - 08169-1141,425804.43,4574632.55,3315910,08169-1141_Prat Llobregat_BHPP8_Nivell piezometric_REV0
+after_2007,0005,0011,F012998,Vall baixa i Delta del Llobregat - 08169-1143,426197.71,4573114.97,3280822,Nivell piezomètric
+after_2007,0005,0011,F012998,Vall baixa i Delta del Llobregat - 08169-1143,426197.71,4573114.97,3315935,Nivell piezomètric (F012998NP)
+after_2007,0005,0011,F013008,Al·luvials de la baixa i delta de la Tordera - 08155-0171,479360,4614808,3280858,Nivell piezomètric (3280858)
+after_2007,0005,0011,F013014,Vall baixa i Delta del Llobregat - 08019-0565,428357.92,4577027.01,3315897,08019-0565_Barcelona_BHPP4_Nivell piezometric_REV0
+after_2007,0005,0011,F013015,Vall baixa i Delta del Llobregat - 08019-0571,428835.95,4577588.52,3315941,08019-0571_Barcelona_BHPP14_Nivell piezometric_REV0
+after_2007,0005,0011,F013016,Vall baixa i Delta del Llobregat - 08019-0572,428188.91,4576519.96,3315944,Nivell piezomètric (F013016NP)
+after_2007,0005,0011,F014160,Prelitoral del Vallès - 08051-0088,422874.82,4608172.06,3318497,Nivell piezomètric
+after_2007,0005,0011,F014161,Prelitoral del Vallès - 08120-0024,418527.78,4606327.48,3318498,Nivell piezomètric (3318498)
+after_2007,0005,0011,F014162,Prelitoral del Vallès - 08023-0086,436011.1,4613775.7,3318494,Nivell piezomètric (3318494)
+after_2007,0005,0011,F014171,Prelitoral del Vallès - 08023-0087,433321.82,4615594.39,3318495,Nivell piezomètric (3318495)
+after_2007,0005,0011,F014305,Prelitoral del Vallès - 08023-0089,431962.52,4611882.78,3318496,Nivell piezomètric (3318496)
+after_2007,0005,0011,F014396,Vall baixa i Delta del Llobregat - 08169-0389,427694.52,4573875.86,3308033,Nivell piezomètric Port A-8-3-B-Nou
+after_2007,0005,0011,F014398,Vall baixa i Delta del Llobregat - 08169-1165,427360,4574130,3308035,Nivell piezomètric Port S-23
+after_2007,0005,0011,F014399,Vall baixa i Delta del Llobregat - 08169-1167,428330,4574315,3308037,Nivell piezomètric Port S-25
+after_2007,0005,0011,F014400,Vall baixa i Delta del Llobregat - 08169-1166,427386,4573607,3308036,Nivell piezomètric Port S-26
+after_2007,0005,0011,F014434,Detrític neogen de l'Empordà - 17115-0017,491762.64,4675049.51,3318510,Nivell piezomètric (3318510)
+after_2007,0005,0011,F014661,Fluviovolcànic de la Garrotxa - 17207-0069,455021,4665614,4142669,Nivell piezomètric xarxa qualitat
+after_2007,0005,0011,F014676,Plioquaternari de l'Onyar - 17079-0082,485413.47,4647275.34,3317699,Onyar3_Nivell Piezometric (3317699)_REV0
+after_2007,0005,0011,F014677,Al·luvials de l'Albera i Cap de Creus - 17092-0019,512663,4690414,3318491,17092-0019_Llanca_Piezometre 4 Llanca-1_Nivell piezometric_Manual
+after_2007,0005,0011,F014870,Plana de Vic - Collsacabra - 08220-0059,443398.05,4637980.78,3356315,10-1_St Julia de Vilatorta_Nivell piezometric (3356315)_REV0
+after_2007,0005,0011,F014871,Plana de Vic - Collsacabra - 08116-0029,444060.44,4648022.1,3356317,10-1_Masies de Roda_Nivell Piezometric (3356317)_REV0
+after_2007,0005,0011,F014883,Plana de Vic - Collsacabra - 08220-0060,443435.04,4642411.05,3356316,10-2_St Julia de Vilatorta_Profund_Nivell Piezometric (3356316)_REV0
+after_2007,0005,0011,F014884,Al·luvials de l'Albera i Cap de Creus - 17140-0010,516733.82,4686847.46,3356497,17140-0010_Port Selva_Piezometre 4 Port Selva-1_Nivell piezometric_Manual
+after_2007,0005,0011,F014884,Al·luvials de l'Albera i Cap de Creus - 17140-0010,516733.82,4686847.46,4063365,Nivell piezomètric
+after_2007,0005,0011,F014884,Al·luvials de l'Albera i Cap de Creus - 17140-0010,516733.82,4686847.46,4112684,Nivell piezomètric
+after_2007,0005,0011,F014885,Plana de Vic - Collsacabra - 08116-0030,444768,4647158,3356318,10-2_Masies de Roda_Nivell piezometric (3356318)_REV0
+after_2007,0005,0011,F014890,Cubeta d'Abrera - 08076-0150,409148.08,4598243.74,3356323,37-1_Esparraguera_Nivell piezometric_REV0
+after_2007,0005,0011,F014891,Plana de Vic - Collsacabra - 08037-0041,440603.56,4642158.4,3356319,10-1_Calldetenes_Nivell Piezometric (3356319)_REV0
+after_2007,0005,0011,F014896,Maresme - 08235-0094,467432,4605791,3356322,08235-0094_18 Sant Pol de Mar-1_Nivell piezometric_REV0
+after_2007,0005,0011,F014897,Vall baixa i Delta del Llobregat - 08157-0082,416516.8,4586730.74,3356327,Nivell piezomètric (3356327)
+after_2007,0005,0011,F014898,Cubeta de Sant Andreu - 08196-0055,415136.07,4588486.75,3356326,38-1_Sant Andreu de la Barca_Nivell piezometric_REV0
+after_2007,0005,0011,F014899,Cubeta d'Abrera - 08076-0151,406592.28,4601644.27,3356324,37-2_Esparraguera_Nivell piezometric_REV0
+after_2007,0005,0011,F014900,Cubeta d'Abrera - 08147-0091,407734.48,4598592.25,3356325,37-1_Olesa de Montserrat_Nivell piezometric_REV0
+after_2007,0005,0011,F014901,Plana de Vic - Collsacabra - 08112-0061,438768.41,4649589.22,3356321,10-2_Manlleu_Al·luvial_Nivell piezometric (3356321)_REV0
+after_2007,0005,0011,F014902,Plana de Vic - Collsacabra - 08112-0062,438768.94,4649592.42,3356320,10-1_Manlleu_Margues_Nivell piezometric (3356320)_REV0
+after_2007,0005,0011,F014909,Maresme - 08040-0064,465201.81,4604275.29,3377514,Nivell piezomètric (3377514)
+after_2007,0005,0011,F014910,Maresme - 08007-0153,461867.68,4604917.41,3380620,Nivell piezomètric (3380620)
+after_2007,0005,0011,F014911,Baixa Garrotxa-Pla de l'Estany - 17015-0043,479516.89,4664998.41,3358879,Nivell piezomètric (3358879)
+after_2007,0005,0011,F014940,Plioquaternari de l'Onyar - 17155-0043,483297,4646191,3380623,17155-0043_Salt (Parking Hospital)_Nivell piezomètric_Manual
+after_2007,0005,0011,F014941,Baixa Garrotxa-Pla de l'Estany - 17079-0088,483221.47,4648212.35,3380624,Nivell piezomètric (3380624)
+after_2007,0005,0011,F014973,Maresme - 08197-0171,457863,4601330,3356498,08197-0171_18 Sant Andreu Llavaneres-1_Nivell piezometric_REV0
+after_2007,0005,0011,F015085,Detrític neogen de l'Empordà - 17218-0101,488592.14,4669332.81,3323607,Nivell piezomètric (3323607)
+after_2007,0005,0011,F015086,Paleògens del Baix Ter - 17902-0084,507287.1,4647398.77,3323606,Nivell piezomètric (3323606)
+after_2007,0005,0011,F015370,Fluviodeltaic del Fluvià - Muga - 17135-0031,494936.86,4684177.12,3380621,Nivell piezomètric (3380621)
+after_2007,0005,0011,F015374,Fluviodeltaic del Fluvià - Muga - 17135-0030,495281.06,4683418.42,3380622,Nivell piezomètric (3380622)
+after_2007,0005,0011,F015699,Fluviodeltaic del Baix Ter - 17081-0055,508888.05,4653458.17,3355396,Nivell piezomètric (3355396)
+after_2007,0005,0011,F015702,Fluviovolcànic de la Garrotxa - 17207-0081,453899.17,4666692.11,4180048,Nivell piezomètric
+after_2007,0005,0011,F017227,Fluviodeltaic del Fluvià - Muga - 17047-0249,507940.9,4673424.01,3376752,Nivell piezomètric (3376752)
+after_2007,0005,0011,F017229,Tremp-Isona - 25098-0014,340492,4658458,3376753,Nivell piezomètric (3376753)
+after_2007,0005,0011,F017230,Sorres de Santa Oliva - 43140-0094,376710.24,4568514.27,3376754,Nivell piezomètric (3376754)
+after_2007,0005,0011,F017232,Baix Gaià - 43131-0033,370470,4561178,4168890,Nivell piezomètric
+after_2007,0005,0011,F017593,Plioquaternari de l'Onyar - 17033-0111,485347.36,4633346.32,3385867,Nivell piezomètric (3385867)
+after_2007,0005,0011,F017594,Plioquaternari de l'Onyar - 17033-0053,485735,4631728,3385864,Nivell piezomètric (3385864)
+after_2007,0005,0011,F017597,Plioquaternari de l'Onyar - 17233-0020,476343,4637482,3385874,Nivell piezomètric (3385874)
+after_2007,0005,0011,F017732,Baix Besòs i Pla de Barcelona - 08015-0061,436544.45,4588560.12,3381675,Nivell piezomètric (3381675)
+after_2007,0005,0011,F017733,Baix Besòs i Pla de Barcelona - 08015-0063,436718.45,4588684.12,3381676,Nivell piezomètric
+after_2007,0005,0011,F017734,Baix Besòs i Pla de Barcelona - 08015-0062,436893.45,4588966.11,3381677,Nivell piezomètric
+after_2007,0005,0011,F018020,Prades - Alt Francolí - 43021-0023,354946,4585821,3386533,Nivell piezomètric (3386533)
+after_2007,0005,0011,F018021,Prades - Alt Francolí - 43021-0019,352573,4586206,3386532,Nivell piezomètric (3386532)
+after_2007,0005,0011,F018021,Prades - Alt Francolí - 43021-0019,352573,4586206,3985590,Nivell piezomètric
+after_2007,0005,0011,F018021,Prades - Alt Francolí - 43021-0019,352573,4586206,4051726,Nivell piezomètric
+after_2007,0005,0011,F018759,Plioquaternari de l'Onyar - 17089-0147,488540.36,4632189.29,3965776,Nivell piezomètric (3965776)
+after_2007,0005,0011,F018760,Plioquaternari de la Riera Santa Coloma - 17193-0119,478384.2,4626685.06,3964984,Nivell piezomètric
+after_2007,0005,0011,F018762,Cardó - Vandellòs - 43903-0228,302491.18,4515481.52,3985357,Nivell piezomètric (Che - Camarles)
+after_2007,0005,0011,F018763,Fossa de Móra - 43106-0001,291005.37,4543096.65,3965778,Nivell piezomètric (3965778)
+after_2007,0005,0011,F018764,Fossa de Móra - 43084-0033,293891,4547625,3965779,Nivell piezomètric (3965779)
+after_2007,0005,0011,F018924,Montseny-Guilleries - 17009-0206,455937.3,4630730.53,3964979,Nivell piezomètric
+after_2007,0005,0011,F019803,Delta de l'Ebre - 43902-0009,313903,4507076,3986563,Nivell piezomètric (Riade 2)
+after_2007,0005,0011,F019899,Delta de l'Ebre - 43903-0240,302083.18,4515496.52,3987161,Nivell piezomètric
+after_2007,0005,0011,F020998,Fluviovolcànic de la Garrotxa - 17114-0129,456643.5,4671076.5,4180047,Nivell piezomètric
+after_2007,0005,0011,F021898,Detrític neogen del Vallès - 08187-0159,425646.6,4599839.6,4166442,Nivell piezomètric
+after_2007,0005,0011,F021899,Fluviodeltaic del Baix Ter - 17070-0063,509468.5,4651658.2,4279450,Nivell piezomètric
+after_2007,0005,0011,F021900,Plioquaternari de l'Onyar - 17079-0120,484672,4647532,4279448,Nivell piezomètric
+after_2007,0005,0011,F021976,Fluviodeltaic del Fluvià - Muga - 17178-0336,507388.7,4672883.2,4180045,Nivell piezomètric xarxa qualitat
+after_2007,0005,0011,F021996,Sorres de Santa Oliva - 43020-0077,379103.1,4568957.1,4135022,Nivell piezomètric
+after_2007,0005,0011,F022246,Detrític neogen del Vallès - 08187-0160,425646.1,4599843.3,4166443,Nivell piezomètric
+after_2007,0005,0011,F022247,Detrític neogen del Vallès - 08187-0161,424663.4,4601277.4,4166444,Nivell piezomètric
+after_2007,0005,0011,F022248,Detrític neogen del Vallès - 08187-0162,424669.9,4601267.7,4166445,Nivell piezomètric
+after_2007,0005,0011,F022249,Detrític neogen del Vallès - 08187-0163,423796.1,4602693.1,4166446,Nivell piezomètric
+after_2007,0005,0011,F022251,Plioquaternari de l'Onyar - 17079-0121,484672,4647532.5,4279449,Nivell piezomètric
+after_2007,0005,0011,F022252,Fluviodeltaic del Baix Ter - 17124-0129,515566.5,4650587.1,4279469,Nivell piezomètric
+after_2007,0005,0011,F022253,Fluviodeltaic del Baix Ter - 17124-0128,513690.5,4650201.1,4279468,Nivell piezomètric
+after_2007,0005,0011,F022254,Fluviodeltaic del Baix Ter - 17070-0064,511283.5,4650164.1,4279451,Nivell piezomètric
+after_2007,0005,0011,F024032,Fluviovolcànic de la Garrotxa - 17114-0083,457791.59,4668933.58,4180049,Nivell piezomètric
+after_2007,0005,0011,F024033,Fluviovolcànic de la Garrotxa - 17114-0189,456537.5,4668806,4180050,Nivell piezomètric
+after_2007,0005,0011,F024034,Fluviovolcànic de la Garrotxa - 17114-0190,456538,4668806,4180051,Nivell piezomètric
+after_2007,0005,0011,F024660,Vall baixa i Delta del Llobregat - 08019-0940,428834,4577589,4407106,Nivell piezomètric
+after_2007,0005,0011,F024661,Vall baixa i Delta del Llobregat - 08019-0939,428189,4576520,4343508,Nivell piezomètric
+after_2007,0005,0011,F025066,Plioquaternari de l'Onyar - 17089-0117,488377,4632191,4192386,Nivell piezomètric
+after_2007,0005,0011,F025067,Plioquaternari de l'Onyar - 17089-0118,488470,4632181,4192387,Nivell piezomètric
+after_2007,0005,0011,F025346,Fossa de Móra - 43093-0148,297084.45,4551437.62,4279509,Nivell piezomètric
+after_2007,0005,0011,F027084,"Al·luvials del Ter Mig, Brugent i Llémena - 17008-0032",470744.43,4645534.45,4279488,17008-0032_Piezometre - Angles Tub P_Nivell piezometric _Manual
+after_2007,0005,0011,F027085,"Al·luvials del Ter Mig, Brugent i Llémena - 17008-0031",470743.43,4645534.45,4279489,Nivell piezomètric
+after_2007,0005,0011,F028364,l'Ametlla de Mar- Perelló - 43013-0414,314408,4533676,4287960,Nivell piezomètric
+after_2007,0005,0011,F029250,l'Ametlla de Mar- Perelló - 43104-0124,309948,4529585,4292354,Nivell piezomètric
+after_2007,0005,0011,F030398,Carme-Capellades - 08104-0052,375898,4592377,4363150,Nivell piezomètric
+after_2007,0005,0011,F033581,Al·luvials de la baixa i delta de la Tordera - 08284-0056,476461.22,4616730.36,4428131,Nivell piezomètric
+after_2007,0005,0011,F034779,Vall baixa i Delta del Llobregat - 08019-1099,429612,4575546,1000003326,Nivell piezomètric
+after_2007,0005,0011,F035057,Vall baixa i Delta del Llobregat - 08019-1157,429748.6,4575829.5,4392704,Nivell piezomètric
+after_2007,0005,0011,F035058,Vall baixa i Delta del Llobregat - 08019-1158,429821.6,4576040.8,4392705,Nivell piezomètric
+after_2007,0005,0011,F035067,l'Ametlla de Mar- Perelló - 43906-0027,306995.24,4522321.5,4400213,Nivell piezomètric
+after_2007,0005,0011,F035344,Al·luvial d'Urgell - 25099-0019,326454.43,4608423.98,4398007,Nivell piezomètric
+after_2007,0005,0011,F036026,Conca alta de la Muga - 17042-0016,492898.83,4693858.35,4431439,NIvell piezomètric
+after_2007,0005,0011,F036084,Fluviodeltaic del Baix Ter - 17068-0124,502102.7,4655964.3,4401360,Nivell piezomètric
+after_2007,0005,0011,F036913,Al·luvials de la baixa i delta de la Tordera - 17023-0203,481055,4612039,4403259,17023-0203_Blanes_35 Blanes-1 (nou Iryda A)_Nivell piezometric_Manual
+after_2007,0005,0011,F036914,Al·luvials de la baixa i delta de la Tordera - 17023-0204,481054,4612040,4403260,17023-0204_Blanes_35 Blanes-2 (nou Iryda B)_Nivell piezometric_Manual
+after_2007,0005,0011,F036915,Al·luvials de l'alta i mitjana Tordera - 17159-0272,467964,4621460,4403261,Nivell piezomètric
+after_2007,0005,0011,F036916,Al·luvials de l'alta i mitjana Tordera - 17159-0273,468271,4621119,4403262,Nivell piezomètric
+after_2007,0005,0011,F036917,Al·luvials de l'alta i mitjana Tordera - 17159-0274,466136,4619749,4403263,Nivell piezomètric
+after_2007,0005,0011,F038483,Vall baixa i Delta del Llobregat - 08244-0045,418591.9,4581572.7,4417046,Nivell piezomètric
+after_2007,0005,0011,F038707,Al·luvials de la Baixa Costa Brava - 17034-0308,508567.73,4633150.73,4423069,17034-0308_15 Piezometre Calonge-1 (Superficial)_Nivell piezometric_Manual
+after_2007,0005,0011,F038708,Al·luvials de la Baixa Costa Brava - 17034-0307,508565.93,4633150.15,4423074,17034-0307_15 Piezometre Calonge-2 (Profund)_Nivell piezometric_Manual
+after_2007,0005,0011,F038738,Plioquaternari de l'Onyar - 17233-0199,479082.17,4637355.33,4421198,17233-0199_Vilobi Onyar_14 Piezometre Vilobi-1_Nivell piezomètric_Manual
+after_2007,0005,0011,F038808,Plioquaternari de l'Onyar - 17150-0134,483603.95,4638495.92,4431780,17150-0134_ Riudellots de la Selva_14 Piezometre Riudellots-1_Nivell piezometric_Manual
+after_2007,0005,0011,F038809,Conca alta de la Muga - 17093-0054,492028.82,4682897.65,4422342,Nivell piezomètric
+after_2007,0005,0011,F038810,Plioquaternari de l'Onyar - 17044-0236,487204.88,4634769.57,4431779,Nivell piezomètric
+after_2007,0005,0011,F039374,Prades - Alt Francolí - 43086-0246,345731.5,4581580.1,4436021,Nivell piezomètric
+after_2007,0005,0011,F039375,Prades - Alt Francolí - 43086-0247,345265,4580399.4,4436022,43086-0247_Piezometre - 27 Piezometre Montblanc-2 (Muntanya)_Nivell piezometric_Manual
+after_2007,0005,0011,F039427,Prades - Alt Francolí - 43130-0009,356420.9,4592743.2,4436023,Nivell piezomètric
+after_2007,0005,0011,F039827,Llaberia - Prades meridional - 43009-0186,330007.5,4564078.9,4436017,Nivell piezomètric
+after_2007,0005,0011,F039828,l'Ametlla de Mar- Perelló - 43013-0459,315738.4,4530047.4,4436019,Nivell piezomètric
+after_2007,0005,0011,F039941,l'Ametlla de Mar- Perelló - 43013-0458,315730.8,4530047.1,4436018,Nivell piezomètric
+after_2007,0005,0011,F039942,Alt Camp - 43161-0720,354536.3,4573411.8,4436024,Nivell piezomètric
+after_2007,0005,0011,F040187,Baix Camp - 43038-0512,336226.3,4548190.1,4436020,43038-0512_26 Cambrils-1_Nivell piezometric_Manual
+after_2007,0005,0011,F040188,Llaberia - Prades meridional - 43162-0150,317601.8,4543471.8,4436025,Nivell piezomètric
+after_2007,0005,0011,F040756,Vall baixa i Delta del Llobregat - 08263-0128,417616,4583861,4442708,Nivell piezomètric
+after_2007,0005,0011,F043707,Al·luvials de la baixa i delta de la Tordera - 08155-0185,480036.4,4613202.12,4462767,Nivell piezomètric
+after_2007,0005,0011,F043821,Serres marginals catalanes - 25037-0031,310293,4645234,4462766,Nivell piezomètric
+after_2007,0005,0011,F044915,Calcàries de Tàrrega - 25130-0014,335786,4602167,3386642,Nivell piezomètric
+after_2007,0005,0011,F045103,Vall baixa i Delta del Llobregat - 08263-0133,418442.9,4581959.7,4493852,Nivell piezomètric
+after_2007,0005,0011,F045104,Vall baixa i Delta del Llobregat - 08123-0132,417049.9,4585712.8,4493854,Nivell piezomètric
+after_2007,0005,0011,F045105,Vall baixa i Delta del Llobregat - 08244-0055,419933.8,4579598.7,4493855,Nivell piezomètric
+after_2007,0005,0011,F045106,Vall baixa i Delta del Llobregat - 08200-0238,419775.8,4579306.7,4493856,Nivell piezomètric
+after_2007,0005,0011,F045107,Vall baixa i Delta del Llobregat - 08217-0058,420468.8,4579362.7,4493857,Nivell piezomètric
+after_2007,0005,0011,F045108,Vall baixa i Delta del Llobregat - 08157-0091,416955,4585694,4493858,Nivell piezomètric
+after_2007,0005,0011,F045512,Baix Besòs i Pla de Barcelona - 08019-1239,429761,4580850,4501403,Nivell piezomètric
+after_2007,0005,0011,F045513,Baix Besòs i Pla de Barcelona - 08019-1305,434027.1,4585049.6,4501404,Nivell piezomètric
+after_2007,0005,0011,F049421,Baixa Garrotxa-Pla de l'Estany - 17010-0017,470977.64,4673411.49,3159391,Nivell piezomètric
+after_2007,0005,0011,F050282,Vall baixa i Delta del Llobregat - 08169-1298,427205,4572502,1000003302,Nivell piezomètric
+after_2007,0005,0011,F050283,Vall baixa i Delta del Llobregat - 08169-1299,426959,4572259,1000003303,Nivell piezomètric
+after_2007,0005,0011,F050284,Vall baixa i Delta del Llobregat - 08169-1300,427368,4572515,1000003304,Nivell piezomètric
+after_2007,0005,0011,F050286,Vall baixa i Delta del Llobregat - 08169-1302,430068,4573205,1000003306,Nivell piezomètric
+after_2007,0005,0011,F050287,Vall baixa i Delta del Llobregat - 08169-1303,427564,4573113,1000003307,Nivell piezomètric
+after_2007,0005,0011,F050288,Vall baixa i Delta del Llobregat - 08169-1304,428500,4574356,1000003308,Nivell piezomètric
+after_2007,0005,0011,F050289,Vall baixa i Delta del Llobregat - 08169-1305,428495,4574351,1000003309,Nivell piezomètric
+after_2007,0005,0011,F050290,Vall baixa i Delta del Llobregat - 08169-1306,428209,4573869,1000003310,Nivell piezomètric
+after_2007,0005,0011,F050291,Vall baixa i Delta del Llobregat - 08169-1307,428205,4573864,1000003311,Nivell piezomètric
+after_2007,0005,0011,F050292,Vall baixa i Delta del Llobregat - 08019-1451,428955,4574890,1000003312,Nivell piezomètric
+after_2007,0005,0011,F050293,Vall baixa i Delta del Llobregat - 08019-1452,430112,4576947,1000003313,Nivell piezomètric
+after_2007,0005,0011,F050294,Vall baixa i Delta del Llobregat - 08019-1453,429817,4576060,1000003314,Nivell piezomètric
+after_2007,0005,0011,F050295,Vall baixa i Delta del Llobregat - 08019-1455,429410.2,4577505.2,1000003315,Nivell piezomètric
+after_2007,0005,0011,F050296,Vall baixa i Delta del Llobregat - 08019-1454,429410.2,4577505.2,1000003316,Nivell piezomètric
+after_2007,0005,0011,F050297,Vall baixa i Delta del Llobregat - 08019-1456,429410.2,4577505.2,1000003317,Nivell piezomètric
+after_2007,0005,0011,F050298,Vall baixa i Delta del Llobregat - 08019-1457,430439.2,4578038.7,1000003318,Nivell piezomètric
+after_2007,0005,0011,F050299,Vall baixa i Delta del Llobregat - 08019-1458,430439.2,4578038.7,1000003319,Nivell piezomètric
+after_2007,0005,0011,F050300,Vall baixa i Delta del Llobregat - 08019-1459,430439.2,4578038.7,1000003320,Nivell piezomètric
+after_2007,0005,0011,F050301,Baix Besòs i Pla de Barcelona - 08019-1460,430843.5,4577837.4,1000003321,Nivell piezomètric
+after_2007,0005,0011,F050302,Baix Besòs i Pla de Barcelona - 08019-1461,430761.5,4576961,1000003322,Nivell piezomètric
+after_2007,0005,0011,F050334,Vall baixa i Delta del Llobregat - 08019-0523,429315.8,4577435.7,1000003323,Nivell piezomètric
+after_2007,0005,0011,F050335,Vall baixa i Delta del Llobregat - 08019-0522,429316.8,4577435.7,1000003324,Nivell piezomètric
+after_2007,0005,0011,F050336,Vall baixa i Delta del Llobregat - 08019-0521,429317.8,4577435.7,1000003325,Nivell piezomètric

@@ -1,0 +1,93 @@
+period,network,subnetwork,station,station_name,x,y,variable_id,variable_name
+after_2007,0001,0303,AUTOD88,Riu Arnera aigües amunt de Boadella - EA051,482640,4691138,4140591,EA051_Macanet Cabrenys_Nivell riu Arnera
+after_2007,0001,0303,AUTOD89,N/D - Superficial - EA050,482028,4684941,4140600,EA050_Sant Llorenc Muga_Nivell riu Muga
+after_2007,0001,0303,F000004,N/D - Superficial - EA008,385564,4569143,4268097,EA008_Castellet i la Gornal_Nivell riu Foix
+after_2007,0001,0303,F000005,N/D - Superficial - EA009,477269,4651536,4557659,EA009_Sant Gregori_Nivell riu Llemena
+after_2007,0001,0303,F000006,N/D - Superficial - EA056,466660,4623237,4343830,EA056_Sant Feliu de Buixalleu_Nivell riera d'Arbucies
+after_2007,0001,0303,F000007,N/D - Superficial - EA012,488441,4686953,4140593,EA012_Boadella Emporda_Nivell riu Muga
+after_2007,0001,0303,F000007,N/D - Superficial - EA012,488441,4686953,4140594,EA012_Boadella Emporda_Nivell escala peixos
+after_2007,0001,0303,F000008,N/D - Superficial - EA014,326845,4556670,4178793,EA014_Duesaigües_Nivell riera Riudecanyes
+after_2007,0001,0303,F000011,N/D - Superficial - EA025_C4025,381270,4651782,4369443,EA025_Olius_Nivell riu Cardener
+after_2007,0001,0303,F000012,N/D - Superficial - EA026,449906,4622487,4343827,EA026_Montseny_Nivell riu Tordera
+after_2007,0001,0303,F000014,Conca de l'Aigua d'Ora - EA063,388408,4651438,4369442,EA063_Naves_Nivell EA riera Aiguadora
+after_2007,0001,0303,F000016,Capçalera del Cardener fins a la cua de l'embassament de la Llosa del Cavall - EA087,382793,4670980,4369440,EA087_Coma i Pedra_Nivell riu Cardener
+after_2007,0001,0303,F001217,N/D - EA027,452148,4645978,4262184,EA027_Vilanova Sau_Nivell riera Major
+after_2007,0001,0303,F001229,N/D - Superficial - EA040,477746,4668642,4291448,EA040_Serinya_Nivell riu Ser
+after_2007,0001,0303,F001230,N/D - Superficial - EA041,322597,4567061,4178797,EA041_Cornudella Montsant_Nivell riu Siurana
+after_2007,0001,0303,F001240,Riu Brugent - EA058,347591,4575852,4364911,EA058_La Riba_Nivell riu Brugent
+after_2007,0001,0303,F001242,N/D - Superficial - EA060,467132,4648235,4261114,EA060_Cellera Ter_Pasteral_Nivell riu Ter
+after_2007,0001,0303,F001243,N/D - Superficial - EA061,483379,4660993,4287924,EA061_Cornella Terri_Nivell riu Terri
+after_2007,0001,0303,F001245,Riera de Carme - EA065,388449,4599736,4369450,EA065_Pobla Claramunt_Nivell riera Carme
+after_2007,0001,0303,F006854,N/D - Superficial - EA096,405869,4666588,4369416,EA096_Cercs_Nivell riera Peguera
+after_2007,0001,0303,F006856,Capçalera de l'Aigua de Valls fins a la cua de l'embassament de la Llosa del Cavall - EA098,390343,4665722,4369408,EA098_Guixers_Nivell riu Aigua de Valls
+after_2007,0001,0303,F009793,N/D - Superficial - EA066_C4066,407241,4659812,4369159,EA066_Berga_Nivell riu Llobregat
+after_2007,0001,0303,F009794,N/D - Superficial - EA094,412493,4664696,4369431,EA094_Vilada_Nivell riera Merdancol
+after_2007,0001,0303,F009795,N/D - Superficial - EA097_C4097,384278,4666300,4369437,EA097_Guixers_Nivell riu Cardener
+after_2007,0001,0303,F009796,N/D - Superficial - EA099,410931,4593104,4369412,EA099_Castellbisbal_Nivell riu Llobregat
+after_2007,0001,0303,F009797,N/D - Superficial - EA111,327099,4568958,4178792,EA111_Cornudella Montsant_Nivell riu Siurana
+after_2007,0001,0303,F009798,N/D - Superficial - EA112,325997,4571291,4178791,EA112_Cornudella Montsant_Nivell riu Barranc Argentera
+after_2007,0001,0303,F009800,N/D - Superficial - EA095,412353,4665951,4369433,EA095_Vilada_Nivell riera Vilada
+after_2007,0001,0303,F009891,N/D - Superficial - EA101,439144,4655539,4265229,EA101_Torello_Nivell riu Ges
+after_2007,0001,0303,F009971,N/D - Superficial - EA122,461882,4604666,4498029,EA122_Arenys Munt_Nivell riera Arenys
+after_2007,0001,0303,F011507,Conca del Llierca - EA113,467366,4677351,4291451,EA113_Tortella_Nivell riu Llierca
+after_2007,0001,0303,F011895,N/D - Superficial - EA110,407593,4643264,4369421,EA110_Puigreig_Nivell riera Merles (Vflat aigua aigua amunt)
+after_2007,0001,0303,F014672,N/D - Superficial - EA115,469379,4645530,4287764,EA115_Angles_Nivell riera Osor
+after_2007,0001,0303,F014673,N/D - 08125-0069,432050,4591723,4492281,08125-0069_Montcada i Reixac_Nivell rec Comtal
+after_2007,0001,0303,F025248,N/D - EA085_C4085,441145,4648284,4265226,EA085_Masies Roda_Nivell assut riu Ter
+after_2007,0001,0303,F025249,N/D - EA120,441180,4648214,4265223,EA120_Masies Roda_Nivell riu Gurri
+after_2007,0001,0303,F025250,N/D - EA019,442708,4647807,4407743,EA019_Roda Ter_Pont Vell_Nivell riu Ter
+after_2007,0001,0303,F026458,N/D - EA124,484777,4638503,4287767,EA124_Riudellots Selva_Nivell riu Onyar
+after_2007,0001,0303,F030763,N/D - EA138,447424,4682297,4476445,EA138_Camprodon (aigua avall CH Matabosc)_Nivell riu Ter
+after_2007,0001,0303,F030764,N/D - EA139,447868,4681836,4476447,EA139_Camprodon (Creixenturri)_Nivell riu Ter
+after_2007,0001,0303,F030765,N/D - EA140,437205,4653977,4476452,EA140_Torello (Colonia Lacambra)_Nivell riu Ter
+after_2007,0001,0303,F030766,N/D - EA141,438240,4652599,4476449,EA141_Les Masies de Voltrega_Nivell riu Ter
+after_2007,0001,0303,F035102,Fluviovolcànic de la Garrotxa - 17114-0159,457650,4668288,4654701,17117-0159_Olot_Font de la Deu Vella_Nivell riu
+after_2007,0001,0303,F047916,N/D - Superficial - EA072a,437536,4674682,4578792,EA072a_St Joan Abadesses_Nivell riu Ter
+after_2007,0001,0303,F049776,Riu Brugent - EA116,467027,4651472,4652186,EA116_Amer_Nivell riu Brugent
+after_2007,0001,0303,L08001-72-00001,N/D - Superficial - EA084_A084,409650,4596023,4369155,EA084_Abrera_Nivell riu Llobregat
+after_2007,0001,0303,L08018-72-00003,N/D - Superficial - EA067_C4067,407058,4634787,4369158,EA067_Balsareny_Nivell riu Llobregat
+after_2007,0001,0303,L08047-72-00005,N/D - Superficial - EA001b_C4001b,391877,4641790,4592123,EA001b_Cardona_Nivell riu Cardener
+after_2007,0001,0303,L08051-72-00001,N/D - Superficial - EA075,423392,4606810,4368816,EA075_Castellar Valles_Nivell riu Ripoll
+after_2007,0001,0303,L08052-72-00002,N/D - Superficial - EA086,415662,4679126,4369172,EA086_Castellar nHug_Nivell riu Llobregat
+after_2007,0001,0303,L08053-72-00003,N/D - Superficial - EA023,404933,4611165,4369239,EA023_Castellbell i el Vilar_Nivell riu Llobregat
+after_2007,0001,0303,L08082-72-00001,N/D - Superficial - EA081,472505,4621554,4343825,EA081_Fogars Selva_Nivell riera Santa Coloma
+after_2007,0001,0303,L08082-72-00002,N/D - Superficial - EA089,474545,4620839,4294917,EA089_Fogars Tordera_Nivell riu Tordera
+after_2007,0001,0303,L08088-72-00002,N/D - Superficial - EA037,440427,4616399,4368809,EA037_La Garriga_Nivell riu_Congost
+after_2007,0001,0303,L08099-72-00006,N/D - Superficial - EA078_C4078,406706,4674198,4369417,EA078_Guardiola Bergueda_Nivell riu Llobregat
+after_2007,0001,0303,L08103-72-00001,Conca alta de l'Anoia fins a Igualada - EA011,379541,4604957,4369448,EA011_Jorba_Nivell riu Anoia
+after_2007,0001,0303,L08108-72-00001,N/D - Superficial - EA046,437121,4604145,4368810,EA046_Lliça de Vall_Nivell riu_Tenes
+after_2007,0001,0303,L08114-72-00001,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - EA074,410604,4592342,4369452,EA074_Martorell_Nivell riu Anoia
+after_2007,0001,0303,L08125-72-00002,N/D - Superficial - EA044,432075,4593231,4368813,EA044_Montcada i Reixac_Nivell riu Ripoll
+after_2007,0001,0303,L08136-72-00004,N/D - Superficial - EA035,438721,4599712,4368814,EA035_Montornes Valles_Nivell riu Mogent
+after_2007,0001,0303,L08158-72-00001,N/D - Superficial - EA076,416110,4589073,4369446,EA076_Papiol_Nivell riera Rubi
+after_2007,0001,0303,L08191-72-00003,N/D - Superficial - EA077,410024,4626764,4369423,EA077_Artes_Nivell riera Gavarresa
+after_2007,0001,0303,L08202-72-00001,N/D - Superficial - EA015,457467,4614412,4343828,EA015_Sant Celoni_Nivell riu Tordera
+after_2007,0001,0303,L08217-72-00001,N/D - Superficial - EA049_C4049,420245,4578251,4369425,EA049_Sant Joan Despi_Nivell riu Llobregat
+after_2007,0001,0303,L08236-72-00001,Capçalera del riu de Bitlles fins a l'EDAR de Riudebitlles - EA039_C4039,388430,4590540,4369454,EA039_Sant Quinti Mediona_Nivell riu Mediona
+after_2007,0001,0303,L08240-72-00004,Riu Anoia des de la confluència del riu de Bitlles fins al Llobregat - EA004,398770,4588700,4368234,EA004_Sant Sadurni Anoia_Nivell riu Anoia
+after_2007,0001,0303,L08245-72-00003,N/D - Superficial - EA047,433208,4589126,4368812,EA047_Santa Coloma Gramenet_Nivell riu Besos
+after_2007,0001,0303,L08260-72-00001,N/D - Superficial - EA045,433061,4597081,4368811,EA045_Santa Perpetua de Mogoda_Nivell riu_Riera de Caldes
+after_2007,0001,0303,L08263-72-00002,N/D - Superficial - EA093_C4007,418245,4582379,4369436,EA093_Sant Vicenc Horts_Nivell riu Llobregat
+after_2007,0001,0303,L08274-72-00002,N/D - Superficial - EA068,397233,4629811,4369444,EA068_Suria_Nivell riu Cardener
+after_2007,0001,0303,L08279-72-00002,N/D - Superficial - EA134,419412,4598359,4369429,EA134_Terrassa_Nivell riera de les Arenes
+after_2007,0001,0303,L17005-72-00001,N/D - Superficial - EA082,497447,4676178,4140599,EA082_Santa Llogaia Alguema_Nivell riu Manol
+after_2007,0001,0303,L17010-72-00002,N/D - Superficial - XQ013,463610,4674201,4556340,XQ013_Montagut_Nivell riu Fluvia
+after_2007,0001,0303,L17022-72-00001,N/D - Superficial - EA131,503167,4645845,4287926,EA131_Bisbal Emporda_Nivell riu Daro
+after_2007,0001,0303,L17038-72-00002,N/D - Superficial - EA123,484973,4638465,4287765,EA123_Campllong_Nivell riera Gotarra
+after_2007,0001,0303,L17047-72-00002,N/D - Superficial - EA052,505939,4678023,4139066,EA052_Castello Empuries_Nivell riu Muga
+after_2007,0001,0303,L17055-72-00002,N/D - Superficial - EA121_C4121_E09,499269,4658310,4557641,EA121_Colomers_Nivell riu Ter
+after_2007,0001,0303,L17065-72-00002,N/D - Superficial - EA016_C4016,483371,4669513,4291446,EA016_Esponella_Nivell riu Fluvia
+after_2007,0001,0303,L17075-72-00001,N/D - Superficial - EA053_C4053,496265,4666829,4556318,EA053_Garrigas_Nivell riu Fluvia
+after_2007,0001,0303,L17079-72-00004,N/D - Superficial - EA020,485464,4647022,4287923,EA020_Girona_Nivell riu Onyar
+after_2007,0001,0303,L17079-72-00005,N/D - Superficial - EA010,485021,4648705,4287762,EA010_Girona_Nivell riu Ter
+after_2007,0001,0303,L17114-72-00003,N/D - Superficial - EA013,459542,4670840,4291426,EA013_Olot_Nivell riu Fluvia
+after_2007,0001,0303,L17132-72-00006,N/D - Superficial - EA088,500722,4683552,4140592,EA088_Peralada_Nivell riu Llobregat Emporda
+after_2007,0001,0303,L17135-72-00001,N/D - Superficial - EA125,493240,4684812,4140596,EA125_Pont Molins_Nivell riu Muga
+after_2007,0001,0303,L17147-72-00005,El Ter entre el Freser i la riera de Vallfogona - EA033_C4033,433448,4669209,4277309,EA033_Ripoll_Ter_Nivell riu Ter
+after_2007,0001,0303,L17167-72-00001,N/D - Superficial - EA072_C4072,437264,4674557,4277311,EA072_St Joan Abadesses_Nivell riu Ter
+after_2007,0001,0303,L17191-72-00001,N/D - Superficial - EA132,505910,4652555,4287928,EA132_Serra Daro_Nivell riu Daro
+after_2007,0001,0303,L17199-72-00001,N/D - Superficial - EA080,510378,4653688,4352759,EA080_Torroella Montgri_Nivell riu Ter
+after_2007,0001,0303,L43049-72-00003,N/D - Superficial - E18,325206,4568569,4178794,E18_Cornudella Montsant_Siurana_Nivell Parshall
+after_2007,0001,0303,L43086-72-00003,El Francolí entre el riu d'Anguera i el Brugent - EA028_C4028,347766,4580851,4363191,EA028_Montblanc_Nivell riu Francoli
+after_2007,0001,0303,L43148-72-00002,N/D - Superficial - EA079,351999,4556773,4363216,EA079_Tarragona_Nivell riu Francoli
+after_2007,0001,0303,L43165-72-00001,N/D - Superficial - EA007,360657,4566063,4291575,EA007_Vilabella_Nivell riu Gaia

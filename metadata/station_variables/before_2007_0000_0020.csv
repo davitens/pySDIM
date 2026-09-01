@@ -1,0 +1,24 @@
+period,network,subnetwork,station,station_name,x,y,variable_id,variable_name
+before_2007,0000,0020,F000050,Vall baixa i Delta del Llobregat - 08211-0007,419171,4581653,F000050NPM,Nivell piezomètric
+before_2007,0000,0020,F000052,Vall baixa i Delta del Llobregat - 08211-0011,418551,4582074,F000052NPM,Nivell piezomètric
+before_2007,0000,0020,F000095,Vall baixa i Delta del Llobregat - 08169-0338,427744.52,4573903.26,F000095NPM,Nivell piezomètric
+before_2007,0000,0020,F000188,Bloc del Gaià-Bonastre - 43030-0029,369456,4564046,F000188NPM,Nivell piezomètric
+before_2007,0000,0020,F000268,Fluviodeltaic del Fluvià - Muga - 17047-0063,506986.01,4674870.72,F000268NPM,Nivell piezomètric
+before_2007,0000,0020,F000324,Baix Besòs i Pla de Barcelona - 08019-0411,433601.9,4587035.6,F000324NPM,Nivell piezomètric
+before_2007,0000,0020,F000325,Baix Besòs i Pla de Barcelona - 08245-0011,433589.44,4588790.24,F000325NPM,Nivell piezomètric
+before_2007,0000,0020,F000353,Al·luvials del Vallès - 08159-0096,436364.65,4602370.04,F000353NPA,Nivell piezomètric (F000353NPA)
+before_2007,0000,0020,F000353,Al·luvials del Vallès - 08159-0096,436364.65,4602370.04,F000353NPM,Nivell piezomètric (F000353NPM)
+before_2007,0000,0020,F000360,Al·luvials del Vallès - 08125-0045,433036,4595015,F000360NPM,Nivell piezomètric
+before_2007,0000,0020,F000361,Detrític neogen del Vallès - 08125-0021,432724.37,4595334.81,F000361NPM,Nivell piezomètric
+before_2007,0000,0020,F000424,Maresme - 08009-0110,451678.04,4598034.42,F000424NPM,Nivell piezomètric
+before_2007,0000,0020,F000437,Maresme - 08009-0116,450106.16,4601174.73,F000437NPM,Nivell piezomètric
+before_2007,0000,0020,F000466,Baixa Garrotxa-Pla de l'Estany - 17015-0026,479760.79,4665036.01,F000466NPM,Nivell piezomètric
+before_2007,0000,0020,F004237,Maresme - 08118-0003,444223.99,4592754.56,1700678,Nivell piezomètric
+before_2007,0000,0020,F004237,Maresme - 08118-0003,444223.99,4592754.56,F000431NPM,Nivell piezomètric (F000431NPM)
+before_2007,0000,0020,F005843,Vall baixa i Delta del Llobregat - 08211-0018,418778.87,4582534.74,F000054NPM,Nivell piezomètric
+before_2007,0000,0020,F005844,Vall baixa i Delta del Llobregat - 08211-0015,418994.87,4582345.74,F000055NPM,Nivell piezomètric
+before_2007,0000,0020,F005890,Vall baixa i Delta del Llobregat - 08211-0016,418897,4581628,F000051NPM,Nivell piezomètric
+before_2007,0000,0020,F005892,Vall baixa i Delta del Llobregat - 08211-0019,418475,4582388,F000053NPM,Nivell piezomètric
+before_2007,0000,0020,F011253,Al·luvial d'Urgell - 25135-0018,325895.02,4607855.79,F000584NPM,Nivell piezomètric
+before_2007,0000,0020,F011611,Cubeta d'Abrera - 08054-0084,410160.25,4594290.13,F000035NPM,Nivell piezomètric
+before_2007,0000,0020,F011612,Cubeta d'Abrera - 08054-0082,411026.24,4592661.52,F000033NPM,Nivell piezomètric

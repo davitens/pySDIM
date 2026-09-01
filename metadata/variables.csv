@@ -1,0 +1,1832 @@
+period,network,subnetwork,g,g_name,f,f_name,v,v_name
+after_2007,0003,0006,8,Metalls,080001,Metalls,2390,Alumini
+after_2007,0003,0006,8,Metalls,080001,Metalls,2391,Antimoni
+after_2007,0003,0006,8,Metalls,080001,Metalls,2392,Arsènic
+after_2007,0003,0006,8,Metalls,080001,Metalls,2393,Bari
+after_2007,0003,0006,8,Metalls,080001,Metalls,2394,Beril·li
+after_2007,0003,0006,8,Metalls,080001,Metalls,2395,Bor
+after_2007,0003,0006,8,Metalls,080001,Metalls,2396,Cadmi
+after_2007,0003,0006,8,Metalls,080001,Metalls,2397,Cobalt
+after_2007,0003,0006,8,Metalls,080001,Metalls,2398,Coure
+after_2007,0003,0006,8,Metalls,080001,Metalls,2399,Crom
+after_2007,0003,0006,8,Metalls,080001,Metalls,2400,Estronci
+after_2007,0003,0006,8,Metalls,080001,Metalls,2401,Ferro
+after_2007,0003,0006,8,Metalls,080001,Metalls,2402,Manganès
+after_2007,0003,0006,8,Metalls,080001,Metalls,2409,Mercuri
+after_2007,0003,0006,8,Metalls,080001,Metalls,2403,Molibdè
+after_2007,0003,0006,8,Metalls,080001,Metalls,2404,Níquel
+after_2007,0003,0006,8,Metalls,080001,Metalls,2405,Plom
+after_2007,0003,0006,8,Metalls,080001,Metalls,2406,Seleni
+after_2007,0003,0006,8,Metalls,080001,Metalls,2407,Vanadi
+after_2007,0003,0006,8,Metalls,080001,Metalls,2408,Zinc
+after_2007,0003,0006,11,Microcontaminants orgànics,110004,Dissolvents industrials,0076,Benzè
+after_2007,0003,0006,11,Microcontaminants orgànics,110004,Dissolvents industrials,0056,Clorobenzè
+after_2007,0003,0006,11,Microcontaminants orgànics,110004,Dissolvents industrials,0196,Etilbenzè
+after_2007,0003,0006,11,Microcontaminants orgànics,110004,Dissolvents industrials,0255,Naftalè
+after_2007,0003,0006,11,Microcontaminants orgànics,110004,Dissolvents industrials,0220,Suma de xilens
+after_2007,0003,0006,11,Microcontaminants orgànics,110004,Dissolvents industrials,0312,Toluè
+after_2007,0003,0006,11,Microcontaminants orgànics,110004,Dissolvents industrials,0137,"m,p-Xilè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110004,Dissolvents industrials,0159,o-Xilè
+after_2007,0003,0006,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0186,Antracè
+after_2007,0003,0006,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0074,Benzo(a)pirè
+after_2007,0003,0006,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0218,Benzo(b)fluorantè
+after_2007,0003,0006,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0252,Benzo(ghi)perilè
+after_2007,0003,0006,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0205,Benzo(k)fluorantè
+after_2007,0003,0006,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0169,Fluorantè
+after_2007,0003,0006,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0075,"Indeno(1,2,3-cd)pirè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,1513,Suma de PAH1
+after_2007,0003,0006,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,1514,Suma de PAH2
+after_2007,0003,0006,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,2434,4-n-Nonilfenol
+after_2007,0003,0006,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0309,NPEO(e=0)
+after_2007,0003,0006,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0176,tert-Octilfenol
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0300,"1,1,1-Tricloroetà"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0156,"1,1,2,2-Tetracloroetà"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0061,"1,1,2-Tricloroetà"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0250,"1,1-Dicloroetilè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0142,"1,1-Dicloroetà"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0194,"1,2,3-Triclorobenzè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0164,"1,2,4-Triclorobenzè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0234,"1,2-Diclorobenzè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0162,"1,2-Dicloroetà"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0313,"1,2-Dicloropropà"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0060,"1,3,5-Triclorobenzè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0173,"1,3-Diclorobenzè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0192,"1,4-Diclorobenzè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0221,Bromodiclorometà
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0177,Bromoform
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0304,Dibromoclorometà
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0124,Diclorometà
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0150,Hexaclorobutadiè
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0433,Suma de diclorobenzens
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0219,Suma de triclorobenzens
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0144,Tetracloroetilè
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0083,Tetraclorur de Carboni
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0216,Tricloroetilè
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0323,Triclorofluorometà
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0322,Triclorometà
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0165,"cis-1,2-Dicloroetilè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0081,"cis-1,3-Dicloropropè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0273,"trans-1,2-Dicloroetilè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0066,"trans-1,3-Dicloropropè"
+after_2007,0003,0006,11,Microcontaminants orgànics,110022,Plaguicides,1209,Bentazona
+after_2007,0003,0006,11,Microcontaminants orgànics,110022,Plaguicides,1202,Cianazina
+after_2007,0003,0006,11,Microcontaminants orgànics,110022,Plaguicides,1207,Clortoluron
+after_2007,0003,0006,11,Microcontaminants orgànics,110022,Plaguicides,1204,Diuron
+after_2007,0003,0006,11,Microcontaminants orgànics,110022,Plaguicides,1205,Isoproturon
+after_2007,0003,0006,11,Microcontaminants orgànics,110022,Plaguicides,1206,Linuron
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0471,"2,4'-DDD"
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0425,"2,4'-DDE"
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0361,"2,4'-DDT"
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0116,"4,4'-DDD"
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0284,"4,4'-DDE"
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0054,"4,4'-DDT"
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2441,Aclonifèn
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0244,Alaclor
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0143,Aldrín
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2432,Bifenox
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1201,Cetona d'endrín
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2433,Cipermetrín (suma d'isòmers)
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0232,Dieldrín
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0106,Endosulfan I
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0293,Endosulfan II
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0253,Endrín
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0349,Epòxid d'heptaclor A
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0222,Epòxid d'heptaclor B
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0128,Heptaclor
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0070,Hexaclorobenzè
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0170,Isodrín
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0161,Lindà(g-Hexaclorociclohexà)
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0333,Metolaclor
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0057,Pentaclorobenzè
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2431,Quinoxifèn
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0238,Sulfat d'endosulfan
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0107,Suma d'al-diel-iso-endrín
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1515,Suma de DDT
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0314,Suma de plaguicides clorats
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0203,Trifluralina
+after_2007,0003,0006,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0289,a-Hexaclorociclohexà
+after_2007,0003,0006,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0277,Azinfòs d'etil
+after_2007,0003,0006,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0093,Clorfenvinfòs (suma d'isòmers)
+after_2007,0003,0006,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0089,Clorpirifòs
+after_2007,0003,0006,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0112,Diazinon
+after_2007,0003,0006,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0133,Etion
+after_2007,0003,0006,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0062,Fenitrotion
+after_2007,0003,0006,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0078,Malation
+after_2007,0003,0006,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0138,Molinat
+after_2007,0003,0006,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0263,Paration
+after_2007,0003,0006,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0119,Paration de metil
+after_2007,0003,0006,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0294,Suma d'organofosforats
+after_2007,0003,0006,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0775,BDE-100
+after_2007,0003,0006,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1511,BDE-153
+after_2007,0003,0006,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1512,BDE-154
+after_2007,0003,0006,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1510,BDE-28
+after_2007,0003,0006,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0773,BDE-47
+after_2007,0003,0006,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0774,BDE-99
+after_2007,0003,0006,11,Microcontaminants orgànics,110014,Triazines,0118,Atrazina
+after_2007,0003,0006,11,Microcontaminants orgànics,110014,Triazines,2436,Cibutrina
+after_2007,0003,0006,11,Microcontaminants orgànics,110014,Triazines,0148,Desetilatrazina
+after_2007,0003,0006,11,Microcontaminants orgànics,110014,Triazines,0153,Propazina
+after_2007,0003,0006,11,Microcontaminants orgànics,110014,Triazines,0114,Simazina
+after_2007,0003,0006,11,Microcontaminants orgànics,110014,Triazines,0233,Suma de triazines
+after_2007,0003,0006,11,Microcontaminants orgànics,110014,Triazines,0105,Terbutrina
+after_2007,0003,0006,11,Microcontaminants orgànics,110014,Triazines,0132,tert-Butilazina
+after_2007,0003,0025,5,Fisicoquímics,050001,Condicions d'oxigenació,0091,% Saturació d'oxigen
+after_2007,0003,0025,5,Fisicoquímics,050001,Condicions d'oxigenació,0008,Oxigen dissolt
+after_2007,0003,0025,5,Fisicoquímics,050001,Condicions d'oxigenació,0009,TOC
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0104,Alcalinitat (TAC)
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0317,Bicarbonats
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0129,Calci
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0013,Cianurs
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0531,Disc de Secchi
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0297,Duresa total
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0179,Error relatiu balanç iònic
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0082,Fluorurs
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0069,Magnesi
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0034,Potencial redox
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,2042,Sulfhídric
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0154,Suma d'anions
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0096,Suma de cations
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0005,Temperatura de l'aigua
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0003,Terbolesa
+after_2007,0003,0025,5,Fisicoquímics,050002,Generals,0001,pH
+after_2007,0003,0025,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+after_2007,0003,0025,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+after_2007,0003,0025,5,Fisicoquímics,050003,Nutrients,0217,Fòsfor total
+after_2007,0003,0025,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+after_2007,0003,0025,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+after_2007,0003,0025,5,Fisicoquímics,050003,Nutrients,0202,Nitrogen total
+after_2007,0003,0025,5,Fisicoquímics,050004,Salinitat,0014,Clorurs
+after_2007,0003,0025,5,Fisicoquímics,050004,Salinitat,0002,Conductivitat
+after_2007,0003,0025,5,Fisicoquímics,050004,Salinitat,0051,Conductivitat a 20ºC
+after_2007,0003,0025,5,Fisicoquímics,050004,Salinitat,0228,Potassi
+after_2007,0003,0025,5,Fisicoquímics,050004,Salinitat,0163,Sodi
+after_2007,0003,0025,5,Fisicoquímics,050004,Salinitat,0134,Sulfats
+after_2007,0003,0024,7,Índexs hidromorfològics,070002,Morfologia,1976,índex ECELS
+after_2007,0003,0005,6,Índexs biològics,060003,Fitoplàncton,2048,% cianobacteris
+after_2007,0003,0005,6,Índexs biològics,060003,Fitoplàncton,0271,Clorofil·la a
+after_2007,0003,0005,6,Índexs biològics,060003,Fitoplàncton,0067,Clorofil·la b
+after_2007,0003,0005,6,Índexs biològics,060003,Fitoplàncton,0298,Clorofil·la c
+after_2007,0003,0005,6,Índexs biològics,060003,Fitoplàncton,2047,índex InClo
+after_2007,0003,0005,6,Índexs biològics,060003,Fitoplàncton,2046,índex InGA
+after_2007,0003,0005,6,Índexs biològics,060004,Invertebrats,1973,índex ACCO-2010
+after_2007,0003,0005,6,Índexs biològics,060004,Invertebrats,1975,índex EQATg
+after_2007,0003,0005,6,Índexs biològics,060004,Invertebrats,2050,índex InMacro
+after_2007,0003,0005,6,Índexs biològics,060004,Invertebrats,1974,índex QAELS-e-2010
+after_2007,0003,0005,6,Índexs biològics,060004,Invertebrats,1972,índex RIC
+after_2007,0003,0005,6,Índexs biològics,060006,Macròfits,2053,% perímetre helòfits
+after_2007,0003,0005,6,Índexs biològics,060006,Macròfits,2052,índex InMac
+after_2007,0004,0008,5,Fisicoquímics,050001,Condicions d'oxigenació,0091,% Saturació d'oxigen
+after_2007,0004,0008,5,Fisicoquímics,050001,Condicions d'oxigenació,0008,Oxigen dissolt
+after_2007,0004,0008,5,Fisicoquímics,050002,Generals,1507,Carboni orgànic (en sediment)
+after_2007,0004,0008,5,Fisicoquímics,050002,Generals,0531,Disc de Secchi
+after_2007,0004,0008,5,Fisicoquímics,050002,Generals,0514,Fluorescència
+after_2007,0004,0008,5,Fisicoquímics,050002,Generals,0517,Sigma T
+after_2007,0004,0008,5,Fisicoquímics,050002,Generals,0005,Temperatura de l'aigua
+after_2007,0004,0008,5,Fisicoquímics,050002,Generals,0003,Terbolesa
+after_2007,0004,0008,5,Fisicoquímics,050002,Generals,0001,pH
+after_2007,0004,0008,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+after_2007,0004,0008,5,Fisicoquímics,050003,Nutrients,3920,Amoni (aigua de mar)
+after_2007,0004,0008,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+after_2007,0004,0008,5,Fisicoquímics,050003,Nutrients,3921,Fosfats (aigua de mar)
+after_2007,0004,0008,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+after_2007,0004,0008,5,Fisicoquímics,050003,Nutrients,3918,Nitrats (aigua de mar)
+after_2007,0004,0008,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+after_2007,0004,0008,5,Fisicoquímics,050003,Nutrients,3919,Nitrits (aigua de mar)
+after_2007,0004,0008,5,Fisicoquímics,050003,Nutrients,0513,Silicats
+after_2007,0004,0008,5,Fisicoquímics,050003,Nutrients,3922,Silicats (aigua de mar)
+after_2007,0004,0008,5,Fisicoquímics,050004,Salinitat,0002,Conductivitat
+after_2007,0004,0008,5,Fisicoquímics,050004,Salinitat,0512,Salinitat
+after_2007,0004,0009,8,Metalls,080001,Metalls,1496,Alumini en sediment
+after_2007,0004,0009,8,Metalls,080001,Metalls,2392,Arsènic
+after_2007,0004,0009,8,Metalls,080001,Metalls,0482,Arsènic en sediment
+after_2007,0004,0009,8,Metalls,080001,Metalls,2396,Cadmi
+after_2007,0004,0009,8,Metalls,080001,Metalls,0492,Cadmi en sediment
+after_2007,0004,0009,8,Metalls,080001,Metalls,2398,Coure
+after_2007,0004,0009,8,Metalls,080001,Metalls,0485,Coure en sediment
+after_2007,0004,0009,8,Metalls,080001,Metalls,0208,Crom VI
+after_2007,0004,0009,8,Metalls,080001,Metalls,0486,Crom en sediment
+after_2007,0004,0009,8,Metalls,080001,Metalls,1497,Ferro en sediment
+after_2007,0004,0009,8,Metalls,080001,Metalls,2409,Mercuri
+after_2007,0004,0009,8,Metalls,080001,Metalls,0499,Mercuri en sediment
+after_2007,0004,0009,8,Metalls,080001,Metalls,2404,Níquel
+after_2007,0004,0009,8,Metalls,080001,Metalls,0505,Níquel en sediment
+after_2007,0004,0009,8,Metalls,080001,Metalls,2405,Plom
+after_2007,0004,0009,8,Metalls,080001,Metalls,0508,Plom en sediment
+after_2007,0004,0009,8,Metalls,080001,Metalls,2406,Seleni
+after_2007,0004,0009,8,Metalls,080001,Metalls,0507,Seleni en sediment
+after_2007,0004,0009,8,Metalls,080001,Metalls,2408,Zinc
+after_2007,0004,0009,8,Metalls,080001,Metalls,0506,Zinc en sediment
+after_2007,0004,0009,11,Microcontaminants orgànics,110002,Clorofenols,0102,Pentaclorofenol
+after_2007,0004,0009,11,Microcontaminants orgànics,110018,Cloroparafines,3863,Cloroalcans (C10-C13) (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4048,"1,2,3,4,6,7,8,9-O8CDD (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4059,"1,2,3,4,6,7,8,9-O8CDF (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4047,"1,2,3,4,6,7,8-H7CDD (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4057,"1,2,3,4,6,7,8-H7CDF (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4058,"1,2,3,4,7,8,9-H7CDF (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4044,"1,2,3,4,7,8-H6CDD (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4053,"1,2,3,4,7,8-H6CDF (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4045,"1,2,3,6,7,8-H6CDD (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4054,"1,2,3,6,7,8-H6CDF (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4046,"1,2,3,7,8,9-H6CDD (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4055,"1,2,3,7,8,9-H6CDF (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4043,"1,2,3,7,8-P5CDD (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4051,"1,2,3,7,8-P5CDF (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4056,"2,3,4,6,7,8-H6CDF (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4052,"2,3,4,7,8-P5CDF (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4042,"2,3,7,8-T4CDD (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4050,"2,3,7,8-T4CDF (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4063,PCB-105 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4064,PCB-114 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4065,PCB-123 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4066,PCB-126 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4067,PCB-156 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4068,PCB-157 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4069,PCB-167 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4070,PCB-169 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4071,PCB-170 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4072,PCB-189 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4061,PCB-77 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110023,Dioxines,4062,PCB-81 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110004,Dissolvents industrials,0076,Benzè
+after_2007,0004,0009,11,Microcontaminants orgànics,110004,Dissolvents industrials,0196,Etilbenzè
+after_2007,0004,0009,11,Microcontaminants orgànics,110004,Dissolvents industrials,0255,Naftalè
+after_2007,0004,0009,11,Microcontaminants orgànics,110004,Dissolvents industrials,0220,Suma de xilens
+after_2007,0004,0009,11,Microcontaminants orgànics,110004,Dissolvents industrials,0312,Toluè
+after_2007,0004,0009,11,Microcontaminants orgànics,110004,Dissolvents industrials,0137,"m,p-Xilè"
+after_2007,0004,0009,11,Microcontaminants orgànics,110004,Dissolvents industrials,0159,o-Xilè
+after_2007,0004,0009,11,Microcontaminants orgànics,110005,General orgànics,3886,Compostos de tributilestany (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110005,General orgànics,1884,Di(2-etilhexil)ftalat
+after_2007,0004,0009,11,Microcontaminants orgànics,110005,General orgànics,3885,Di(2-etilhexil)ftalat (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0193,"1,2-Benzantracè"
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0307,Acenaftilè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2545,Acenaftilè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0251,Acenaftè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2544,Acenaftè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0186,Antracè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2546,Antracè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2551,Benzo(a)antracè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0074,Benzo(a)pirè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2547,Benzo(a)pirè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0218,Benzo(b)fluorantè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2548,Benzo(b)fluorantè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0252,Benzo(ghi)perilè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2549,Benzo(ghi)perilè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0205,Benzo(k)fluorantè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2550,Benzo(k)fluorantè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0292,Crisè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2552,Crisè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0262,"Dibenzo(a,h)antracè"
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2553,"Dibenzo(a,h)antracè (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0311,Fenantrè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2554,Fenantrè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0169,Fluorantè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2555,Fluorantè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0181,Fluorè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2556,Fluorè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0075,"Indeno(1,2,3-cd)pirè"
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2557,"Indeno(1,2,3-cd)pirè (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2558,Naftalè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0059,Pirè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2559,Pirè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2451,Suma Benzo(b) Fluorantè+Benzo(k)Fluorantè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2452,Suma Indè(1.2.3)pirè+Benzo(ghi)perilè
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,3881,Suma de PAH1 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,3884,Suma de PAH2 (en sediments)
+after_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,4035,4-Nonilfenol (ramificat) (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,4038,4-Octilfenols (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,2434,4-n-Nonilfenol
+after_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,4034,4-n-Nonilfenol (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,4036,4-n-Octilfenol (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,4037,4-tert-Octifenol (ramificat) (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0309,NPEO(e=0)
+after_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,2561,NPEO(e=0) (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0087,NPEO(e=1)
+after_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0086,NPEO(e=2)
+after_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0176,tert-Octilfenol
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0300,"1,1,1-Tricloroetà"
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0194,"1,2,3-Triclorobenzè"
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0164,"1,2,4-Triclorobenzè"
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0162,"1,2-Dicloroetà"
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0060,"1,3,5-Triclorobenzè"
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0124,Diclorometà
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0150,Hexaclorobutadiè
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,3864,Hexaclorobutadiè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0219,Suma de triclorobenzens
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0144,Tetracloroetilè
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0083,Tetraclorur de Carboni
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0216,Tricloroetilè
+after_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0322,Triclorometà
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,0190,PCB-101
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2874,PCB-101 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,0123,PCB-118
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2875,PCB-118 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,0249,PCB-138
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2877,PCB-138 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,0276,PCB-153
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2876,PCB-153 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,0140,PCB-180
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2878,PCB-180 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,0094,PCB-28
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,3862,PCB-28 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,0242,PCB-52
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2873,PCB-52 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2879,Suma PCBs (BCR) (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110022,Plaguicides,4040,Cibutrina (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110022,Plaguicides,1204,Diuron
+after_2007,0004,0009,11,Microcontaminants orgànics,110022,Plaguicides,1205,Isoproturon
+after_2007,0004,0009,11,Microcontaminants orgànics,110022,Plaguicides,4041,Terbutrina (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0471,"2,4'-DDD"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2565,"2,4'-DDD (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0425,"2,4'-DDE"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2566,"2,4'-DDE (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0361,"2,4'-DDT"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2568,"2,4'-DDT (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0116,"4,4'-DDD"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2567,"4,4'-DDD (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0284,"4,4'-DDE"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2570,"4,4'-DDE (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0054,"4,4'-DDT"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2571,"4,4'-DDT (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2441,Aclonifèn
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0244,Alaclor
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0143,Aldrín
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3869,Aldrín (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2432,Bifenox
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2433,Cipermetrín (suma d'isòmers)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3872,"Dicofol (p,p' + o,p') (en sediment)"
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0232,Dieldrín
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3867,Dieldrín (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0106,Endosulfan I
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0293,Endosulfan II
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0253,Endrín
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3870,Endrín (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0222,Epòxid d'heptaclor B
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0128,Heptaclor
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3873,Heptaclor (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0070,Hexaclorobenzè
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3866,Hexaclorobenzè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2577,Hexaclorociclohexà (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0170,Isodrín
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3868,Isodrín (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0161,Lindà(g-Hexaclorociclohexà)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2576,Lindà(g-Hexaclorociclohexà) (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0333,Metolaclor
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0057,Pentaclorobenzè
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3865,Pentaclorobenzè (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,4039,Pentaclorofenol (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2431,Quinoxifèn
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3876,Quinoxifèn (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0238,Sulfat d'endosulfan
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2453,Suma Endosulfà (I-II)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0107,Suma d'al-diel-iso-endrín
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3871,Suma d'al-diel-iso-endrín (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3874,Suma d'epòxids d'heptaclor (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0272,Suma d'hexaclorociclohexans
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1515,Suma de DDT
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2572,Suma de DDT (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0203,Trifluralina
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0289,a-Hexaclorociclohexà
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2573,a-Hexaclorociclohexà (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0110,b-Hexaclorociclohexà
+after_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2574,b-Hexaclorociclohexà (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,1881,Clorfenvinfòs
+after_2007,0004,0009,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0089,Clorpirifòs
+after_2007,0004,0009,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0078,Malation
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0775,BDE-100
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3858,BDE-100 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1511,BDE-153
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3859,BDE-153 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1512,BDE-154
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3860,BDE-154 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1882,BDE-183
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3960,BDE-183 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,2454,BDE-197
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3961,BDE-197 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1883,BDE-209
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3962,BDE-209 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1510,BDE-28
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3855,BDE-28 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0773,BDE-47
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3856,BDE-47 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0774,BDE-99
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3857,BDE-99 (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,2455,Suma PBDEs
+after_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3861,Suma de BDE (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110017,Retardant de flama,3880,Hexabromociclododecà (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110016,Surfactant,3878,PFOA (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110016,Surfactant,3877,PFOS (en sediment)
+after_2007,0004,0009,11,Microcontaminants orgànics,110014,Triazines,0118,Atrazina
+after_2007,0004,0009,11,Microcontaminants orgànics,110014,Triazines,2436,Cibutrina
+after_2007,0004,0009,11,Microcontaminants orgànics,110014,Triazines,0114,Simazina
+after_2007,0004,0009,11,Microcontaminants orgànics,110014,Triazines,0105,Terbutrina
+after_2007,0004,0009,11,Microcontaminants orgànics,110014,Triazines,0132,tert-Butilazina
+after_2007,0004,0007,6,Índexs biològics,060001,Fanerògames marines,3508,Índex CYMOX-EQR
+after_2007,0004,0007,6,Índexs biològics,060001,Fanerògames marines,1520,Índex POMI-EQR
+after_2007,0004,0007,6,Índexs biològics,060003,Fitoplàncton,0271,Clorofil·la a
+after_2007,0004,0007,6,Índexs biològics,060005,Macroalgues,3507,Índex CARLIT-EQR
+after_2007,0004,0007,6,Índexs biològics,060008,Macrofauna,3502,Índex MEDOCC-EQR
+after_2007,0005,0010,5,Fisicoquímics,050001,Condicions d'oxigenació,0052,Oxidabilitat DQO (KMnO4)
+after_2007,0005,0010,5,Fisicoquímics,050001,Condicions d'oxigenació,0008,Oxigen dissolt
+after_2007,0005,0010,5,Fisicoquímics,050001,Condicions d'oxigenació,0009,TOC
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0317,Bicarbonats
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0129,Calci
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0321,Carbonats
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0013,Cianurs
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0155,Detergents aniònics
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0297,Duresa total
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0179,Error relatiu balanç iònic
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0082,Fluorurs
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0069,Magnesi
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0050,Matèries en suspensió
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0034,Potencial redox
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0154,Suma d'anions
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0096,Suma de cations
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0005,Temperatura de l'aigua
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0003,Terbolesa
+after_2007,0005,0010,5,Fisicoquímics,050002,Generals,0001,pH
+after_2007,0005,0010,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+after_2007,0005,0010,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+after_2007,0005,0010,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+after_2007,0005,0010,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+after_2007,0005,0010,5,Fisicoquímics,050004,Salinitat,0014,Clorurs
+after_2007,0005,0010,5,Fisicoquímics,050004,Salinitat,0002,Conductivitat
+after_2007,0005,0010,5,Fisicoquímics,050004,Salinitat,0051,Conductivitat a 20ºC
+after_2007,0005,0010,5,Fisicoquímics,050004,Salinitat,0228,Potassi
+after_2007,0005,0010,5,Fisicoquímics,050004,Salinitat,0163,Sodi
+after_2007,0005,0010,5,Fisicoquímics,050004,Salinitat,0134,Sulfats
+after_2007,0005,0010,8,Metalls,080001,Metalls,2390,Alumini
+after_2007,0005,0010,8,Metalls,080001,Metalls,2391,Antimoni
+after_2007,0005,0010,8,Metalls,080001,Metalls,2392,Arsènic
+after_2007,0005,0010,8,Metalls,080001,Metalls,2393,Bari
+after_2007,0005,0010,8,Metalls,080001,Metalls,2394,Beril·li
+after_2007,0005,0010,8,Metalls,080001,Metalls,2395,Bor
+after_2007,0005,0010,8,Metalls,080001,Metalls,2396,Cadmi
+after_2007,0005,0010,8,Metalls,080001,Metalls,2397,Cobalt
+after_2007,0005,0010,8,Metalls,080001,Metalls,2398,Coure
+after_2007,0005,0010,8,Metalls,080001,Metalls,2399,Crom
+after_2007,0005,0010,8,Metalls,080001,Metalls,0208,Crom VI
+after_2007,0005,0010,8,Metalls,080001,Metalls,2400,Estronci
+after_2007,0005,0010,8,Metalls,080001,Metalls,2401,Ferro
+after_2007,0005,0010,8,Metalls,080001,Metalls,2402,Manganès
+after_2007,0005,0010,8,Metalls,080001,Metalls,2403,Molibdè
+after_2007,0005,0010,8,Metalls,080001,Metalls,2404,Níquel
+after_2007,0005,0010,8,Metalls,080001,Metalls,2405,Plom
+after_2007,0005,0010,8,Metalls,080001,Metalls,2406,Seleni
+after_2007,0005,0010,8,Metalls,080001,Metalls,0175,Silici
+after_2007,0005,0010,8,Metalls,080001,Metalls,2407,Vanadi
+after_2007,0005,0010,8,Metalls,080001,Metalls,2408,Zinc
+after_2007,0005,0010,11,Microcontaminants orgànics,110022,Plaguicides,1209,Bentazona
+after_2007,0005,0010,11,Microcontaminants orgànics,110022,Plaguicides,1202,Cianazina
+after_2007,0005,0010,11,Microcontaminants orgànics,110022,Plaguicides,1207,Clortoluron
+after_2007,0005,0010,11,Microcontaminants orgànics,110022,Plaguicides,1204,Diuron
+after_2007,0005,0010,11,Microcontaminants orgànics,110022,Plaguicides,1205,Isoproturon
+after_2007,0005,0010,11,Microcontaminants orgànics,110022,Plaguicides,1206,Linuron
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0471,"2,4'-DDD"
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0425,"2,4'-DDE"
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0361,"2,4'-DDT"
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1212,"2,4-D (Àcid 2,4-diclorofenoxiacètic)"
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0116,"4,4'-DDD"
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0284,"4,4'-DDE"
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0054,"4,4'-DDT"
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2441,Aclonifèn
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0244,Alaclor
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0143,Aldrín
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2432,Bifenox
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1201,Cetona d'endrín
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2433,Cipermetrín (suma d'isòmers)
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0232,Dieldrín
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0106,Endosulfan I
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0293,Endosulfan II
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0253,Endrín
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0349,Epòxid d'heptaclor A
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0222,Epòxid d'heptaclor B
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0128,Heptaclor
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0070,Hexaclorobenzè
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0170,Isodrín
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0161,Lindà(g-Hexaclorociclohexà)
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1210,MCPA
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1208,Mecoprop (MCPP)
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0333,Metolaclor
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0057,Pentaclorobenzè
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1509,Propanil
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2431,Quinoxifèn
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0238,Sulfat d'endosulfan
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0107,Suma d'al-diel-iso-endrín
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1515,Suma de DDT
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0314,Suma de plaguicides clorats
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0203,Trifluralina
+after_2007,0005,0010,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0289,a-Hexaclorociclohexà
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0277,Azinfòs d'etil
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,1881,Clorfenvinfòs
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0093,Clorfenvinfòs (suma d'isòmers)
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0089,Clorpirifòs
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0112,Diazinon
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0690,Dimetoat
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0133,Etion
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0062,Fenitrotion
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,2581,Glifosat
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0078,Malation
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0138,Molinat
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0263,Paration
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0119,Paration de metil
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0294,Suma d'organofosforats
+after_2007,0005,0010,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,2579,Àcid aminometilfosfònic (AMPA)
+after_2007,0005,0010,11,Microcontaminants orgànics,110014,Triazines,0118,Atrazina
+after_2007,0005,0010,11,Microcontaminants orgànics,110014,Triazines,2436,Cibutrina
+after_2007,0005,0010,11,Microcontaminants orgànics,110014,Triazines,0148,Desetilatrazina
+after_2007,0005,0010,11,Microcontaminants orgànics,110014,Triazines,1203,Desisopropilatrazina
+after_2007,0005,0010,11,Microcontaminants orgànics,110014,Triazines,0153,Propazina
+after_2007,0005,0010,11,Microcontaminants orgànics,110014,Triazines,0114,Simazina
+after_2007,0005,0010,11,Microcontaminants orgànics,110014,Triazines,0233,Suma de triazines
+after_2007,0005,0010,11,Microcontaminants orgànics,110014,Triazines,0105,Terbutrina
+after_2007,0005,0010,11,Microcontaminants orgànics,110014,Triazines,0132,tert-Butilazina
+after_2007,0005,0011,13,Piezometria,130001,Piezometria,0044,Nivell piezomètric
+after_2007,0002,0004,8,Metalls,080001,Metalls,2390,Alumini
+after_2007,0002,0004,8,Metalls,080001,Metalls,0245,Alumini dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2391,Antimoni
+after_2007,0002,0004,8,Metalls,080001,Metalls,0099,Antimoni dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2392,Arsènic
+after_2007,0002,0004,8,Metalls,080001,Metalls,0230,Arsènic dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2393,Bari
+after_2007,0002,0004,8,Metalls,080001,Metalls,0236,Bari dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2394,Beril·li
+after_2007,0002,0004,8,Metalls,080001,Metalls,0789,Beril·li dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2395,Bor
+after_2007,0002,0004,8,Metalls,080001,Metalls,0201,Bor dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2396,Cadmi
+after_2007,0002,0004,8,Metalls,080001,Metalls,0225,Cadmi dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2397,Cobalt
+after_2007,0002,0004,8,Metalls,080001,Metalls,0058,Cobalt dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2398,Coure
+after_2007,0002,0004,8,Metalls,080001,Metalls,0288,Coure dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2399,Crom
+after_2007,0002,0004,8,Metalls,080001,Metalls,0095,Crom dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2400,Estronci
+after_2007,0002,0004,8,Metalls,080001,Metalls,2401,Ferro
+after_2007,0002,0004,8,Metalls,080001,Metalls,0085,Ferro dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2402,Manganès
+after_2007,0002,0004,8,Metalls,080001,Metalls,0182,Manganès dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2409,Mercuri
+after_2007,0002,0004,8,Metalls,080001,Metalls,0296,Mercuri dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2403,Molibdè
+after_2007,0002,0004,8,Metalls,080001,Metalls,0266,Molibdè dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2404,Níquel
+after_2007,0002,0004,8,Metalls,080001,Metalls,0090,Níquel dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2405,Plom
+after_2007,0002,0004,8,Metalls,080001,Metalls,0291,Plom dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2406,Seleni
+after_2007,0002,0004,8,Metalls,080001,Metalls,0092,Seleni dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2407,Vanadi
+after_2007,0002,0004,8,Metalls,080001,Metalls,0790,Vanadi dissolt
+after_2007,0002,0004,8,Metalls,080001,Metalls,2408,Zinc
+after_2007,0002,0004,8,Metalls,080001,Metalls,0065,Zinc dissolt
+after_2007,0002,0004,11,Microcontaminants orgànics,110002,Clorofenols,0102,Pentaclorofenol
+after_2007,0002,0004,11,Microcontaminants orgànics,110004,Dissolvents industrials,0248,BTEX total
+after_2007,0002,0004,11,Microcontaminants orgànics,110004,Dissolvents industrials,0076,Benzè
+after_2007,0002,0004,11,Microcontaminants orgànics,110004,Dissolvents industrials,0056,Clorobenzè
+after_2007,0002,0004,11,Microcontaminants orgànics,110004,Dissolvents industrials,0196,Etilbenzè
+after_2007,0002,0004,11,Microcontaminants orgànics,110004,Dissolvents industrials,0255,Naftalè
+after_2007,0002,0004,11,Microcontaminants orgànics,110004,Dissolvents industrials,0220,Suma de xilens
+after_2007,0002,0004,11,Microcontaminants orgànics,110004,Dissolvents industrials,0312,Toluè
+after_2007,0002,0004,11,Microcontaminants orgànics,110004,Dissolvents industrials,0137,"m,p-Xilè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110004,Dissolvents industrials,0159,o-Xilè
+after_2007,0002,0004,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0186,Antracè
+after_2007,0002,0004,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0074,Benzo(a)pirè
+after_2007,0002,0004,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0218,Benzo(b)fluorantè
+after_2007,0002,0004,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0252,Benzo(ghi)perilè
+after_2007,0002,0004,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0205,Benzo(k)fluorantè
+after_2007,0002,0004,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0169,Fluorantè
+after_2007,0002,0004,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0075,"Indeno(1,2,3-cd)pirè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,1513,Suma de PAH1
+after_2007,0002,0004,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,1514,Suma de PAH2
+after_2007,0002,0004,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,2434,4-n-Nonilfenol
+after_2007,0002,0004,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0309,NPEO(e=0)
+after_2007,0002,0004,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0176,tert-Octilfenol
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0300,"1,1,1-Tricloroetà"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0156,"1,1,2,2-Tetracloroetà"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0061,"1,1,2-Tricloroetà"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0250,"1,1-Dicloroetilè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0142,"1,1-Dicloroetà"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0194,"1,2,3-Triclorobenzè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0164,"1,2,4-Triclorobenzè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0234,"1,2-Diclorobenzè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0162,"1,2-Dicloroetà"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0313,"1,2-Dicloropropà"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0060,"1,3,5-Triclorobenzè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0173,"1,3-Diclorobenzè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0192,"1,4-Diclorobenzè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0221,Bromodiclorometà
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0177,Bromoform
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0304,Dibromoclorometà
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0124,Diclorometà
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0150,Hexaclorobutadiè
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0433,Suma de diclorobenzens
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0219,Suma de triclorobenzens
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0144,Tetracloroetilè
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0083,Tetraclorur de Carboni
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0216,Tricloroetilè
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0323,Triclorofluorometà
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0322,Triclorometà
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0165,"cis-1,2-Dicloroetilè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0081,"cis-1,3-Dicloropropè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0273,"trans-1,2-Dicloroetilè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0066,"trans-1,3-Dicloropropè"
+after_2007,0002,0004,11,Microcontaminants orgànics,110022,Plaguicides,1209,Bentazona
+after_2007,0002,0004,11,Microcontaminants orgànics,110022,Plaguicides,1202,Cianazina
+after_2007,0002,0004,11,Microcontaminants orgànics,110022,Plaguicides,1207,Clortoluron
+after_2007,0002,0004,11,Microcontaminants orgànics,110022,Plaguicides,1204,Diuron
+after_2007,0002,0004,11,Microcontaminants orgànics,110022,Plaguicides,1205,Isoproturon
+after_2007,0002,0004,11,Microcontaminants orgànics,110022,Plaguicides,1206,Linuron
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0471,"2,4'-DDD"
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0425,"2,4'-DDE"
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0361,"2,4'-DDT"
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0116,"4,4'-DDD"
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0284,"4,4'-DDE"
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0054,"4,4'-DDT"
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2441,Aclonifèn
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0244,Alaclor
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0143,Aldrín
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2432,Bifenox
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1201,Cetona d'endrín
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2433,Cipermetrín (suma d'isòmers)
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0232,Dieldrín
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0106,Endosulfan I
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0293,Endosulfan II
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0253,Endrín
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0349,Epòxid d'heptaclor A
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0222,Epòxid d'heptaclor B
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0128,Heptaclor
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0070,Hexaclorobenzè
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0170,Isodrín
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0161,Lindà(g-Hexaclorociclohexà)
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0333,Metolaclor
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0057,Pentaclorobenzè
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2431,Quinoxifèn
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0238,Sulfat d'endosulfan
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0107,Suma d'al-diel-iso-endrín
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1515,Suma de DDT
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0314,Suma de plaguicides clorats
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0203,Trifluralina
+after_2007,0002,0004,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0289,a-Hexaclorociclohexà
+after_2007,0002,0004,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0277,Azinfòs d'etil
+after_2007,0002,0004,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0093,Clorfenvinfòs (suma d'isòmers)
+after_2007,0002,0004,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0089,Clorpirifòs
+after_2007,0002,0004,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0112,Diazinon
+after_2007,0002,0004,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0133,Etion
+after_2007,0002,0004,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0062,Fenitrotion
+after_2007,0002,0004,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0078,Malation
+after_2007,0002,0004,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0138,Molinat
+after_2007,0002,0004,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0263,Paration
+after_2007,0002,0004,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0119,Paration de metil
+after_2007,0002,0004,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0294,Suma d'organofosforats
+after_2007,0002,0004,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0775,BDE-100
+after_2007,0002,0004,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1511,BDE-153
+after_2007,0002,0004,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1512,BDE-154
+after_2007,0002,0004,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1510,BDE-28
+after_2007,0002,0004,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0773,BDE-47
+after_2007,0002,0004,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0774,BDE-99
+after_2007,0002,0004,11,Microcontaminants orgànics,110014,Triazines,0118,Atrazina
+after_2007,0002,0004,11,Microcontaminants orgànics,110014,Triazines,2436,Cibutrina
+after_2007,0002,0004,11,Microcontaminants orgànics,110014,Triazines,0148,Desetilatrazina
+after_2007,0002,0004,11,Microcontaminants orgànics,110014,Triazines,0153,Propazina
+after_2007,0002,0004,11,Microcontaminants orgànics,110014,Triazines,0114,Simazina
+after_2007,0002,0004,11,Microcontaminants orgànics,110014,Triazines,0233,Suma de triazines
+after_2007,0002,0004,11,Microcontaminants orgànics,110014,Triazines,0105,Terbutrina
+after_2007,0002,0004,11,Microcontaminants orgànics,110014,Triazines,0132,tert-Butilazina
+after_2007,0002,0023,5,Fisicoquímics,050001,Condicions d'oxigenació,0091,% Saturació d'oxigen
+after_2007,0002,0023,5,Fisicoquímics,050001,Condicions d'oxigenació,0008,Oxigen dissolt
+after_2007,0002,0023,5,Fisicoquímics,050001,Condicions d'oxigenació,0009,TOC
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0104,Alcalinitat (TAC)
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0317,Bicarbonats
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0129,Calci
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0013,Cianurs
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0531,Disc de Secchi
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0297,Duresa total
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0179,Error relatiu balanç iònic
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0082,Fluorurs
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0069,Magnesi
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,2042,Sulfhídric
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0154,Suma d'anions
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0096,Suma de cations
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0005,Temperatura de l'aigua
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0003,Terbolesa
+after_2007,0002,0023,5,Fisicoquímics,050002,Generals,0001,pH
+after_2007,0002,0023,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+after_2007,0002,0023,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+after_2007,0002,0023,5,Fisicoquímics,050003,Nutrients,0217,Fòsfor total
+after_2007,0002,0023,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+after_2007,0002,0023,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+after_2007,0002,0023,5,Fisicoquímics,050003,Nutrients,0188,Nitrogen Kjeldahl
+after_2007,0002,0023,5,Fisicoquímics,050003,Nutrients,0202,Nitrogen total
+after_2007,0002,0023,5,Fisicoquímics,050004,Salinitat,0014,Clorurs
+after_2007,0002,0023,5,Fisicoquímics,050004,Salinitat,0002,Conductivitat
+after_2007,0002,0023,5,Fisicoquímics,050004,Salinitat,0051,Conductivitat a 20ºC
+after_2007,0002,0023,5,Fisicoquímics,050004,Salinitat,0228,Potassi
+after_2007,0002,0023,5,Fisicoquímics,050004,Salinitat,0163,Sodi
+after_2007,0002,0023,5,Fisicoquímics,050004,Salinitat,0134,Sulfats
+after_2007,0002,0003,6,Índexs biològics,060003,Fitoplàncton,2048,% cianobacteris
+after_2007,0002,0003,6,Índexs biològics,060003,Fitoplàncton,0271,Clorofil·la a
+after_2007,0002,0302,15,Quantitat,150001,Quantitat,0020,Nivell absolut
+after_2007,0002,0302,15,Quantitat,150001,Quantitat,0039,Percentatge volum embassat
+after_2007,0002,0302,15,Quantitat,150001,Quantitat,0027,Volum embassat
+after_2007,0001,0301,15,Quantitat,150001,Quantitat,0035,Cabal canal
+after_2007,0001,0301,15,Quantitat,150001,Quantitat,0023,Cabal riu
+after_2007,0001,0021,7,Índexs hidromorfològics,070002,Morfologia,1017,índex IHF
+after_2007,0001,0001,6,Índexs biològics,060002,Fitobentos,1522,índex IPS
+after_2007,0001,0001,6,Índexs biològics,060003,Fitoplàncton,0271,Clorofil·la a
+after_2007,0001,0001,6,Índexs biològics,060004,Invertebrats,2049,índex IBMWP
+after_2007,0001,0001,6,Índexs biològics,060006,Macròfits,2051,índex IMF
+after_2007,0001,0001,6,Índexs biològics,060007,Peixos,2054,índex IBICAT-2010
+after_2007,0001,0022,5,Fisicoquímics,050001,Condicions d'oxigenació,0091,% Saturació d'oxigen
+after_2007,0001,0022,5,Fisicoquímics,050001,Condicions d'oxigenació,0231,DQO no decantada
+after_2007,0001,0022,5,Fisicoquímics,050001,Condicions d'oxigenació,0008,Oxigen dissolt
+after_2007,0001,0022,5,Fisicoquímics,050001,Condicions d'oxigenació,0009,TOC
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0317,Bicarbonats
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0129,Calci
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0321,Carbonats
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0013,Cianurs
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0117,Cianurs lliures
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0308,Clor residual total
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0155,Detergents aniònics
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0297,Duresa total
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0179,Error relatiu balanç iònic
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0082,Fluorurs
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0069,Magnesi
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0257,Matèries Inhibidores 15'
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0050,Matèries en suspensió
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0154,Suma d'anions
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0096,Suma de cations
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0005,Temperatura de l'aigua
+after_2007,0001,0022,5,Fisicoquímics,050002,Generals,0001,pH
+after_2007,0001,0022,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+after_2007,0001,0022,5,Fisicoquímics,050003,Nutrients,0258,Amoníac no ionitzat
+after_2007,0001,0022,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+after_2007,0001,0022,5,Fisicoquímics,050003,Nutrients,0217,Fòsfor total
+after_2007,0001,0022,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+after_2007,0001,0022,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+after_2007,0001,0022,5,Fisicoquímics,050003,Nutrients,0188,Nitrogen Kjeldahl
+after_2007,0001,0022,5,Fisicoquímics,050003,Nutrients,0202,Nitrogen total
+after_2007,0001,0022,5,Fisicoquímics,050003,Nutrients,0513,Silicats
+after_2007,0001,0022,5,Fisicoquímics,050004,Salinitat,0628,Bromurs
+after_2007,0001,0022,5,Fisicoquímics,050004,Salinitat,0014,Clorurs
+after_2007,0001,0022,5,Fisicoquímics,050004,Salinitat,0002,Conductivitat
+after_2007,0001,0022,5,Fisicoquímics,050004,Salinitat,0051,Conductivitat a 20ºC
+after_2007,0001,0022,5,Fisicoquímics,050004,Salinitat,0228,Potassi
+after_2007,0001,0022,5,Fisicoquímics,050004,Salinitat,0163,Sodi
+after_2007,0001,0022,5,Fisicoquímics,050004,Salinitat,0134,Sulfats
+after_2007,0001,0303,15,Quantitat,150001,Quantitat,0036,Nivell canal
+after_2007,0001,0303,15,Quantitat,150001,Quantitat,0019,Nivell riu
+after_2007,0001,0002,8,Metalls,080001,Metalls,2390,Alumini
+after_2007,0001,0002,8,Metalls,080001,Metalls,0245,Alumini dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2391,Antimoni
+after_2007,0001,0002,8,Metalls,080001,Metalls,0099,Antimoni dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2392,Arsènic
+after_2007,0001,0002,8,Metalls,080001,Metalls,0230,Arsènic dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2393,Bari
+after_2007,0001,0002,8,Metalls,080001,Metalls,0236,Bari dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2394,Beril·li
+after_2007,0001,0002,8,Metalls,080001,Metalls,0789,Beril·li dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2395,Bor
+after_2007,0001,0002,8,Metalls,080001,Metalls,0201,Bor dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2396,Cadmi
+after_2007,0001,0002,8,Metalls,080001,Metalls,0225,Cadmi dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2397,Cobalt
+after_2007,0001,0002,8,Metalls,080001,Metalls,0058,Cobalt dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2398,Coure
+after_2007,0001,0002,8,Metalls,080001,Metalls,0288,Coure dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2399,Crom
+after_2007,0001,0002,8,Metalls,080001,Metalls,0095,Crom dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2400,Estronci
+after_2007,0001,0002,8,Metalls,080001,Metalls,2401,Ferro
+after_2007,0001,0002,8,Metalls,080001,Metalls,0085,Ferro dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2402,Manganès
+after_2007,0001,0002,8,Metalls,080001,Metalls,0182,Manganès dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2409,Mercuri
+after_2007,0001,0002,8,Metalls,080001,Metalls,0296,Mercuri dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2403,Molibdè
+after_2007,0001,0002,8,Metalls,080001,Metalls,0266,Molibdè dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2404,Níquel
+after_2007,0001,0002,8,Metalls,080001,Metalls,0090,Níquel dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2405,Plom
+after_2007,0001,0002,8,Metalls,080001,Metalls,0291,Plom dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2406,Seleni
+after_2007,0001,0002,8,Metalls,080001,Metalls,0092,Seleni dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2407,Vanadi
+after_2007,0001,0002,8,Metalls,080001,Metalls,0790,Vanadi dissolt
+after_2007,0001,0002,8,Metalls,080001,Metalls,2408,Zinc
+after_2007,0001,0002,8,Metalls,080001,Metalls,0065,Zinc dissolt
+after_2007,0001,0002,11,Microcontaminants orgànics,110002,Clorofenols,0102,Pentaclorofenol
+after_2007,0001,0002,11,Microcontaminants orgànics,110003,Dioxans,0166,"1,4-Dioxà"
+after_2007,0001,0002,11,Microcontaminants orgànics,110003,Dioxans,0259,"2-etil-4-metil-1,3-Dioxolà (c+t)"
+after_2007,0001,0002,11,Microcontaminants orgànics,110003,Dioxans,0215,"2-etil-5,5-dimetil-1,3-Dioxà"
+after_2007,0001,0002,11,Microcontaminants orgànics,110003,Dioxans,0286,"2-i-propil-5,5-dimetil-1,3-Dioxà"
+after_2007,0001,0002,11,Microcontaminants orgànics,110003,Dioxans,0108,"2-metil-5,5-dimetil-1,3-Dioxà"
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0141,"1,2,4-Trimetilbenzè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0152,"1,3,5-Trimetilbenzè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0224,2-Butanona
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0131,2-Clorotoluè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0209,2-Hexanona
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0064,2-Pentanona
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0240,3-Pentanona
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0280,4-Clorotoluè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0077,4-Metil-2-pentanona
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0305,Acetat d'etil
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0295,Acetat d'isobutil
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0315,Acetat de butil
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0135,Acetat de metil
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0310,Acetat de propil
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0227,Acetona
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0126,Acetonitril
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0103,Acrilonitril
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0197,Alcohol isobutílic
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0248,BTEX total
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0076,Benzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0157,Bromobenzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0243,Ciclohexà
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0056,Clorobenzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0098,Decà
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0260,Dietil èter
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0120,Diisobutilcetona
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,1890,Diisopropil èter (DIPE)
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0111,Estirè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0196,Etilbenzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0189,Heptà
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0147,Hexà
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0168,Isopropilbenzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0255,Naftalè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0200,Nitrobenzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0214,Nonà
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0210,Octà
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0256,Pentà
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0220,Suma de xilens
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0269,Tetrahidrofuran
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0312,Toluè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0137,"m,p-Xilè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0239,n-Butilbenzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0084,n-Propilbenzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0159,o-Xilè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0235,p-Isopropiltoluè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0109,sec-Butilbenzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,1889,tert-Butanol (TBA)
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0264,tert-Butilbenzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,1891,Èter etil tert-butílic (ETBE)
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,1892,Èter metil tert-amílic (TAME)
+after_2007,0001,0002,11,Microcontaminants orgànics,110004,Dissolvents industrials,0068,Èter metil tert-butílic (MTBE)
+after_2007,0001,0002,11,Microcontaminants orgànics,110005,General orgànics,0318,Fenols
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0193,"1,2-Benzantracè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0307,Acenaftilè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0251,Acenaftè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0186,Antracè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0074,Benzo(a)pirè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0218,Benzo(b)fluorantè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0252,Benzo(ghi)perilè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0205,Benzo(k)fluorantè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0292,Crisè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0262,"Dibenzo(a,h)antracè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0311,Fenantrè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0169,Fluorantè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0181,Fluorè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0075,"Indeno(1,2,3-cd)pirè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0059,Pirè
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0063,Suma de PAH legislats
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,1513,Suma de PAH1
+after_2007,0001,0002,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,1514,Suma de PAH2
+after_2007,0001,0002,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,2434,4-n-Nonilfenol
+after_2007,0001,0002,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0309,NPEO(e=0)
+after_2007,0001,0002,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0176,tert-Octilfenol
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0300,"1,1,1-Tricloroetà"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0156,"1,1,2,2-Tetracloroetà"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0061,"1,1,2-Tricloroetà"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0250,"1,1-Dicloroetilè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0142,"1,1-Dicloroetà"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0194,"1,2,3-Triclorobenzè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0164,"1,2,4-Triclorobenzè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0234,"1,2-Diclorobenzè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0162,"1,2-Dicloroetà"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0313,"1,2-Dicloropropà"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0060,"1,3,5-Triclorobenzè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0173,"1,3-Diclorobenzè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0192,"1,4-Diclorobenzè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0221,Bromodiclorometà
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0177,Bromoform
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0304,Dibromoclorometà
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0124,Diclorometà
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0150,Hexaclorobutadiè
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0433,Suma de diclorobenzens
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0219,Suma de triclorobenzens
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0144,Tetracloroetilè
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0083,Tetraclorur de Carboni
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0216,Tricloroetilè
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0323,Triclorofluorometà
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0322,Triclorometà
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0165,"cis-1,2-Dicloroetilè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0081,"cis-1,3-Dicloropropè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0273,"trans-1,2-Dicloroetilè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0066,"trans-1,3-Dicloropropè"
+after_2007,0001,0002,11,Microcontaminants orgànics,110009,PCB,0190,PCB-101
+after_2007,0001,0002,11,Microcontaminants orgànics,110009,PCB,0123,PCB-118
+after_2007,0001,0002,11,Microcontaminants orgànics,110009,PCB,0249,PCB-138
+after_2007,0001,0002,11,Microcontaminants orgànics,110009,PCB,0276,PCB-153
+after_2007,0001,0002,11,Microcontaminants orgànics,110009,PCB,0140,PCB-180
+after_2007,0001,0002,11,Microcontaminants orgànics,110009,PCB,0094,PCB-28
+after_2007,0001,0002,11,Microcontaminants orgànics,110009,PCB,0242,PCB-52
+after_2007,0001,0002,11,Microcontaminants orgànics,110009,PCB,0268,Suma de PCB
+after_2007,0001,0002,11,Microcontaminants orgànics,110022,Plaguicides,1209,Bentazona
+after_2007,0001,0002,11,Microcontaminants orgànics,110022,Plaguicides,1202,Cianazina
+after_2007,0001,0002,11,Microcontaminants orgànics,110022,Plaguicides,1207,Clortoluron
+after_2007,0001,0002,11,Microcontaminants orgànics,110022,Plaguicides,1204,Diuron
+after_2007,0001,0002,11,Microcontaminants orgànics,110022,Plaguicides,1205,Isoproturon
+after_2007,0001,0002,11,Microcontaminants orgànics,110022,Plaguicides,1206,Linuron
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0471,"2,4'-DDD"
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0425,"2,4'-DDE"
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0361,"2,4'-DDT"
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0116,"4,4'-DDD"
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0284,"4,4'-DDE"
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0054,"4,4'-DDT"
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2441,Aclonifèn
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0244,Alaclor
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0125,Aldehid d'endrina
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0143,Aldrín
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2432,Bifenox
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1201,Cetona d'endrín
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2433,Cipermetrín (suma d'isòmers)
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0232,Dieldrín
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0106,Endosulfan I
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0293,Endosulfan II
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0253,Endrín
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0349,Epòxid d'heptaclor A
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0222,Epòxid d'heptaclor B
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0128,Heptaclor
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0070,Hexaclorobenzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0170,Isodrín
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0161,Lindà(g-Hexaclorociclohexà)
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0333,Metolaclor
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0057,Pentaclorobenzè
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2431,Quinoxifèn
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0238,Sulfat d'endosulfan
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0107,Suma d'al-diel-iso-endrín
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0272,Suma d'hexaclorociclohexans
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1515,Suma de DDT
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0314,Suma de plaguicides clorats
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0203,Trifluralina
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0289,a-Hexaclorociclohexà
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0110,b-Hexaclorociclohexà
+after_2007,0001,0002,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0172,d-Hexaclorociclohexà
+after_2007,0001,0002,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0277,Azinfòs d'etil
+after_2007,0001,0002,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0093,Clorfenvinfòs (suma d'isòmers)
+after_2007,0001,0002,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0089,Clorpirifòs
+after_2007,0001,0002,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0112,Diazinon
+after_2007,0001,0002,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0133,Etion
+after_2007,0001,0002,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0062,Fenitrotion
+after_2007,0001,0002,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0078,Malation
+after_2007,0001,0002,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0138,Molinat
+after_2007,0001,0002,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0263,Paration
+after_2007,0001,0002,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0119,Paration de metil
+after_2007,0001,0002,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0294,Suma d'organofosforats
+after_2007,0001,0002,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0775,BDE-100
+after_2007,0001,0002,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1511,BDE-153
+after_2007,0001,0002,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1512,BDE-154
+after_2007,0001,0002,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1510,BDE-28
+after_2007,0001,0002,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0773,BDE-47
+after_2007,0001,0002,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0774,BDE-99
+after_2007,0001,0002,11,Microcontaminants orgànics,110014,Triazines,0118,Atrazina
+after_2007,0001,0002,11,Microcontaminants orgànics,110014,Triazines,2436,Cibutrina
+after_2007,0001,0002,11,Microcontaminants orgànics,110014,Triazines,0148,Desetilatrazina
+after_2007,0001,0002,11,Microcontaminants orgànics,110014,Triazines,0153,Propazina
+after_2007,0001,0002,11,Microcontaminants orgànics,110014,Triazines,0114,Simazina
+after_2007,0001,0002,11,Microcontaminants orgànics,110014,Triazines,0233,Suma de triazines
+after_2007,0001,0002,11,Microcontaminants orgànics,110014,Triazines,0105,Terbutrina
+after_2007,0001,0002,11,Microcontaminants orgànics,110014,Triazines,0132,tert-Butilazina
+after_2007,0006,0016,5,Fisicoquímics,050001,Condicions d'oxigenació,0091,% Saturació d'oxigen
+after_2007,0006,0016,5,Fisicoquímics,050001,Condicions d'oxigenació,0008,Oxigen dissolt
+after_2007,0006,0016,5,Fisicoquímics,050001,Condicions d'oxigenació,0009,TOC
+after_2007,0006,0016,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+after_2007,0006,0016,5,Fisicoquímics,050003,Nutrients,0258,Amoníac no ionitzat
+after_2007,0006,0016,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+after_2007,0006,0016,5,Fisicoquímics,050003,Nutrients,0217,Fòsfor total
+after_2007,0006,0016,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+after_2007,0006,0016,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+after_2007,0006,0016,5,Fisicoquímics,050003,Nutrients,0202,Nitrogen total
+after_2007,0006,0012,5,Fisicoquímics,050001,Condicions d'oxigenació,0091,% Saturació d'oxigen
+after_2007,0006,0012,5,Fisicoquímics,050001,Condicions d'oxigenació,0008,Oxigen dissolt
+after_2007,0006,0012,5,Fisicoquímics,050001,Condicions d'oxigenació,0009,TOC
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0104,Alcalinitat (TAC)
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0317,Bicarbonats
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0129,Calci
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0321,Carbonats
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0013,Cianurs
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0117,Cianurs lliures
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0308,Clor residual total
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0155,Detergents aniònics
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0531,Disc de Secchi
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0297,Duresa total
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0179,Error relatiu balanç iònic
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0082,Fluorurs
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0069,Magnesi
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0034,Potencial redox
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0517,Sigma T
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,2042,Sulfhídric
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0154,Suma d'anions
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0096,Suma de cations
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0005,Temperatura de l'aigua
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0003,Terbolesa
+after_2007,0006,0012,5,Fisicoquímics,050002,Generals,0001,pH
+after_2007,0006,0012,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+after_2007,0006,0012,5,Fisicoquímics,050003,Nutrients,0258,Amoníac no ionitzat
+after_2007,0006,0012,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+after_2007,0006,0012,5,Fisicoquímics,050003,Nutrients,0217,Fòsfor total
+after_2007,0006,0012,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+after_2007,0006,0012,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+after_2007,0006,0012,5,Fisicoquímics,050003,Nutrients,0202,Nitrogen total
+after_2007,0006,0012,5,Fisicoquímics,050003,Nutrients,0513,Silicats
+after_2007,0006,0012,5,Fisicoquímics,050004,Salinitat,0628,Bromurs
+after_2007,0006,0012,5,Fisicoquímics,050004,Salinitat,0014,Clorurs
+after_2007,0006,0012,5,Fisicoquímics,050004,Salinitat,0002,Conductivitat
+after_2007,0006,0012,5,Fisicoquímics,050004,Salinitat,0051,Conductivitat a 20ºC
+after_2007,0006,0012,5,Fisicoquímics,050004,Salinitat,0228,Potassi
+after_2007,0006,0012,5,Fisicoquímics,050004,Salinitat,0512,Salinitat
+after_2007,0006,0012,5,Fisicoquímics,050004,Salinitat,0163,Sodi
+after_2007,0006,0012,5,Fisicoquímics,050004,Salinitat,0134,Sulfats
+after_2007,0006,0012,8,Metalls,080001,Metalls,2390,Alumini
+after_2007,0006,0012,8,Metalls,080001,Metalls,0245,Alumini dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0316,Alumini total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2391,Antimoni
+after_2007,0006,0012,8,Metalls,080001,Metalls,0099,Antimoni dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0212,Antimoni total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2392,Arsènic
+after_2007,0006,0012,8,Metalls,080001,Metalls,0230,Arsènic dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0185,Arsènic total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2393,Bari
+after_2007,0006,0012,8,Metalls,080001,Metalls,0236,Bari dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0254,Bari total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2394,Beril·li
+after_2007,0006,0012,8,Metalls,080001,Metalls,0789,Beril·li dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,2395,Bor
+after_2007,0006,0012,8,Metalls,080001,Metalls,0201,Bor dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0290,Bor total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2396,Cadmi
+after_2007,0006,0012,8,Metalls,080001,Metalls,0225,Cadmi dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0274,Cadmi total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2397,Cobalt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0058,Cobalt dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0241,Cobalt total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2398,Coure
+after_2007,0006,0012,8,Metalls,080001,Metalls,0288,Coure dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0122,Coure total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2399,Crom
+after_2007,0006,0012,8,Metalls,080001,Metalls,0208,Crom VI
+after_2007,0006,0012,8,Metalls,080001,Metalls,0095,Crom dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0011,Crom total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2400,Estronci
+after_2007,0006,0012,8,Metalls,080001,Metalls,1214,Estronci total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2401,Ferro
+after_2007,0006,0012,8,Metalls,080001,Metalls,0085,Ferro dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0187,Ferro total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2402,Manganès
+after_2007,0006,0012,8,Metalls,080001,Metalls,0182,Manganès dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0158,Manganès total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2409,Mercuri
+after_2007,0006,0012,8,Metalls,080001,Metalls,0296,Mercuri dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,2403,Molibdè
+after_2007,0006,0012,8,Metalls,080001,Metalls,0266,Molibdè dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0301,Molibdè total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2404,Níquel
+after_2007,0006,0012,8,Metalls,080001,Metalls,0090,Níquel dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0206,Níquel total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2405,Plom
+after_2007,0006,0012,8,Metalls,080001,Metalls,0291,Plom dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0080,Plom total
+after_2007,0006,0012,8,Metalls,080001,Metalls,2406,Seleni
+after_2007,0006,0012,8,Metalls,080001,Metalls,0092,Seleni dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0278,Seleni total
+after_2007,0006,0012,8,Metalls,080001,Metalls,0175,Silici
+after_2007,0006,0012,8,Metalls,080001,Metalls,2407,Vanadi
+after_2007,0006,0012,8,Metalls,080001,Metalls,0790,Vanadi dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,2408,Zinc
+after_2007,0006,0012,8,Metalls,080001,Metalls,0065,Zinc dissolt
+after_2007,0006,0012,8,Metalls,080001,Metalls,0053,Zinc total
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0141,"1,2,4-Trimetilbenzè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0152,"1,3,5-Trimetilbenzè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0224,2-Butanona
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0305,Acetat d'etil
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0295,Acetat d'isobutil
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0315,Acetat de butil
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0135,Acetat de metil
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0310,Acetat de propil
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0227,Acetona
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0126,Acetonitril
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0103,Acrilonitril
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0248,BTEX total
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0076,Benzè
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0243,Ciclohexà
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0056,Clorobenzè
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0098,Decà
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0260,Dietil èter
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0120,Diisobutilcetona
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,1890,Diisopropil èter (DIPE)
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0111,Estirè
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0196,Etilbenzè
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0189,Heptà
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0147,Hexà
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0255,Naftalè
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0200,Nitrobenzè
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0214,Nonà
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0210,Octà
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0256,Pentà
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0220,Suma de xilens
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0269,Tetrahidrofuran
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0312,Toluè
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0137,"m,p-Xilè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0159,o-Xilè
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,1889,tert-Butanol (TBA)
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,1891,Èter etil tert-butílic (ETBE)
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,1892,Èter metil tert-amílic (TAME)
+after_2007,0006,0012,11,Microcontaminants orgànics,110004,Dissolvents industrials,0068,Èter metil tert-butílic (MTBE)
+after_2007,0006,0012,11,Microcontaminants orgànics,110005,General orgànics,1884,Di(2-etilhexil)ftalat
+after_2007,0006,0012,11,Microcontaminants orgànics,110005,General orgànics,0318,Fenols
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0193,"1,2-Benzantracè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0307,Acenaftilè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0251,Acenaftè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0186,Antracè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0074,Benzo(a)pirè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0218,Benzo(b)fluorantè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0252,Benzo(ghi)perilè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0205,Benzo(k)fluorantè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0292,Crisè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0262,"Dibenzo(a,h)antracè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0311,Fenantrè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0169,Fluorantè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0181,Fluorè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0075,"Indeno(1,2,3-cd)pirè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0059,Pirè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2451,Suma Benzo(b) Fluorantè+Benzo(k)Fluorantè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2452,Suma Indè(1.2.3)pirè+Benzo(ghi)perilè
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0063,Suma de PAH legislats
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,1513,Suma de PAH1
+after_2007,0006,0012,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,1514,Suma de PAH2
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0300,"1,1,1-Tricloroetà"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0156,"1,1,2,2-Tetracloroetà"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0061,"1,1,2-Tricloroetà"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0250,"1,1-Dicloroetilè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0142,"1,1-Dicloroetà"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0194,"1,2,3-Triclorobenzè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0164,"1,2,4-Triclorobenzè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0234,"1,2-Diclorobenzè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0162,"1,2-Dicloroetà"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0313,"1,2-Dicloropropà"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0060,"1,3,5-Triclorobenzè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0173,"1,3-Diclorobenzè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0192,"1,4-Diclorobenzè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0221,Bromodiclorometà
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0177,Bromoform
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0304,Dibromoclorometà
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0124,Diclorometà
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0150,Hexaclorobutadiè
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0433,Suma de diclorobenzens
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0219,Suma de triclorobenzens
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0144,Tetracloroetilè
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0083,Tetraclorur de Carboni
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0216,Tricloroetilè
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0323,Triclorofluorometà
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0322,Triclorometà
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0165,"cis-1,2-Dicloroetilè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0081,"cis-1,3-Dicloropropè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0273,"trans-1,2-Dicloroetilè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0066,"trans-1,3-Dicloropropè"
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0471,"2,4'-DDD"
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0425,"2,4'-DDE"
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0361,"2,4'-DDT"
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0116,"4,4'-DDD"
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0284,"4,4'-DDE"
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0054,"4,4'-DDT"
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2441,Aclonifèn
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0244,Alaclor
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0125,Aldehid d'endrina
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0143,Aldrín
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2432,Bifenox
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1201,Cetona d'endrín
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2433,Cipermetrín (suma d'isòmers)
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0232,Dieldrín
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0106,Endosulfan I
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0293,Endosulfan II
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0253,Endrín
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0349,Epòxid d'heptaclor A
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0222,Epòxid d'heptaclor B
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0128,Heptaclor
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0070,Hexaclorobenzè
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0170,Isodrín
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0161,Lindà(g-Hexaclorociclohexà)
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0333,Metolaclor
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0057,Pentaclorobenzè
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2431,Quinoxifèn
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0238,Sulfat d'endosulfan
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2453,Suma Endosulfà (I-II)
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0107,Suma d'al-diel-iso-endrín
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0272,Suma d'hexaclorociclohexans
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1515,Suma de DDT
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0314,Suma de plaguicides clorats
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0203,Trifluralina
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0289,a-Hexaclorociclohexà
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0110,b-Hexaclorociclohexà
+after_2007,0006,0012,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0172,d-Hexaclorociclohexà
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0277,Azinfòs d'etil
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,1881,Clorfenvinfòs
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0093,Clorfenvinfòs (suma d'isòmers)
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0089,Clorpirifòs
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0112,Diazinon
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0133,Etion
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0062,Fenitrotion
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0078,Malation
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0138,Molinat
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0263,Paration
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0119,Paration de metil
+after_2007,0006,0012,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0294,Suma d'organofosforats
+after_2007,0006,0012,11,Microcontaminants orgànics,110014,Triazines,0118,Atrazina
+after_2007,0006,0012,11,Microcontaminants orgànics,110014,Triazines,2436,Cibutrina
+after_2007,0006,0012,11,Microcontaminants orgànics,110014,Triazines,0148,Desetilatrazina
+after_2007,0006,0012,11,Microcontaminants orgànics,110014,Triazines,0153,Propazina
+after_2007,0006,0012,11,Microcontaminants orgànics,110014,Triazines,0114,Simazina
+after_2007,0006,0012,11,Microcontaminants orgànics,110014,Triazines,0233,Suma de triazines
+after_2007,0006,0012,11,Microcontaminants orgànics,110014,Triazines,0105,Terbutrina
+after_2007,0006,0012,11,Microcontaminants orgànics,110014,Triazines,0132,tert-Butilazina
+after_2007,0006,0012,6,Índexs biològics,060002,Fitobentos,1522,índex IPS
+after_2007,0006,0012,6,Índexs biològics,060003,Fitoplàncton,2048,% cianobacteris
+after_2007,0006,0012,6,Índexs biològics,060003,Fitoplàncton,0271,Clorofil·la a
+after_2007,0006,0012,6,Índexs biològics,060004,Invertebrats,2049,índex IBMWP
+after_2007,0006,0014,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+after_2007,0006,0014,5,Fisicoquímics,050003,Nutrients,0258,Amoníac no ionitzat
+after_2007,0006,0014,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+after_2007,0006,0014,5,Fisicoquímics,050003,Nutrients,0217,Fòsfor total
+after_2007,0006,0014,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+after_2007,0006,0014,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+after_2007,0006,0014,5,Fisicoquímics,050003,Nutrients,0202,Nitrogen total
+after_2007,0006,0013,5,Fisicoquímics,050001,Condicions d'oxigenació,0091,% Saturació d'oxigen
+after_2007,0006,0013,5,Fisicoquímics,050001,Condicions d'oxigenació,0008,Oxigen dissolt
+after_2007,0006,0013,5,Fisicoquímics,050001,Condicions d'oxigenació,0009,TOC
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0317,Bicarbonats
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0129,Calci
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0321,Carbonats
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0013,Cianurs
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0297,Duresa total
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0179,Error relatiu balanç iònic
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0082,Fluorurs
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0069,Magnesi
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0154,Suma d'anions
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0096,Suma de cations
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0005,Temperatura de l'aigua
+after_2007,0006,0013,5,Fisicoquímics,050002,Generals,0001,pH
+after_2007,0006,0013,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+after_2007,0006,0013,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+after_2007,0006,0013,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+after_2007,0006,0013,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+after_2007,0006,0013,5,Fisicoquímics,050003,Nutrients,0513,Silicats
+after_2007,0006,0013,5,Fisicoquímics,050004,Salinitat,0014,Clorurs
+after_2007,0006,0013,5,Fisicoquímics,050004,Salinitat,0002,Conductivitat
+after_2007,0006,0013,5,Fisicoquímics,050004,Salinitat,0051,Conductivitat a 20ºC
+after_2007,0006,0013,5,Fisicoquímics,050004,Salinitat,0228,Potassi
+after_2007,0006,0013,5,Fisicoquímics,050004,Salinitat,0163,Sodi
+after_2007,0006,0013,5,Fisicoquímics,050004,Salinitat,0134,Sulfats
+after_2007,0006,0013,8,Metalls,080001,Metalls,2390,Alumini
+after_2007,0006,0013,8,Metalls,080001,Metalls,2391,Antimoni
+after_2007,0006,0013,8,Metalls,080001,Metalls,2392,Arsènic
+after_2007,0006,0013,8,Metalls,080001,Metalls,2393,Bari
+after_2007,0006,0013,8,Metalls,080001,Metalls,2394,Beril·li
+after_2007,0006,0013,8,Metalls,080001,Metalls,2395,Bor
+after_2007,0006,0013,8,Metalls,080001,Metalls,2396,Cadmi
+after_2007,0006,0013,8,Metalls,080001,Metalls,2397,Cobalt
+after_2007,0006,0013,8,Metalls,080001,Metalls,2398,Coure
+after_2007,0006,0013,8,Metalls,080001,Metalls,2399,Crom
+after_2007,0006,0013,8,Metalls,080001,Metalls,2400,Estronci
+after_2007,0006,0013,8,Metalls,080001,Metalls,2401,Ferro
+after_2007,0006,0013,8,Metalls,080001,Metalls,2402,Manganès
+after_2007,0006,0013,8,Metalls,080001,Metalls,2409,Mercuri
+after_2007,0006,0013,8,Metalls,080001,Metalls,2403,Molibdè
+after_2007,0006,0013,8,Metalls,080001,Metalls,2404,Níquel
+after_2007,0006,0013,8,Metalls,080001,Metalls,2405,Plom
+after_2007,0006,0013,8,Metalls,080001,Metalls,2406,Seleni
+after_2007,0006,0013,8,Metalls,080001,Metalls,2407,Vanadi
+after_2007,0006,0013,8,Metalls,080001,Metalls,2408,Zinc
+after_2007,0006,0013,11,Microcontaminants orgànics,110002,Clorofenols,0102,Pentaclorofenol
+after_2007,0006,0013,11,Microcontaminants orgànics,110004,Dissolvents industrials,0248,BTEX total
+after_2007,0006,0013,11,Microcontaminants orgànics,110004,Dissolvents industrials,0076,Benzè
+after_2007,0006,0013,11,Microcontaminants orgànics,110004,Dissolvents industrials,0056,Clorobenzè
+after_2007,0006,0013,11,Microcontaminants orgànics,110004,Dissolvents industrials,0196,Etilbenzè
+after_2007,0006,0013,11,Microcontaminants orgànics,110004,Dissolvents industrials,0255,Naftalè
+after_2007,0006,0013,11,Microcontaminants orgànics,110004,Dissolvents industrials,0220,Suma de xilens
+after_2007,0006,0013,11,Microcontaminants orgànics,110004,Dissolvents industrials,0312,Toluè
+after_2007,0006,0013,11,Microcontaminants orgànics,110004,Dissolvents industrials,0137,"m,p-Xilè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110004,Dissolvents industrials,0159,o-Xilè
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0193,"1,2-Benzantracè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0186,Antracè
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0074,Benzo(a)pirè
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0218,Benzo(b)fluorantè
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0252,Benzo(ghi)perilè
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0205,Benzo(k)fluorantè
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0292,Crisè
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0262,"Dibenzo(a,h)antracè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0169,Fluorantè
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0075,"Indeno(1,2,3-cd)pirè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,1513,Suma de PAH1
+after_2007,0006,0013,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,1514,Suma de PAH2
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0300,"1,1,1-Tricloroetà"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0156,"1,1,2,2-Tetracloroetà"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0061,"1,1,2-Tricloroetà"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0250,"1,1-Dicloroetilè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0142,"1,1-Dicloroetà"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0194,"1,2,3-Triclorobenzè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0164,"1,2,4-Triclorobenzè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0234,"1,2-Diclorobenzè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0162,"1,2-Dicloroetà"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0060,"1,3,5-Triclorobenzè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0173,"1,3-Diclorobenzè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0192,"1,4-Diclorobenzè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0221,Bromodiclorometà
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0177,Bromoform
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0304,Dibromoclorometà
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0124,Diclorometà
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0150,Hexaclorobutadiè
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0433,Suma de diclorobenzens
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0219,Suma de triclorobenzens
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0144,Tetracloroetilè
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0083,Tetraclorur de Carboni
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0216,Tricloroetilè
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0322,Triclorometà
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0165,"cis-1,2-Dicloroetilè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0273,"trans-1,2-Dicloroetilè"
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0471,"2,4'-DDD"
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0425,"2,4'-DDE"
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0361,"2,4'-DDT"
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0116,"4,4'-DDD"
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0284,"4,4'-DDE"
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0054,"4,4'-DDT"
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2441,Aclonifèn
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0244,Alaclor
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0143,Aldrín
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2432,Bifenox
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1201,Cetona d'endrín
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0232,Dieldrín
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0106,Endosulfan I
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0293,Endosulfan II
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0253,Endrín
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0349,Epòxid d'heptaclor A
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0222,Epòxid d'heptaclor B
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0128,Heptaclor
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0070,Hexaclorobenzè
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0170,Isodrín
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0161,Lindà(g-Hexaclorociclohexà)
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0333,Metolaclor
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0057,Pentaclorobenzè
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2431,Quinoxifèn
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0238,Sulfat d'endosulfan
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0107,Suma d'al-diel-iso-endrín
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,1515,Suma de DDT
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0203,Trifluralina
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0289,a-Hexaclorociclohexà
+after_2007,0006,0013,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0110,b-Hexaclorociclohexà
+after_2007,0006,0013,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0277,Azinfòs d'etil
+after_2007,0006,0013,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0093,Clorfenvinfòs (suma d'isòmers)
+after_2007,0006,0013,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0089,Clorpirifòs
+after_2007,0006,0013,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0112,Diazinon
+after_2007,0006,0013,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0133,Etion
+after_2007,0006,0013,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0062,Fenitrotion
+after_2007,0006,0013,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0078,Malation
+after_2007,0006,0013,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0138,Molinat
+after_2007,0006,0013,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0263,Paration
+after_2007,0006,0013,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0119,Paration de metil
+after_2007,0006,0013,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0775,BDE-100
+after_2007,0006,0013,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1511,BDE-153
+after_2007,0006,0013,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1512,BDE-154
+after_2007,0006,0013,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,1510,BDE-28
+after_2007,0006,0013,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0773,BDE-47
+after_2007,0006,0013,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,0774,BDE-99
+after_2007,0006,0013,11,Microcontaminants orgànics,110014,Triazines,0118,Atrazina
+after_2007,0006,0013,11,Microcontaminants orgànics,110014,Triazines,2436,Cibutrina
+after_2007,0006,0013,11,Microcontaminants orgànics,110014,Triazines,0148,Desetilatrazina
+after_2007,0006,0013,11,Microcontaminants orgànics,110014,Triazines,0153,Propazina
+after_2007,0006,0013,11,Microcontaminants orgànics,110014,Triazines,0114,Simazina
+after_2007,0006,0013,11,Microcontaminants orgànics,110014,Triazines,0105,Terbutrina
+after_2007,0006,0013,11,Microcontaminants orgànics,110014,Triazines,0132,tert-Butilazina
+after_2007,0006,0013,6,Índexs biològics,060002,Fitobentos,1522,índex IPS
+after_2007,0006,0013,6,Índexs biològics,060004,Invertebrats,2049,índex IBMWP
+after_2007,0006,0013,7,Índexs hidromorfològics,070002,Morfologia,1017,índex IHF
+before_2007,0005,0011,13,Piezometria,130001,Piezometria,0044,Nivell piezomètric
+before_2007,0000,0019,5,Fisicoquímics,050001,Condicions d'oxigenació,0052,Oxidabilitat DQO (KMnO4)
+before_2007,0000,0019,5,Fisicoquímics,050001,Condicions d'oxigenació,0008,Oxigen dissolt
+before_2007,0000,0019,5,Fisicoquímics,050001,Condicions d'oxigenació,0009,TOC
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0104,Alcalinitat (TAC)
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0317,Bicarbonats
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0129,Calci
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0321,Carbonats
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0117,Cianurs lliures
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0155,Detergents aniònics
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0297,Duresa total
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0179,Error relatiu balanç iònic
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0082,Fluorurs
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0069,Magnesi
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0034,Potencial redox
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0171,Sulfurs totals
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0154,Suma d'anions
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0096,Suma de cations
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0005,Temperatura de l'aigua
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0003,Terbolesa
+before_2007,0000,0019,5,Fisicoquímics,050002,Generals,0001,pH
+before_2007,0000,0019,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+before_2007,0000,0019,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+before_2007,0000,0019,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+before_2007,0000,0019,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+before_2007,0000,0019,5,Fisicoquímics,050004,Salinitat,0014,Clorurs
+before_2007,0000,0019,5,Fisicoquímics,050004,Salinitat,0002,Conductivitat
+before_2007,0000,0019,5,Fisicoquímics,050004,Salinitat,0051,Conductivitat a 20ºC
+before_2007,0000,0019,5,Fisicoquímics,050004,Salinitat,0228,Potassi
+before_2007,0000,0019,5,Fisicoquímics,050004,Salinitat,0163,Sodi
+before_2007,0000,0019,5,Fisicoquímics,050004,Salinitat,0134,Sulfats
+before_2007,0000,0019,8,Metalls,080001,Metalls,2390,Alumini
+before_2007,0000,0019,8,Metalls,080001,Metalls,2391,Antimoni
+before_2007,0000,0019,8,Metalls,080001,Metalls,2392,Arsènic
+before_2007,0000,0019,8,Metalls,080001,Metalls,2393,Bari
+before_2007,0000,0019,8,Metalls,080001,Metalls,2395,Bor
+before_2007,0000,0019,8,Metalls,080001,Metalls,2396,Cadmi
+before_2007,0000,0019,8,Metalls,080001,Metalls,2397,Cobalt
+before_2007,0000,0019,8,Metalls,080001,Metalls,2398,Coure
+before_2007,0000,0019,8,Metalls,080001,Metalls,2399,Crom
+before_2007,0000,0019,8,Metalls,080001,Metalls,0208,Crom VI
+before_2007,0000,0019,8,Metalls,080001,Metalls,2401,Ferro
+before_2007,0000,0019,8,Metalls,080001,Metalls,2402,Manganès
+before_2007,0000,0019,8,Metalls,080001,Metalls,2409,Mercuri
+before_2007,0000,0019,8,Metalls,080001,Metalls,2403,Molibdè
+before_2007,0000,0019,8,Metalls,080001,Metalls,2404,Níquel
+before_2007,0000,0019,8,Metalls,080001,Metalls,2405,Plom
+before_2007,0000,0019,8,Metalls,080001,Metalls,2406,Seleni
+before_2007,0000,0019,8,Metalls,080001,Metalls,0175,Silici
+before_2007,0000,0019,8,Metalls,080001,Metalls,2408,Zinc
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0471,"2,4'-DDD"
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0425,"2,4'-DDE"
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0361,"2,4'-DDT"
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0116,"4,4'-DDD"
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0284,"4,4'-DDE"
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0054,"4,4'-DDT"
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0244,Alaclor
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0125,Aldehid d'endrina
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0143,Aldrín
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0232,Dieldrín
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0106,Endosulfan I
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0293,Endosulfan II
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0253,Endrín
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0349,Epòxid d'heptaclor A
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0222,Epòxid d'heptaclor B
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0128,Heptaclor
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0070,Hexaclorobenzè
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0170,Isodrín
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0161,Lindà(g-Hexaclorociclohexà)
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0333,Metolaclor
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0057,Pentaclorobenzè
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0238,Sulfat d'endosulfan
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0107,Suma d'al-diel-iso-endrín
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0272,Suma d'hexaclorociclohexans
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0314,Suma de plaguicides clorats
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0203,Trifluralina
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0289,a-Hexaclorociclohexà
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0110,b-Hexaclorociclohexà
+before_2007,0000,0019,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0172,d-Hexaclorociclohexà
+before_2007,0000,0019,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0277,Azinfòs d'etil
+before_2007,0000,0019,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0093,Clorfenvinfòs (suma d'isòmers)
+before_2007,0000,0019,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0089,Clorpirifòs
+before_2007,0000,0019,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0112,Diazinon
+before_2007,0000,0019,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0133,Etion
+before_2007,0000,0019,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0062,Fenitrotion
+before_2007,0000,0019,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0078,Malation
+before_2007,0000,0019,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0138,Molinat
+before_2007,0000,0019,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0263,Paration
+before_2007,0000,0019,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0119,Paration de metil
+before_2007,0000,0019,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0294,Suma d'organofosforats
+before_2007,0000,0019,11,Microcontaminants orgànics,110014,Triazines,0100,Ametrin
+before_2007,0000,0019,11,Microcontaminants orgànics,110014,Triazines,0118,Atrazina
+before_2007,0000,0019,11,Microcontaminants orgànics,110014,Triazines,0148,Desetilatrazina
+before_2007,0000,0019,11,Microcontaminants orgànics,110014,Triazines,0130,Prometon
+before_2007,0000,0019,11,Microcontaminants orgànics,110014,Triazines,0282,Prometrin
+before_2007,0000,0019,11,Microcontaminants orgànics,110014,Triazines,0153,Propazina
+before_2007,0000,0019,11,Microcontaminants orgànics,110014,Triazines,0114,Simazina
+before_2007,0000,0019,11,Microcontaminants orgànics,110014,Triazines,0233,Suma de triazines
+before_2007,0000,0019,11,Microcontaminants orgànics,110014,Triazines,0105,Terbutrina
+before_2007,0000,0019,11,Microcontaminants orgànics,110014,Triazines,0132,tert-Butilazina
+before_2007,0000,0017,5,Fisicoquímics,050001,Condicions d'oxigenació,0091,% Saturació d'oxigen
+before_2007,0000,0017,5,Fisicoquímics,050001,Condicions d'oxigenació,0151,DBO 5 dies
+before_2007,0000,0017,5,Fisicoquímics,050001,Condicions d'oxigenació,0231,DQO no decantada
+before_2007,0000,0017,5,Fisicoquímics,050001,Condicions d'oxigenació,0052,Oxidabilitat DQO (KMnO4)
+before_2007,0000,0017,5,Fisicoquímics,050001,Condicions d'oxigenació,0008,Oxigen dissolt
+before_2007,0000,0017,5,Fisicoquímics,050001,Condicions d'oxigenació,0009,TOC
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0104,Alcalinitat (TAC)
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0317,Bicarbonats
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0129,Calci
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0321,Carbonats
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0117,Cianurs lliures
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0308,Clor residual total
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0155,Detergents aniònics
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0297,Duresa total
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0179,Error relatiu balanç iònic
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0082,Fluorurs
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0069,Magnesi
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0257,Matèries Inhibidores 15'
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0050,Matèries en suspensió
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0034,Potencial redox
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0171,Sulfurs totals
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0154,Suma d'anions
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0096,Suma de cations
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0005,Temperatura de l'aigua
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0003,Terbolesa
+before_2007,0000,0017,5,Fisicoquímics,050002,Generals,0001,pH
+before_2007,0000,0017,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+before_2007,0000,0017,5,Fisicoquímics,050003,Nutrients,0258,Amoníac no ionitzat
+before_2007,0000,0017,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+before_2007,0000,0017,5,Fisicoquímics,050003,Nutrients,0217,Fòsfor total
+before_2007,0000,0017,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+before_2007,0000,0017,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+before_2007,0000,0017,5,Fisicoquímics,050003,Nutrients,0188,Nitrogen Kjeldahl
+before_2007,0000,0017,5,Fisicoquímics,050004,Salinitat,0014,Clorurs
+before_2007,0000,0017,5,Fisicoquímics,050004,Salinitat,0002,Conductivitat
+before_2007,0000,0017,5,Fisicoquímics,050004,Salinitat,0051,Conductivitat a 20ºC
+before_2007,0000,0017,5,Fisicoquímics,050004,Salinitat,0228,Potassi
+before_2007,0000,0017,5,Fisicoquímics,050004,Salinitat,0163,Sodi
+before_2007,0000,0017,5,Fisicoquímics,050004,Salinitat,0134,Sulfats
+before_2007,0000,0017,8,Metalls,080001,Metalls,2390,Alumini
+before_2007,0000,0017,8,Metalls,080001,Metalls,2391,Antimoni
+before_2007,0000,0017,8,Metalls,080001,Metalls,2392,Arsènic
+before_2007,0000,0017,8,Metalls,080001,Metalls,2393,Bari
+before_2007,0000,0017,8,Metalls,080001,Metalls,2395,Bor
+before_2007,0000,0017,8,Metalls,080001,Metalls,2396,Cadmi
+before_2007,0000,0017,8,Metalls,080001,Metalls,2397,Cobalt
+before_2007,0000,0017,8,Metalls,080001,Metalls,2398,Coure
+before_2007,0000,0017,8,Metalls,080001,Metalls,2399,Crom
+before_2007,0000,0017,8,Metalls,080001,Metalls,0208,Crom VI
+before_2007,0000,0017,8,Metalls,080001,Metalls,2401,Ferro
+before_2007,0000,0017,8,Metalls,080001,Metalls,2402,Manganès
+before_2007,0000,0017,8,Metalls,080001,Metalls,2409,Mercuri
+before_2007,0000,0017,8,Metalls,080001,Metalls,2403,Molibdè
+before_2007,0000,0017,8,Metalls,080001,Metalls,2404,Níquel
+before_2007,0000,0017,8,Metalls,080001,Metalls,2405,Plom
+before_2007,0000,0017,8,Metalls,080001,Metalls,2406,Seleni
+before_2007,0000,0017,8,Metalls,080001,Metalls,2408,Zinc
+before_2007,0000,0017,11,Microcontaminants orgànics,110002,Clorofenols,0102,Pentaclorofenol
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0166,"1,4-Dioxà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0160,"2,5-dimetil-1,4-Dioxà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0167,"2,6-dimetil-1,4-Dioxà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0259,"2-etil-4-metil-1,3-Dioxolà (c+t)"
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0215,"2-etil-5,5-dimetil-1,3-Dioxà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0320,"2-i-butil-5,5-dimetil-1,3-Dioxà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0072,"2-i-propil-4-metil-1,3-Dioxolà (c+t)"
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0286,"2-i-propil-5,5-dimetil-1,3-Dioxà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0108,"2-metil-5,5-dimetil-1,3-Dioxà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0213,"2-n-butil-5,5-dimetil-1,3-Dioxà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0279,"2-n-propil-5,5-dimetil-1,3-Dioxà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110003,Dioxans,0204,"5,5-dimetil-1,3-Dioxà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0141,"1,2,4-Trimetilbenzè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0152,"1,3,5-Trimetilbenzè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0511,"1,3-diclorobenzè (mètode BTEX)"
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0224,2-Butanona
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0131,2-Clorotoluè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0209,2-Hexanona
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0064,2-Pentanona
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0240,3-Pentanona
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0280,4-Clorotoluè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0077,4-Metil-2-pentanona
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0305,Acetat d'etil
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0295,Acetat d'isobutil
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0136,Acetat de Vinil
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0315,Acetat de butil
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0135,Acetat de metil
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0310,Acetat de propil
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0227,Acetona
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0126,Acetonitril
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0103,Acrilonitril
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0197,Alcohol isobutílic
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0248,BTEX total
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0076,Benzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0157,Bromobenzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0243,Ciclohexà
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0056,Clorobenzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0098,Decà
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0260,Dietil èter
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0120,Diisobutilcetona
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0198,Dodecà
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0111,Estirè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0196,Etilbenzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0189,Heptà
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0147,Hexà
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0168,Isopropilbenzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0255,Naftalè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0200,Nitrobenzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0214,Nonà
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0210,Octà
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0256,Pentà
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0055,Piridina
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0220,Suma de xilens
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0269,Tetrahidrofuran
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0312,Toluè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0115,Undecà
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0137,"m,p-Xilè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0239,n-Butilbenzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0084,n-Propilbenzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0159,o-Xilè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0235,p-Isopropiltoluè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0109,sec-Butilbenzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0264,tert-Butilbenzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110004,Dissolvents industrials,0068,Èter metil tert-butílic (MTBE)
+before_2007,0000,0017,11,Microcontaminants orgànics,110005,General orgànics,0247,AOX
+before_2007,0000,0017,11,Microcontaminants orgànics,110005,General orgànics,0318,Fenols
+before_2007,0000,0017,11,Microcontaminants orgànics,110005,General orgànics,0071,Hidrocarburs totals (TPH)
+before_2007,0000,0017,11,Microcontaminants orgànics,110005,General orgànics,0121,Olis i Greixos
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0193,"1,2-Benzantracè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0307,Acenaftilè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0251,Acenaftè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0186,Antracè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0074,Benzo(a)pirè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0218,Benzo(b)fluorantè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0252,Benzo(ghi)perilè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0205,Benzo(k)fluorantè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0292,Crisè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0262,"Dibenzo(a,h)antracè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0311,Fenantrè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0169,Fluorantè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0181,Fluorè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0075,"Indeno(1,2,3-cd)pirè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0059,Pirè
+before_2007,0000,0017,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,0063,Suma de PAH legislats
+before_2007,0000,0017,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0309,NPEO(e=0)
+before_2007,0000,0017,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0087,NPEO(e=1)
+before_2007,0000,0017,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0086,NPEO(e=2)
+before_2007,0000,0017,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,0176,tert-Octilfenol
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0300,"1,1,1-Tricloroetà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0156,"1,1,2,2-Tetracloroetà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0061,"1,1,2-Tricloroetà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0250,"1,1-Dicloroetilè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0142,"1,1-Dicloroetà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0194,"1,2,3-Triclorobenzè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0164,"1,2,4-Triclorobenzè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0234,"1,2-Diclorobenzè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0162,"1,2-Dicloroetà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0313,"1,2-Dicloropropà"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0060,"1,3,5-Triclorobenzè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0173,"1,3-Diclorobenzè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0192,"1,4-Diclorobenzè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0299,2-bromo-1-cloropropà
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0221,Bromodiclorometà
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0177,Bromoform
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0304,Dibromoclorometà
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0101,Dibromometà
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0124,Diclorometà
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0150,Hexaclorobutadiè
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0433,Suma de diclorobenzens
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0219,Suma de triclorobenzens
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0144,Tetracloroetilè
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0083,Tetraclorur de Carboni
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0216,Tricloroetilè
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0323,Triclorofluorometà
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0322,Triclorometà
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0165,"cis-1,2-Dicloroetilè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0081,"cis-1,3-Dicloropropè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0273,"trans-1,2-Dicloroetilè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,0066,"trans-1,3-Dicloropropè"
+before_2007,0000,0017,11,Microcontaminants orgànics,110009,PCB,0190,PCB-101
+before_2007,0000,0017,11,Microcontaminants orgànics,110009,PCB,0123,PCB-118
+before_2007,0000,0017,11,Microcontaminants orgànics,110009,PCB,0249,PCB-138
+before_2007,0000,0017,11,Microcontaminants orgànics,110009,PCB,0276,PCB-153
+before_2007,0000,0017,11,Microcontaminants orgànics,110009,PCB,0140,PCB-180
+before_2007,0000,0017,11,Microcontaminants orgànics,110009,PCB,0094,PCB-28
+before_2007,0000,0017,11,Microcontaminants orgànics,110009,PCB,0242,PCB-52
+before_2007,0000,0017,11,Microcontaminants orgànics,110009,PCB,0268,Suma de PCB
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0471,"2,4'-DDD"
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0425,"2,4'-DDE"
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0361,"2,4'-DDT"
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0116,"4,4'-DDD"
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0284,"4,4'-DDE"
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0054,"4,4'-DDT"
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0244,Alaclor
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0125,Aldehid d'endrina
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0143,Aldrín
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0232,Dieldrín
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0106,Endosulfan I
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0293,Endosulfan II
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0253,Endrín
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0349,Epòxid d'heptaclor A
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0222,Epòxid d'heptaclor B
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0128,Heptaclor
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0070,Hexaclorobenzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0170,Isodrín
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0161,Lindà(g-Hexaclorociclohexà)
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0333,Metolaclor
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0057,Pentaclorobenzè
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0238,Sulfat d'endosulfan
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0107,Suma d'al-diel-iso-endrín
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0272,Suma d'hexaclorociclohexans
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0314,Suma de plaguicides clorats
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0203,Trifluralina
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0289,a-Hexaclorociclohexà
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0110,b-Hexaclorociclohexà
+before_2007,0000,0017,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,0172,d-Hexaclorociclohexà
+before_2007,0000,0017,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0277,Azinfòs d'etil
+before_2007,0000,0017,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0093,Clorfenvinfòs (suma d'isòmers)
+before_2007,0000,0017,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0089,Clorpirifòs
+before_2007,0000,0017,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0112,Diazinon
+before_2007,0000,0017,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0133,Etion
+before_2007,0000,0017,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0062,Fenitrotion
+before_2007,0000,0017,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0078,Malation
+before_2007,0000,0017,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0138,Molinat
+before_2007,0000,0017,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0263,Paration
+before_2007,0000,0017,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0119,Paration de metil
+before_2007,0000,0017,11,Microcontaminants orgànics,110011,Plaguicides organofosforats,0294,Suma d'organofosforats
+before_2007,0000,0017,11,Microcontaminants orgànics,110014,Triazines,0100,Ametrin
+before_2007,0000,0017,11,Microcontaminants orgànics,110014,Triazines,0118,Atrazina
+before_2007,0000,0017,11,Microcontaminants orgànics,110014,Triazines,0148,Desetilatrazina
+before_2007,0000,0017,11,Microcontaminants orgànics,110014,Triazines,0130,Prometon
+before_2007,0000,0017,11,Microcontaminants orgànics,110014,Triazines,0282,Prometrin
+before_2007,0000,0017,11,Microcontaminants orgànics,110014,Triazines,0153,Propazina
+before_2007,0000,0017,11,Microcontaminants orgànics,110014,Triazines,0114,Simazina
+before_2007,0000,0017,11,Microcontaminants orgànics,110014,Triazines,0233,Suma de triazines
+before_2007,0000,0017,11,Microcontaminants orgànics,110014,Triazines,0105,Terbutrina
+before_2007,0000,0017,11,Microcontaminants orgànics,110014,Triazines,0132,tert-Butilazina
+before_2007,0000,0017,6,Índexs biològics,060003,Fitoplàncton,0271,Clorofil·la a
+before_2007,0000,0017,6,Índexs biològics,060003,Fitoplàncton,0067,Clorofil·la b
+before_2007,0000,0017,6,Índexs biològics,060003,Fitoplàncton,0298,Clorofil·la c
+before_2007,0000,0017,6,Índexs biològics,060004,Invertebrats,0180,índex BMWPC
+before_2007,0000,0018,5,Fisicoquímics,050001,Condicions d'oxigenació,0091,% Saturació d'oxigen
+before_2007,0000,0018,5,Fisicoquímics,050001,Condicions d'oxigenació,0008,Oxigen dissolt
+before_2007,0000,0018,5,Fisicoquímics,050002,Generals,0531,Disc de Secchi
+before_2007,0000,0018,5,Fisicoquímics,050002,Generals,0005,Temperatura de l'aigua
+before_2007,0000,0018,5,Fisicoquímics,050002,Generals,0001,pH
+before_2007,0000,0018,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+before_2007,0000,0018,5,Fisicoquímics,050003,Nutrients,3920,Amoni (aigua de mar)
+before_2007,0000,0018,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+before_2007,0000,0018,5,Fisicoquímics,050003,Nutrients,3921,Fosfats (aigua de mar)
+before_2007,0000,0018,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+before_2007,0000,0018,5,Fisicoquímics,050003,Nutrients,3918,Nitrats (aigua de mar)
+before_2007,0000,0018,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
+before_2007,0000,0018,5,Fisicoquímics,050003,Nutrients,3919,Nitrits (aigua de mar)
+before_2007,0000,0018,5,Fisicoquímics,050003,Nutrients,0513,Silicats
+before_2007,0000,0018,5,Fisicoquímics,050003,Nutrients,3922,Silicats (aigua de mar)
+before_2007,0000,0018,5,Fisicoquímics,050004,Salinitat,0512,Salinitat
+before_2007,0000,0018,6,Índexs biològics,060003,Fitoplàncton,0271,Clorofil·la a
+before_2007,0000,0020,13,Piezometria,130001,Piezometria,0044,Nivell piezomètric
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2545,Acenaftilè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2544,Acenaftè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2546,Antracè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2551,Benzo(a)antracè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2547,Benzo(a)pirè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2548,Benzo(b)fluorantè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2549,Benzo(ghi)perilè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2550,Benzo(k)fluorantè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2552,Crisè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2553,"Dibenzo(a,h)antracè (en sediment)"
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2554,Fenantrè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2555,Fluorantè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2556,Fluorè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2557,"Indeno(1,2,3-cd)pirè (en sediment)"
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,2559,Pirè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,3881,Suma de PAH1 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110006,Hidrocarburs aromàtics policíclics,3884,Suma de PAH2 (en sediments)
+before_2007,0004,0009,11,Microcontaminants orgànics,110007,Nonilfenols i Octilfenol,2561,NPEO(e=0) (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110008,Organohalogenats volàtils,3864,Hexaclorobutadiè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2874,PCB-101 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2875,PCB-118 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2877,PCB-138 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2876,PCB-153 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2878,PCB-180 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,3862,PCB-28 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2873,PCB-52 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110009,PCB,2879,Suma PCBs (BCR) (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2565,"2,4'-DDD (en sediment)"
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2566,"2,4'-DDE (en sediment)"
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2568,"2,4'-DDT (en sediment)"
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2567,"4,4'-DDD (en sediment)"
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2570,"4,4'-DDE (en sediment)"
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2571,"4,4'-DDT (en sediment)"
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3869,Aldrín (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3867,Dieldrín (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3870,Endrín (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3866,Hexaclorobenzè (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2577,Hexaclorociclohexà (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3868,Isodrín (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2576,Lindà(g-Hexaclorociclohexà) (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,3871,Suma d'al-diel-iso-endrín (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2572,Suma de DDT (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2573,a-Hexaclorociclohexà (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110010,Plaguicides organoclorats,2574,b-Hexaclorociclohexà (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3858,BDE-100 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3859,BDE-153 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3860,BDE-154 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3961,BDE-197 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3962,BDE-209 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3856,BDE-47 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3857,BDE-99 (en sediment)
+before_2007,0004,0009,11,Microcontaminants orgànics,110013,Polibromatdifenilèters,3861,Suma de BDE (en sediment)
+before_2007,0004,0007,6,Índexs biològics,060001,Fanerògames marines,1520,Índex POMI-EQR
+before_2007,0004,0007,6,Índexs biològics,060005,Macroalgues,3507,Índex CARLIT-EQR
+before_2007,0004,0007,6,Índexs biològics,060008,Macrofauna,3502,Índex MEDOCC-EQR
+before_2007,0002,0302,15,Quantitat,150001,Quantitat,0020,Nivell absolut
+before_2007,0002,0302,15,Quantitat,150001,Quantitat,0039,Percentatge volum embassat
+before_2007,0002,0302,15,Quantitat,150001,Quantitat,0027,Volum embassat
+before_2007,0001,0301,15,Quantitat,150001,Quantitat,0023,Cabal riu
+before_2007,0001,0303,15,Quantitat,150001,Quantitat,0019,Nivell riu
+before_2007,0006,0014,5,Fisicoquímics,050003,Nutrients,0007,Amoni
+before_2007,0006,0014,5,Fisicoquímics,050003,Nutrients,0006,Fosfats
+before_2007,0006,0014,5,Fisicoquímics,050003,Nutrients,0016,Nitrats
+before_2007,0006,0014,5,Fisicoquímics,050003,Nutrients,0319,Nitrits
