@@ -15,3 +15,6 @@ metadata/raw/
 
 # generated example outputs
 examples/*.csv
+
+# bulk download scripts + outputs (kept out of the repo)
+downloads/
