@@ -9,14 +9,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Abert--Fernandez-0A66C2?logo=linkedin)](https://www.linkedin.com/in/david-abert-4171851aa/)
 
 A lightweight Python client for downloading historical water-quality and
-water-quantity data from the **Agència Catalana de l'Aigua (ACA) SDIM** web
-application (`aplicacions.aca.gencat.cat/sdim21`).
+water-quantity data from SDIM, the data consultation service operated by the
+**Agència Catalana de l'Aigua (ACA)** (`aplicacions.aca.gencat.cat/sdim21`).
 
-SDIM is the ACA's public data portal for Catalonia's monitoring networks:
-groundwater levels and quality, river flows, physico-chemistry, reservoir
-volumes, priority substances, and more. This client handles the session setup,
-form submission, and export parsing that the website normally does behind the
-scenes, returning clean pandas DataFrames ready for analysis.
+> **Disclaimer:** This project is not affiliated with, endorsed by, or
+> maintained by the ACA or the Generalitat de Catalunya. Use of the SDIM
+> service is subject to the ACA's terms of use.
+
+This client handles the session setup, form submission, and export parsing
+that the website normally does behind the scenes, returning clean pandas
+DataFrames ready for analysis.
 
 **What it does:**
 - Authenticates automatically (no browser cookies or manual login).
