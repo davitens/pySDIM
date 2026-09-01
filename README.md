@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.svg" alt="pySDIM" width="100%">
+</p>
+
 # ACA SDIM Python client
 
 [![GitHub Release](https://img.shields.io/github/v/release/davitens/pySDIM)](https://github.com/davitens/pySDIM/releases)
