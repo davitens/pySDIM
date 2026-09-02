@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="pySDIM" width="100%">
+  <img src="docs/images/header.svg" alt="pySDIM" width="100%">
 </p>
 
 # ACA SDIM Python client

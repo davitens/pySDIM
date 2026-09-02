@@ -16,5 +16,7 @@ metadata/raw/
 # generated example outputs
 examples/*.csv
 
-# bulk download scripts + outputs (kept out of the repo)
-downloads/
+# bulk download outputs (scripts are tracked, data files are not)
+downloads/*.csv
+downloads/__pycache__/
+downloads/.station_cache.json
