@@ -8,14 +8,14 @@ authors:
   - family-names: Abert-Fernandez
     given-names: David
     orcid: "https://orcid.org/0009-0007-7312-5823"
-  - family-names: Mencio
-    given-names: Anna
-    orcid: "https://orcid.org/0000-0001-6023-5862"
   - family-names: Malauda
     given-names: Eduard
     orcid: "https://orcid.org/0000-0001-9005-2717"
   - family-names: Gonzalvo Henry
     given-names: Gisela
+  - family-names: Mencio
+    given-names: Anna
+    orcid: "https://orcid.org/0000-0001-6023-5862"
   - family-names: Monclus
     given-names: Hector
     orcid: "https://orcid.org/0000-0002-0072-6069"
