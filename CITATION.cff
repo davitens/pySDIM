@@ -14,7 +14,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-9005-2717"
     affiliation:
       - Grup de Geologia Aplicada i Ambiental (GAiA), Department of Environmental Sciences, Universitat de Girona, Girona, Spain
-      - External Geodynamics and Hydrogeology Group, Department of Geology, Universitat Autòxnoma de Barcelona, Bellaterra, Spain
+      - External Geodynamics and Hydrogeology Group, Department of Geology, Universitat Autònoma de Barcelona, Bellaterra, Spain
   - family-names: Gonzalvo-Henry
     given-names: Gisela
     affiliation: Grup de Geologia Aplicada i Ambiental (GAiA), Department of Environmental Sciences, Universitat de Girona, Girona, Spain
@@ -28,8 +28,8 @@ authors:
     affiliation: LEQUIA, Institute of the Environment, Universitat de Girona, Maria Aurèlia Capmany 69, Girona, Catalonia, E-17003, Spain
 repository-code: "https://github.com/davitens/pySDIM"
 license: MIT
-date-released: "2026-09-01"
-version: 0.4.0
+date-released: "2026-09-04"
+version: 1.0.0
 keywords:
   - water quality
   - hydrology

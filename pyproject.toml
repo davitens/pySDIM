@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "aca-sdim"
-version = "0.4.0"
+version = "1.0.0"
 description = "Python client for ACA SDIM water-quality/quantity data"
 requires-python = ">=3.10"
 dependencies = [
@@ -20,3 +20,9 @@ sdim = "sdim.cli:main"
 [tool.setuptools.packages.find]
 where = ["."]
 include = ["sdim*"]
+
+[tool.setuptools.data-files]
+"aca_sdim_metadata" = [
+    "metadata/*.csv",
+]
+"aca_sdim_metadata/station_variables" = ["metadata/station_variables/*.csv"]

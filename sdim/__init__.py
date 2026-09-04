@@ -13,7 +13,7 @@ from .exceptions import (
 from .query import PERIOD_AFTER_2007, PERIOD_BEFORE_2007, Query
 from .session import SDIMSession
 
-__version__ = "0.4.0"
+__version__ = "1.0.0"
 
 __all__ = [
     "SDIM",

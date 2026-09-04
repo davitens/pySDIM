@@ -9,14 +9,24 @@ from __future__ import annotations
 
 import os
 import unicodedata
+from importlib import metadata
 from pathlib import Path
 
 import pandas as pd
 
-_META_DIR = os.environ.get(
-    "SDIM_METADATA_DIR",
-    str(Path(__file__).resolve().parent.parent / "metadata"),
-)
+
+def _default_meta_dir() -> str:
+    """Installed data dir (shipped via data-files) or the repo checkout."""
+    try:
+        for f in metadata.files("aca-sdim") or []:
+            if str(f).endswith("targets.csv"):
+                return str(Path(f.locate()).resolve().parent)
+    except metadata.PackageNotFoundError:
+        pass
+    return str(Path(__file__).resolve().parent.parent / "metadata")
+
+
+_META_DIR = os.environ.get("SDIM_METADATA_DIR", _default_meta_dir())
 
 # CSV file -> (default flavor label, code column)
 _FLAVORS = {
