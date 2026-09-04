@@ -7,6 +7,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/davitens/pySDIM)](https://github.com/davitens/pySDIM/releases)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Abert--Fernandez-0A66C2?logo=linkedin)](https://www.linkedin.com/in/david-abert-4171851aa/)
+[![DOI](https://zenodo.org/badge/1353419139.svg)](https://doi.org/10.5281/zenodo.22302220)
 
 A lightweight Python client for downloading historical water-quality and
 water-quantity data from SDIM, the data consultation service operated by the
