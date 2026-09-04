@@ -14,16 +14,16 @@ authors:
     orcid: "https://orcid.org/0000-0001-9005-2717"
     affiliation:
       - Grup de Geologia Aplicada i Ambiental (GAiA), Department of Environmental Sciences, Universitat de Girona, Girona, Spain
-      - External Geodynamics and Hydrogeology Group, Department of Geology, Universitat Aut`onoma de Barcelona, Bellaterra, Spain
-  - family-names: Gonzalvo Henry
+      - External Geodynamics and Hydrogeology Group, Department of Geology, Universitat Autòxnoma de Barcelona, Bellaterra, Spain
+  - family-names: Gonzalvo-Henry
     given-names: Gisela
     affiliation: Grup de Geologia Aplicada i Ambiental (GAiA), Department of Environmental Sciences, Universitat de Girona, Girona, Spain
-  - family-names: Mencio
+  - family-names: Menció
     given-names: Anna
     orcid: "https://orcid.org/0000-0001-6023-5862"
     affiliation: Grup de Geologia Aplicada i Ambiental (GAiA), Department of Environmental Sciences, Universitat de Girona, Girona, Spain
-  - family-names: Monclus
-    given-names: Hector
+  - family-names: Monclús
+    given-names: Hèctor
     orcid: "https://orcid.org/0000-0002-0072-6069"
     affiliation: LEQUIA, Institute of the Environment, Universitat de Girona, Maria Aurèlia Capmany 69, Girona, Catalonia, E-17003, Spain
 repository-code: "https://github.com/davitens/pySDIM"
