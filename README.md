@@ -33,7 +33,9 @@ DataFrames ready for analysis.
 ## Install
 
 ```bash
-pip install .
+git clone https://github.com/davitens/pySDIM.git
+cd pySDIM
+python -m pip install .
 ```
 
 Dependencies: `requests`, `pandas`, `openpyxl`, `lxml`. Python ≥ 3.10.
@@ -60,6 +62,7 @@ df = aca.get_data(
     end="2009-01-01",
 )["quality"]
 
+df.to_csv("data_example.csv")
 print(df[["date", "station_code", "value", "unit"]])
 ```
 
