@@ -44,6 +44,21 @@ Dependencies: `requests`, `pandas`, `openpyxl`, `lxml`. Python ≥ 3.10.
 > bundle or redistribute SDIM's data. Check the SDIM terms of use before
 > using extracted data in a published work.
 
+## Fair use, legal and attribution notes
+
+- **Do not overload the service.** Automating access does not mean you have
+  permission to send thousands of requests per second. Use rate limiting,
+  moderate retries, and avoid large numbers of concurrent requests.
+- **Do not bypass access controls.** SDIM is publicly accessible and the
+  library simply establishes the web session required to use the service; it
+  does not bypass private credentials or a paywall.
+- **License scope.** The MIT license only covers the pySDIM code. It does not
+  make ACA data MIT-licensed. When publishing the data or derived results,
+  comply with the Generalitat's applicable data reuse conditions.
+- **Attribution.** When publishing the data, cite the source, do not
+  misrepresent or distort the information, and indicate the relevant update or
+  access date.
+
 ## Query and download
 
 ### Minimal example
