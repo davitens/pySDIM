@@ -233,3 +233,13 @@ python3 tests/test_catalog.py    # offline metadata lookup
 python3 tests/test_targets.py    # offline targets + station-variable tables
 python3 tests/test_resolver.py   # offline name -> code resolution
 ```
+
+## References and citation
+
+**Original SDIM data service:** Agència Catalana de l'Aigua (ACA), SDIM — Servei de Dades i Informació Meteorològica/Mediambiental. https://aplicacions.aca.gencat.cat/sdim21/
+
+**Citing pySDIM:** If you use this software, please cite it as below (see also `CITATION.cff`):
+
+> David Abert-Fernandez, Eduard Madaula, Gisela Gonzalvo-Henry, Anna Menció, Hèctor Monclús. *pySDIM — Python client for ACA SDIM water data*. DOI: 10.5281/zenodo.22302220 · https://github.com/davitens/pySDIM
+
+When publishing data or derived results obtained with pySDIM, also cite the original dataset and comply with the Generalitat de Catalunya's data reuse conditions (see [Fair use, legal and attribution notes](#fair-use-legal-and-attribution-notes)).
