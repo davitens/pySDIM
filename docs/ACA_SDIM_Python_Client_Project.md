@@ -34,6 +34,28 @@ The library should eventually support filtering by multiple parameters, rivers, 
 
 ---
 
+# Usage, Fair-Use and Legal Notes
+
+## Do not overload the service
+
+Automating access does not mean you have permission to send thousands of requests per second.
+It is good practice to use rate limiting, moderate retries, and avoid large numbers of concurrent requests.
+
+## Do not bypass access controls
+
+SDIM is publicly accessible and the library appears to simply establish the web session required to use the service; it does not bypass private credentials or a paywall.
+
+## License scope
+
+The MIT license only covers the pySDIM code. It does not make ACA data MIT-licensed.
+When publishing the data or derived results, you must comply with the Generalitat's applicable data reuse conditions.
+
+## Attribution and reuse when publishing data
+
+Comply with attribution and reuse requirements. This includes properly citing the source, not misrepresenting or distorting the information, and indicating the relevant update or access date.
+
+---
+
 # What Has Been Done
 
 ## 1. Reverse-engineered the final SDIM download request
