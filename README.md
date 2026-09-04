@@ -225,15 +225,6 @@ Rebuild the tables after a change in the UI or to refresh:
 python3 scripts/build_metadata.py --refresh
 ```
 
-## Tests
-
-```bash
-python3 tests/test_parser.py     # offline XLSX parsing
-python3 tests/test_catalog.py    # offline metadata lookup
-python3 tests/test_targets.py    # offline targets + station-variable tables
-python3 tests/test_resolver.py   # offline name -> code resolution
-```
-
 ## References and citation
 
 **Original SDIM data service:** Agència Catalana de l'Aigua (ACA), SDIM — Servei de Dades i Informació Meteorològica/Mediambiental. https://aplicacions.aca.gencat.cat/sdim21/
