@@ -12,7 +12,9 @@ authors:
   - family-names: Madaula
     given-names: Eduard
     orcid: "https://orcid.org/0000-0001-9005-2717"
-    affiliation: Grup de Geologia Aplicada i Ambiental (GAiA), Department of Environmental Sciences, Universitat de Girona, Girona, Spain
+    affiliation:
+      - Grup de Geologia Aplicada i Ambiental (GAiA), Department of Environmental Sciences, Universitat de Girona, Girona, Spain
+      - External Geodynamics and Hydrogeology Group, Department of Geology, Universitat Aut`onoma de Barcelona, Bellaterra, Spain
   - family-names: Gonzalvo Henry
     given-names: Gisela
     affiliation: Grup de Geologia Aplicada i Ambiental (GAiA), Department of Environmental Sciences, Universitat de Girona, Girona, Spain
