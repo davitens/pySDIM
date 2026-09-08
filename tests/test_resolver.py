@@ -90,3 +90,7 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+
+
+def test_resolver():
+    assert main() == 0

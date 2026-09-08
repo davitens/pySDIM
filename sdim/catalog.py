@@ -18,7 +18,7 @@ import pandas as pd
 def _default_meta_dir() -> str:
     """Installed data dir (shipped via data-files) or the repo checkout."""
     try:
-        for f in metadata.files("aca-sdim") or []:
+        for f in metadata.files("pysdim") or []:
             if str(f).endswith("targets.csv"):
                 return str(Path(f.locate()).resolve().parent)
     except metadata.PackageNotFoundError:

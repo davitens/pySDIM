@@ -45,3 +45,7 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+
+
+def test_catalog():
+    assert main() == 0

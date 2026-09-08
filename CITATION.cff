@@ -26,8 +26,8 @@ authors:
     affiliation: LEQUIA, Institute of the Environment, Universitat de Girona, Maria Aurèlia Capmany 69, Girona, Catalonia, E-17003, Spain
 repository-code: "https://github.com/davitens/pySDIM"
 license: MIT
-date-released: "2026-09-04"
-version: 1.0.0
+date-released: "2026-09-08"
+version: 1.0.1
 keywords:
   - water quality
   - hydrology
