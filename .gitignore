@@ -9,6 +9,8 @@ dist/
 # keep local session artifacts out of tracking
 cookies.json
 data/
+!tests/data/
+!tests/data/**
 
 # regenerable raw response cache (network required to rebuild)
 metadata/raw/
