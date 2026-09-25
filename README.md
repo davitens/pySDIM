@@ -7,7 +7,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/davitens/pySDIM)](https://github.com/davitens/pySDIM/releases)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Abert--Fernandez-0A66C2?logo=linkedin)](https://www.linkedin.com/in/david-abert-4171851aa/)
-[![DOI](https://zenodo.org/badge/1353419139.svg)](https://doi.org/10.5281/zenodo.22302220)
+[![DOI](https://zenodo.org/badge/1353419139.svg)](https://doi.org/10.5281/zenodo.22661965)
 
 **pySDIM** is a lightweight Python client for downloading historical river-flow,
 water-level, groundwater, reservoir, and water-quality data from Catalonia
@@ -268,6 +268,6 @@ python3 scripts/build_metadata.py --refresh
 
 **Citing pySDIM:** If you use this software, please cite it as below (see also `CITATION.cff`):
 
-> David Abert-Fernandez, Eduard Madaula, Gisela Gonzalvo-Henry, Anna Menció, Hèctor Monclús. *pySDIM — Python client for ACA SDIM water data*. DOI: 10.5281/zenodo.22302220 · https://github.com/davitens/pySDIM
+> David Abert-Fernandez, Eduard Madaula, Gisela Gonzalvo-Henry, Anna Menció, Hèctor Monclús. *pySDIM — Python client for ACA SDIM water data*. DOI: 10.5281/zenodo.22661965 · https://github.com/davitens/pySDIM
 
 When publishing data or derived results obtained with pySDIM, also cite the original dataset and comply with the Generalitat de Catalunya's data reuse conditions (see [Fair use, legal and attribution notes](#fair-use-legal-and-attribution-notes)).
