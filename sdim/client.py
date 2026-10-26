@@ -70,8 +70,9 @@ class SDIM:
     ``JSESSIONID``), so no manual cookie copying is required.
 
     ``get_data``/``download`` accept either a :class:`~sdim.query.Query` or
-    semantic keyword arguments (``target``, ``water_type``, ``parameters``,
-    ``rivers``, ...) that are resolved to codes via the metadata catalog.
+    semantic keyword arguments (``water_source``, ``data_type``,
+    ``parameters``, ``area_type``, ``areas``, ...) that are resolved to codes
+    via the metadata catalog.
     """
 
     def __init__(self, *, delay: float = 0.6, timeout: float = 90.0,
@@ -222,6 +223,8 @@ class SDIM:
                 ids = [vid for vid, vname in rec["variables"] if keep(vname)]
                 if ids:
                     out[rec["station"]] = ids
+            if not out and list(res.spatial) == ["embassamentAmbit"]:
+                out = self._reservoir_series(res, keep)
             return out
 
         # offline per-target table (no spatial filter)
@@ -235,6 +238,24 @@ class SDIM:
         for st, g in df.groupby("station"):
             out[st] = g["variable_id"].unique().tolist()
         return out
+
+    def _reservoir_series(self, res, keep) -> dict[str, list[str]]:
+        """Stations of a reservoir filter that SDIM's station layer ignores.
+
+        SDIM assigns only quality stations to reservoirs; volume and level
+        series are named ``E06_<municipi>_<reservoir>_<variable>``, so match
+        the reservoir name against those name segments instead."""
+        names = self.catalog.table("reservoirs")
+        if "period" in names.columns:
+            names = names[names.period == res.period]
+        wanted = {_norm(str(n)).strip()
+                  for n in names[names.code.astype(str).isin(res.spatial["embassamentAmbit"])].name}
+        df = self.catalog.target_station_variables(res.target_id)
+        if df.empty or not wanted:
+            return {}
+        hit = df.variable_name.map(
+            lambda n: bool(wanted & {_norm(s).strip() for s in str(n).split("_")}) and keep(n))
+        return {st: g.variable_id.unique().tolist() for st, g in df[hit].groupby("station")}
 
     def download(self, query: Query | None = None, output: str | Path | None = None,
                  **kw) -> bytes:
@@ -262,8 +283,11 @@ class SDIM:
                  validate_output: bool = True, **kw) -> SDIMResult:
         """Download a report and parse it into DataFrames.
 
-        Accepts a :class:`~sdim.query.Query` or semantic keyword arguments
-        (``target``, ``water_type``, ``parameters``, ``groups``, ``rivers``, ...).
+        Accepts a :class:`~sdim.query.Query` or semantic keyword arguments:
+        ``water_source`` and ``data_type`` (what to download; see
+        :func:`sdim.data_sources`), ``parameters`` (empty = all), ``area_type``
+        and ``areas`` (where), ``start`` and ``end``. ``target``,
+        ``water_type``, ``groups``, ``rivers=``, ``comarcas=``, ... also work.
 
         Returns an :class:`~sdim.result.SDIMResult` (a dict of ``"quality"`` /
         ``"quantity"`` DataFrames with ``provenance``).

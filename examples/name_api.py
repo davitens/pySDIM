@@ -14,8 +14,10 @@ aca = SDIM(delay=0.5)
 
 # 1) river water quality, filtered by river name + parameter names
 parsed = aca.get_data(
-    water_type="river",
-    rivers=["Ter"],
+    water_source="river",
+    data_type="physico_chemical",
+    area_type="river",
+    areas=["Ter"],
     parameters=["nitrate", "phosphate"],
     start="2007-09-01",
     end="2009-12-31",
@@ -26,7 +28,8 @@ print(f"-> {len(df)} readings\n")
 
 # 2) groundwater phys-chemistry for an explicit station (by code), by name
 gw = aca.get_data(
-    water_type="groundwater",
+    water_source="groundwater",
+    data_type="physico_chemical",
     parameters=["nitrate"],
     stations=["F000100"],
     start="2007-01-01",

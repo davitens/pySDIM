@@ -40,6 +40,9 @@ def _sdim_kwargs(args: argparse.Namespace) -> dict:
         spatial_codes.setdefault(name, []).append(value)
     semantics = {
         "target": args.target, "period": args.period, "water_type": args.water_type,
+        "water_source": args.water_source, "data_type": args.data_type,
+        "protected_zone": args.protected_zone, "area_type": args.area_type,
+        "areas": args.area or None,
         "parameters": args.parameter or None, "groups": args.group or None,
         "rivers": args.river_name or None,
         "basins": args.basin or None, "comarcas": args.comarca or None,
@@ -90,7 +93,7 @@ def cmd_get(args: argparse.Namespace) -> int:
 
 def cmd_targets(args: argparse.Namespace) -> int:
     from .catalog import Catalog
-    from .resolver import water_types
+    from .resolver import data_sources, water_types
 
     df = Catalog().targets(args.period)
     if args.category:
@@ -101,6 +104,8 @@ def cmd_targets(args: argparse.Namespace) -> int:
         print(df[cols].to_string(index=False))
     print()
     print("water types:", ", ".join(water_types(args.period)))
+    print()
+    print(data_sources(args.period).to_string(index=False))
     return 0
 
 
@@ -133,6 +138,20 @@ def _parse_stations(specs: list[str]) -> dict[str, list[str]]:
 
 def _add_semantic_args(parser: argparse.ArgumentParser) -> None:
     parser.add_argument("--target", help="explicit target id, e.g. after_2007:0005:0011")
+    parser.add_argument("--water-source",
+                        help="river | reservoir | groundwater | lakes_and_wetlands | "
+                             "coastal | protected")
+    parser.add_argument("--data-type",
+                        help="physico_chemical | biological | priority_substances | "
+                             "hydromorphological | flow | level | volume")
+    parser.add_argument("--protected-zone",
+                        help="drinking_water | river_reserves | nitrate_vulnerable | "
+                             "eutrophication_sensitive (with --water-source protected)")
+    parser.add_argument("--area-type",
+                        help="catalunya | basin | water_mass | river | reservoir | "
+                             "aquifer | comarca | municipi")
+    parser.add_argument("--area", action="append", default=[],
+                        help="area name or code for --area-type — repeatable")
     parser.add_argument("--water-type",
                         help="river | groundwater | levels | flow | volumes | "
                              "river_biology | lake_biology | ...")

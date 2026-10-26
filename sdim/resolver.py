@@ -59,6 +59,194 @@ BIOLOGY_GROUP = "Índexs biològics"
 _BIOLOGY_WATER_TYPES = {"river_biology", "lake_biology", "reservoir_biology",
                         "coastal_biology"}
 
+# water_source -> data_type -> period -> (network, subnetwork, groups).
+# This mirrors SDIM's own menus: a control network (rius, embassaments, ...)
+# and the kind of data in it. ``groups`` narrows a target that mixes kinds
+# (groundwater quality, the pre-2007 river+reservoir target, protected zones).
+_PHYS, _BIO = ["Fisicoquímics"], [BIOLOGY_GROUP]
+_PRIO = ["Metalls", "Microcontaminants orgànics"]
+_HYDRO = ["Índexs hidromorfològics"]
+DATA_SOURCES: dict[str, dict[str, dict[str, tuple[str, str, list[str] | None]]]] = {
+    "river": {
+        "physico_chemical": {_A: ("0001", "0022", None), _B: ("0000", "0017", _PHYS)},
+        "biological": {_A: ("0001", "0001", None), _B: ("0000", "0017", _BIO)},
+        "priority_substances": {_A: ("0001", "0002", None), _B: ("0000", "0017", _PRIO)},
+        "hydromorphological": {_A: ("0001", "0021", None)},
+        "flow": {_A: ("0001", "0301", None), _B: ("0001", "0301", None)},
+        "level": {_A: ("0001", "0303", None), _B: ("0001", "0303", None)},
+    },
+    # before 2007 reservoirs share the river target: filter with area_type="reservoir"
+    "reservoir": {
+        "physico_chemical": {_A: ("0002", "0023", None), _B: ("0000", "0017", _PHYS)},
+        "biological": {_A: ("0002", "0003", None), _B: ("0000", "0017", _BIO)},
+        "priority_substances": {_A: ("0002", "0004", None), _B: ("0000", "0017", _PRIO)},
+        "volume": {_A: ("0002", "0302", None), _B: ("0002", "0302", None)},
+    },
+    "groundwater": {
+        "physico_chemical": {_A: ("0005", "0010", _PHYS), _B: ("0000", "0019", _PHYS)},
+        "priority_substances": {_A: ("0005", "0010", _PRIO), _B: ("0000", "0019", _PRIO)},
+        "level": {_A: ("0005", "0011", None), _B: ("0000", "0020", None)},
+    },
+    "lakes_and_wetlands": {
+        "physico_chemical": {_A: ("0003", "0025", None)},
+        "biological": {_A: ("0003", "0005", None)},
+        "priority_substances": {_A: ("0003", "0006", None)},
+        "hydromorphological": {_A: ("0003", "0024", None)},
+    },
+    "coastal": {
+        "physico_chemical": {_A: ("0004", "0008", None), _B: ("0000", "0018", _PHYS)},
+        "biological": {_A: ("0004", "0007", None), _B: ("0004", "0007", None)},
+        "priority_substances": {_A: ("0004", "0009", None), _B: ("0004", "0009", None)},
+    },
+    # protected zones mix data kinds per zone: data_type only selects groups
+    "protected": {
+        "physico_chemical": {_A: ("0006", None, _PHYS), _B: ("0006", "0014", _PHYS)},
+        "biological": {_A: ("0006", None, _BIO)},
+        "priority_substances": {_A: ("0006", None, _PRIO)},
+        "hydromorphological": {_A: ("0006", None, _HYDRO)},
+    },
+}
+WATER_SOURCE_ALIASES = {
+    "rivers": "river", "riu": "river", "rius": "river",
+    "reservoirs": "reservoir", "embassament": "reservoir", "embassaments": "reservoir",
+    "aigues subterranies": "groundwater", "subterranies": "groundwater",
+    "lake": "lakes_and_wetlands", "lakes": "lakes_and_wetlands",
+    "wetlands": "lakes_and_wetlands", "estanys": "lakes_and_wetlands",
+    "estanys i zones humides": "lakes_and_wetlands", "zones humides": "lakes_and_wetlands",
+    "coastal_waters": "coastal", "costaneres": "coastal",
+    "aigues costaneres": "coastal", "aigues costaneres i badies": "coastal",
+    "protected_areas": "protected", "protected_zones": "protected",
+    "zones protegides": "protected",
+}
+DATA_TYPE_ALIASES = {
+    "physicochemical": "physico_chemical", "phys_chem": "physico_chemical",
+    "physical_chemical": "physico_chemical", "fisicoquimics": "physico_chemical",
+    "fisicoquimic": "physico_chemical", "elements fisicoquimics": "physico_chemical",
+    "bio": "biological", "biology": "biological", "biologic": "biological", "biologics": "biological",
+    "biological_indices": "biological", "indexs biologics": "biological",
+    "elements biologics": "biological",
+    "priority": "priority_substances", "metals": "priority_substances",
+    "substancies prioritaries": "priority_substances",
+    "substancies prioritaries i preferents": "priority_substances",
+    "hydromorphology": "hydromorphological", "hidromorfologics": "hydromorphological",
+    "elements hidromorfologics": "hydromorphological",
+    "flows": "flow", "cabal": "flow", "cabals": "flow",
+    "levels": "level", "nivell": "level", "nivells": "level",
+    "piezometric": "level", "nivells piezometrics": "level",
+    "volumes": "volume", "volum": "volume", "volums": "volume",
+}
+# protected_zone -> subnetwork of CONTROL ZONES PROTEGIDES (0006)
+PROTECTED_ZONES = {
+    "drinking_water": "0012", "river_reserves": "0013",
+    "nitrate_vulnerable": "0014", "eutrophication_sensitive": "0016",
+}
+PROTECTED_ZONE_ALIASES = {
+    "abastament": "drinking_water", "abastament urba": "drinking_water",
+    "reserves naturals fluvials": "river_reserves", "reserves fluvials": "river_reserves",
+    "zones vulnerables": "nitrate_vulnerable", "nitrate": "nitrate_vulnerable",
+    "zones sensibles": "eutrophication_sensitive", "eutrophication": "eutrophication_sensitive",
+}
+
+# area_type -> spatial flavor (SDIM's "Àmbit" menu); "catalunya" = no filter
+AREA_TYPES = {
+    "catalunya": None, "basin": "basins", "water_mass": "masses", "river": "rivers",
+    "reservoir": "reservoirs", "aquifer": "aquifers", "comarca": "comarcas",
+    "municipi": "municipis",
+}
+AREA_TYPE_ALIASES = {
+    "catalonia": "catalunya", "all": "catalunya",
+    "basins": "basin", "conca": "basin", "conques": "basin", "river_basin": "basin",
+    "water_masses": "water_mass", "massa": "water_mass", "masses": "water_mass",
+    "massa d'aigua": "water_mass", "masses d'aigua": "water_mass",
+    "rivers": "river", "riu": "river", "rius": "river",
+    "reservoirs": "reservoir", "embassament": "reservoir", "embassaments": "reservoir",
+    "aquifers": "aquifer",
+    "comarcas": "comarca", "comarques": "comarca",
+    "municipis": "municipi", "municipality": "municipi", "municipalities": "municipi",
+}
+
+
+def _key(value: str, aliases: dict[str, str]) -> str:
+    key = _norm(str(value)).strip().replace("-", "_")
+    key = aliases.get(key, aliases.get(key.replace("_", " "), key))
+    return key
+
+
+def data_sources(period: str | None = None):
+    """Table of every ``water_source`` / ``data_type`` pair and the SDIM
+    target it downloads, optionally for one period."""
+    import pandas as pd
+
+    rows = []
+    for source, types in DATA_SOURCES.items():
+        for dtype, per_period in types.items():
+            for per, (net, sub, groups) in per_period.items():
+                if period is None or per == period:
+                    rows.append({
+                        "water_source": source, "data_type": dtype, "period": per,
+                        "target_id": f"{per}:{net}:{sub}" if sub else f"{per}:{net}:*",
+                        "groups": ", ".join(groups) if groups else "",
+                    })
+    return pd.DataFrame(rows)
+
+
+def _source_target(cat: Catalog, water_source: str, data_type: str | None,
+                   period: str, protected_zone: str | None,
+                   parameters: list[str] | None) -> tuple[str, list[str] | None]:
+    """Target id and implied groups for a ``water_source`` / ``data_type``."""
+    source = _key(water_source, WATER_SOURCE_ALIASES)
+    if source not in DATA_SOURCES:
+        raise SDIMQueryError(
+            f"Unknown water_source {water_source!r}; use one of {sorted(DATA_SOURCES)}.")
+    types = DATA_SOURCES[source]
+    here = [t for t, per in types.items() if period in per]
+    if not here:
+        raise SDIMQueryError(f"SDIM has no {source!r} data for {period}.")
+
+    if data_type is not None:
+        dtype = _key(data_type, DATA_TYPE_ALIASES)
+        if dtype not in types:
+            raise SDIMQueryError(
+                f"{source!r} has no data_type {data_type!r}; use one of {sorted(types)}.")
+        if period not in types[dtype]:
+            raise SDIMQueryError(
+                f"SDIM has no {source!r} {dtype!r} data for {period}; it is only "
+                f"available for {', '.join(sorted(types[dtype]))}.")
+    elif parameters:
+        # the first data type whose target holds every requested parameter
+        codes = [resolve_parameter(cat, p, period) for p in parameters]
+        dtype = None
+        for t in here:
+            net, sub, _ = types[t][period]
+            tv = cat.variables_for(net, sub or PROTECTED_ZONES["drinking_water"], period=period)
+            if all((tv.v == c).any() for c in codes):
+                dtype = t
+                break
+        if dtype is None:
+            raise SDIMQueryError(
+                f"No {source!r} data type has all of {parameters!r} in {period}.")
+    else:
+        dtype = "physico_chemical" if "physico_chemical" in here else here[0]
+
+    net, sub, groups = types[dtype][period]
+    if source == "protected":
+        if protected_zone is not None:
+            zone = _key(protected_zone, PROTECTED_ZONE_ALIASES)
+            if zone not in PROTECTED_ZONES:
+                raise SDIMQueryError(
+                    f"Unknown protected_zone {protected_zone!r}; use one of "
+                    f"{sorted(PROTECTED_ZONES)}.")
+            sub = PROTECTED_ZONES[zone]
+        elif sub is None:
+            sub = PROTECTED_ZONES["drinking_water"]
+    elif protected_zone is not None:
+        raise SDIMQueryError("protected_zone only applies to water_source='protected'.")
+    target_id = f"{period}:{net}:{sub}"
+    if cat.target(target_id) is None:
+        raise SDIMQueryError(f"SDIM has no {source!r} {dtype!r} data in {target_id}.")
+    return target_id, groups
+
+
 # spatial flavor -> (csv table, payload field)
 SPATIAL_FLAVORS = {
     "rivers": ("rivers", "riuAmbit"),
@@ -159,6 +347,11 @@ def resolve_request(
     *,
     target: str | None = None,
     period: str = PERIOD_AFTER_2007,
+    water_source: str | None = None,
+    data_type: str | None = None,
+    protected_zone: str | None = None,
+    area_type: str | None = None,
+    areas: list[str] | None = None,
     water_type: str | None = None,
     networks: list[str] | None = None,
     subnetworks: list[str] | None = None,
@@ -182,6 +375,15 @@ def resolve_request(
 ) -> ResolvedRequest:
     """Resolve a semantic request into codes.
 
+    ``water_source`` (``river``, ``reservoir``, ``groundwater``,
+    ``lakes_and_wetlands``, ``coastal``, ``protected``) and ``data_type``
+    (``physico_chemical``, ``biological``, ``priority_substances``,
+    ``hydromorphological``, ``flow``, ``level``, ``volume``) pick the target as
+    SDIM's menus do; see :func:`data_sources`. ``area_type`` (``basin``,
+    ``water_mass``, ``river``, ``reservoir``, ``aquifer``, ``comarca``,
+    ``municipi`` or ``catalunya``) and ``areas`` are the spatial filter, an
+    alternative to ``rivers=``, ``comarcas=``, ...
+
     ``parameters``, spatial names (``rivers``, ...) and ``stations`` may be
     explicit codes or human-readable names. ``groups`` limits the series to
     variable groups or families by name (``"Índexs biològics"``,
@@ -191,6 +393,35 @@ def resolve_request(
     """
     if not start or not end:
         raise SDIMQueryError("start and end dates are required")
+    if water_source is not None:
+        if target is not None or water_type is not None:
+            raise SDIMQueryError("Pass water_source/data_type, water_type or target, not several.")
+        target, implied = _source_target(cat, water_source, data_type, period,
+                                         protected_zone, parameters)
+        if not groups and not variable_kinds:
+            groups = implied
+    elif data_type is not None or protected_zone is not None:
+        raise SDIMQueryError("data_type and protected_zone need a water_source.")
+    if area_type is not None:
+        kind = _key(area_type, AREA_TYPE_ALIASES)
+        if kind not in AREA_TYPES:
+            raise SDIMQueryError(
+                f"Unknown area_type {area_type!r}; use one of {sorted(AREA_TYPES)}.")
+        flavor = AREA_TYPES[kind]
+        if flavor is None:
+            if areas:
+                raise SDIMQueryError("area_type='catalunya' takes no areas.")
+        elif not areas:
+            raise SDIMQueryError(f"area_type={area_type!r} needs areas=[...] names or codes.")
+        else:
+            given_names = {"rivers": rivers, "basins": basins, "comarcas": comarcas,
+                           "municipis": municipis, "aquifers": aquifers,
+                           "masses": masses, "reservoirs": reservoirs}
+            merged = list(given_names[flavor] or []) + list(areas)
+            rivers, basins, comarcas, municipis, aquifers, masses, reservoirs = (
+                merged if f == flavor else given_names[f] for f in given_names)
+    elif areas:
+        raise SDIMQueryError("areas=[...] needs an area_type (comarca, basin, river, ...).")
     targets = cat.targets(period)
     if (water_type and _water_type_key(water_type) in _BIOLOGY_WATER_TYPES
             and not groups and not parameters and not variable_kinds):

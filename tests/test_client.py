@@ -231,7 +231,23 @@ def check_retries() -> None:
     assert aca.resets == 0
 
 
+def check_reservoir_fallback() -> None:
+    # SDIM's reservoir filter ignores volume gauges: match the series names
+    from sdim.resolver import resolve_request
+
+    aca = SDIM(metadata_dir=META)
+    res = resolve_request(aca.catalog, water_source="reservoir", data_type="volume",
+                          area_type="reservoir", areas=["Sau"],
+                          start="2020-01-01", end="2020-02-01")
+    out = aca._reservoir_series(res, lambda name: True)
+    assert list(out) == ["L08303-72-00001"], out
+    assert len(out["L08303-72-00001"]) == 3
+    assert aca._reservoir_series(res, lambda name: "Volum" in name) == {
+        "L08303-72-00001": ["4159510"]}
+
+
 def main() -> int:
+    check_reservoir_fallback()
     check_retries()
     check_split()
     check_context_and_provenance()

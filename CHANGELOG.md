@@ -35,6 +35,15 @@ All notable changes to pySDIM are documented here.
   fails are regenerated in a fresh session (`report_retries=`,
   `report_retry_wait=`).
 - `examples/tutorial.ipynb`: a notebook tutorial covering each data type.
+- `get_data()` arguments that follow SDIM's own menus: `water_source`
+  (`river`, `reservoir`, `groundwater`, `lakes_and_wetlands`, `coastal`,
+  `protected`), `data_type` (`physico_chemical`, `biological`,
+  `priority_substances`, `hydromorphological`, `flow`, `level`, `volume`),
+  `area_type` + `areas` (`basin`, `water_mass`, `river`, `reservoir`,
+  `aquifer`, `comarca`, `municipi`) and `protected_zone`; Catalan names are
+  accepted. `sdim.data_sources()` lists every source and data type. CLI flags
+  `--water-source`, `--data-type`, `--area-type`, `--area`,
+  `--protected-zone`. `water_type`, `rivers=`, `comarcas=`, ... still work.
 
 ### Changed
 
@@ -53,6 +62,11 @@ All notable changes to pySDIM are documented here.
   download, and openpyxl's "no default style" warning is silenced.
 
 ### Fixed
+
+- A reservoir filter on reservoir volumes or levels found no stations: SDIM
+  assigns only quality stations to reservoirs. Those series are now matched
+  by the reservoir name in the series name (`E06_Vilanova Sau_Sau_Volum
+  embassament`).
 
 - Spatial names (rivers, reservoirs, comarques, ...) were never filtered by
   period, so a pre-2007 request could silently use an after-2007-only code

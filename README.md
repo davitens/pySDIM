@@ -79,22 +79,23 @@ Dependencies: `requests`, `pandas`, `openpyxl`, `lxml`. Python ≥ 3.10.
 
 ### Minimal example
 
-The shortest working program — groundwater levels in comarca Baix Empordà, one
-year of data, nothing to configure:
+The shortest working program — biological indices of the rivers in comarca
+Baix Empordà:
 
 ```python
 from sdim import SDIM
 
 aca = SDIM()
 df = aca.get_data(
-    water_type="levels",
-    comarcas=["Baix Empordà"],
+    water_source="river",
+    data_type="biological",
+    area_type="comarca",
+    areas=["Baix Empordà"],
     start="2008-01-01",
-    end="2009-01-01",
+    end="2026-01-01",
 )["quality"]
 
-df.to_csv("data_example.csv")
-print(df[["date", "station_code", "value", "unit"]])
+df["variable"].unique()   # índex IPS, índex IBMWP, índex IMF, índex IBICAT-2010
 ```
 
 ### Tutorial
@@ -107,52 +108,75 @@ queries, raw exports, and provenance and saving.
 
 ### By name (recommended) — no internal codes
 
+`get_data()` asks the same questions as the SDIM web page:
+
+| argument | what it chooses | values |
+|---|---|---|
+| `water_source` | the control network | `river`, `reservoir`, `groundwater`, `lakes_and_wetlands`, `coastal`, `protected` |
+| `data_type` | the kind of data | `physico_chemical`, `biological`, `priority_substances`, `hydromorphological`, `flow`, `level`, `volume` |
+| `parameters` | specific variables; leave it out to get them all | names from `variables.csv` (`"nitrate"`, `"IBMWP"`, aliases `no3`, `ec`, …) |
+| `area_type` + `areas` | the "Àmbit" filter; leave it out for all of Catalonia | `basin`, `water_mass`, `river`, `reservoir`, `aquifer`, `comarca`, `municipi` (names or codes from the matching CSV) |
+| `start`, `end` | the date range | ISO dates; before 2007 add `period="before_2007"` |
+
 ```python
-from sdim import SDIM
-
-aca = SDIM()
-
 parsed = aca.get_data(
-    water_type="river",              # see targets.csv → "category" column
-    rivers=["Ter"],                  # see rivers.csv → "name" column
-    parameters=["nitrate", "phosphate"],  # see variables.csv → "v_name" column
-    start="2007-09-01",              # ISO date, must fall within the target's period
+    water_source="river",
+    data_type="physico_chemical",
+    parameters=["nitrate", "phosphate"],   # leave out for every parameter
+    area_type="river",
+    areas=["Ter"],
+    start="2007-09-01",
     end="2009-12-31",
-    comarcas=["Baix Empordà"],       # see comarcas.csv; or use basins, municipis, aquifers, ...
 )
 df = parsed["quality"]
 ```
 
-Valid values for each argument come from the metadata CSVs shipped with the
-package (see [Metadata CSVs](#metadata-csvs) below). For example, valid
-`water_type` values are the target categories in `targets.csv` (e.g. `"river"`,
-`"groundwater"`, `"levels"`, `"flow"`, `"volumes"`, `"river_biology"`), and
-valid river/comarca names are in `rivers.csv` / `comarcas.csv`.
+Which data types each source has (`sdim.data_sources()` prints this table,
+and `sdim targets` shows it too):
+
+| water_source | physico_chemical | biological | priority_substances | hydromorphological | flow | level | volume |
+|---|---|---|---|---|---|---|---|
+| `river` | ✓ | ✓ | ✓ | ✓ (after 2007) | ✓ | ✓ | |
+| `reservoir` | ✓ | ✓ | ✓ | | | | ✓ |
+| `groundwater` | ✓ | | ✓ | | | ✓ (piezometric) | |
+| `lakes_and_wetlands` | ✓ | ✓ | ✓ | ✓ | | | |
+| `coastal` | ✓ | ✓ | ✓ | | | | |
+| `protected` | ✓ | ✓ (after 2007) | ✓ (after 2007) | ✓ (after 2007) | | | |
 
 The client resolves everything from the metadata catalog: the target
 (`after_2007:0001:0022`), the river code (`riuAmbit=200`), the parameter
-`g/f/v` codes, and the matching stations/series automatically.
+`g/f/v` codes, and the matching stations/series.
 
-- `target="after_2007:0005:0011"` — pick an exact target (see below).
-- `stations=["F007528"]` — restrict to specific stations (series auto-selected
-  from the target).
+- Catalan names work for all three choices: `water_source="embassaments"`,
+  `data_type="biològics"`, `area_type="comarques"`, …
+- Without `data_type`, a request with `parameters` uses the source's data type
+  that has them (`water_source="river", parameters=["IBMWP"]` gives
+  biology); without either, it uses `physico_chemical`.
+- `water_source="protected"` takes `protected_zone=`: `drinking_water`
+  (default), `river_reserves`, `nitrate_vulnerable` or
+  `eutrophication_sensitive`.
+- `area_type="water_mass", areas=["Ter"]` matches every water body whose name
+  contains "Ter"; give a full name or a code to pick one.
+- `stations=["F007528"]` restricts to specific stations (series are
+  auto-selected from the target).
 - If too many stations match, an error asks you to add a spatial filter,
   explicit stations, or a higher `max_stations` (200 by default).
-- Parameter aliases work: `no3`, `ec`, `temp`, …
-- `groups=["Nutrients"]` — keep only the variables of a group or family
-  (`g_name` / `f_name` in `variables.csv`), instead of listing parameters.
-- `water_type` takes a named type (`sdim targets` lists them; Catalan names
-  such as `"cabals"` or `"estany"` work too) or any `targets.csv` category,
-  e.g. `"biological"`, `"metals"`, `"hydromorphological"`.
-- Before 2007 there is no lake network (`lake` and `lake_biology` raise a
-  clear error), and river and reservoir quality share one target: with
-  `period="before_2007"`, `water_type="reservoir"` selects it, and the rows
-  include river stations too. The pre-2007 catalog lists only one reservoir
-  name, so narrow with `comarcas=[...]` or `basins=[...]`. Use `"volumes"`
-  for reservoir volumes.
-- Spatial names are looked up in the request's period: a name catalogued only
-  after 2007 (most reservoirs, about 100 rivers) raises an error for
-  `period="before_2007"`.
+- `groups=["Invertebrats"]` keeps only the variables of a group or family
+  (`g_name` / `f_name` in `variables.csv`), e.g. IBMWP alone.
+- Before 2007 there is no lake network, and river and reservoir quality share
+  one target: `water_source="reservoir"` then returns river stations too, so
+  filter with `area_type="comarca"` or `"basin"`. Spatial names are looked up
+  in the request's period: a name catalogued only after 2007 (most reservoirs,
+  about 100 rivers) raises an error for `period="before_2007"`.
+
+**Shorter forms.** The older arguments still work and can be mixed in:
+`rivers=["Ter"]`, `comarcas=[...]`, `basins=`, `municipis=`, `aquifers=`,
+`masses=`, `reservoirs=` are the same as `area_type` + `areas`;
+`water_type="river_biology"` is a single name for a source and data type
+(`river`, `river_biology`, `groundwater`, `levels`, `flow`, `volumes`,
+`reservoir`, `reservoir_biology`, `lake`, `lake_biology`, `coastal`,
+`coastal_biology`, `protected`, or a `targets.csv` category); and
+`target="after_2007:0005:0011"` picks an exact target (see below).
 
 ### Large requests
 
@@ -209,35 +233,25 @@ a citation. `result.save("out/ter")` writes `out/ter_quality.csv`,
 
 ### Biological indices
 
-Without `parameters`, `water_type="river"` downloads the physico-chemical
-target. Biological indices (IPS, IBMWP, IMF, IBICAT-2010, …) live in separate
-"Elements biològics" targets, selected with a `*_biology` water type:
+Biological indices (IPS, IBMWP, IMF, IBICAT-2010, …) are `data_type="biological"`.
+SDIM keeps them in separate "Elements biològics" targets, so a request without
+`data_type` (physico-chemical by default) does not include them.
 
-```python
-df = aca.get_data(
-    water_type="river_biology",      # or lake_ / reservoir_ / coastal_biology
-    comarcas=["Baix Empordà"],
-    start="2008-01-01",
-    end="2026-01-01",
-)["quality"]
-df["variable"].unique()              # índex IPS, índex IBMWP, índex IMF, ...
-```
-
-| water_type | target (after 2007) | indices |
+| water_source | target (after 2007) | indices |
 |---|---|---|
-| `river_biology` | `after_2007:0001:0001` | IPS (diatoms), IBMWP (invertebrates), IMF (macrophytes), IBICAT-2010 (fish), chlorophyll a |
-| `lake_biology` | `after_2007:0003:0005` | InClo, InGA, ACCO-2010, EQATg, InMacro, QAELS-e-2010, RIC, InMac, … |
-| `reservoir_biology` | `after_2007:0002:0003` | chlorophyll a, % cyanobacteria |
-| `coastal_biology` | `after_2007:0004:0007` | POMI, CYMOX, CARLIT, MEDOCC (EQR) |
+| `river` | `after_2007:0001:0001` | IPS (diatoms), IBMWP (invertebrates), IMF (macrophytes), IBICAT-2010 (fish), chlorophyll a |
+| `lakes_and_wetlands` | `after_2007:0003:0005` | InClo, InGA, ACCO-2010, EQATg, InMacro, QAELS-e-2010, RIC, InMac, … |
+| `reservoir` | `after_2007:0002:0003` | chlorophyll a, % cyanobacteria |
+| `coastal` | `after_2007:0004:0007` | POMI, CYMOX, CARLIT, MEDOCC (EQR) |
 
 Narrow to one biological element with `groups` (e.g. `groups=["Invertebrats"]`
 for IBMWP only) or name indices directly (`parameters=["IBMWP", "IPS"]`).
-With `period="before_2007"`, `river_biology` selects the index series (BMWPC,
+With `period="before_2007"`, river biology is the index series (BMWPC,
 chlorophyll) of the pre-2007 river target, which also holds phys-chem data.
 
 > **Known issue:** reservoir and coastal quality reports (biological and
-> physico-chemical) currently come back with headers but no rows; only river
-> and lake biology are verified live.
+> physico-chemical) currently come back from SDIM with headers but no rows;
+> river biology is verified live (October 2026), lake biology is patchy.
 
 ### By code (explicit)
 
@@ -263,18 +277,21 @@ Use `SDIM.download(..., output="report.xlsx")` to keep the raw file instead.
 ### Command line
 
 ```bash
-sdim download --water-type river --river Ter \
+sdim download --water-source river --data-type physico_chemical \
+    --area-type river --area Ter \
     --parameter nitrate --parameter phosphate \
     --start 2007-09-01 --end 2009-12-31 -o ter.xls
 
-sdim download --water-type river_biology --comarca "Baix Empordà" \
-    --group Invertebrats --start 2008-01-01 --end 2026-01-01 -o ibmwp.xls
+sdim download --water-source river --data-type biological \
+    --area-type comarca --area "Baix Empordà" --group Invertebrats \
+    --start 2008-01-01 --end 2026-01-01 -o ibmwp.xls
 
 # parse, split if needed, and save CSVs + provenance JSON
-sdim get --water-type river_biology --comarca "Baix Empordà" \
+sdim get --water-source river --data-type biological \
+    --area-type comarca --area "Baix Empordà" \
     --start 2008-01-01 --end 2026-01-01 -o out/baix_emporda_bio
 
-sdim targets --category biological      # targets and water types
+sdim targets --category biological      # targets, water sources and data types
 sdim describe after_2007:0001:0001      # groups, families and variables of a target
 ```
 

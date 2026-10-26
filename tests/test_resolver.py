@@ -10,7 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from sdim.catalog import Catalog
 from sdim.exceptions import SDIMQueryError
-from sdim.resolver import WATER_TYPES, resolve_parameter, resolve_request
+from sdim.resolver import WATER_TYPES, data_sources, resolve_parameter, resolve_request
 
 META = Path(__file__).resolve().parent.parent / "metadata"
 cat = Catalog(META)
@@ -169,6 +169,45 @@ def main() -> int:
     r = resolve_request(cat, period="before_2007", water_type="volumes",
                         start="2000-01-01", end="2006-12-31")
     assert r.target_id == "before_2007:0002:0302"
+
+    # water_source / data_type / area_type, as in SDIM's own menus
+    d = dict(start="2008-01-01", end="2026-01-01")
+    r = resolve_request(cat, water_source="river", data_type="biological",
+                        area_type="comarca", areas=["Baix Empordà"], **d)
+    assert r.target_id == "after_2007:0001:0001" and r.spatial == {"comarcaAmbit": ["10"]}
+    assert resolve_request(cat, water_source="embassaments", data_type="biologics",
+                           **d).target_id == "after_2007:0002:0003"
+    assert resolve_request(cat, water_source="river", **d).target_id == "after_2007:0001:0022"
+    # no data_type: the source's data type that holds the parameters
+    assert resolve_request(cat, water_source="river", parameters=["IBMWP"],
+                           **d).target_id == "after_2007:0001:0001"
+    r = resolve_request(cat, water_source="groundwater", data_type="priority_substances", **d)
+    assert r.target_id == "after_2007:0005:0010" and ("v", "0016") not in r.variable_kinds
+    r = resolve_request(cat, water_source="protected", data_type="physico_chemical",
+                        protected_zone="zones vulnerables", **d)
+    assert r.target_id == "after_2007:0006:0014"
+    for kind, field in [("basin", "concaAmbit"), ("river", "riuAmbit"),
+                        ("water_mass", "massaAmbit"), ("municipi", "municipiAmbit")]:
+        r = resolve_request(cat, water_source="river", area_type=kind,
+                            areas=["Girona" if kind == "municipi" else "Ter"], **d)
+        assert list(r.spatial) == [field], (kind, r.spatial)
+    assert resolve_request(cat, water_source="reservoir", data_type="volume",
+                           area_type="reservoir", areas=["Sau"],
+                           **d).spatial == {"embassamentAmbit": ["47"]}
+    assert resolve_request(cat, water_source="river", data_type="biological",
+                           period="before_2007", start="1990-01-01",
+                           end="2006-12-31").target_id == "before_2007:0000:0017"
+    for bad in [dict(water_source="river", data_type="volume"),
+                dict(water_source="lakes_and_wetlands", period="before_2007"),
+                dict(water_source="river", area_type="comarca"),
+                dict(water_source="river", areas=["Osona"]),
+                dict(water_source="river", water_type="river"),
+                dict(data_type="biological")]:
+        assert _raises(resolve_request, cat, **{**d, **bad}), bad
+    # every source/data type points at a target that exists
+    for _, row in data_sources().iterrows():
+        if not row.target_id.endswith("*"):
+            assert cat.target(row.target_id) is not None, row.to_dict()
 
     print("OK: resolver tests passed")
     return 0

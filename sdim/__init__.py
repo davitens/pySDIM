@@ -14,6 +14,7 @@ from .exceptions import (
     SDIMWarning,
 )
 from .query import PERIOD_AFTER_2007, PERIOD_BEFORE_2007, Query
+from .resolver import data_sources
 from .result import SDIMResult
 from .session import SDIMSession
 
@@ -23,6 +24,7 @@ __all__ = [
     "Catalog",
     "Query",
     "SDIMResult",
+    "data_sources",
     "PERIOD_AFTER_2007",
     "PERIOD_BEFORE_2007",
     "SDIMError",
