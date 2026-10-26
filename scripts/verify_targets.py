@@ -18,6 +18,7 @@ sys.path.insert(0, str(ROOT))
 import pandas as pd
 
 from sdim import Query, SDIM
+from sdim.exceptions import SDIMNoData
 
 META = ROOT / "metadata"
 
@@ -95,14 +96,11 @@ def verify_one(aca: SDIM, target, label: str, show_sample: bool = False) -> dict
                     sample = (name, list(df.columns),
                               df.head(2).to_dict("records"))
                     break
-        if not any(len(df) for df in parsed.values()):
-            status = "no rows"
-        elif blank:
-            status = f"station_code empty in {blank}"
-        else:
-            status = "ok"
+        status = f"station_code empty in {blank}" if blank else "ok"
         return {"status": status, "station": station, "varid": varid,
                 "sheets": sheets, "sample": sample}
+    except SDIMNoData:
+        return {"status": "no rows", "station": station, "varid": varid, "sample": None}
     except Exception as exc:  # noqa: BLE001
         return {"status": f"{type(exc).__name__}: {exc}", "station": station,
                 "varid": varid, "sample": None}

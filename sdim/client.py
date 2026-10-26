@@ -297,7 +297,8 @@ class SDIM:
         concatenate the parts. ``station_context``: add catalog station ids,
         names and target names. ``validate_output``: raise
         :class:`~sdim.exceptions.SDIMParseError` on broken parses and warn
-        on empty or partly unresolved reports.
+        on partly unresolved reports. A report without data rows always
+        raises :class:`~sdim.exceptions.SDIMNoData`.
         """
         if query is None:
             query = self._build_query(kw)
@@ -312,6 +313,9 @@ class SDIM:
                 sheets[name] = pd.concat(frames, ignore_index=True)
             elif any(name in p for p in parts):
                 sheets[name] = pd.DataFrame()
+        # SDIM often answers 200 with a header-only export instead of its 201
+        if not any(len(df) for df in sheets.values()):
+            raise SDIMNoData("SDIM generated the report but it contains no data rows.")
         if station_context:
             sheets = {k: add_station_context(df, self.catalog, query)
                       for k, df in sheets.items()}

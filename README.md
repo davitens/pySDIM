@@ -221,9 +221,10 @@ Columns SDIM adds in the future are kept under their export header. Pass
 
 **Checks.** If a sheet has rows but its date, station, variable or value column
 is empty throughout, `get_data()` raises `SDIMParseError` (the export layout
-changed). It warns with `SDIMWarning` when a report has no rows, when dates
-fail to parse, or when stations are missing from the metadata catalog.
-`validate_output=False` turns the checks off.
+changed). It warns with `SDIMWarning` when dates fail to parse or when
+stations are missing from the metadata catalog; `validate_output=False` turns
+these checks off. A report with no data rows always raises `SDIMNoData`, also
+when SDIM sends a header-only export instead of its "no records" status.
 
 **Provenance.** `result.provenance` (also in each DataFrame's
 `attrs["provenance"]`) records the source, URL, access time (UTC), target,
@@ -249,9 +250,12 @@ for IBMWP only) or name indices directly (`parameters=["IBMWP", "IPS"]`).
 With `period="before_2007"`, river biology is the index series (BMWPC,
 chlorophyll) of the pre-2007 river target, which also holds phys-chem data.
 
-> **Known issue:** reservoir and coastal quality reports (biological and
-> physico-chemical) currently come back from SDIM with headers but no rows;
-> river biology is verified live (October 2026), lake biology is patchy.
+> **Known issue (server-side):** SDIM currently exports no rows for reservoir
+> and coastal quality targets (biological and physico-chemical), so these
+> requests raise `SDIMNoData`. The SDIM web application returns the same empty
+> report for the same selection (its PDF export says "No hi ha registres"), so
+> pySDIM cannot work around it. River biology is verified live (October 2026);
+> lake biology is patchy.
 
 ### By code (explicit)
 

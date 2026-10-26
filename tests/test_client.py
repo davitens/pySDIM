@@ -193,6 +193,20 @@ def check_validation() -> None:
     except SDIMNoData:
         pass
 
+    # SDIM answering 200 with a header-only export -> SDIMNoData too, checks or not
+    class HeaderOnly(FakeSDIM):
+        def _generate(self, query: Query) -> int:
+            super()._generate(query)
+            return _STAT_200
+
+    for validate_output in (True, False):
+        try:
+            HeaderOnly().get_data(_query(stations={"F007569": ["1"]}, start="2010-01-02",
+                                         end="2010-01-05"), validate_output=validate_output)
+            raise AssertionError("expected SDIMNoData for a header-only export")
+        except SDIMNoData:
+            pass
+
 
 def check_retries() -> None:
     # a refused export regenerates the report in a fresh session

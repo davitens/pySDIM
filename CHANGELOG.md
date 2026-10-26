@@ -22,8 +22,10 @@ All notable changes to pySDIM are documented here.
   `target_id`, `network`, `network_name`, `subnetwork`, `subnetwork_name`
   (`station_context=False` skips it).
 - Output checks: `SDIMParseError` when a key column parses empty, and
-  `SDIMWarning` for empty reports, bad dates or uncatalogued stations
+  `SDIMWarning` for bad dates or uncatalogued stations
   (`validate_output=False` skips them).
+- `get_data()` raises `SDIMNoData` for header-only exports too: SDIM often
+  answers 200 with an empty report instead of its "no records" status.
 - Quality columns that were dropped: `depth_m`, `well_depth_m`,
   `piezometric_level_masl`; unknown export columns are kept by header name.
 - CLI commands `sdim get` (parsed CSVs + provenance JSON), `sdim targets` and
