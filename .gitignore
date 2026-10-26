@@ -22,3 +22,5 @@ examples/*.csv
 downloads/*.csv
 downloads/__pycache__/
 downloads/.station_cache.json
+examples/tutorial_raw.xlsx
+examples/tutorial_output/

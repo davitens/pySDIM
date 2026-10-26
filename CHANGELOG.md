@@ -34,6 +34,7 @@ All notable changes to pySDIM are documented here.
   (`retries=`, `backoff=`), and reports whose generation or export still
   fails are regenerated in a fresh session (`report_retries=`,
   `report_retry_wait=`).
+- `examples/tutorial.ipynb`: a notebook tutorial covering each data type.
 
 ### Changed
 

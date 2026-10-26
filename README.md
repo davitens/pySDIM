@@ -97,6 +97,14 @@ df.to_csv("data_example.csv")
 print(df[["date", "station_code", "value", "unit"]])
 ```
 
+### Tutorial
+
+[`examples/tutorial.ipynb`](examples/tutorial.ipynb) is a Jupyter notebook,
+run against live SDIM, that walks through every kind of data: river
+phys-chem, biological indices, flows and river levels, groundwater quality and
+piezometric levels, reservoir volumes, protected zones, pre-2007 data, explicit
+queries, raw exports, and provenance and saving.
+
 ### By name (recommended) — no internal codes
 
 ```python
