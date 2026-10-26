@@ -9,7 +9,7 @@ import pandas as pd
 
 from . import __version__
 from .catalog import _FLAVORS
-from .client import SDIM
+from .client import DEFAULT_MAX_REQUESTS, DEFAULT_MAX_STATIONS, SDIM
 from .exceptions import SDIMError
 from .query import Query
 
@@ -30,7 +30,7 @@ def _add_query_args(parser: argparse.ArgumentParser) -> None:
     parser.add_argument("--end", required=True)
 
 
-def cmd_download(args: argparse.Namespace) -> int:
+def _sdim_kwargs(args: argparse.Namespace) -> dict:
     # semantic (name-level) path
     kinds = [(k.partition("=")[0], k.partition("=")[2]) for k in args.kind]
     stations = _parse_stations(args.station)
@@ -40,7 +40,8 @@ def cmd_download(args: argparse.Namespace) -> int:
         spatial_codes.setdefault(name, []).append(value)
     semantics = {
         "target": args.target, "period": args.period, "water_type": args.water_type,
-        "parameters": args.parameter or None, "rivers": args.river_name or None,
+        "parameters": args.parameter or None, "groups": args.group or None,
+        "rivers": args.river_name or None,
         "basins": args.basin or None, "comarcas": args.comarca or None,
         "municipis": args.municipi or None, "aquifers": args.aquifer or None,
         "masses": args.mass or None, "reservoirs": args.reservoir or None,
@@ -49,8 +50,11 @@ def cmd_download(args: argparse.Namespace) -> int:
         "ambit": args.ambit, "spatial_codes": spatial_codes or None,
         "start": args.start, "end": args.end, "max_stations": args.max_stations,
     }
-    sdim_kwargs = {k: v for k, v in semantics.items()
-                   if v not in (None, [], False, {})}
+    return {k: v for k, v in semantics.items() if v not in (None, [], False, {})}
+
+
+def cmd_download(args: argparse.Namespace) -> int:
+    sdim_kwargs = _sdim_kwargs(args)
     output = args.output
     aca = SDIM()
     try:
@@ -67,6 +71,58 @@ def cmd_download(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_get(args: argparse.Namespace) -> int:
+    aca = SDIM()
+    try:
+        result = aca.get_data(split=not args.no_split, max_requests=args.max_requests,
+                              **_sdim_kwargs(args))
+    except SDIMError as exc:
+        print(f"error: {exc}", file=sys.stderr)
+        return 1
+    finally:
+        aca.close()
+    for name, df in result.items():
+        print(f"{name}: {len(df)} rows")
+    for path in result.save(args.output):
+        print(f"wrote {path}")
+    return 0
+
+
+def cmd_targets(args: argparse.Namespace) -> int:
+    from .catalog import Catalog
+    from .resolver import water_types
+
+    df = Catalog().targets(args.period)
+    if args.category:
+        df = df[df.category.str.contains(args.category, case=False, regex=False)]
+    cols = ["id", "network_name", "subnetwork_name", "category", "station_count", "series_count"]
+    with pd.option_context("display.max_rows", None, "display.width", 250,
+                           "display.max_colwidth", 50):
+        print(df[cols].to_string(index=False))
+    print()
+    print("water types:", ", ".join(water_types(args.period)))
+    return 0
+
+
+def cmd_describe(args: argparse.Namespace) -> int:
+    from .catalog import Catalog
+
+    cat = Catalog()
+    row = cat.target(args.target)
+    if row is None:
+        print(f"error: unknown target {args.target!r}; see `sdim targets`", file=sys.stderr)
+        return 1
+    print(f"{row['id']}: {row['network_name']} / {row['subnetwork_name']}")
+    print(f"category: {row['category']}")
+    print(f"stations: {row['station_count']}, series: {row['series_count']}")
+    tv = cat.variables_for(row["network"], row["subnetwork"], period=row["period"])
+    for (g_name, f_name), part in tv.groupby(["g_name", "f_name"], sort=True):
+        names = ", ".join(part.v_name.tolist()[:args.limit])
+        more = f" (+{len(part) - args.limit} more)" if len(part) > args.limit else ""
+        print(f"  {g_name} > {f_name}: {names}{more}")
+    return 0
+
+
 def _parse_stations(specs: list[str]) -> dict[str, list[str]]:
     stations = {}
     for spec in specs:
@@ -77,9 +133,14 @@ def _parse_stations(specs: list[str]) -> dict[str, list[str]]:
 
 def _add_semantic_args(parser: argparse.ArgumentParser) -> None:
     parser.add_argument("--target", help="explicit target id, e.g. after_2007:0005:0011")
-    parser.add_argument("--water-type", help="river | groundwater | levels | flow | volumes | ...")
+    parser.add_argument("--water-type",
+                        help="river | groundwater | levels | flow | volumes | "
+                             "river_biology | lake_biology | ...")
     parser.add_argument("--parameter", action="append", default=[],
                         help="parameter name (nitrate, phosphate, ec, ...) — repeatable")
+    parser.add_argument("--group", action="append", default=[],
+                        help="variable group or family name (\"Índexs biològics\", "
+                             "Invertebrats, Nutrients, ...) — repeatable")
     parser.add_argument("--river", dest="river_name", action="append", default=[],
                         help="river name (Ter, Llobregat, ...) — repeatable")
     parser.add_argument("--basin", action="append", default=[])
@@ -88,7 +149,7 @@ def _add_semantic_args(parser: argparse.ArgumentParser) -> None:
     parser.add_argument("--aquifer", action="append", default=[])
     parser.add_argument("--mass", action="append", default=[])
     parser.add_argument("--reservoir", action="append", default=[])
-    parser.add_argument("--max-stations", type=int, default=200)
+    parser.add_argument("--max-stations", type=int, default=DEFAULT_MAX_STATIONS)
 
 
 def cmd_search(args: argparse.Namespace) -> int:
@@ -116,6 +177,26 @@ def main(argv=None) -> int:
     _add_semantic_args(dl)
     dl.add_argument("--output", "-o")
     dl.set_defaults(func=cmd_download)
+
+    gt = sub.add_parser("get", help="download, parse and save CSVs plus provenance")
+    _add_query_args(gt)
+    _add_semantic_args(gt)
+    gt.add_argument("--output", "-o", required=True,
+                    help="file prefix: writes <prefix>_quality.csv, ..., <prefix>_provenance.json")
+    gt.add_argument("--no-split", action="store_true",
+                    help="fail instead of splitting reports SDIM refuses as too large")
+    gt.add_argument("--max-requests", type=int, default=DEFAULT_MAX_REQUESTS)
+    gt.set_defaults(func=cmd_get)
+
+    tg = sub.add_parser("targets", help="list downloadable targets and water types")
+    tg.add_argument("--period", default=None)
+    tg.add_argument("--category", default=None, help="e.g. biological, quantity, metals")
+    tg.set_defaults(func=cmd_targets)
+
+    ds = sub.add_parser("describe", help="show a target's variable groups and families")
+    ds.add_argument("target", help="target id, e.g. after_2007:0001:0001")
+    ds.add_argument("--limit", type=int, default=8, help="variables shown per family")
+    ds.set_defaults(func=cmd_describe)
 
     sr = sub.add_parser("search", help="search metadata tables (rivers, variables, ...)")
     sr.add_argument("term", help="substring to search in element names")

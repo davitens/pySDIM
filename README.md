@@ -30,8 +30,12 @@ DataFrames ready for analysis.
 - Authenticates automatically (no browser cookies or manual login).
 - Navigates the multi-step form flow (network → spatial filter → parameters →
   date range → export) using the same HTTP endpoints the web UI calls.
-- Parses the exported XLSX into a pandas DataFrame with date, station, value,
-  quality flags, and metadata columns.
+- Parses the exported XLSX into typed pandas DataFrames (datetime dates, float
+  values and coordinates) with catalog station names, quality flags, and the
+  provenance you need to cite the data.
+- Splits requests that SDIM refuses as too large and joins the parts.
+- Checks the parsed output, so a change in SDIM's export layout raises an error
+  instead of returning empty columns.
 - Resolves human-readable names (e.g. `"Baix Empordà"`, `"nitrate"`) to
   internal SDIM codes via a local metadata catalog, so you never need to
   figure out network IDs, subnetwork codes, or variable taxonomy yourself.
@@ -114,8 +118,8 @@ df = parsed["quality"]
 Valid values for each argument come from the metadata CSVs shipped with the
 package (see [Metadata CSVs](#metadata-csvs) below). For example, valid
 `water_type` values are the target categories in `targets.csv` (e.g. `"river"`,
-`"groundwater"`, `"levels"`, `"flow"`, `"volumes"`), and valid river/comarca
-names are in `rivers.csv` / `comarcas.csv`.
+`"groundwater"`, `"levels"`, `"flow"`, `"volumes"`, `"river_biology"`), and
+valid river/comarca names are in `rivers.csv` / `comarcas.csv`.
 
 The client resolves everything from the metadata catalog: the target
 (`after_2007:0001:0022`), the river code (`riuAmbit=200`), the parameter
@@ -124,9 +128,89 @@ The client resolves everything from the metadata catalog: the target
 - `target="after_2007:0005:0011"` — pick an exact target (see below).
 - `stations=["F007528"]` — restrict to specific stations (series auto-selected
   from the target).
-- If too many stations match, an error asks you to add a spatial filter or
-  explicit stations (`max_stations=200` by default).
+- If too many stations match, an error asks you to add a spatial filter,
+  explicit stations, or a higher `max_stations` (200 by default).
 - Parameter aliases work: `no3`, `ec`, `temp`, …
+- `groups=["Nutrients"]` — keep only the variables of a group or family
+  (`g_name` / `f_name` in `variables.csv`), instead of listing parameters.
+- `water_type` takes a named type (`sdim targets` lists them; Catalan names
+  such as `"cabals"` or `"estany"` work too) or any `targets.csv` category,
+  e.g. `"biological"`, `"metals"`, `"hydromorphological"`.
+
+### Large requests
+
+SDIM refuses reports above its record limit. `get_data()` then splits the
+request, first by stations and then by date range, and joins the parts. Turn
+this off with `split=False`, or cap the number of reports with
+`max_requests` (64 by default); `result.provenance["requests"]` tells you how
+many were needed. Splitting sends more requests to a public service, so keep
+large jobs reasonable. `download()` returns a single raw file and cannot split.
+
+### What you get back
+
+`get_data()` returns an `SDIMResult`. It is a dict, so `result["quality"]` and
+`result["quantity"]` work as before, with `result.quality`,
+`result.quantity` and `result.provenance` as shortcuts.
+
+| column | sheet | notes |
+|---|---|---|
+| `date` | both | `datetime64` |
+| `station_code` | both | the code in the export (`200046000`; for quantity the series prefix, `EA010`) |
+| `station_id`, `station_name` | both | catalog station (`F007569`) and name, from `stations` / `station_variables` |
+| `target_id`, `network`, `network_name`, `subnetwork`, `subnetwork_name` | both | the target the rows came from |
+| `mass_code`, `mass_name` | quality | water body |
+| `basin` | quantity | |
+| `variable`, `unit` | both | |
+| `utm_x`, `utm_y` | both | UTM coordinates as exported, as floats |
+| `value_raw`, `value`, `qualifier` | both | `value_raw` keeps the text, so `<0.01` gives `value=0.01, qualifier="<"` |
+| `depth_m`, `well_depth_m`, `piezometric_level_masl` | quality | sample depth, well depth and piezometric level when the export has them |
+
+Columns SDIM adds in the future are kept under their export header. Pass
+`station_context=False` to skip the catalog join.
+
+**Checks.** If a sheet has rows but its date, station, variable or value column
+is empty throughout, `get_data()` raises `SDIMParseError` (the export layout
+changed). It warns with `SDIMWarning` when a report has no rows, when dates
+fail to parse, or when stations are missing from the metadata catalog.
+`validate_output=False` turns the checks off.
+
+**Provenance.** `result.provenance` (also in each DataFrame's
+`attrs["provenance"]`) records the source, URL, access time (UTC), target,
+period, date range, number of stations and requests, the pySDIM version and
+a citation. `result.save("out/ter")` writes `out/ter_quality.csv`,
+`out/ter_quantity.csv` (non-empty sheets only) and `out/ter_provenance.json`.
+
+### Biological indices
+
+Without `parameters`, `water_type="river"` downloads the physico-chemical
+target. Biological indices (IPS, IBMWP, IMF, IBICAT-2010, …) live in separate
+"Elements biològics" targets, selected with a `*_biology` water type:
+
+```python
+df = aca.get_data(
+    water_type="river_biology",      # or lake_ / reservoir_ / coastal_biology
+    comarcas=["Baix Empordà"],
+    start="2008-01-01",
+    end="2026-01-01",
+)["quality"]
+df["variable"].unique()              # índex IPS, índex IBMWP, índex IMF, ...
+```
+
+| water_type | target (after 2007) | indices |
+|---|---|---|
+| `river_biology` | `after_2007:0001:0001` | IPS (diatoms), IBMWP (invertebrates), IMF (macrophytes), IBICAT-2010 (fish), chlorophyll a |
+| `lake_biology` | `after_2007:0003:0005` | InClo, InGA, ACCO-2010, EQATg, InMacro, QAELS-e-2010, RIC, InMac, … |
+| `reservoir_biology` | `after_2007:0002:0003` | chlorophyll a, % cyanobacteria |
+| `coastal_biology` | `after_2007:0004:0007` | POMI, CYMOX, CARLIT, MEDOCC (EQR) |
+
+Narrow to one biological element with `groups` (e.g. `groups=["Invertebrats"]`
+for IBMWP only) or name indices directly (`parameters=["IBMWP", "IPS"]`).
+With `period="before_2007"`, `river_biology` selects the index series (BMWPC,
+chlorophyll) of the pre-2007 river target, which also holds phys-chem data.
+
+> **Known issue:** reservoir and coastal quality reports (biological and
+> physico-chemical) currently come back with headers but no rows; only river
+> and lake biology are verified live.
 
 ### By code (explicit)
 
@@ -155,7 +239,19 @@ Use `SDIM.download(..., output="report.xlsx")` to keep the raw file instead.
 sdim download --water-type river --river Ter \
     --parameter nitrate --parameter phosphate \
     --start 2007-09-01 --end 2009-12-31 -o ter.xls
+
+sdim download --water-type river_biology --comarca "Baix Empordà" \
+    --group Invertebrats --start 2008-01-01 --end 2026-01-01 -o ibmwp.xls
+
+# parse, split if needed, and save CSVs + provenance JSON
+sdim get --water-type river_biology --comarca "Baix Empordà" \
+    --start 2008-01-01 --end 2026-01-01 -o out/baix_emporda_bio
+
+sdim targets --category biological      # targets and water types
+sdim describe after_2007:0001:0001      # groups, families and variables of a target
 ```
+
+`download` writes the raw SDIM file; `get` writes the parsed result.
 
 ## Frequently asked questions
 
@@ -174,9 +270,10 @@ or `Fluvià`, and pass it to `SDIM.get_data()` or the `sdim download` command.
 
 ### What format does pySDIM return?
 
-`get_data()` returns parsed pandas DataFrames. Raw ACA Excel exports can be
-kept with `SDIM.download(..., output="report.xlsx")`, and the command-line
-examples can write an output file for further analysis.
+`get_data()` returns an `SDIMResult` of typed pandas DataFrames plus
+provenance (see [What you get back](#what-you-get-back)); `result.save(...)`
+or `sdim get` writes them as CSV with a provenance JSON. Raw ACA Excel exports
+can be kept with `SDIM.download(..., output="report.xlsx")` or `sdim download`.
 
 ### Is this an official ACA project?
 
@@ -220,6 +317,8 @@ files under `metadata/station_variables/`.
 | `after_2007:0002:0302` | reservoir volumes (Volums) | 13 | 36 |
 | `before_2007:0000:0019` | pre-2007 groundwater quality | 2079 | 56 032 |
 | `before_2007:0005:0011` | pre-2007 groundwater levels | 363 | 396 |
+| `after_2007:0001:0001` | river biological indices | 408 | 1 391 |
+| `after_2007:0003:0005` | lake and wetland biological indices | 81 | 503 |
 
 ```python
 cat = Catalog("metadata")

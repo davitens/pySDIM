@@ -23,39 +23,38 @@ ALIASES = {
     "oxygen": "oxigen dissolt", "ph": "ph",
 }
 
-# semantic water-type -> candidate networks (period-specific)
-_NETS_AFTER = {
-    "river": ["0001"], "groundwater": ["0005"], "reservoir": ["0002"],
-    "embassament": ["0002"], "lake": ["0003"], "estany": ["0003"],
-    "zones humides": ["0003"], "coastal": ["0004"], "costanera": ["0004"],
-    "protected": ["0006"], "zones protegides": ["0006"],
-    "flow": ["0001"], "cabals": ["0001"], "levels": ["0005"],
+# water_type -> period -> (candidate networks, default (network, subnetwork)).
+# The default pins the target when parameters/groups do not; None means "pick
+# the smallest candidate that has them". Any category in targets.csv
+# ("biological", "metals", "quantity", ...) also works as a water_type.
+_A, _B = PERIOD_AFTER_2007, PERIOD_BEFORE_2007
+WATER_TYPES: dict[str, dict[str, tuple[list[str], tuple[str, str] | None]]] = {
+    "river": {_A: (["0001"], ("0001", "0022")), _B: (["0000", "0001"], ("0000", "0017"))},
+    "groundwater": {_A: (["0005"], ("0005", "0010")), _B: (["0000", "0005"], ("0000", "0019"))},
+    "levels": {_A: (["0005"], ("0005", "0011")), _B: (["0000", "0005"], ("0000", "0020"))},
+    "flow": {_A: (["0001"], ("0001", "0301")), _B: (["0001"], ("0001", "0301"))},
+    "volumes": {_A: (["0002"], ("0002", "0302")), _B: (["0002"], ("0002", "0302"))},
+    "reservoir": {_A: (["0002"], ("0002", "0023")), _B: (["0002"], ("0002", "0302"))},
+    "lake": {_A: (["0003"], ("0003", "0025")), _B: (["0002"], None)},
+    "coastal": {_A: (["0004"], ("0004", "0008")), _B: (["0004"], ("0004", "0009"))},
+    "protected": {_A: (["0006"], ("0006", "0012")), _B: (["0006"], ("0006", "0014"))},
+    "river_biology": {_A: (["0001"], ("0001", "0001")), _B: (["0000"], ("0000", "0017"))},
+    "lake_biology": {_A: (["0003"], ("0003", "0005"))},
+    "reservoir_biology": {_A: (["0002"], ("0002", "0003")), _B: (["0000"], ("0000", "0017"))},
+    "coastal_biology": {_A: (["0004"], ("0004", "0007")), _B: (["0000", "0004"], ("0004", "0007"))},
 }
-_NETS_BEFORE = {
-    "river": ["0000", "0001"], "groundwater": ["0000", "0005"],
-    "reservoir": ["0002"], "embassament": ["0002"], "lake": ["0002"],
-    "estany": ["0002"], "coastal": ["0004"], "costanera": ["0004"],
-    "protected": ["0006"], "zones protegides": ["0006"],
-    "flow": ["0001"], "cabals": ["0001"], "levels": ["0000", "0005"],
+# Catalan and alternative names
+WATER_TYPE_ALIASES = {
+    "cabals": "flow", "volums": "volumes", "embassament": "reservoir",
+    "estany": "lake", "zones humides": "lake", "costanera": "coastal",
+    "zones protegides": "protected", "nivells": "levels",
 }
 
-# default (network, subnetwork) per water-type per period (used when no
-# parameters are given to pin the target).
-_DEFAULT_AFTER = {
-    "river": ("0001", "0022"), "groundwater": ("0005", "0010"),
-    "levels": ("0005", "0011"), "flow": ("0001", "0301"),
-    "reservoir": ("0002", "0023"), "volumes": ("0002", "0302"),
-    "embassament": ("0002", "0023"), "lake": ("0003", "0025"),
-    "estany": ("0003", "0025"), "coastal": ("0004", "0008"),
-    "protected": ("0006", "0012"),
-}
-_DEFAULT_BEFORE = {
-    "river": ("0000", "0017"), "groundwater": ("0000", "0019"),
-    "levels": ("0000", "0020"), "flow": ("0001", "0301"),
-    "reservoir": ("0002", "0302"), "volumes": ("0002", "0302"),
-    "embassament": ("0002", "0302"), "coastal": ("0004", "0009"),
-    "protected": ("0006", "0014"),
-}
+# water types that select only the biological-index group by default (needed
+# before 2007, where biology shares a target with physico-chemical series)
+BIOLOGY_GROUP = "Índexs biològics"
+_BIOLOGY_WATER_TYPES = {"river_biology", "lake_biology", "reservoir_biology",
+                        "coastal_biology"}
 
 # spatial flavor -> (csv table, payload field)
 SPATIAL_FLAVORS = {
@@ -95,6 +94,27 @@ def _name_series(names, term: str, ends_with: bool = False) -> list[bool]:
     if any(boundary):
         return boundary
     return [q in w for w in words]
+
+
+def _water_type_key(water_type: str) -> str:
+    key = water_type.lower().strip().replace("-", "_")
+    return WATER_TYPE_ALIASES.get(key, key)
+
+
+def water_types(period: str | None = None) -> list[str]:
+    """Named water types (optionally only those defined for ``period``)."""
+    return sorted(k for k, v in WATER_TYPES.items() if period is None or period in v)
+
+
+def _group_mask(tv, groups: list[str]):
+    """Rows of a variables table whose group (``g_name``) or family
+    (``f_name``) name contains any of ``groups`` (accent-insensitive)."""
+    terms = [_norm(g) for g in groups]
+
+    def hit(col: str):
+        return tv[col].map(lambda n: any(t in _norm(str(n)) for t in terms))
+
+    return hit("g_name") | hit("f_name")
 
 
 class ResolvedRequest:
@@ -140,6 +160,7 @@ def resolve_request(
     networks: list[str] | None = None,
     subnetworks: list[str] | None = None,
     parameters: list[str] | None = None,
+    groups: list[str] | None = None,
     variable_kinds: list[tuple[str, str]] | None = None,
     ambit: str | None = None,
     rivers: list[str] | None = None,
@@ -151,7 +172,7 @@ def resolve_request(
     reservoirs: list[str] | None = None,
     stations: dict[str, list[str]] | None = None,
     spatial_codes: dict[str, list[str]] | None = None,
-    max_stations: int = 100,
+    max_stations: int | None = None,
     start: str = "",
     end: str = "",
     ** _extra,
@@ -159,12 +180,18 @@ def resolve_request(
     """Resolve a semantic request into codes.
 
     ``parameters``, spatial names (``rivers``, ...) and ``stations`` may be
-    explicit codes or human-readable names. ``stations`` may also be a plain
+    explicit codes or human-readable names. ``groups`` limits the series to
+    variable groups or families by name (``"Índexs biològics"``,
+    ``"Invertebrats"``, ``"Nutrients"``); the ``*_biology`` water types imply
+    ``groups=["Índexs biològics"]``. ``stations`` may also be a plain
     list of codes (series are selected from the target's station-variable table).
     """
     if not start or not end:
         raise SDIMQueryError("start and end dates are required")
     targets = cat.targets(period)
+    if (water_type and _water_type_key(water_type) in _BIOLOGY_WATER_TYPES
+            and not groups and not parameters and not variable_kinds):
+        groups = [BIOLOGY_GROUP]
 
     # --- 1. pick the target -----------------------------------------------
     if target is not None:
@@ -181,16 +208,16 @@ def resolve_request(
         if subnetworks:
             candidates = candidates[candidates.subnetwork.isin([_zc(n) for n in subnetworks])]
         if water_type:
-            key = water_type.lower().strip()
-            seeds = _NETS_BEFORE.get(key) if period == PERIOD_BEFORE_2007 else _NETS_AFTER.get(key)
-            if seeds:
-                candidates = candidates[candidates.network.isin(seeds)]
-            elif "levels" in key:
-                candidates = candidates[candidates.category.str.contains("levels")]
-            elif "quant" in key or "volume" in key or "flow" in key or "cabals" in key:
-                candidates = candidates[candidates.category.str.contains("quantity")]
+            key = _water_type_key(water_type)
+            entry = WATER_TYPES.get(key, {}).get(period)
+            if entry:
+                candidates = candidates[candidates.network.isin(entry[0])]
+            elif candidates.category.str.contains(key, regex=False).any():
+                candidates = candidates[candidates.category.str.contains(key, regex=False)]
             else:
-                raise SDIMQueryError(f"Unknown water_type {water_type!r}")
+                raise SDIMQueryError(
+                    f"Unknown water_type {water_type!r} for {period}; use one of "
+                    f"{water_types(period)} or a targets.csv category.")
         if candidates.empty:
             raise SDIMQueryError("No target matches the given selection (targets.csv is empty?).")
         # parameter coverage: candidates that contain ALL requested parameters
@@ -206,11 +233,17 @@ def resolve_request(
             raise SDIMQueryError(
                 "No target in this period contains all requested parameters "
                 f"{parameters!r}.")
+        if groups:
+            candidates = candidates[[
+                bool(_group_mask(cat.variables_for(c.network, c.subnetwork, period=period),
+                                 groups).any())
+                for _, c in candidates.iterrows()]]
+            if candidates.empty:
+                raise SDIMQueryError(
+                    f"No target in this period has variable groups {groups!r}.")
         # prefer the default water-type seed target when it survives the filter
         if water_type:
-            key = water_type.lower().strip()
-            table = _DEFAULT_BEFORE if period == PERIOD_BEFORE_2007 else _DEFAULT_AFTER
-            seed = table.get(key)
+            seed = WATER_TYPES.get(_water_type_key(water_type), {}).get(period, (None, None))[1]
             if seed:
                 m = (candidates.network == seed[0]) & (candidates.subnetwork == seed[1])
                 if m.any():
@@ -226,15 +259,19 @@ def resolve_request(
     param_terms: list[str] = []
     kinds = list(variable_kinds or [])
     tv = None
-    if parameters:
-        for p in parameters:
+    if parameters or groups:
+        for p in parameters or []:
             param_codes.append(resolve_parameter(cat, p, period))
         tv = cat.variables_for(net, sub, period=period)
-        matched = tv[tv.v.isin(param_codes)]
+        matched = tv[tv.v.isin(param_codes)] if parameters else tv
+        if groups:
+            matched = matched[_group_mask(matched, groups)]
         if matched.empty:
             raise SDIMQueryError(
-                f"Target {target_id} has none of the requested parameters "
-                f"{parameters!r}")
+                f"Target {target_id} has none of the requested "
+                + (f"parameters {parameters!r}" if parameters else "")
+                + (" in " if parameters and groups else "")
+                + (f"groups {groups!r}" if groups else ""))
         param_terms = [str(m) for m in matched.v_name.unique()]
         kinds = ([("g", x) for x in matched.g.unique()]
                  + [("f", x) for x in matched.f.unique()]

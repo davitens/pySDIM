@@ -31,6 +31,11 @@ MAJOR = [
     ("after_2007", "0002", "0302", "reservoir volumes (Volums)"),
     ("before_2007", "0000", "0019", "pre-2007 groundwater quality"),
     ("before_2007", "0005", "0011", "pre-2007 groundwater levels"),
+    ("after_2007", "0001", "0001", "river biology"),
+    ("after_2007", "0002", "0003", "reservoir biology"),
+    ("after_2007", "0003", "0005", "lake biology"),
+    ("after_2007", "0004", "0007", "coastal biology"),
+    ("before_2007", "0004", "0007", "pre-2007 coastal biology"),
 ]
 
 # date ranges per target kind (keep reports small)
@@ -41,6 +46,12 @@ RANGES = {
     "river flows": ("2007-01-01", "2010-12-31"),
     "pre-2007 groundwater quality": ("1995-01-01", "2006-12-31"),
     "pre-2007 groundwater levels": ("1995-01-01", "2010-12-31"),
+    # biological indices are sampled a few times a year at most
+    "river biology": ("2007-01-01", "2025-12-31"),
+    "reservoir biology": ("2007-01-01", "2025-12-31"),
+    "lake biology": ("2007-01-01", "2025-12-31"),
+    "coastal biology": ("2007-01-01", "2025-12-31"),
+    "pre-2007 coastal biology": ("1990-01-01", "2006-12-31"),
 }
 DEFAULT_RANGE = ("2007-01-01", "2015-12-31")
 
@@ -74,6 +85,9 @@ def verify_one(aca: SDIM, target, label: str, show_sample: bool = False) -> dict
     try:
         parsed = aca.get_data(q)
         sheets = {k: (len(df), len(df.columns)) for k, df in parsed.items()}
+        # header-matching regressions show up as an all-empty station column
+        blank = [k for k, df in parsed.items()
+                 if len(df) and "station_code" in df and df["station_code"].isna().all()]
         sample = None
         if show_sample:
             for name, df in parsed.items():
@@ -81,7 +95,13 @@ def verify_one(aca: SDIM, target, label: str, show_sample: bool = False) -> dict
                     sample = (name, list(df.columns),
                               df.head(2).to_dict("records"))
                     break
-        return {"status": "ok", "station": station, "varid": varid,
+        if not any(len(df) for df in parsed.values()):
+            status = "no rows"
+        elif blank:
+            status = f"station_code empty in {blank}"
+        else:
+            status = "ok"
+        return {"status": status, "station": station, "varid": varid,
                 "sheets": sheets, "sample": sample}
     except Exception as exc:  # noqa: BLE001
         return {"status": f"{type(exc).__name__}: {exc}", "station": station,

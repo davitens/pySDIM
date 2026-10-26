@@ -23,3 +23,10 @@ class SDIMServerError(SDIMError):
 
 class SDIMExportError(SDIMError):
     """The generated report could not be downloaded or saved."""
+
+class SDIMParseError(SDIMExportError):
+    """The report downloaded but its contents could not be parsed reliably."""
+
+
+class SDIMWarning(UserWarning):
+    """A report parsed, but something in it looks incomplete."""

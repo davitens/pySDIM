@@ -6,7 +6,13 @@ containers. A report has two blocks:
 * quality sheet  -> one row per measurement
                     (date, station/mass code, mass name, coords, variable, value, unit)
 * quantity sheet -> quantity time series
-                    (date, station, basin, coords, variable, mean, unit)
+                    (date, station code/name, basin, coords, variable, mean, unit)
+
+Dates are parsed to ``datetime64``, coordinates and depths to floats. Columns
+the client does not know yet are kept under their export header.
+
+Live exports may carry UTF-8 text mis-decoded as Latin-1 (``Codi EstaciÃ³``);
+such cells are repaired on load so column lookups match the real names.
 
 Detection-limit style values (``<0.01``, ``>100``, ``ND``, ``-``) are preserved
 in ``value_raw`` and exposed via ``value``/``qualifier`` without silent coercion.
@@ -16,6 +22,7 @@ from __future__ import annotations
 
 import re
 import tempfile
+import unicodedata
 from pathlib import Path
 
 import pandas as pd
@@ -23,6 +30,18 @@ import pandas as pd
 QUALITY_WINDOW = 12
 HEADER_MARK = "massa d'aigua"
 QUANTITY_MARK = "mitjana"
+
+
+def _fix_mojibake(text: str) -> str:
+    """Undo UTF-8 text that was decoded as Latin-1 (``EstaciÃ³`` -> ``Estació``).
+
+    Correctly encoded text (``índex``, ``Flaçà``) is not valid UTF-8 once
+    re-encoded as Latin-1, so it is returned unchanged.
+    """
+    try:
+        return text.encode("latin-1").decode("utf-8")
+    except (UnicodeEncodeError, UnicodeDecodeError):
+        return text
 
 
 def _load_sheets(source: str | Path | bytes) -> list[tuple[str, list[list[str]]]]:
@@ -42,7 +61,10 @@ def _load_sheets(source: str | Path | bytes) -> list[tuple[str, list[list[str]]]
     wb = openpyxl.load_workbook(tmp_name, data_only=True)
     sheets = []
     for ws in wb.worksheets:
-        rows = [[c if c is not None else "" for c in row] for row in ws.iter_rows(values_only=True)]
+        rows = [
+            [_fix_mojibake(c) if isinstance(c, str) else ("" if c is None else c) for c in row]
+            for row in ws.iter_rows(values_only=True)
+        ]
         sheets.append((ws.title, rows))
     return sheets
 
@@ -61,109 +83,126 @@ def _find_header(rows: list[list[str]]) -> tuple[int, dict[str, int]] | None:
     return None
 
 
-def _metadata(rows: list[list[str]], header_idx: int) -> dict[str, str]:
-    meta = {}
-    for row in rows[:header_idx]:
-        cells = [str(c).strip() for c in row if str(c).strip()]
-        if len(cells) >= 2:
-            meta[cells[0]] = cells[1]
-    return meta
+# output column -> export header names (matched accent- and case-insensitively)
+_QUALITY_COLUMNS = {
+    "date": ("Data",),
+    "station_code": ("Codi Estació", "Estació"),
+    "mass_code": ("Codi massa d'aigua",),
+    "mass_name": ("Massa d'aigua",),
+    "variable": ("Variable",),
+    "utm_x": ("UTM X",),
+    "utm_y": ("UTM Y",),
+    "unit": ("Unitat Mesura",),
+}
+_QUALITY_VALUE = ("Valor",)
+# extra measurement context, kept as numbers after the value columns
+_QUALITY_EXTRAS = {
+    "depth_m": ("Profunditat mostra (m)",),
+    "well_depth_m": ("Fondària Pou (m)",),
+    "piezometric_level_masl": ("Cota del nivell piezomètric (m.s.n.m)",),
+}
+# the quantity "Estació" column holds the station *name*; its code is the
+# prefix of the series name ("EA010_Girona_Cabal riu Ter" -> "EA010")
+_QUANTITY_COLUMNS = {
+    "date": ("Data",),
+    "station_code": ("Codi Estació",),
+    "station_name": ("Estació",),
+    "basin": ("Conca",),
+    "variable": ("Variable",),
+    "utm_x": ("UTM X",),
+    "utm_y": ("UTM Y",),
+    "unit": ("Unitat Mesura",),
+}
+_QUANTITY_VALUE = ("Mitjana",)
+_NUMERIC = ("utm_x", "utm_y", *_QUALITY_EXTRAS)
 
 
-def parse_quality(rows: list[list[str]]) -> pd.DataFrame:
+def _key(name: str) -> str:
+    return unicodedata.normalize("NFD", str(name)).encode("ascii", "ignore").decode().lower().strip()
+
+
+def _records(rows: list[list[str]]) -> tuple[pd.DataFrame, dict[str, str]]:
+    """Data rows below the header as a DataFrame keyed by normalized header."""
     header = _find_header(rows)
     if header is None:
-        return pd.DataFrame()
+        return pd.DataFrame(), {}
     header_idx, idx = header
-    meta = _metadata(rows, header_idx)
-
+    names = {_key(name): name for name in idx}
     records = []
     for row in rows[header_idx + 1:]:
         if not any(str(c).strip() for c in row):
             continue
-        rec = {"network": meta.get("Xarxes de Control", "")}
-        for name, j in idx.items():
-            if j < len(row):
-                rec[name] = row[j]
-        records.append(rec)
-    df = pd.DataFrame(records)
-    if df.empty:
-        return df
+        records.append({_key(name): row[j] if j < len(row) else "" for name, j in idx.items()})
+    return pd.DataFrame(records, columns=list(names)), names
 
-    def col(*names):
-        for name in names:
-            if name in idx:
-                return name
-        return None
 
-    value_col = col("Valor")
-    out = pd.DataFrame({
-        "date": df[col("Data")] if col("Data") else None,
-        "station_code": df[col("Codi Estació", "Estació")] if col("Codi Estació", "Estació") else None,
-        "mass_code": df[col("Codi massa d'aigua")] if col("Codi massa d'aigua") else None,
-        "mass_name": df[col("Massa d'aigua")] if col("Massa d'aigua") else None,
-        "variable": df[col("Variable")] if col("Variable") else None,
-        "utm_x": df[col("UTM X")] if col("UTM X") else None,
-        "utm_y": df[col("UTM Y")] if col("UTM Y") else None,
-        "unit": df[col("Unitat Mesura")] if col("Unitat Mesura") else None,
-    })
-    if value_col:
-        raw_vals = df[value_col].astype(str)
-        parsed = raw_vals.map(_parse_value)
-        out["value_raw"] = raw_vals
-        out["value"] = parsed.map(lambda v: v[0])
-        out["qualifier"] = parsed.map(lambda v: v[1])
-    else:
-        out["value_raw"], out["value"], out["qualifier"] = None, None, None
-    out["source_sheet"] = "quality"
+def _to_number(values: pd.Series) -> pd.Series:
+    return values.astype(str).map(lambda v: _parse_value(v)[0]).astype(float)
+
+
+def _to_datetime(values: pd.Series) -> pd.Series:
+    """SDIM dates are ``YYYY/MM/DD`` (optionally with a time); other layouts
+    fall back to pandas' format inference. Unparseable dates become NaT."""
+    text = values.astype(str).str.strip()
+    out = pd.to_datetime(text, format="%Y/%m/%d", errors="coerce")
+    rest = out.isna() & (text != "")
+    if rest.any():
+        out[rest] = pd.to_datetime(text[rest], format="mixed", errors="coerce")
     return out
 
 
-def parse_quantity(rows: list[list[str]]) -> pd.DataFrame:
-    header = _find_header(rows)
-    if header is None:
-        return pd.DataFrame()
-    header_idx, idx = header
-    meta = _metadata(rows, header_idx)
+def _build(df: pd.DataFrame, names: dict[str, str], columns: dict, value: tuple,
+           extras: dict, sheet: str) -> pd.DataFrame:
+    used: set[str] = set()
 
-    records = []
-    for row in rows[header_idx + 1:]:
-        if not any(str(c).strip() for c in row):
-            continue
-        rec = {"network": meta.get("Xarxes de Control", "")}
-        for name, j in idx.items():
-            if j < len(row):
-                rec[name] = row[j]
-        records.append(rec)
-    df = pd.DataFrame(records)
-    if df.empty:
-        return df
-
-    def col(*names):
-        for name in names:
-            if name in idx:
-                return name
+    def pick(aliases):
+        for alias in aliases:
+            k = _key(alias)
+            if k in df.columns:
+                used.add(k)
+                return df[k]
         return None
 
-    value_col = col("Mitjana")
-    out = pd.DataFrame({
-        "date": df[col("Data")] if col("Data") else None,
-        "station_code": df[col("Estació", "Codi Estació")] if col("Estació", "Codi Estació") else None,
-        "basin": df[col("Conca")] if col("Conca") else None,
-        "variable": df[col("Variable")] if col("Variable") else None,
-        "utm_x": df[col("UTM X")] if col("UTM X") else None,
-        "utm_y": df[col("UTM Y")] if col("UTM Y") else None,
-        "unit": df[col("Unitat Mesura")] if col("Unitat Mesura") else None,
-    })
-    if value_col:
-        raw_vals = df[value_col].astype(str)
+    out = pd.DataFrame(index=df.index)
+    for col, aliases in columns.items():
+        out[col] = pick(aliases)
+    raw = pick(value)
+    if raw is not None:
+        raw_vals = raw.astype(str)
         parsed = raw_vals.map(_parse_value)
         out["value_raw"] = raw_vals
-        out["value"] = parsed.map(lambda v: v[0])
+        out["value"] = parsed.map(lambda v: v[0]).astype(float)
         out["qualifier"] = parsed.map(lambda v: v[1])
     else:
         out["value_raw"], out["value"], out["qualifier"] = None, None, None
-    out["source_sheet"] = "quantity"
+    for col, aliases in extras.items():
+        out[col] = pick(aliases)
+    # any header SDIM adds later is kept under its original name
+    for k in df.columns:
+        if k not in used and names[k] not in out.columns:
+            out[names[k]] = df[k]
+    out["date"] = _to_datetime(out["date"]) if out["date"].notna().any() else pd.NaT
+    for col in _NUMERIC:
+        if col in out and out[col].notna().any():
+            out[col] = _to_number(out[col])
+    out["source_sheet"] = sheet
+    return out.reset_index(drop=True)
+
+
+def parse_quality(rows: list[list[str]]) -> pd.DataFrame:
+    df, names = _records(rows)
+    if df.empty:
+        return pd.DataFrame()
+    return _build(df, names, _QUALITY_COLUMNS, _QUALITY_VALUE, _QUALITY_EXTRAS, "quality")
+
+
+def parse_quantity(rows: list[list[str]]) -> pd.DataFrame:
+    df, names = _records(rows)
+    if df.empty:
+        return pd.DataFrame()
+    out = _build(df, names, _QUANTITY_COLUMNS, _QUANTITY_VALUE, {}, "quantity")
+    if out["station_code"].isna().all() and out["variable"].notna().any():
+        out["station_code"] = out["variable"].astype(str).str.extract(r"^([^_\s]+)_", expand=False)
     return out
 
 
