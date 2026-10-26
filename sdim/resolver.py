@@ -238,7 +238,12 @@ def _source_target(cat: Catalog, water_source: str, data_type: str | None,
                     f"{sorted(PROTECTED_ZONES)}.")
             sub = PROTECTED_ZONES[zone]
         elif sub is None:
-            sub = PROTECTED_ZONES["drinking_water"]
+            # the first zone (drinking water first) that has this data type
+            sub = next((z for z in PROTECTED_ZONES.values()
+                        if cat.target(f"{period}:{net}:{z}") is not None
+                        and _group_mask(cat.variables_for(net, z, period=period),
+                                        groups).any()),
+                       PROTECTED_ZONES["drinking_water"])
     elif protected_zone is not None:
         raise SDIMQueryError("protected_zone only applies to water_source='protected'.")
     target_id = f"{period}:{net}:{sub}"

@@ -186,6 +186,10 @@ def main() -> int:
     r = resolve_request(cat, water_source="protected", data_type="physico_chemical",
                         protected_zone="zones vulnerables", **d)
     assert r.target_id == "after_2007:0006:0014"
+    # default zone: the first that has the data type (IHF is in river reserves)
+    assert resolve_request(cat, water_source="protected", **d).target_id == "after_2007:0006:0012"
+    assert resolve_request(cat, water_source="protected", data_type="hydromorphological",
+                           **d).target_id == "after_2007:0006:0013"
     for kind, field in [("basin", "concaAmbit"), ("river", "riuAmbit"),
                         ("water_mass", "massaAmbit"), ("municipi", "municipiAmbit")]:
         r = resolve_request(cat, water_source="river", area_type=kind,
