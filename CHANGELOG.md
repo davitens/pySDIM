@@ -4,6 +4,8 @@ All notable changes to pySDIM are documented here.
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-10-26
+
 ### Added
 
 - `river_biology`, `lake_biology`, `reservoir_biology` and `coastal_biology`
@@ -62,6 +64,8 @@ All notable changes to pySDIM are documented here.
   misleading "no station matches" error.
 - Exports are parsed in memory: no temporary `.xlsx` is left behind per
   download, and openpyxl's "no default style" warning is silenced.
+- README rewritten around what can be downloaded; package description and
+  keywords updated.
 
 ### Fixed
 
@@ -69,12 +73,10 @@ All notable changes to pySDIM are documented here.
   assigns only quality stations to reservoirs. Those series are now matched
   by the reservoir name in the series name (`E06_Vilanova Sau_Sau_Volum
   embassament`).
-
 - Spatial names (rivers, reservoirs, comarques, ...) were never filtered by
   period, so a pre-2007 request could silently use an after-2007-only code
   and match no stations. They now resolve within the request's period, and
   the error names the period.
-
 - `station_code` was always empty for live exports: SDIM now sends headers
   as mis-decoded UTF-8 (`Codi EstaciÃ³`), which the parser did not match.
   Affected text is repaired on load.

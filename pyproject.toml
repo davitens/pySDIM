@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pysdim"
-version = "1.0.1"
-description = "Python client for ACA SDIM water-quality/quantity data"
+version = "1.1.0"
+description = "Download Catalan water data (ACA SDIM): river flows, reservoirs, groundwater and water quality as pandas DataFrames"
 readme = "README.md"
 license = "MIT"
 authors = [
@@ -14,10 +14,16 @@ authors = [
 requires-python = ">=3.10"
 keywords = [
     "ACA",
+    "Agència Catalana de l'Aigua",
+    "biological indices",
     "Catalonia",
     "Catalunya",
+    "environmental data",
     "groundwater",
     "hydrology",
+    "open data",
+    "pandas",
+    "reservoirs",
     "river flow",
     "SDIM",
     "water quality",

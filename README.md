@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/header.svg" alt="pySDIM" width="100%">
+  <img src="https://raw.githubusercontent.com/davitens/pySDIM/main/docs/images/header.svg" alt="pySDIM" width="100%">
 </p>
 
 # pySDIM: download Catalan water data with Python
@@ -43,7 +43,7 @@ df = aca.get_data(
 )["quality"]                     # flows, levels and volumes are in ["quantity"]
 ```
 
-The [tutorial notebook](examples/tutorial.ipynb) goes through every kind of
+The [tutorial notebook](https://github.com/davitens/pySDIM/blob/main/examples/tutorial.ipynb) goes through every kind of
 data with real output.
 
 ## What you can download
