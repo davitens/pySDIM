@@ -20,9 +20,10 @@ in ``value_raw`` and exposed via ``value``/``qualifier`` without silent coercion
 
 from __future__ import annotations
 
+import io
 import re
-import tempfile
 import unicodedata
+import warnings
 from pathlib import Path
 
 import pandas as pd
@@ -55,10 +56,11 @@ def _load_sheets(source: str | Path | bytes) -> list[tuple[str, list[list[str]]]
     if raw[:2] != b"PK":
         raise ValueError("Unsupported SDIM export format (expected an XLSX container).")
 
-    with tempfile.NamedTemporaryFile(suffix=".xlsx", delete=False) as fh:
-        fh.write(raw)
-        tmp_name = fh.name
-    wb = openpyxl.load_workbook(tmp_name, data_only=True)
+    with warnings.catch_warnings():
+        # SDIM exports carry no stylesheet; openpyxl warns about it on every file
+        warnings.filterwarnings("ignore", message="Workbook contains no default style",
+                                category=UserWarning)
+        wb = openpyxl.load_workbook(io.BytesIO(raw), data_only=True)
     sheets = []
     for ws in wb.worksheets:
         rows = [

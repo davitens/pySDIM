@@ -30,6 +30,10 @@ All notable changes to pySDIM are documented here.
   `sdim describe`.
 - `water_type` accepts any `targets.csv` category and Catalan aliases
   (`cabals`, `volums`, `estany`, ...).
+- Recovery from temporary SDIM failures: exponential backoff per request
+  (`retries=`, `backoff=`), and reports whose generation or export still
+  fails are regenerated in a fresh session (`report_retries=`,
+  `report_retry_wait=`).
 
 ### Changed
 
@@ -40,8 +44,19 @@ All notable changes to pySDIM are documented here.
   name (`EA010_Girona_Cabal riu Ter` -> `EA010`).
 - One `max_stations` default (200) across the API and CLI; water types live in
   a single `WATER_TYPES` table in `sdim/resolver.py`.
+- Before 2007, `water_type="reservoir"` selects the river and reservoir
+  quality target (`0000:0017`) instead of reservoir volumes, and `lake` /
+  `lake_biology` raise "only available for after_2007" instead of a
+  misleading "no station matches" error.
+- Exports are parsed in memory: no temporary `.xlsx` is left behind per
+  download, and openpyxl's "no default style" warning is silenced.
 
 ### Fixed
+
+- Spatial names (rivers, reservoirs, comarques, ...) were never filtered by
+  period, so a pre-2007 request could silently use an after-2007-only code
+  and match no stations. They now resolve within the request's period, and
+  the error names the period.
 
 - `station_code` was always empty for live exports: SDIM now sends headers
   as mis-decoded UTF-8 (`Codi EstaciÃ³`), which the parser did not match.

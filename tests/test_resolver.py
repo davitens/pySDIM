@@ -144,6 +144,32 @@ def main() -> int:
     except SDIMQueryError as exc:
         assert "river_biology" in str(exc)
 
+    # before 2007: no lake network; reservoir quality is in the river+reservoir target
+    for wt in ("lake", "lake_biology"):
+        try:
+            resolve_request(cat, period="before_2007", water_type=wt,
+                            start="2000-01-01", end="2006-12-31")
+            raise AssertionError(f"expected {wt} to be unavailable before 2007")
+        except SDIMQueryError as exc:
+            assert "only available for after_2007" in str(exc), str(exc)
+    r = resolve_request(cat, period="before_2007", water_type="reservoir",
+                        comarcas=["Osona"], start="2000-01-01", end="2006-12-31")
+    assert r.target_id == "before_2007:0000:0017" and r.ambit == "comarques"
+
+    # spatial names resolve within the request's period only: Sau is catalogued
+    # after 2007 only, so a pre-2007 request must not borrow its code
+    assert resolve_request(cat, water_type="reservoir", reservoirs=["Sau"],
+                           start="2015-01-01", end="2016-01-01").spatial == {"embassamentAmbit": ["47"]}
+    try:
+        resolve_request(cat, period="before_2007", water_type="reservoir",
+                        reservoirs=["Sau"], start="2000-01-01", end="2006-12-31")
+        raise AssertionError("expected no pre-2007 match for Sau")
+    except SDIMQueryError as exc:
+        assert "before_2007" in str(exc), str(exc)
+    r = resolve_request(cat, period="before_2007", water_type="volumes",
+                        start="2000-01-01", end="2006-12-31")
+    assert r.target_id == "before_2007:0002:0302"
+
     print("OK: resolver tests passed")
     return 0
 

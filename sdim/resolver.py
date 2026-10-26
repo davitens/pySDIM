@@ -25,8 +25,11 @@ ALIASES = {
 
 # water_type -> period -> (candidate networks, default (network, subnetwork)).
 # The default pins the target when parameters/groups do not; None means "pick
-# the smallest candidate that has them". Any category in targets.csv
-# ("biological", "metals", "quantity", ...) also works as a water_type.
+# the smallest candidate that has them". A period missing from an entry means
+# SDIM has no such data for it. Any category in targets.csv ("biological",
+# "metals", "quantity", ...) also works as a water_type.
+# Before 2007, river and reservoir quality share one target (0000:0017), so
+# "reservoir" selects it; filter with reservoirs=[...] to keep reservoirs.
 _A, _B = PERIOD_AFTER_2007, PERIOD_BEFORE_2007
 WATER_TYPES: dict[str, dict[str, tuple[list[str], tuple[str, str] | None]]] = {
     "river": {_A: (["0001"], ("0001", "0022")), _B: (["0000", "0001"], ("0000", "0017"))},
@@ -34,8 +37,8 @@ WATER_TYPES: dict[str, dict[str, tuple[list[str], tuple[str, str] | None]]] = {
     "levels": {_A: (["0005"], ("0005", "0011")), _B: (["0000", "0005"], ("0000", "0020"))},
     "flow": {_A: (["0001"], ("0001", "0301")), _B: (["0001"], ("0001", "0301"))},
     "volumes": {_A: (["0002"], ("0002", "0302")), _B: (["0002"], ("0002", "0302"))},
-    "reservoir": {_A: (["0002"], ("0002", "0023")), _B: (["0002"], ("0002", "0302"))},
-    "lake": {_A: (["0003"], ("0003", "0025")), _B: (["0002"], None)},
+    "reservoir": {_A: (["0002"], ("0002", "0023")), _B: (["0000"], ("0000", "0017"))},
+    "lake": {_A: (["0003"], ("0003", "0025"))},
     "coastal": {_A: (["0004"], ("0004", "0008")), _B: (["0004"], ("0004", "0009"))},
     "protected": {_A: (["0006"], ("0006", "0012")), _B: (["0006"], ("0006", "0014"))},
     "river_biology": {_A: (["0001"], ("0001", "0001")), _B: (["0000"], ("0000", "0017"))},
@@ -212,6 +215,11 @@ def resolve_request(
             entry = WATER_TYPES.get(key, {}).get(period)
             if entry:
                 candidates = candidates[candidates.network.isin(entry[0])]
+            elif key in WATER_TYPES:
+                periods = ", ".join(sorted(WATER_TYPES[key]))
+                raise SDIMQueryError(
+                    f"SDIM has no {water_type!r} data for {period}; it is only "
+                    f"available for {periods}.")
             elif candidates.category.str.contains(key, regex=False).any():
                 candidates = candidates[candidates.category.str.contains(key, regex=False)]
             else:
@@ -304,12 +312,13 @@ def resolve_request(
                 codes.append(str(n))
                 continue
             df = cat.table(table)
-            if period in df.columns:
+            if "period" in df.columns:
                 df = df[df.period == period]
             mask = _name_series(df["name"], n, ends_with=True)
             hits = df[mask]
             if hits.empty:
-                raise SDIMQueryError(f"No {flavor[:-1]} matches {n!r}.")
+                raise SDIMQueryError(
+                    f"No {flavor[:-1]} matches {n!r} in {period} (see {table}.csv).")
             codes.extend(hits["code"].unique())
         spatial.setdefault(field, []).extend(dict.fromkeys(codes))
         if spatial_ambit is None:

@@ -51,16 +51,36 @@ class SDIMSession:
         delay: float = 0.5,
         user_agent: str = USER_AGENT,
         cookie_file: str | None = None,
-        retries: int = 3,
+        retries: int = 4,
+        backoff: float = 2.0,
+        max_backoff: float = 60.0,
     ):
         self.timeout = timeout
         self.delay = delay
         self.retries = retries
-        self.session = requests.Session()
-        self.session.headers["User-Agent"] = user_agent
+        self.backoff = backoff
+        self.max_backoff = max_backoff
+        self.user_agent = user_agent
+        self.session = self._new_session()
         self.initialized = False
         if cookie_file is not None:
             self._load_cookies(cookie_file)
+
+    def _new_session(self) -> requests.Session:
+        session = requests.Session()
+        session.headers["User-Agent"] = self.user_agent
+        return session
+
+    def reset(self) -> None:
+        """Drop the connection pool and cookies; the next request starts a new
+        SDIM session (used to recover after a dropped connection)."""
+        self.session.close()
+        self.session = self._new_session()
+        self.initialized = False
+
+    def _wait(self, attempt: int) -> float:
+        """Exponential backoff before retry ``attempt`` (0-based), capped."""
+        return min(self.max_backoff, self.backoff * 2 ** attempt)
 
     def _load_cookies(self, cookie_file: str) -> None:
         import json
@@ -107,7 +127,7 @@ class SDIMSession:
                 last_exc = exc
                 if attempt >= self.retries:
                     break
-                time.sleep(self.delay * (attempt + 2))
+                time.sleep(self._wait(attempt))
                 continue
             if _is_session_error(response):
                 raise SDIMSessionExpired(
@@ -116,14 +136,15 @@ class SDIMSession:
             if response.status_code in {500, 502, 503, 504} and attempt < self.retries:
                 # transient server error (e.g. heavy report generation)
                 last_exc = SDIMServerError(f"{method} {url} -> HTTP {response.status_code}")
-                time.sleep(self.delay * (attempt + 3))
+                time.sleep(self._wait(attempt))
                 continue
             if response.status_code >= 400:
                 raise SDIMServerError(f"{method} {url} -> HTTP {response.status_code}")
             return response
         if isinstance(last_exc, SDIMServerError):
             raise last_exc
-        raise SDIMServerError(f"Request failed for {url}: {last_exc}")
+        raise SDIMServerError(
+            f"Request failed for {url} after {self.retries + 1} attempts: {last_exc}")
 
     def close(self) -> None:
         self.session.close()

@@ -136,6 +136,15 @@ The client resolves everything from the metadata catalog: the target
 - `water_type` takes a named type (`sdim targets` lists them; Catalan names
   such as `"cabals"` or `"estany"` work too) or any `targets.csv` category,
   e.g. `"biological"`, `"metals"`, `"hydromorphological"`.
+- Before 2007 there is no lake network (`lake` and `lake_biology` raise a
+  clear error), and river and reservoir quality share one target: with
+  `period="before_2007"`, `water_type="reservoir"` selects it, and the rows
+  include river stations too. The pre-2007 catalog lists only one reservoir
+  name, so narrow with `comarcas=[...]` or `basins=[...]`. Use `"volumes"`
+  for reservoir volumes.
+- Spatial names are looked up in the request's period: a name catalogued only
+  after 2007 (most reservoirs, about 100 rivers) raises an error for
+  `period="before_2007"`.
 
 ### Large requests
 
@@ -145,6 +154,16 @@ this off with `split=False`, or cap the number of reports with
 `max_requests` (64 by default); `result.provenance["requests"]` tells you how
 many were needed. Splitting sends more requests to a public service, so keep
 large jobs reasonable. `download()` returns a single raw file and cannot split.
+
+### Temporary server errors
+
+SDIM sometimes drops connections or refuses an export for a few minutes.
+Each HTTP request is retried on connection errors and 5xx responses with
+exponential backoff (`SDIM(retries=4, backoff=2.0)`: 2, 4, 8, 16 s). If a
+report still fails, the client waits (`report_retry_wait=60` s, then 120 s),
+starts a fresh SDIM session and regenerates the report, up to
+`report_retries=2` times. A split request retries each part on its own.
+Query errors and "no records" answers are never retried.
 
 ### What you get back
 

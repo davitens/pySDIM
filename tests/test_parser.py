@@ -19,6 +19,13 @@ FIXTURE = Path(__file__).parent / "data" / "ter_conductivity.xlsx"
 
 
 def main() -> int:
+    # openpyxl's "no default style" warning on SDIM exports is silenced
+    import warnings
+    with warnings.catch_warnings(record=True) as caught:
+        warnings.simplefilter("always")
+        parse_export(FIXTURE)
+    assert not [w for w in caught if "default style" in str(w.message)], caught
+
     parsed = parse_export(FIXTURE)
     assert "quality" in parsed, "expected a quality sheet"
     df = parsed["quality"]

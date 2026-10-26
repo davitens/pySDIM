@@ -16,7 +16,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from sdim import SDIM, Query, SDIMResult
 from sdim.client import _STAT_200, _STAT_NO_DATA, _STAT_TRUNCATED, split_query
-from sdim.exceptions import SDIMError, SDIMNoData, SDIMParseError, SDIMWarning
+from sdim.exceptions import (
+    SDIMError, SDIMNoData, SDIMParseError, SDIMServerError, SDIMWarning,
+)
 
 META = Path(__file__).resolve().parent.parent / "metadata"
 
@@ -45,12 +47,23 @@ class FakeSDIM(SDIM):
     more than ``limit`` rows the way SDIM does (HTTP 202)."""
 
     def __init__(self, limit: int = 10**9, station_header: str = "Codi Estació",
-                 codes: dict[str, str] | None = None):
-        super().__init__(metadata_dir=META)
+                 codes: dict[str, str] | None = None, fail_generate: int = 0,
+                 fail_download: int = 0, report_retries: int = 2):
+        super().__init__(metadata_dir=META, report_retries=report_retries,
+                         report_retry_wait=0)
         self.limit, self.station_header = limit, station_header
         self.codes = codes or STATIONS
         self.calls: list[Query] = []
         self._rows: list[list] = []
+        # how many generate/download calls fail before the server "recovers"
+        self.fail_generate, self.fail_download = fail_generate, fail_download
+        self.resets = 0
+        self._generated = False
+
+    def _reset(self) -> None:
+        self.resets += 1
+        self._generated = False  # a new session has no report to export
+        super()._reset()
 
     def _rows_for(self, q: Query) -> list[list]:
         start, end = date.fromisoformat(q.start), date.fromisoformat(q.end)
@@ -66,12 +79,20 @@ class FakeSDIM(SDIM):
 
     def _generate(self, query: Query) -> int:
         self.calls.append(query)
+        if self.fail_generate:
+            self.fail_generate -= 1
+            raise SDIMServerError("Request failed: connection dropped")
+        self._generated = True
         self._rows = self._rows_for(query)
         if not self._rows:
             return _STAT_NO_DATA
         return _STAT_TRUNCATED if len(self._rows) > self.limit else _STAT_200
 
     def _download(self) -> bytes:
+        assert self._generated, "export requested without a generated report"
+        if self.fail_download:
+            self.fail_download -= 1
+            raise SDIMServerError("GET exportar.do -> HTTP 400")
         return _export(self._rows, self.station_header)
 
 
@@ -173,7 +194,45 @@ def check_validation() -> None:
         pass
 
 
+def check_retries() -> None:
+    # a refused export regenerates the report in a fresh session
+    aca = FakeSDIM(fail_download=1)
+    df = aca.get_data(_query()).quality
+    assert len(df) == 36 * 3 and len(aca.calls) == 2 and aca.resets == 1
+
+    # a dropped connection while generating is retried the same way
+    aca = FakeSDIM(fail_generate=2)
+    assert len(aca.get_data(_query()).quality) == 36 * 3
+    assert len(aca.calls) == 3 and aca.resets == 2
+
+    # download() recovers too
+    aca = FakeSDIM(fail_download=1)
+    assert aca.download(_query())[:2] == b"PK" and aca.resets == 1
+
+    # a server that stays down fails after report_retries regenerations
+    aca = FakeSDIM(fail_download=5, report_retries=2)
+    try:
+        aca.get_data(_query())
+        raise AssertionError("expected SDIMServerError")
+    except SDIMServerError:
+        pass
+    assert len(aca.calls) == 3 and aca.resets == 2
+
+    # retries are per report: a split request recovers chunk by chunk
+    aca = FakeSDIM(limit=12, fail_download=1)
+    assert len(aca.get_data(_query()).quality) == 36 * 3 and aca.resets == 1
+
+    # query problems are not retried
+    aca = FakeSDIM()
+    try:
+        aca.get_data(_query(stations={"F007569": ["1"]}, start="2010-01-02", end="2010-01-01"))
+    except SDIMNoData:
+        pass
+    assert aca.resets == 0
+
+
 def main() -> int:
+    check_retries()
     check_split()
     check_context_and_provenance()
     check_validation()

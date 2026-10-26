@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import dataclasses
+import time
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -14,6 +15,7 @@ from .exceptions import (
     SDIMNoData,
     SDIMQueryError,
     SDIMServerError,
+    SDIMSessionExpired,
 )
 from .parser import parse_export
 from .query import Query
@@ -73,8 +75,19 @@ class SDIM:
     """
 
     def __init__(self, *, delay: float = 0.6, timeout: float = 90.0,
-                 metadata_dir: str | Path | None = None):
-        self._session = SDIMSession(delay=delay, timeout=timeout)
+                 metadata_dir: str | Path | None = None, retries: int = 4,
+                 backoff: float = 2.0, report_retries: int = 2,
+                 report_retry_wait: float = 60.0):
+        """``retries``/``backoff``: per-request retries on connection errors
+        and 5xx, waiting ``backoff * 2**n`` seconds (capped at 60).
+        ``report_retries``/``report_retry_wait``: when a report still fails
+        (server down, session lost, export refused), wait
+        ``report_retry_wait * n`` seconds, start a fresh session and
+        regenerate the report, up to ``report_retries`` times."""
+        self._session = SDIMSession(delay=delay, timeout=timeout, retries=retries,
+                                    backoff=backoff)
+        self.report_retries = report_retries
+        self.report_retry_wait = report_retry_wait
         self._periods_ready: set[str] = set()
         self._catalog = None
         self._metadata_dir = metadata_dir
@@ -113,6 +126,33 @@ class SDIM:
             headers=headers,
         )
         return r.status_code
+
+    def _reset(self) -> None:
+        """Start over with a new SDIM session (after a dropped connection,
+        an expired session or a refused export)."""
+        self._session.reset()
+        self._periods_ready.clear()
+
+    def _report(self, query: Query) -> tuple[int, bytes | None]:
+        """Generate ``query`` and, if SDIM produced it, export it.
+
+        Returns ``(status, data)``; ``data`` is ``None`` unless status is 200.
+        Server, session and export failures are retried by regenerating the
+        report in a fresh session: an export only works right after its own
+        generate call, so retrying the export alone does not help.
+        """
+        for attempt in range(self.report_retries + 1):
+            try:
+                status = self._generate(query)
+                if status != _STAT_200:
+                    return status, None
+                return status, self._download()
+            except (SDIMServerError, SDIMSessionExpired, SDIMExportError):
+                if attempt >= self.report_retries:
+                    raise
+                time.sleep(self.report_retry_wait * (attempt + 1))
+                self._reset()
+        raise AssertionError("unreachable")
 
     def _download(self) -> bytes:
         headers = {"Referer": SDIM_BASE + "/consultaInforme.do"}
@@ -206,14 +246,13 @@ class SDIM:
         """
         if query is None:
             query = self._build_query(kw)
-        status = self._generate(query)
+        status, data = self._report(query)
         if status == _STAT_TRUNCATED:
             raise SDIMError(
                 "The report exceeds SDIM's maximum number of records. download() "
                 "returns one raw file and cannot split it; use get_data(), which "
                 "splits large requests automatically, or narrow the query.")
         self._raise_for_status(status)
-        data = self._download()
         if output is not None:
             Path(output).write_bytes(data)
         return data
@@ -267,7 +306,7 @@ class SDIM:
                 "Splitting this request needs more reports than max_requests "
                 "allows; narrow the query or raise max_requests.")
         budget[0] -= 1
-        status = self._generate(query)
+        status, data = self._report(query)
         if status == _STAT_TRUNCATED and split:
             halves = split_query(query)
             if halves is None:
@@ -277,7 +316,7 @@ class SDIM:
         if status == _STAT_NO_DATA:
             return 1
         self._raise_for_status(status)
-        parts.append(parse_export(self._download()))
+        parts.append(parse_export(data))
         return 1
 
     @staticmethod
